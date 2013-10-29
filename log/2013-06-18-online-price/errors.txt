@@ -1,0 +1,56 @@
+====Starting online_edabba_products | product_id====
+1137|laptops_lists|HP 430 - QG623PA Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1138|laptops_lists|Asus X53U-SX358D Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1139|laptops_lists|HP 2000-2201TU Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1140|laptops_lists|Lenovo Essential G580-59-352560 Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1141|laptops_lists|Asus X54C-SX454D Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1142|laptops_lists|Dell Inspiron 15 3520 Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1143|laptops_lists|Dell Inspiron 15R SE Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1144|laptops_lists|Dell Inspiron 15R Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1145|laptops_lists|Dell Inspiron 15 3520 Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1146|laptops_lists|Dell Inspiron 15 3520 Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1147|laptops_lists|Dell Inspiron 15R Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1148|laptops_lists|Acer E1-571 Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1149|laptops_lists|HP Envy 4-1104TU Ultrabook|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1150|laptops_lists|Sony VAIO E15123CN Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1151|laptops_lists|Dell Inspiron 14 4050 Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1152|laptops_lists|HP 2000-2125TU Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1153|laptops_lists|Sony VAIO E15123CN Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1154|laptops_lists|Sony VAIO E14123CN Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1155|laptops_lists|HP Pavilion 14-B003TX Sleekbook|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1156|laptops_lists|HP Envy 4-1103TU Ultrabook|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1157|laptops_lists|HP Pavilion DV6-7206TX Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1158|laptops_lists|HP 2000 2116TU Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1159|laptops_lists|Sony VAIO E15125CN Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1160|laptops_lists|Dell Inspiron 15 3520 Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1161|laptops_lists|Sony VAIO E14123CN Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1162|laptops_lists|Sony VAIO E15129CN Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1163|laptops_lists|Sony VAIO E15126CN Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1164|laptops_lists|Sony VAIO E15128CN Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1165|laptops_lists|Sony VAIO E15128CN Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1166|laptops_lists|Sony VAIO E15126CN Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1167|laptops_lists|HP Envy 4-1105TX Ultrabook|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1168|laptops_lists|HP Envy 4-1023TU Sleekbook|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1169|laptops_lists|HP 1000-1204TU Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1170|laptops_lists|HP Envy 4-1104TX Ultrabook|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1171|laptops_lists|HP Pavilion DV6-7207TX Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1172|laptops_lists|Asus X53U-SX181D Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1173|laptops_lists|HP Pavilion M6-1102TX Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1174|laptops_lists|HP Envy 4-1002TX Ultrabook|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1175|laptops_lists|HP Pavilion DV6-7040TX Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1176|laptops_lists|HP Pavilion G6-2105TX Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1177|laptops_lists|Sony VAIO E15129CN Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1178|laptops_lists|Toshiba Satellite C850-E0010 Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1179|laptops_lists|HP 2000 2116TU Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1180|laptops_lists|HP Pavilion G4-2049TX Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1181|laptops_lists|HP Pavilion G6-2005AX Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1182|laptops_lists|HP Envy 4-1003TX Sleekbook|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1183|laptops_lists|Samsung NP305E5Z-S01IN Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1184|laptops_lists|Sony VAIO E14123CN Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1185|laptops_lists|HP Envy 6-1011TU Sleekbook|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1186|laptops_lists|Dell Inspiron 15R Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1187|laptops_lists|HP Pavilion DV4-5008TX Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1188|laptops_lists|Sony VAIO E15126CN Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+1189|laptops_lists|Sony VAIO T14113CN Ultrabook|0|0|0|0|0|0.0|2013-06-18 00:29:40 +0530
+====Starting online_futurebazaar_products | product_id====
+374|laptops_lists|Lenovo Essential G580-59-323565 Laptop|0|0|0|0|0|0.0|2013-06-18 00:29:43 +0530

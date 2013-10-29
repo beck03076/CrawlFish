@@ -1,0 +1,418 @@
+[Wed Jun 19 13:48:02.155 2013] [ 6767] accepting connections
+[Wed Jun 19 14:41:56.283 2013] [ 6767] rotating indices (seamless=1)
+[Wed Jun 19 14:41:56.286 2013] [ 6767] rotating index 'products_filter_collections_core': success
+[Wed Jun 19 14:41:56.289 2013] [ 6767] rotating index 'mobiles_lists_core': success
+[Wed Jun 19 14:41:56.292 2013] [ 6767] rotating index 'laptops_lists_core': success
+[Wed Jun 19 14:41:56.294 2013] [ 6767] rotating index 'filters_collections_core': success
+[Wed Jun 19 14:41:56.294 2013] [ 6767] rotating finished
+[Wed Jun 19 19:25:40.421 2013] [ 6767] rotating indices (seamless=1)
+[Wed Jun 19 19:25:40.431 2013] [ 6767] rotating index 'tablets_lists_core': success
+[Wed Jun 19 19:25:40.435 2013] [ 6767] rotating index 'routers_lists_core': success
+[Wed Jun 19 19:25:40.437 2013] [ 6767] rotating index 'printers_lists_core': success
+[Wed Jun 19 19:25:40.440 2013] [ 6767] rotating index 'external_hdds_lists_core': success
+[Wed Jun 19 19:25:40.442 2013] [ 6767] rotating index 'desktops_lists_core': success
+[Wed Jun 19 19:25:40.444 2013] [ 6767] rotating index 'products_filter_collections_core': success
+[Wed Jun 19 19:25:40.446 2013] [ 6767] rotating index 'mobiles_lists_core': success
+[Wed Jun 19 19:25:40.448 2013] [ 6767] rotating index 'laptops_lists_core': success
+[Wed Jun 19 19:25:40.450 2013] [ 6767] rotating index 'filters_collections_core': success
+[Wed Jun 19 19:25:40.450 2013] [ 6767] rotating finished
+[Thu Jun 20 00:22:53.426 2013] [ 6767] rotating indices (seamless=1)
+[Thu Jun 20 00:22:53.430 2013] [ 6767] rotating index 'speakers_lists_core': success
+[Thu Jun 20 00:22:53.433 2013] [ 6767] rotating index 'pendrives_lists_core': success
+[Thu Jun 20 00:22:53.435 2013] [ 6767] rotating index 'mouses_lists_core': success
+[Thu Jun 20 00:22:53.436 2013] [ 6767] rotating index 'memory_cards_lists_core': success
+[Thu Jun 20 00:22:53.438 2013] [ 6767] rotating index 'keyboards_lists_core': success
+[Thu Jun 20 00:22:53.439 2013] [ 6767] rotating index 'headsets_lists_core': success
+[Thu Jun 20 00:22:53.441 2013] [ 6767] rotating index 'headphones_lists_core': success
+[Thu Jun 20 00:22:53.443 2013] [ 6767] rotating index 'tablets_lists_core': success
+[Thu Jun 20 00:22:53.444 2013] [ 6767] rotating index 'routers_lists_core': success
+[Thu Jun 20 00:22:53.446 2013] [ 6767] rotating index 'printers_lists_core': success
+[Thu Jun 20 00:22:53.448 2013] [ 6767] rotating index 'external_hdds_lists_core': success
+[Thu Jun 20 00:22:53.450 2013] [ 6767] rotating index 'desktops_lists_core': success
+[Thu Jun 20 00:22:53.452 2013] [ 6767] rotating index 'products_filter_collections_core': success
+[Thu Jun 20 00:22:53.455 2013] [ 6767] rotating index 'mobiles_lists_core': success
+[Thu Jun 20 00:22:53.458 2013] [ 6767] rotating index 'laptops_lists_core': success
+[Thu Jun 20 00:22:53.460 2013] [ 6767] rotating index 'filters_collections_core': success
+[Thu Jun 20 00:22:53.460 2013] [ 6767] rotating finished
+[Thu Jun 20 00:38:04.047 2013] [ 6767] rotating indices (seamless=1)
+[Thu Jun 20 00:38:04.051 2013] [ 6767] rotating index 'speakers_lists_core': success
+[Thu Jun 20 00:38:04.053 2013] [ 6767] rotating index 'pendrives_lists_core': success
+[Thu Jun 20 00:38:04.054 2013] [ 6767] rotating index 'mouses_lists_core': success
+[Thu Jun 20 00:38:04.056 2013] [ 6767] rotating index 'memory_cards_lists_core': success
+[Thu Jun 20 00:38:04.058 2013] [ 6767] rotating index 'keyboards_lists_core': success
+[Thu Jun 20 00:38:04.060 2013] [ 6767] rotating index 'headsets_lists_core': success
+[Thu Jun 20 00:38:04.062 2013] [ 6767] rotating index 'headphones_lists_core': success
+[Thu Jun 20 00:38:04.063 2013] [ 6767] rotating index 'tablets_lists_core': success
+[Thu Jun 20 00:38:04.065 2013] [ 6767] rotating index 'routers_lists_core': success
+[Thu Jun 20 00:38:04.067 2013] [ 6767] rotating index 'printers_lists_core': success
+[Thu Jun 20 00:38:04.070 2013] [ 6767] rotating index 'external_hdds_lists_core': success
+[Thu Jun 20 00:38:04.072 2013] [ 6767] rotating index 'desktops_lists_core': success
+[Thu Jun 20 00:38:04.075 2013] [ 6767] rotating index 'products_filter_collections_core': success
+[Thu Jun 20 00:38:04.078 2013] [ 6767] rotating index 'mobiles_lists_core': success
+[Thu Jun 20 00:38:04.079 2013] [ 6767] rotating index 'laptops_lists_core': success
+[Thu Jun 20 00:38:04.081 2013] [ 6767] rotating index 'filters_collections_core': success
+[Thu Jun 20 00:38:04.081 2013] [ 6767] rotating finished
+[Thu Jun 20 02:57:49.110 2013] [ 6767] caught SIGTERM, shutting down
+[Thu Jun 20 02:57:49.114 2013] [ 6767] shutdown complete
+[Thu Jun 20 12:35:49.958 2013] [ 5304] accepting connections
+[Thu Jun 20 17:34:11.699 2013] [ 5304] rotating indices (seamless=1)
+[Thu Jun 20 17:34:11.707 2013] [ 5304] rotating index 'tablets_lists_core': success
+[Thu Jun 20 17:34:11.711 2013] [ 5304] rotating index 'speakers_lists_core': success
+[Thu Jun 20 17:34:11.713 2013] [ 5304] rotating index 'routers_lists_core': success
+[Thu Jun 20 17:34:11.715 2013] [ 5304] rotating index 'products_filter_collections_core': success
+[Thu Jun 20 17:34:11.718 2013] [ 5304] rotating index 'printers_lists_core': success
+[Thu Jun 20 17:34:11.720 2013] [ 5304] rotating index 'pendrives_lists_core': success
+[Thu Jun 20 17:34:11.722 2013] [ 5304] rotating index 'mouses_lists_core': success
+[Thu Jun 20 17:34:11.726 2013] [ 5304] rotating index 'mobiles_lists_core': success
+[Thu Jun 20 17:34:11.728 2013] [ 5304] rotating index 'memory_cards_lists_core': success
+[Thu Jun 20 17:34:11.730 2013] [ 5304] rotating index 'laptops_lists_core': success
+[Thu Jun 20 17:34:11.732 2013] [ 5304] rotating index 'keyboards_lists_core': success
+[Thu Jun 20 17:34:11.734 2013] [ 5304] rotating index 'headsets_lists_core': success
+[Thu Jun 20 17:34:11.736 2013] [ 5304] rotating index 'headphones_lists_core': success
+[Thu Jun 20 17:34:11.738 2013] [ 5304] rotating index 'filters_collections_core': success
+[Thu Jun 20 17:34:11.741 2013] [ 5304] rotating index 'external_hdds_lists_core': success
+[Thu Jun 20 17:34:11.743 2013] [ 5304] rotating index 'desktops_lists_core': success
+[Thu Jun 20 17:34:11.743 2013] [ 5304] rotating finished
+[Fri Jun 21 03:05:42.828 2013] [ 5304] caught SIGTERM, shutting down
+[Fri Jun 21 03:05:42.836 2013] [ 5304] shutdown complete
+[Fri Jun 21 12:43:06.858 2013] [ 4415] accepting connections
+[Sat Jun 22 22:26:48.401 2013] [ 4415] caught SIGTERM, shutting down
+[Sat Jun 22 22:26:48.408 2013] [ 4415] shutdown complete
+[Mon Jun 24 13:56:05.859 2013] [ 6449] accepting connections
+[Mon Jun 24 14:31:34.939 2013] [ 6449] rotating indices (seamless=1)
+[Mon Jun 24 14:31:34.944 2013] [ 6449] rotating index 'tablets_lists_core': success
+[Mon Jun 24 14:31:34.947 2013] [ 6449] rotating index 'speakers_lists_core': success
+[Mon Jun 24 14:31:34.949 2013] [ 6449] rotating index 'routers_lists_core': success
+[Mon Jun 24 14:31:34.951 2013] [ 6449] rotating index 'products_filter_collections_core': success
+[Mon Jun 24 14:31:34.953 2013] [ 6449] rotating index 'printers_lists_core': success
+[Mon Jun 24 14:31:34.955 2013] [ 6449] rotating index 'pendrives_lists_core': success
+[Mon Jun 24 14:31:34.957 2013] [ 6449] rotating index 'mouses_lists_core': success
+[Mon Jun 24 14:31:34.959 2013] [ 6449] rotating index 'mobiles_lists_core': success
+[Mon Jun 24 14:31:34.961 2013] [ 6449] rotating index 'memory_cards_lists_core': success
+[Mon Jun 24 14:31:34.963 2013] [ 6449] rotating index 'laptops_lists_core': success
+[Mon Jun 24 14:31:34.966 2013] [ 6449] rotating index 'keyboards_lists_core': success
+[Mon Jun 24 14:31:34.968 2013] [ 6449] rotating index 'headsets_lists_core': success
+[Mon Jun 24 14:31:34.971 2013] [ 6449] rotating index 'headphones_lists_core': success
+[Mon Jun 24 14:31:34.974 2013] [ 6449] rotating index 'filters_collections_core': success
+[Mon Jun 24 14:31:34.976 2013] [ 6449] rotating index 'external_hdds_lists_core': success
+[Mon Jun 24 14:31:34.978 2013] [ 6449] rotating index 'desktops_lists_core': success
+[Mon Jun 24 14:31:34.978 2013] [ 6449] rotating finished
+[Mon Jun 24 14:51:49.241 2013] [ 6449] rotating indices (seamless=1)
+[Mon Jun 24 14:51:49.244 2013] [ 6449] rotating index 'tablets_lists_core': success
+[Mon Jun 24 14:51:49.247 2013] [ 6449] rotating index 'speakers_lists_core': success
+[Mon Jun 24 14:51:49.249 2013] [ 6449] rotating index 'routers_lists_core': success
+[Mon Jun 24 14:51:49.251 2013] [ 6449] rotating index 'products_filter_collections_core': success
+[Mon Jun 24 14:51:49.253 2013] [ 6449] rotating index 'printers_lists_core': success
+[Mon Jun 24 14:51:49.255 2013] [ 6449] rotating index 'pendrives_lists_core': success
+[Mon Jun 24 14:51:49.257 2013] [ 6449] rotating index 'mouses_lists_core': success
+[Mon Jun 24 14:51:49.260 2013] [ 6449] rotating index 'mobiles_lists_core': success
+[Mon Jun 24 14:51:49.262 2013] [ 6449] rotating index 'memory_cards_lists_core': success
+[Mon Jun 24 14:51:49.264 2013] [ 6449] rotating index 'laptops_lists_core': success
+[Mon Jun 24 14:51:49.266 2013] [ 6449] rotating index 'keyboards_lists_core': success
+[Mon Jun 24 14:51:49.268 2013] [ 6449] rotating index 'headsets_lists_core': success
+[Mon Jun 24 14:51:49.270 2013] [ 6449] rotating index 'headphones_lists_core': success
+[Mon Jun 24 14:51:49.272 2013] [ 6449] rotating index 'filters_collections_core': success
+[Mon Jun 24 14:51:49.273 2013] [ 6449] rotating index 'external_hdds_lists_core': success
+[Mon Jun 24 14:51:49.275 2013] [ 6449] rotating index 'desktops_lists_core': success
+[Mon Jun 24 14:51:49.275 2013] [ 6449] rotating finished
+[Mon Jun 24 18:15:51.493 2013] [ 6449] rotating indices (seamless=1)
+[Mon Jun 24 18:15:51.497 2013] [ 6449] rotating index 'tablets_lists_core': success
+[Mon Jun 24 18:15:51.500 2013] [ 6449] rotating index 'speakers_lists_core': success
+[Mon Jun 24 18:15:51.502 2013] [ 6449] rotating index 'routers_lists_core': success
+[Mon Jun 24 18:15:51.504 2013] [ 6449] rotating index 'products_filter_collections_core': success
+[Mon Jun 24 18:15:51.506 2013] [ 6449] rotating index 'printers_lists_core': success
+[Mon Jun 24 18:15:51.508 2013] [ 6449] rotating index 'pendrives_lists_core': success
+[Mon Jun 24 18:15:51.511 2013] [ 6449] rotating index 'mouses_lists_core': success
+[Mon Jun 24 18:15:51.513 2013] [ 6449] rotating index 'mobiles_lists_core': success
+[Mon Jun 24 18:15:51.517 2013] [ 6449] rotating index 'memory_cards_lists_core': success
+[Mon Jun 24 18:15:51.519 2013] [ 6449] rotating index 'laptops_lists_core': success
+[Mon Jun 24 18:15:51.522 2013] [ 6449] rotating index 'keyboards_lists_core': success
+[Mon Jun 24 18:15:51.525 2013] [ 6449] rotating index 'headsets_lists_core': success
+[Mon Jun 24 18:15:51.526 2013] [ 6449] rotating index 'headphones_lists_core': success
+[Mon Jun 24 18:15:51.528 2013] [ 6449] rotating index 'filters_collections_core': success
+[Mon Jun 24 18:15:51.531 2013] [ 6449] rotating index 'external_hdds_lists_core': success
+[Mon Jun 24 18:15:51.533 2013] [ 6449] rotating index 'desktops_lists_core': success
+[Mon Jun 24 18:15:51.533 2013] [ 6449] rotating finished
+[Tue Jun 25 01:03:40.019 2013] [ 6449] caught SIGTERM, shutting down
+[Tue Jun 25 01:03:40.022 2013] [ 6449] shutdown complete
+[Tue Jun 25 20:08:11.526 2013] [10313] accepting connections
+[Wed Jun 26 03:49:18.771 2013] [10313] caught SIGTERM, shutting down
+[Wed Jun 26 03:49:18.777 2013] [10313] shutdown complete
+[Wed Jun 26 14:13:28.120 2013] [ 6463] accepting connections
+[Wed Jul  3 10:52:37.952 2013] [ 4711] accepting connections
+[Wed Jul  3 20:14:06.445 2013] [ 4711] rotating indices (seamless=1)
+[Wed Jul  3 20:14:06.452 2013] [ 4711] rotating index 'tablets_lists_core': success
+[Wed Jul  3 20:14:06.456 2013] [ 4711] rotating index 'speakers_lists_core': success
+[Wed Jul  3 20:14:06.458 2013] [ 4711] rotating index 'routers_lists_core': success
+[Wed Jul  3 20:14:06.460 2013] [ 4711] rotating index 'products_filter_collections_core': success
+[Wed Jul  3 20:14:06.462 2013] [ 4711] rotating index 'printers_lists_core': success
+[Wed Jul  3 20:14:06.464 2013] [ 4711] rotating index 'pendrives_lists_core': success
+[Wed Jul  3 20:14:06.467 2013] [ 4711] rotating index 'mouses_lists_core': success
+[Wed Jul  3 20:14:06.470 2013] [ 4711] rotating index 'memory_cards_lists_core': success
+[Wed Jul  3 20:14:06.473 2013] [ 4711] rotating index 'laptops_lists_core': success
+[Wed Jul  3 20:14:06.475 2013] [ 4711] rotating index 'keyboards_lists_core': success
+[Wed Jul  3 20:14:06.477 2013] [ 4711] rotating index 'headsets_lists_core': success
+[Wed Jul  3 20:14:06.479 2013] [ 4711] rotating index 'headphones_lists_core': success
+[Wed Jul  3 20:14:06.480 2013] [ 4711] rotating index 'filters_collections_core': success
+[Wed Jul  3 20:14:06.482 2013] [ 4711] rotating index 'external_hdds_lists_core': success
+[Wed Jul  3 20:14:06.484 2013] [ 4711] rotating index 'desktops_lists_core': success
+[Wed Jul  3 20:14:06.484 2013] [ 4711] rotating finished
+[Wed Jul  3 20:32:59.048 2013] [ 4711] rotating indices (seamless=1)
+[Wed Jul  3 20:32:59.053 2013] [ 4711] rotating index 'mobiles_lists_core': success
+[Wed Jul  3 20:32:59.055 2013] [ 4711] rotating index 'tablets_lists_core': success
+[Wed Jul  3 20:32:59.057 2013] [ 4711] rotating index 'speakers_lists_core': success
+[Wed Jul  3 20:32:59.059 2013] [ 4711] rotating index 'routers_lists_core': success
+[Wed Jul  3 20:32:59.061 2013] [ 4711] rotating index 'products_filter_collections_core': success
+[Wed Jul  3 20:32:59.064 2013] [ 4711] rotating index 'printers_lists_core': success
+[Wed Jul  3 20:32:59.066 2013] [ 4711] rotating index 'pendrives_lists_core': success
+[Wed Jul  3 20:32:59.068 2013] [ 4711] rotating index 'mouses_lists_core': success
+[Wed Jul  3 20:32:59.070 2013] [ 4711] rotating index 'memory_cards_lists_core': success
+[Wed Jul  3 20:32:59.072 2013] [ 4711] rotating index 'laptops_lists_core': success
+[Wed Jul  3 20:32:59.074 2013] [ 4711] rotating index 'keyboards_lists_core': success
+[Wed Jul  3 20:32:59.075 2013] [ 4711] rotating index 'headsets_lists_core': success
+[Wed Jul  3 20:32:59.077 2013] [ 4711] rotating index 'headphones_lists_core': success
+[Wed Jul  3 20:32:59.079 2013] [ 4711] rotating index 'filters_collections_core': success
+[Wed Jul  3 20:32:59.081 2013] [ 4711] rotating index 'external_hdds_lists_core': success
+[Wed Jul  3 20:32:59.083 2013] [ 4711] rotating index 'desktops_lists_core': success
+[Wed Jul  3 20:32:59.083 2013] [ 4711] rotating finished
+[Wed Jul  3 23:54:16.557 2013] [ 4711] caught SIGTERM, shutting down
+[Wed Jul  3 23:54:16.590 2013] [ 4711] shutdown complete
+[Thu Jul  4 13:27:00.719 2013] [ 5609] accepting connections
+[Fri Jul  5 01:58:43.177 2013] [ 5609] caught SIGTERM, shutting down
+[Fri Jul  5 01:58:43.182 2013] [ 5609] shutdown complete
+[Fri Jul  5 14:20:46.864 2013] [10211] accepting connections
+[Fri Jul  5 14:22:00.224 2013] [10211] rotating indices (seamless=1)
+[Fri Jul  5 14:22:00.252 2013] [10211] rotating index 'tablets_lists_core': success
+[Fri Jul  5 14:22:00.254 2013] [10211] rotating index 'speakers_lists_core': success
+[Fri Jul  5 14:22:00.256 2013] [10211] rotating index 'routers_lists_core': success
+[Fri Jul  5 14:22:00.258 2013] [10211] rotating index 'products_filter_collections_core': success
+[Fri Jul  5 14:22:00.260 2013] [10211] rotating index 'printers_lists_core': success
+[Fri Jul  5 14:22:00.263 2013] [10211] rotating index 'pendrives_lists_core': success
+[Fri Jul  5 14:22:00.265 2013] [10211] rotating index 'mouses_lists_core': success
+[Fri Jul  5 14:22:00.267 2013] [10211] rotating index 'mobiles_lists_core': success
+[Fri Jul  5 14:22:00.269 2013] [10211] rotating index 'memory_cards_lists_core': success
+[Fri Jul  5 14:22:00.271 2013] [10211] rotating index 'laptops_lists_core': success
+[Fri Jul  5 14:22:00.274 2013] [10211] rotating index 'keyboards_lists_core': success
+[Fri Jul  5 14:22:00.276 2013] [10211] rotating index 'headsets_lists_core': success
+[Fri Jul  5 14:22:00.280 2013] [10211] rotating index 'headphones_lists_core': success
+[Fri Jul  5 14:22:00.284 2013] [10211] rotating index 'filters_collections_core': success
+[Fri Jul  5 14:22:00.287 2013] [10211] rotating index 'external_hdds_lists_core': success
+[Fri Jul  5 14:22:00.292 2013] [10211] rotating index 'desktops_lists_core': success
+[Fri Jul  5 14:22:00.292 2013] [10211] rotating finished
+[Fri Jul  5 17:50:12.181 2013] [10211] rotating indices (seamless=1)
+[Fri Jul  5 17:50:12.186 2013] [10211] rotating index 'check_core': success
+[Fri Jul  5 17:50:12.189 2013] [10211] rotating index 'tablets_lists_core': success
+[Fri Jul  5 17:50:12.192 2013] [10211] rotating index 'speakers_lists_core': success
+[Fri Jul  5 17:50:12.194 2013] [10211] rotating index 'routers_lists_core': success
+[Fri Jul  5 17:50:12.197 2013] [10211] rotating index 'products_filter_collections_core': success
+[Fri Jul  5 17:50:12.199 2013] [10211] rotating index 'printers_lists_core': success
+[Fri Jul  5 17:50:12.201 2013] [10211] rotating index 'pendrives_lists_core': success
+[Fri Jul  5 17:50:12.203 2013] [10211] rotating index 'mouses_lists_core': success
+[Fri Jul  5 17:50:12.205 2013] [10211] rotating index 'mobiles_lists_core': success
+[Fri Jul  5 17:50:12.208 2013] [10211] rotating index 'memory_cards_lists_core': success
+[Fri Jul  5 17:50:12.211 2013] [10211] rotating index 'laptops_lists_core': success
+[Fri Jul  5 17:50:12.213 2013] [10211] rotating index 'keyboards_lists_core': success
+[Fri Jul  5 17:50:12.214 2013] [10211] rotating index 'headsets_lists_core': success
+[Fri Jul  5 17:50:12.216 2013] [10211] rotating index 'headphones_lists_core': success
+[Fri Jul  5 17:50:12.218 2013] [10211] rotating index 'filters_collections_core': success
+[Fri Jul  5 17:50:12.220 2013] [10211] rotating index 'external_hdds_lists_core': success
+[Fri Jul  5 17:50:12.222 2013] [10211] rotating index 'desktops_lists_core': success
+[Fri Jul  5 17:50:12.222 2013] [10211] rotating finished
+[Fri Jul  5 18:23:34.718 2013] [10211] rotating indices (seamless=1)
+[Fri Jul  5 18:23:34.723 2013] [10211] rotating index 'check_core': success
+[Fri Jul  5 18:23:34.725 2013] [10211] rotating index 'tablets_lists_core': success
+[Fri Jul  5 18:23:34.727 2013] [10211] rotating index 'speakers_lists_core': success
+[Fri Jul  5 18:23:34.729 2013] [10211] rotating index 'routers_lists_core': success
+[Fri Jul  5 18:23:34.731 2013] [10211] rotating index 'products_filter_collections_core': success
+[Fri Jul  5 18:23:34.733 2013] [10211] rotating index 'printers_lists_core': success
+[Fri Jul  5 18:23:34.735 2013] [10211] rotating index 'pendrives_lists_core': success
+[Fri Jul  5 18:23:34.737 2013] [10211] rotating index 'mouses_lists_core': success
+[Fri Jul  5 18:23:34.739 2013] [10211] rotating index 'mobiles_lists_core': success
+[Fri Jul  5 18:23:34.741 2013] [10211] rotating index 'memory_cards_lists_core': success
+[Fri Jul  5 18:23:34.743 2013] [10211] rotating index 'laptops_lists_core': success
+[Fri Jul  5 18:23:34.747 2013] [10211] rotating index 'keyboards_lists_core': success
+[Fri Jul  5 18:23:34.750 2013] [10211] rotating index 'headsets_lists_core': success
+[Fri Jul  5 18:23:34.752 2013] [10211] rotating index 'headphones_lists_core': success
+[Fri Jul  5 18:23:34.754 2013] [10211] rotating index 'filters_collections_core': success
+[Fri Jul  5 18:23:34.756 2013] [10211] rotating index 'external_hdds_lists_core': success
+[Fri Jul  5 18:23:34.758 2013] [10211] rotating index 'desktops_lists_core': success
+[Fri Jul  5 18:23:34.758 2013] [10211] rotating finished
+[Fri Jul  5 20:48:27.145 2013] [10211] caught SIGTERM, shutting down
+[Fri Jul  5 20:48:27.425 2013] [10211] shutdown complete
+[Mon Jul  8 18:01:26.990 2013] [ 7710] accepting connections
+[Mon Jul  8 19:21:11.617 2013] [ 7710] rotating indices (seamless=1)
+[Mon Jul  8 19:21:11.623 2013] [ 7710] rotating index 'tablets_lists_core': success
+[Mon Jul  8 19:21:11.626 2013] [ 7710] rotating index 'speakers_lists_core': success
+[Mon Jul  8 19:21:11.630 2013] [ 7710] rotating index 'routers_lists_core': success
+[Mon Jul  8 19:21:11.633 2013] [ 7710] rotating index 'products_filter_collections_core': success
+[Mon Jul  8 19:21:11.635 2013] [ 7710] rotating index 'printers_lists_core': success
+[Mon Jul  8 19:21:11.637 2013] [ 7710] rotating index 'pendrives_lists_core': success
+[Mon Jul  8 19:21:11.640 2013] [ 7710] rotating index 'mouses_lists_core': success
+[Mon Jul  8 19:21:11.642 2013] [ 7710] rotating index 'mobiles_lists_core': success
+[Mon Jul  8 19:21:11.644 2013] [ 7710] rotating index 'memory_cards_lists_core': success
+[Mon Jul  8 19:21:11.646 2013] [ 7710] rotating index 'laptops_lists_core': success
+[Mon Jul  8 19:21:11.649 2013] [ 7710] rotating index 'keyboards_lists_core': success
+[Mon Jul  8 19:21:11.652 2013] [ 7710] rotating index 'headsets_lists_core': success
+[Mon Jul  8 19:21:11.655 2013] [ 7710] rotating index 'headphones_lists_core': success
+[Mon Jul  8 19:21:11.658 2013] [ 7710] rotating index 'filters_collections_core': success
+[Mon Jul  8 19:21:11.660 2013] [ 7710] rotating index 'external_hdds_lists_core': success
+[Mon Jul  8 19:21:11.662 2013] [ 7710] rotating index 'desktops_lists_core': success
+[Mon Jul  8 19:21:11.664 2013] [ 7710] rotating index 'check_core': success
+[Mon Jul  8 19:21:11.664 2013] [ 7710] rotating finished
+[Mon Jul  8 19:26:51.361 2013] [ 7710] rotating indices (seamless=1)
+[Mon Jul  8 19:26:51.366 2013] [ 7710] rotating index 'tablets_lists_core': success
+[Mon Jul  8 19:26:51.370 2013] [ 7710] rotating index 'speakers_lists_core': success
+[Mon Jul  8 19:26:51.373 2013] [ 7710] rotating index 'routers_lists_core': success
+[Mon Jul  8 19:26:51.375 2013] [ 7710] rotating index 'products_filter_collections_core': success
+[Mon Jul  8 19:26:51.378 2013] [ 7710] rotating index 'printers_lists_core': success
+[Mon Jul  8 19:26:51.380 2013] [ 7710] rotating index 'pendrives_lists_core': success
+[Mon Jul  8 19:26:51.382 2013] [ 7710] rotating index 'mouses_lists_core': success
+[Mon Jul  8 19:26:51.384 2013] [ 7710] rotating index 'mobiles_lists_core': success
+[Mon Jul  8 19:26:51.386 2013] [ 7710] rotating index 'memory_cards_lists_core': success
+[Mon Jul  8 19:26:51.389 2013] [ 7710] rotating index 'laptops_lists_core': success
+[Mon Jul  8 19:26:51.391 2013] [ 7710] rotating index 'keyboards_lists_core': success
+[Mon Jul  8 19:26:51.394 2013] [ 7710] rotating index 'headsets_lists_core': success
+[Mon Jul  8 19:26:51.397 2013] [ 7710] rotating index 'headphones_lists_core': success
+[Mon Jul  8 19:26:51.400 2013] [ 7710] rotating index 'filters_collections_core': success
+[Mon Jul  8 19:26:51.402 2013] [ 7710] rotating index 'external_hdds_lists_core': success
+[Mon Jul  8 19:26:51.404 2013] [ 7710] rotating index 'desktops_lists_core': success
+[Mon Jul  8 19:26:51.407 2013] [ 7710] rotating index 'check_core': success
+[Mon Jul  8 19:26:51.407 2013] [ 7710] rotating finished
+[Mon Jul  8 19:46:18.463 2013] [ 7710] rotating indices (seamless=1)
+[Mon Jul  8 19:46:18.474 2013] [ 7710] rotating index 'tablets_lists_core': success
+[Mon Jul  8 19:46:18.480 2013] [ 7710] rotating index 'speakers_lists_core': success
+[Mon Jul  8 19:46:18.482 2013] [ 7710] rotating index 'routers_lists_core': success
+[Mon Jul  8 19:46:18.485 2013] [ 7710] rotating index 'products_filter_collections_core': success
+[Mon Jul  8 19:46:18.487 2013] [ 7710] rotating index 'printers_lists_core': success
+[Mon Jul  8 19:46:18.490 2013] [ 7710] rotating index 'pendrives_lists_core': success
+[Mon Jul  8 19:46:18.492 2013] [ 7710] rotating index 'mouses_lists_core': success
+[Mon Jul  8 19:46:18.494 2013] [ 7710] rotating index 'mobiles_lists_core': success
+[Mon Jul  8 19:46:18.496 2013] [ 7710] rotating index 'memory_cards_lists_core': success
+[Mon Jul  8 19:46:18.498 2013] [ 7710] rotating index 'laptops_lists_core': success
+[Mon Jul  8 19:46:18.500 2013] [ 7710] rotating index 'keyboards_lists_core': success
+[Mon Jul  8 19:46:18.502 2013] [ 7710] rotating index 'headsets_lists_core': success
+[Mon Jul  8 19:46:18.504 2013] [ 7710] rotating index 'headphones_lists_core': success
+[Mon Jul  8 19:46:18.506 2013] [ 7710] rotating index 'filters_collections_core': success
+[Mon Jul  8 19:46:18.508 2013] [ 7710] rotating index 'external_hdds_lists_core': success
+[Mon Jul  8 19:46:18.510 2013] [ 7710] rotating index 'desktops_lists_core': success
+[Mon Jul  8 19:46:18.512 2013] [ 7710] rotating index 'check_core': success
+[Mon Jul  8 19:46:18.512 2013] [ 7710] rotating finished
+[Tue Jul  9 02:13:11.380 2013] [ 7710] rotating indices (seamless=1)
+[Tue Jul  9 02:13:11.388 2013] [ 7710] rotating index 'tablets_lists_core': success
+[Tue Jul  9 02:13:11.390 2013] [ 7710] rotating index 'speakers_lists_core': success
+[Tue Jul  9 02:13:11.393 2013] [ 7710] rotating index 'routers_lists_core': success
+[Tue Jul  9 02:13:11.396 2013] [ 7710] rotating index 'products_filter_collections_core': success
+[Tue Jul  9 02:13:11.399 2013] [ 7710] rotating index 'printers_lists_core': success
+[Tue Jul  9 02:13:11.402 2013] [ 7710] rotating index 'pendrives_lists_core': success
+[Tue Jul  9 02:13:11.404 2013] [ 7710] rotating index 'mouses_lists_core': success
+[Tue Jul  9 02:13:11.405 2013] [ 7710] rotating index 'mobiles_lists_core': success
+[Tue Jul  9 02:13:11.407 2013] [ 7710] rotating index 'memory_cards_lists_core': success
+[Tue Jul  9 02:13:11.409 2013] [ 7710] rotating index 'laptops_lists_core': success
+[Tue Jul  9 02:13:11.411 2013] [ 7710] rotating index 'keyboards_lists_core': success
+[Tue Jul  9 02:13:11.413 2013] [ 7710] rotating index 'headsets_lists_core': success
+[Tue Jul  9 02:13:11.415 2013] [ 7710] rotating index 'headphones_lists_core': success
+[Tue Jul  9 02:13:11.417 2013] [ 7710] rotating index 'filters_collections_core': success
+[Tue Jul  9 02:13:11.419 2013] [ 7710] rotating index 'external_hdds_lists_core': success
+[Tue Jul  9 02:13:11.421 2013] [ 7710] rotating index 'desktops_lists_core': success
+[Tue Jul  9 02:13:11.423 2013] [ 7710] rotating index 'check_core': success
+[Tue Jul  9 02:13:11.423 2013] [ 7710] rotating finished
+[Tue Jul  9 02:44:43.640 2013] [ 7710] caught SIGTERM, shutting down
+[Tue Jul  9 02:44:43.643 2013] [ 7710] shutdown complete
+[Tue Jul  9 18:50:33.122 2013] [ 4388] accepting connections
+[Wed Jul 10 01:07:10.965 2013] [ 4388] caught SIGTERM, shutting down
+[Wed Jul 10 01:07:10.992 2013] [ 4388] shutdown complete
+[Thu Jul 11 12:05:13.046 2013] [16111] accepting connections
+[Fri Jul 12 02:05:24.482 2013] [16111] caught SIGTERM, shutting down
+[Fri Jul 12 02:05:24.492 2013] [16111] shutdown complete
+[Thu Jul 25 01:09:32.012 2013] [22772] accepting connections
+[Mon Jul 29 19:36:07.045 2013] [ 8781] accepting connections
+[Tue Jul 30 05:03:40.370 2013] [ 8781] caught SIGTERM, shutting down
+[Tue Jul 30 05:03:40.422 2013] [ 8781] shutdown complete
+[Thu Aug  1 17:59:08.097 2013] [ 2653] accepting connections
+[Fri Aug  2 05:40:32.014 2013] [ 2653] caught SIGTERM, shutting down
+[Fri Aug  2 05:40:32.079 2013] [ 2653] shutdown complete
+[Mon Aug  5 14:50:26.433 2013] [ 5951] accepting connections
+[Mon Aug  5 19:49:52.044 2013] [ 5951] caught SIGTERM, shutting down
+[Mon Aug  5 19:49:52.068 2013] [ 5951] shutdown complete
+[Tue Aug  6 14:15:29.231 2013] [ 6303] accepting connections
+[Tue Aug  6 15:10:05.681 2013] [ 6303] rotating indices (seamless=1)
+[Tue Aug  6 15:10:05.693 2013] [ 6303] rotating index 'tablets_lists_core': success
+[Tue Aug  6 15:10:05.697 2013] [ 6303] rotating index 'speakers_lists_core': success
+[Tue Aug  6 15:10:05.699 2013] [ 6303] rotating index 'routers_lists_core': success
+[Tue Aug  6 15:10:05.702 2013] [ 6303] rotating index 'products_filter_collections_core': success
+[Tue Aug  6 15:10:05.705 2013] [ 6303] rotating index 'printers_lists_core': success
+[Tue Aug  6 15:10:05.707 2013] [ 6303] rotating index 'pendrives_lists_core': success
+[Tue Aug  6 15:10:05.709 2013] [ 6303] rotating index 'mouses_lists_core': success
+[Tue Aug  6 15:10:05.712 2013] [ 6303] rotating index 'mobiles_lists_core': success
+[Tue Aug  6 15:10:05.714 2013] [ 6303] rotating index 'memory_cards_lists_core': success
+[Tue Aug  6 15:10:05.716 2013] [ 6303] rotating index 'laptops_lists_core': success
+[Tue Aug  6 15:10:05.718 2013] [ 6303] rotating index 'keyboards_lists_core': success
+[Tue Aug  6 15:10:05.720 2013] [ 6303] rotating index 'headsets_lists_core': success
+[Tue Aug  6 15:10:05.722 2013] [ 6303] rotating index 'headphones_lists_core': success
+[Tue Aug  6 15:10:05.724 2013] [ 6303] rotating index 'filters_collections_core': success
+[Tue Aug  6 15:10:05.726 2013] [ 6303] rotating index 'external_hdds_lists_core': success
+[Tue Aug  6 15:10:05.728 2013] [ 6303] rotating index 'desktops_lists_core': success
+[Tue Aug  6 15:10:05.731 2013] [ 6303] rotating index 'check_core': success
+[Tue Aug  6 15:10:05.731 2013] [ 6303] rotating finished
+[Tue Aug  6 17:47:33.280 2013] [ 6303] rotating indices (seamless=1)
+[Tue Aug  6 17:47:33.286 2013] [ 6303] rotating index 'tablets_lists_core': success
+[Tue Aug  6 17:47:33.288 2013] [ 6303] rotating index 'speakers_lists_core': success
+[Tue Aug  6 17:47:33.291 2013] [ 6303] rotating index 'routers_lists_core': success
+[Tue Aug  6 17:47:33.293 2013] [ 6303] rotating index 'products_filter_collections_core': success
+[Tue Aug  6 17:47:33.296 2013] [ 6303] rotating index 'printers_lists_core': success
+[Tue Aug  6 17:47:33.298 2013] [ 6303] rotating index 'pendrives_lists_core': success
+[Tue Aug  6 17:47:33.301 2013] [ 6303] rotating index 'mouses_lists_core': success
+[Tue Aug  6 17:47:33.305 2013] [ 6303] rotating index 'mobiles_lists_core': success
+[Tue Aug  6 17:47:33.307 2013] [ 6303] rotating index 'memory_cards_lists_core': success
+[Tue Aug  6 17:47:33.309 2013] [ 6303] rotating index 'laptops_lists_core': success
+[Tue Aug  6 17:47:33.311 2013] [ 6303] rotating index 'keyboards_lists_core': success
+[Tue Aug  6 17:47:33.314 2013] [ 6303] rotating index 'headsets_lists_core': success
+[Tue Aug  6 17:47:33.316 2013] [ 6303] rotating index 'headphones_lists_core': success
+[Tue Aug  6 17:47:33.318 2013] [ 6303] rotating index 'filters_collections_core': success
+[Tue Aug  6 17:47:33.320 2013] [ 6303] rotating index 'external_hdds_lists_core': success
+[Tue Aug  6 17:47:33.322 2013] [ 6303] rotating index 'desktops_lists_core': success
+[Tue Aug  6 17:47:33.325 2013] [ 6303] rotating index 'check_core': success
+[Tue Aug  6 17:47:33.325 2013] [ 6303] rotating finished
+[Tue Aug  6 17:49:23.522 2013] [ 6303] caught SIGTERM, shutting down
+[Tue Aug  6 17:49:23.550 2013] [ 6303] shutdown complete
+[Tue Aug  6 17:49:32.537 2013] [ 8933] accepting connections
+[Tue Aug  6 20:34:35.827 2013] [ 8933] rotating indices (seamless=1)
+[Tue Aug  6 20:34:35.832 2013] [ 8933] rotating index 'tablets_lists_core': success
+[Tue Aug  6 20:34:35.837 2013] [ 8933] rotating index 'speakers_lists_core': success
+[Tue Aug  6 20:34:35.841 2013] [ 8933] rotating index 'routers_lists_core': success
+[Tue Aug  6 20:34:35.844 2013] [ 8933] rotating index 'products_filter_collections_core': success
+[Tue Aug  6 20:34:35.847 2013] [ 8933] rotating index 'printers_lists_core': success
+[Tue Aug  6 20:34:35.849 2013] [ 8933] rotating index 'pendrives_lists_core': success
+[Tue Aug  6 20:34:35.852 2013] [ 8933] rotating index 'mouses_lists_core': success
+[Tue Aug  6 20:34:35.854 2013] [ 8933] rotating index 'mobiles_lists_core': success
+[Tue Aug  6 20:34:35.855 2013] [ 8933] rotating index 'memory_cards_lists_core': success
+[Tue Aug  6 20:34:35.857 2013] [ 8933] rotating index 'laptops_lists_core': success
+[Tue Aug  6 20:34:35.859 2013] [ 8933] rotating index 'keyboards_lists_core': success
+[Tue Aug  6 20:34:35.861 2013] [ 8933] rotating index 'headsets_lists_core': success
+[Tue Aug  6 20:34:35.863 2013] [ 8933] rotating index 'headphones_lists_core': success
+[Tue Aug  6 20:34:35.865 2013] [ 8933] rotating index 'filters_collections_core': success
+[Tue Aug  6 20:34:35.867 2013] [ 8933] rotating index 'external_hdds_lists_core': success
+[Tue Aug  6 20:34:35.869 2013] [ 8933] rotating index 'desktops_lists_core': success
+[Tue Aug  6 20:34:35.871 2013] [ 8933] rotating index 'check_core': success
+[Tue Aug  6 20:34:35.871 2013] [ 8933] rotating finished
+[Tue Aug  6 20:37:19.057 2013] [ 8933] rotating indices (seamless=1)
+[Tue Aug  6 20:37:19.061 2013] [ 8933] rotating index 'tablets_lists_core': success
+[Tue Aug  6 20:37:19.063 2013] [ 8933] rotating index 'speakers_lists_core': success
+[Tue Aug  6 20:37:19.065 2013] [ 8933] rotating index 'routers_lists_core': success
+[Tue Aug  6 20:37:19.067 2013] [ 8933] rotating index 'products_filter_collections_core': success
+[Tue Aug  6 20:37:19.070 2013] [ 8933] rotating index 'printers_lists_core': success
+[Tue Aug  6 20:37:19.072 2013] [ 8933] rotating index 'pendrives_lists_core': success
+[Tue Aug  6 20:37:19.074 2013] [ 8933] rotating index 'mouses_lists_core': success
+[Tue Aug  6 20:37:19.076 2013] [ 8933] rotating index 'mobiles_lists_core': success
+[Tue Aug  6 20:37:19.078 2013] [ 8933] rotating index 'memory_cards_lists_core': success
+[Tue Aug  6 20:37:19.080 2013] [ 8933] rotating index 'laptops_lists_core': success
+[Tue Aug  6 20:37:19.083 2013] [ 8933] rotating index 'keyboards_lists_core': success
+[Tue Aug  6 20:37:19.085 2013] [ 8933] rotating index 'headsets_lists_core': success
+[Tue Aug  6 20:37:19.089 2013] [ 8933] rotating index 'headphones_lists_core': success
+[Tue Aug  6 20:37:19.091 2013] [ 8933] rotating index 'filters_collections_core': success
+[Tue Aug  6 20:37:19.093 2013] [ 8933] rotating index 'external_hdds_lists_core': success
+[Tue Aug  6 20:37:19.094 2013] [ 8933] rotating index 'desktops_lists_core': success
+[Tue Aug  6 20:37:19.096 2013] [ 8933] rotating index 'check_core': success
+[Tue Aug  6 20:37:19.096 2013] [ 8933] rotating finished
+[Wed Aug  7 14:13:23.233 2013] [ 8933] caught SIGTERM, shutting down
+[Wed Aug  7 14:13:23.245 2013] [ 8933] shutdown complete

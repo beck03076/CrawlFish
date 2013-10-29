@@ -1,0 +1,117 @@
+<h4 align="center" class="padT30 lightblack-text"> 
+
+The following are the VARIANTS
+<span class="gray-text">
+(different specifications/colors, same model)
+</span>
+of <br/>
+<span class="g-text"><%= @product_name.titleize %></span> sold in 
+<span class="red-text"><%= @vendor_name %></span><br/><br/>
+Go ahead, choose your favourite!
+</h4>
+<table align="center">
+
+<tr>
+<td>
+<%= image_tag "/Images/vendor-logos/"+@vendor_name.downcase + ".jpg"  %> 
+</td>
+<td class="g-text">
+Variants in <%= @vendor_name %>
+</td>
+</tr>
+
+</table>
+<table cellspacing="1" cellpadding="1" border="0" width="70%" class="priceTable" align="center">
+    <% @re.each do |i| %>
+    <% clean = i.name.gsub(/-/," ").strip.squeeze(" ") %>
+    <tr class="border-gray-r">
+    <td align="left" class="g-link-l">
+        <%= link_to clean,i.redirect_url %> <br/>
+        <span class="gray-text text-b11" align="left">
+           <span class="gray-text text-n12">
+           Availability : 
+           </span>
+           <%= i.availability.titleize %> |
+        </span>
+        <span class="gray-text text-b11" align="left">
+           <span class="gray-text text-n12">
+           Shipping Cost :
+           </span>
+           <%= i.shipping_cost %> |
+        </span>
+        <span class="gray-text text-b11" align="left">
+           <span class="gray-text text-n12">
+           Shipping Time :
+           </span>
+           <%= i.shipping_time %>
+        </span>
+    </td>
+    <td align="center">
+        <span class="b-text text-n18">
+        <span class="gray-text">
+        INR 
+        </span>
+        <% i_p = i.price.to_i %>
+        <%= i_p == 0 ? "N.A" : "Rs."+ i_p.to_s %> 
+        </span>
+    </td>
+    <td>
+        <span class="green-button text-n18 white-text" align="center">
+            <%= link_to "Go to "+ @vendor_name,i.redirect_url %>
+        </span>
+    </td>
+    </tr>
+    <% end %>    
+    
+</table>
+<br/>
+<table align="center">
+<tr>
+    <td>
+      <%= image_tag "/Images/miss.jpg",:size => "100x100" %>
+    </td>
+    <td colspan ="1" class="text-n15" align="center">
+      You will be redirected from CrawlFish,<br/>
+      when you click on a product,<br/>
+      Thanks for choosing to use CrawlFish,<br/>
+      come back soon!
+    </td>
+    </tr>
+</table>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+

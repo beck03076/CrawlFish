@@ -1,0 +1,12 @@
+<%= hidden_field_tag 'type' %>
+ 
+ <ul id="cf-home-search-form-type">
+        
+         <% [["1","Offline"],["0","Online"]].each do |i| %>
+         
+           <%= form_list_item(i[0],i[1],"type") %>
+                           
+         <% end %>
+         
+ </ul>
+

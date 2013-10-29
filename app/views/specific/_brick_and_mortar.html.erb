@@ -1,0 +1,65 @@
+<div style="padding-top:5px"></div>
+
+<div class="cf-srs-brick-table-wrapper" id="cf-specific-brick-table">
+
+<div class="cf-specific-right-sidebar-brick-table">
+
+<div class="cf-specific-rsbt-left-wrapper">
+	<div class="cf-specific-rsb-area-text">
+		LOCATE A SHOP IN YOUR AREA
+	</div>
+
+	<div class="cf-specific-rsb-area-intro">
+		To know price and special offers for this product from shops in your city, choose area
+	</div>
+</div>
+
+
+<div class="cf-specific-rsbt-right-wrapper">
+
+	<div class="cf-specific_rsb-area-img">
+		<%= image_tag "/Images/Mascots/cf_locate_your_area.png" %>
+	</div>
+
+	<div style="float:left;padding-top:40px;padding-right:2px">
+		<table>
+		<tr>
+		<td class="city"><span style="color:#111;font-size:14px;">CITY:</span></td>
+		<td class="city">
+	  		<%= select_tag("city_id",options_for_select(Cities.all.collect {|p| [ p.city_name.titlecase, p.city_id ] }.insert(0, ["Select City", "0"]),0),{ :autocomplete => "off" }) %>
+		</td>
+
+		<td class="city-area-divider">
+			<div id="loading-bar-city" style="display:none">
+				<%= image_tag "/Images/156.gif", :size => "20x20" %>
+			</div>
+		</td>
+
+		<td class="area">
+			<div id="choose">
+				<span id="area" style="color:#111;font-size:14px;">AREA:</span>
+			</div>
+		</td>
+
+		<td class="area">
+			<div id="areas">
+				<%= render 'areas' %> 
+			</div>
+		</td>
+
+		</tr>
+
+		</table>
+	</div>
+
+	<div style="clear:both"></div>
+</div>
+
+
+<div style="clear:both"></div>
+
+</div>
+
+</div>
+
+<div style="padding-top:10px"></div>

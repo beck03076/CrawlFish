@@ -1,0 +1,14 @@
+<% if @sub_category_flag == 2 %>
+
+<% if !(@hide_suggestions == 1) %>
+
+    <% if !(@matched_filter_keys.empty?) %>
+	
+      <%= form_suggestions_links %>
+
+    <% end %>
+
+<% end %>
+
+<% end %>
+

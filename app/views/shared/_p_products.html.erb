@@ -1,0 +1,73 @@
+<!-- POPULAR PRODUCT BOX - STARTS -->
+            <span class="red-text text-b16 padL15">
+              Popular products - category wise
+             </span>
+            <div class="comments-text padL15 padB5">
+                Click on a category, to view the list of popular products!
+            </div>
+            <!-- POPULAR PRODUCT BOX - ENDS -->
+            <!-- PRODUCT DISPLAY BOX - STARTS -->
+            <div id="product-display-box">
+            <!-- PRODUCT ITEMS MENU BOX - STARTS -->
+            <div id="product-menu">
+                <div id="left-menus">
+                <% @sub_categories.each_with_index do |i,k| %>
+                
+
+                <% cl = k == 0 ? "left-submenu active-left-submenu" : "left-submenu" %>
+                
+                    <div class= '<%= cl %>' >
+                    
+                    <a rel="nofollow" href= '<%= i.sub_category_name %>' lang="display1" class="product-item leftmenu-link">
+                     <%= i.category_name.titleize %>
+                    
+                    </a>
+                    
+                    <span class="fr red-text">
+                    >>
+                    </span>
+
+                        <div class="text-n10 red-text padT5">
+                        <b>
+                        <%= @prod_count[i.sub_category_id]%> 
+                        </b>
+                        products 
+                        <b>&middot;</b>
+                        <span class="text-n9 darkgray-text">
+                        <b>
+                        <%= @cat_vend[i.sub_category_id]%> 
+                        </b>
+                        shop(s)                        
+                        </span>
+                        </div>
+                    </div>
+                     
+                        
+                   
+                 <% end %>
+            </div>
+            
+            </div>
+            
+            <!-- PRODUCT ITEMS MENU BOX - ENDS -->
+            <!-- PRODUCT ITEMS IMAGES BOX - STARTS -->
+            <div id="product-display">
+            <div id="pop" class="active-display-box">
+                <%= render "shared/pop" %>
+            </div> 
+                
+            </div>
+            <!-- PRODUCT ITEMS IMAGES BOX - ENDS -->
+            
+            </div>
+            
+<!-- PRODUCT DISPLAY BOX - ENDS -->
+
+<!-- PRODUCT DISPLAY BOX - ENDS -->
+            <!-- ADS  DISPLAY 720X120 - starts, commenting now
+            <div class="padA10">
+            <center>
+                <img src="study/image/main/ads.png">
+            </center>
+            </div>
+<!-- ADS  DISPLAY 720X120 - ENDS -->

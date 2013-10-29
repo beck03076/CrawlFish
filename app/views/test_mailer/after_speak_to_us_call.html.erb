@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+  </head>
+  <body>
+    <span style="font-size:14px;font-weight:bold;color:#C42525"><u>CrawlFish</u></span>
+    <br/>
+    <br/>
+    <span style="font-size:13px;font-weight:normal">
+    	You have an entry for <b>SPEAK TO US</b> in <b>crawlfish.in</b> at <i><b><%= Time.new.to_s %></b></i>
+    </span>
+	<br/>
+	<br/>
+	<table border=0 cellpadding=7 cellspacing=0>
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">User name</span>
+	</td>
+	<td style="border:1px solid #CCC">
+		<%if !@after_speaktous.name.nil?%>
+			<%if @after_speaktous.name.size>1%>
+				<%=@after_speaktous.name.to_s.titlecase%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+	
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Email</span>
+	</td>
+	<td style="border:1px solid #CCC">
+		<%if !@after_speaktous.email.nil?%>
+			<%if @after_speaktous.email.size>1%>
+				<%=@after_speaktous.email.to_s%> 
+			<% end %>
+		<%end%>
+	</td>
+	</tr>
+	
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Contact Number</span>
+	</td>
+	
+	<td style="border:1px solid #CCC">
+		<%if !@after_speaktous.contact_number.nil?%>
+			<%if @after_speaktous.contact_number.size>1%>	
+				<%=@after_speaktous.contact_number.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Message</span>
+	</td>
+
+	<td style="border:1px solid #CCC"> 
+		<%if !@after_speaktous.message.nil?%>
+			<%if @after_speaktous.message.size>1%>
+				<%=@after_speaktous.message.to_s%>
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+	
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Advertisement Flag</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@after_speaktous.advertisement_flag.nil?%>
+			<%if @after_speaktous.advertisement_flag.size>0%>
+				<%=@after_speaktous.advertisement_flag.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+		
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Query Flag</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@after_speaktous.query_flag.nil?%>
+			<%if @after_speaktous.query_flag.size>0%>
+				<%=@after_speaktous.query_flag.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Suggestion Flag</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@after_speaktous.suggestion_flag.nil?%>
+			<%if @after_speaktous.suggestion_flag.size>0%>
+				<%=@after_speaktous.suggestion_flag.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Defect Flag</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@after_speaktous.defect_flag.nil?%>
+			<%if @after_speaktous.defect_flag.size>0%>
+				<%=@after_speaktous.defect_flag.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	</table>
+  </body>
+</html>

@@ -1,0 +1,41 @@
+<!-- BRAND OFFLINE SHOPPING LAYOUT - STARTS -->
+
+    <div class="header-text padL15 border-gray-t padT10">
+        Brand wise retail shopping
+    </div>
+    <div class="comments-text padL15 border-gray-b padB5">
+        Here is a list of all brands included in retail shopping!
+    </div>
+    <div style="clear:both">&nbsp;</div>
+    
+    <% @cities.each do |city| %>
+
+    <% @sub_categories.each do |i| %>
+
+    <div class ="fl">
+    <ul class="hor">
+
+    <span class="sub-header">
+      <%= i.category_name.titleize %>&nbsp;
+    </span>
+
+        <% @local_brands[i.category_name].each do |brand| %>
+        <li> 
+            <%= form_brand_links("price-comparison-list",
+                                i.category_name,
+                                brand,
+                                @country,
+                                city) %>
+        </li>
+        <% end %>
+
+    </ul>      
+    </div>
+
+    <div style="clear:both">&nbsp;</div>
+    <% end %>
+    
+    <% end %>
+    <div style="clear:both">&nbsp;</div>
+
+<!-- BRAND OFFLINE SHOPPING LAYOUT - ENDS -->

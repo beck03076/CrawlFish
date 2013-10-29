@@ -1,0 +1,20 @@
+<div class="cf-product-image">
+
+  <%= image_tag(@product_image_url.split(",")[1])%><br/>
+    
+    <span class="g-link">
+    <%= form_generic_to_specific_page_links("link",
+                                        @product_name,
+                                        "local",
+                                        @category_name,
+                                        @product_name,
+                                        @identifier,
+                                        @country,
+                                        @city,
+                                        @area_names) %><br/>
+                                         is now, available!
+     </span>                                    
+
+</div>
+
+

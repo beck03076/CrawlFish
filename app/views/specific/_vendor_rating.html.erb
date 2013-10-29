@@ -1,0 +1,243 @@
+<script type="text/javascript">
+
+$(function() {
+
+   $(".rating-star").on("click",function() {
+   
+     var star = $(this);
+     var id = $(this).attr("data-vendor-id");
+     var stars = $(this).attr("data-stars");
+          
+         for (i=1;i<=5;i++){
+         
+           li_id = '#'+id+'_'+i;
+           
+           if (i <= stars){
+           
+              $(li_id).addClass('on');
+              
+           }
+           else{
+           
+              $(li_id).removeClass('on');
+           
+           }
+           
+           if (stars == i){
+           
+           $(li_id).attr("data-rating",i);
+           
+           $("#rating").val(i);
+           
+           }
+           else {
+           
+           $(li_id).removeAttr("data-rating","");
+           
+           }
+           
+           }
+     
+     });
+    
+});
+
+function doAction() {  
+     
+      var data = $('form#vendor-rating-submit').serialize();
+      
+        $("#show-reviews").css("class","gray-box");
+      
+       $.post('/specific/vendor_rating_save',data, function(result){
+       
+        
+        $("#show-reviews").hide().html(result).fadeIn(1000);
+               
+        });
+        
+      }
+
+function validateAll(){
+    var submitForm=true;
+    
+    if(!validate('customer_name','Y','AS',3,25,'name-error')){
+        return false;
+    }
+    
+    else if(!validate('customer_email','Y','E',5,50,'emailId-error')){
+        return false;
+    }
+    
+    if(submitForm){
+        doAction();
+    }
+    
+    return false;
+}
+
+</script>
+
+<span class="text-n10 gray-text padT5">
+    "Oops! How to go back?", 
+    <span class="g-text">Press Esc or Click Close</span>
+</span> 
+
+<div align="center">
+<%= form_tag url_for(:controller => "specific", 
+                     :action => "vendor_rating_save"),
+                     :id => 'vendor-rating-submit',
+                     :method => 'post',
+                     :onsubmit => "return validateAll();"  do %>
+                     
+     
+     <%= hidden_field_tag 'rating' %> 
+     <%= hidden_field_tag 'vendor_id', @vendor_id %>
+     <%= hidden_field_tag 'customer_city', @city.nil? ? "na" : @city %>
+     <%= hidden_field_tag 'customer_area', @areas_now.nil? ? "na" : @areas_now %>
+     <%= hidden_field_tag 'enquiry_type', "Local Shops" %>
+     <%= hidden_field_tag 'category_enquired', @category_name.nil? ? "na" : @category_name %>
+     <%= hidden_field_tag 'product_enquired',@product_name.nil? ? "na" : (@product_name) %>
+     <%= hidden_field_tag 'shops_referred', @shop.nil? ? "na" : @shop %>
+     <%= hidden_field_tag 'followup','n' %>
+     <%= hidden_field_tag 'source',"Website" %>
+     <%= hidden_field_tag 'misc',"New Customer Creating a Rating" %>
+
+<% v = @shop.nil? ? @vendor_name : @shop %>
+                         
+    <div class="padT20 padB20">
+    <div align="center" class="text-n20 red-text">
+       Have you ever shopped at <b><%= v.titleize %>?</b>
+    <span class="text-n15 darkgray-text">Write a review and help people!</span>
+    </div> 
+    <br/>
+    <span class="text-b20 g-text">
+       Your review means a lot in helping others learn about 
+        <span class="gray-text">
+            
+            <%= v.titleize %> <br/>
+        </span>
+    </span> 
+    <span class="text-n13 gray-text">
+        Please be honest, fair and brave. Don't write a review about <%= v.titleize %>, if you're connected in any way to the owner or employees.(then it becomes pointless!)
+    </span> 
+   </div>
+                         
+    <table cellspacing="0" cellpadding="0" border="0" width="100%" class="priceTable">
+        <tr align="center">
+            <td align="right">
+                Enter your <span class="g-text"><br/>Name : </span>
+            </td>
+            <td align="left">
+                <%= text_field_tag :customer_name,nil,{:placeholder => "Can I ask your name?",:onblur=>"validate(this.id,'Y','AS',3,25,'name-error');"} %>
+            <span class="error-content" id="name-error"></span>
+            </td>
+            <td align="left">
+                <span class="text-n15 gray-text">
+                    On your mark 
+                </span> 
+            </td>
+            
+        </tr>
+        <tr align="center">
+            <td align="right">
+                Enter your <span class="g-text">Mobile Number : </span>
+                <div class="gray-text text-n10">(Without +91/0)</div>
+            </td>
+            <td align="left">
+                <%= text_field_tag :customer_phone_no,nil,{:placeholder=>"10 digit mobile number!"} %>
+            <span class="error-content" id="ph-error"></span>
+            </td>
+            <td align="left">
+                <span class="text-n15 gray-text">
+                    Get set ..
+                </span> 
+            </td>
+            
+        </tr>
+        
+        <tr align="center">
+            <td align="right">
+                or <span class="g-text">Email Id : </span>
+            </td>
+            <td align="left">
+                <%= text_field_tag :customer_email,nil,{:placeholder => "We will never misuse this!", :onblur=>"validate(this.id,'Y','E',5,50,'emailId-error');"} %>
+                <span class="error-content" id="emailId-error"></span>
+            </td>
+            <td align="left">
+                <span class="text-n15 gray-text">
+                   Still getting set ..
+                </span> 
+            </td>
+        </tr>
+        
+        <tr align="center">
+            <td align="right">
+               How was the <span class="g-text">experience?</span><br/> 
+               Would you <span class="g-text">shop again?</span><br/> 
+               Tell us <span class="g-text">everything :</span>
+               
+            </td>
+            <td align="left">
+                <p>
+                <%= text_area_tag :review,nil, {:placeholder => "Maybe you can start by titling your review!",:size => '30x5'}%>
+                
+                </p>
+                       
+            </td>
+            <td align="left">
+                
+                <span class="text-n15 gray-text">
+                   And finally ...
+                </span> 
+                
+            </td>
+        </tr>
+        
+        <tr align="center">
+            <td align="right">
+               How many <span class="g-text">stars</span><br/> would you give this 
+              <span class="g-text">shop? :</span>
+            </td>
+            
+            <td align="left">
+                    <ul style="background-color:FFFFFF;">
+                    <% (1..5).each do |i| %>
+                        <li class = "rating-star"
+                              id =<%= @vendor_id %>_<%= i %>
+                              data-vendor-id = <%= @vendor_id %>
+                              data-stars = <%= i %>
+                               > 
+                        </li>
+                    <% end %> 
+                    </ul>
+                    <div class="clear"></div>
+                    
+                    <span class="g-text padL15 padT5"> (Click on a star!)</span><br/> 
+                     <span class="gray-text text-n9"> and we apologize for not helping you give a half star,<br/> in case if you had a 3.5 on your mind. </span>
+
+                
+            </td>
+            
+            <td valign="bottom" align="left">
+                
+                <span class="text-n15 gray-text">
+                  Alright go!
+                </span> <br/>
+                <%= submit_tag "Post your review",:class => "cf-submit padT5"%>
+                
+            </td>
+            
+           
+    </table>   
+
+  
+  
+  <p class="comments-text">
+    Oh, please don't be uncomfortable!, at CrawlFish, we respect your privacy and your mobile number/email id will be very safe and will never be disclosed to anyone! 
+  </p>
+<% end %>
+</div>
+
+<div id="show-reviews" style="background-color:FFFFFF;" class="padT20 padR20 padL20 padB20">
+<%= render ("specific/show_reviews") %>
+</div>

@@ -1,0 +1,27 @@
+<table class="cf-andgo-lcw-content-table" cellpadding=0 cellspacing=0 border=0>
+  <tr>
+    <th class="cf-andgo-lcwct-name">Name</th>
+    <th class="cf-andgo-lcwct-phoneno">Phone no</th>
+    <th class="cf-andgo-lcwct-locality">Locality</th>
+    <th class="cf-andgo-lcwct-type">Type</th>
+    <th class="cf-andgo-lcwct-product">Product Enquired</th>
+    <th class="cf-andgo-lcwct-shops">Shops Referred</th>
+    <th class="cf-andgo-lcwct-followup">Follow Up</th>
+    <th class="cf-andgo-lcwct-comments">Source</th>
+    <th class="cf-andgo-lcwct-edit"></th>
+  </tr>
+
+<% @customers.each do |customer| %>
+  <tr>
+    <td class="cf-andgo-lcwct-name"><%= customer.customer_name %></td>
+    <td class="cf-andgo-lcwct-phoneno"><%= customer.customer_phone_no %></td>
+    <td class="cf-andgo-lcwct-locality"><%= customer.customer_city %>, <%= customer.customer_area %></td>
+    <td class="cf-andgo-lcwct-type"><%= customer.enquiry_type %>, <%= customer.category_enquired %></td>
+    <td class="cf-andgo-lcwct-product"><%= customer.product_enquired %></td>
+    <td class="cf-andgo-lcwct-shops"><%= customer.shops_referred %></td>
+    <td class="cf-andgo-lcwct-followup"><%= customer.followup %></td>
+    <td class="cf-andgo-lcwct-comments"><%= customer.comments %></td>
+    <td class="cf-andgo-lcwct-edit"><%= link_to 'Edit',{:controller => "crawlfish_customer_care", :action => "edit",:id => customer.id}%></td>
+  </tr>
+<% end %>
+</table>

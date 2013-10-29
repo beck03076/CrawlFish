@@ -1,0 +1,1169 @@
+====Starting online_saholic_products | product_id====
+5743|mobiles_lists|Nokia 808 PureView|http://www.saholic.com/mobile-phones/nokia-pureview-808-1004202|0|0|0|0|0|0.0|2013-07-24 01:41:33 +0530
+5772|mobiles_lists|Sony Xperia sola|http://www.saholic.com/mobile-phones/sony-xperia-sola-mt27i-1003428|0|0|0|0|0|0.0|2013-07-24 01:42:08 +0530
+6264|mobiles_lists|Sony Xperia tipo|http://www.saholic.com/mobile-phones/sony-xperia-tipo-dual-st21i-1004842|0|0|0|0|0|0.0|2013-07-24 01:48:48 +0530
+6282|mobiles_lists|Nokia Lumia 900|http://www.saholic.com/mobile-phones/nokia-lumia-900-1004200|0|0|0|0|0|0.0|2013-07-24 01:49:11 +0530
+====Starting online_shopclues_products | product_id====
+2|external_hdds_lists|Dell Backup Plus 1TB USB 3.0 Portable hard drive|http://www.shopclues.com/dell-back-up-plus-1tb-hard-drive-en.html|0|0|0|0|0|0.0|2013-07-24 01:49:24 +0530
+5|external_hdds_lists|Seagate Backup Plus Desktop 4 TB External Hard Disk|http://www.shopclues.com/seagate-backup-plus-desktop-drive-4-tb-external.html|0|0|0|0|0|0.0|2013-07-24 01:49:31 +0530
+7|external_hdds_lists|Seagate Backup Plus 500 GB External Hard Disk|http://www.shopclues.com/seagate-backup-plus-500-gb-external-hard-disk-159658.html|0|0|0|0|0|0.0|2013-07-24 01:49:37 +0530
+14|external_hdds_lists|Dell Backup Plus 1TB USB 3.0 Portable hard drive|http://www.shopclues.com/new-dell-backup-plus-1tb-usb-3.0-portable-hard-drive--best-price...html|0|0|0|0|0|0.0|2013-07-24 01:49:56 +0530
+15|external_hdds_lists|Seagate Expansion External 2 TB USB 3.0 Hard Drive|http://www.shopclues.com/seagate-expansion-external-drive-2-tb-stbv2000300.html|0|0|0|0|0|0.0|2013-07-24 01:49:58 +0530
+17|external_hdds_lists|Hitachi Touro Pro 500 GB External Hard Disk|http://www.shopclues.com/hitachi-touro-pro-500-gb-external-hard-disk.html|0|0|0|0|0|0.0|2013-07-24 01:50:00 +0530
+22|external_hdds_lists|WD My Passport 1 TB External Hard Disk|http://www.shopclues.com/new-wd-western-digital-my-passport-500gb-2.5-usb-3.0-2.0-portable-hard-disk-clone.html|0|0|0|0|0|0.0|2013-07-24 01:50:24 +0530
+30|external_hdds_lists|Toshiba Canvio Basic 500 GB External Hard Disk|http://www.shopclues.com/500gb-toshiba-external-portable-usb-canvio-basic-hdd-usb-3.0-500-gb.html|0|0|0|0|0|0.0|2013-07-24 01:50:43 +0530
+40|routers_lists|Netgear DGN1000 Wireless-N 150 Router With Modem|http://www.shopclues.com/netgear-wnr612-wireless-n-150-router.html|0|0|0|0|0|0.0|2013-07-24 01:51:05 +0530
+54|routers_lists|Cisco Linksys E900 Wireless-N300 Router|http://www.shopclues.com/cisco-linksys-e900-eu-en.html|0|0|0|0|0|0.0|2013-07-24 01:51:41 +0530
+73|routers_lists|D-Link DIR-600L Wireless N150 Cloud Router|http://www.shopclues.com/dlink-dir-600l-wireless-n150-home-cloud-router-d-link-en.html|0|0|0|0|0|0.0|2013-07-24 01:52:28 +0530
+81|routers_lists|Netgear WN2000RPT Universal WiFi Range Extender|http://www.shopclues.com/netgear-wn2000rpt-universal-wifi-range-extender-router.html|0|0|0|0|0|0.0|2013-07-24 01:52:49 +0530
+97|routers_lists|Netgear JNR3000 N300 Gigabit Router|http://www.shopclues.com/netgear-jnr3000-n300-gigabit-router.html|0|0|0|0|0|0.0|2013-07-24 01:53:31 +0530
+104|routers_lists|Belkin N150 Wireless Modem Router|http://www.shopclues.com/belkin-n150-router-and-modem-f9j1004zb-with-bill.html|0|0|0|0|0|0.0|2013-07-24 01:53:48 +0530
+115|routers_lists|Belkin N600 DB Wireless Dual-Band N|http://www.shopclues.com/belkin-n600-db-wireless-dual-band-n-router-f9k1102zb-en.html|0|0|0|0|0|0.0|2013-07-24 01:54:15 +0530
+117|routers_lists|Belkin N750 DB Wireless Dual-Band N Router|http://www.shopclues.com/belkin-n750-db-wireless-dual-band-n-router-f9k1103zb-en-2.html|0|0|0|0|0|0.0|2013-07-24 01:54:18 +0530
+137|routers_lists|Netgear JNR3000 N300 Gigabit Router|http://www.shopclues.com/netgear-jnr3000-n300-gigabit-router-clone.html|0|0|0|0|0|0.0|2013-07-24 01:55:07 +0530
+138|routers_lists|Netgear JNR1010 N150 Wireless Router|http://www.shopclues.com/netgear-n150-wireless-router-jnr1010-clone.html|0|0|0|0|0|0.0|2013-07-24 01:55:09 +0530
+175|desktops_lists|HP Envy 23-D020IN TouchSmart All-in-One (3rd Gen Ci5|http://www.shopclues.com/hp-envy-23-d020in-23-led-hd-desktop.html|0|0|0|0|0|0.0|2013-07-24 01:55:45 +0530
+176|desktops_lists|HP Pavilion 23-B026IN All-in-One (3rd Gen Ci5|http://www.shopclues.com/hp-23-b026in-23-led-hd-desktop.html|0|0|0|0|0|0.0|2013-07-24 01:55:46 +0530
+177|desktops_lists|HP Omni 27-1010IN|http://www.shopclues.com/hp-27-1010in-27-desktop.html|0|0|0|0|0|0.0|2013-07-24 01:55:48 +0530
+180|desktops_lists|HP Omni 120-1020IN|http://www.shopclues.com/hp-120-1020in-20-desktop-black.html|0|0|0|0|0|0.0|2013-07-24 01:55:55 +0530
+181|desktops_lists|HP Pavilion 23-B025IN All-in-One (2nd Gen Ci3|http://www.shopclues.com/hp-23-b025in-23-led-hd-desktop.html|0|0|0|0|0|0.0|2013-07-24 01:55:56 +0530
+182|desktops_lists|HP Omni 120-1160IN|http://www.shopclues.com/hp-120-1160in-20-desktop-white.html|0|0|0|0|0|0.0|2013-07-24 01:56:00 +0530
+184|desktops_lists|HP Pavilion 20-B086IN All-in-One (2nd Gen PDC|http://www.shopclues.com/hp-20-b086in-20-hd-desktop.html|0|0|0|0|0|0.0|2013-07-24 01:56:05 +0530
+185|desktops_lists|HP Omni 120-1160IN|http://www.shopclues.com/hp-120-1160in-20-desktop-black.html|0|0|0|0|0|0.0|2013-07-24 01:56:07 +0530
+186|desktops_lists|HP Pavilion 20-B083IN All-in-One (2nd Gen Ci3|http://www.shopclues.com/hp-20-b083in-20-hd-desktop.html|0|0|0|0|0|0.0|2013-07-24 01:56:09 +0530
+187|desktops_lists|HP Omni 100-6110IX|http://www.shopclues.com/hp-100-6110ix-20.0-desktop.html|0|0|0|0|0|0.0|2013-07-24 01:56:10 +0530
+188|desktops_lists|HP Omni 120-1020IN|http://www.shopclues.com/hp-120-1020in-20-desktop-white.html|0|0|0|0|0|0.0|2013-07-24 01:56:12 +0530
+225|tablets_lists|Samsung Galaxy Tab 2 P3110|http://www.shopclues.com/samsung-galaxy-tab2-p3110-wifi-only-silver.html|0|0|0|0|0|0.0|2013-07-24 01:56:26 +0530
+226|tablets_lists|Samsung Galaxy Tab 2 P3100|http://www.shopclues.com/samsung-galaxy-tab-2-p3100-titanium-silver-en-2-3-4.html|0|0|0|0|0|0.0|2013-07-24 01:56:28 +0530
+232|tablets_lists|Samsung Galaxy Tab 2 P3110|http://www.shopclues.com/samsung-tab2-p3110-pure-white.html|0|0|0|0|0|0.0|2013-07-24 01:56:41 +0530
+234|tablets_lists|Samsung Galaxy Tab 2 P3100|http://www.shopclues.com/samsung-galaxy-tab-2-p3100-pure-white.html|0|0|0|0|0|0.0|2013-07-24 01:56:46 +0530
+238|tablets_lists|Micromax Funbook Talk P360 Tablet|http://www.shopclues.com/micromax-funbook-talk-p360.html|0|0|0|0|0|0.0|2013-07-24 01:56:55 +0530
+241|tablets_lists|Micromax Funbook Alpha P250 Tablet|http://www.shopclues.com/micromax-funbook-alpha-p250-tablet-en-2-3-4.html|0|0|0|0|0|0.0|2013-07-24 01:57:00 +0530
+242|tablets_lists|HCL ME Tablet U1|http://www.shopclues.com/hcl-me-u1-tablet-white.html|0|0|0|0|0|0.0|2013-07-24 01:57:02 +0530
+244|tablets_lists|iBall Slide i6516 Tablet|http://www.shopclues.com/iball-slide-i6516-tablet-black-with-white.html|0|0|0|0|0|0.0|2013-07-24 01:57:06 +0530
+247|tablets_lists|iBall Slide i6012 Tablet|http://www.shopclues.com/iball-slide-i6012-en.html|0|0|0|0|0|0.0|2013-07-24 01:57:14 +0530
+252|tablets_lists|iBall Slide i7218|http://www.shopclues.com/iball-slide-i7218-tablet-en.html|0|0|0|0|0|0.0|2013-07-24 01:57:26 +0530
+257|tablets_lists|Micromax Funbook Talk P362 Tablet|http://www.shopclues.com/micromax-funbook-talk-p362-tablet.html|0|0|0|0|0|0.0|2013-07-24 01:57:39 +0530
+264|tablets_lists|Micromax Funbook Infinity P275 Tablet|http://www.shopclues.com/new-micromax-funbook-infinity-p275-tablet-black-wi-fi-4gb-android-4.0-tablet-with-voice--best-price...html|0|0|0|0|0|0.0|2013-07-24 01:57:56 +0530
+266|tablets_lists|HCL ME Connect 2G 2.0 Tablet|http://www.shopclues.com/hcl-me-connect-2g-tablet.html|0|0|0|0|0|0.0|2013-07-24 01:58:01 +0530
+268|tablets_lists|Karbonn Smart Tab3 Blade Tablet|http://www.shopclues.com/karbonn-smart-tab3-blade-tablet-wi-fi-en-2-3.html|0|0|0|0|0|0.0|2013-07-24 01:58:03 +0530
+269|tablets_lists|Asus PadFone|http://www.shopclues.com/asus-fonepad-me371mg-1b058a-7-tablet-titanium-gray.html|0|0|0|0|0|0.0|2013-07-24 01:58:05 +0530
+270|tablets_lists|Karbonn Smart Tab 8 Tablet|http://www.shopclues.com/karbonn-smart-tab-8-tablet-black.html|0|0|0|0|0|0.0|2013-07-24 01:58:07 +0530
+273|tablets_lists|Samsung Galaxy Tab 2 P3100|in stock|0|0|0|0|0|0.0|2013-07-24 01:58:11 +0530
+276|tablets_lists|Karbonn Smart A37 Tablet|http://www.shopclues.com/karbonn-smart-ta-fone-a37-kommunicate-3g-video-calling-tab.html|0|0|0|0|0|0.0|2013-07-24 01:58:19 +0530
+278|tablets_lists|Karbonn A34 HD Tablet|http://www.shopclues.com/karbonn-ta-fone-a34-dual-sim-tablet.html|0|0|0|0|0|0.0|2013-07-24 01:58:23 +0530
+282|tablets_lists|Micromax Funbook 3G P600 Tablet|http://www.shopclues.com/micromax-funbook-p600-3g.html|0|0|0|0|0|0.0|2013-07-24 01:58:32 +0530
+287|tablets_lists|Micromax Funbook Talk P360 Tablet|http://www.shopclues.com/new-micromax-funbook-talk-p360-android-4.0-tablet-with-voice--best-price...html|0|0|0|0|0|0.0|2013-07-24 01:58:44 +0530
+376|speakers_lists|Creative SBS A335 2.1 Multimedia Speakers|http://www.shopclues.com/creative-sbs-a335-2.1-multimedia-speakers-en.html|0|0|0|0|0|0.0|2013-07-24 02:00:44 +0530
+377|speakers_lists|Zebronics Thunder SW2250 2.1 Multimedia Speakers|http://www.shopclues.com/zebronics-thunder-sw2250-speakers.html|0|0|0|0|0|0.0|2013-07-24 02:00:46 +0530
+378|speakers_lists|Creative Inspire T6160 5.1 Multimedia Speakers|http://www.shopclues.com/creative-inspire-t6160-5.1-multimedia-speakers-en-2.html|0|0|0|0|0|0.0|2013-07-24 02:00:48 +0530
+380|speakers_lists|Zebronics Igloo USB Speaker|http://www.shopclues.com/zebronics-igloo-usb-speaker-en.html|0|0|0|0|0|0.0|2013-07-24 02:00:52 +0530
+383|speakers_lists|iBall Xpresso Speakers|http://www.shopclues.com/iball-xpresso-speakers-with-built-in-battery-en.html|0|0|0|0|0|0.0|2013-07-24 02:00:58 +0530
+422|keyboards_lists|Intex Corona PS-2 Keyboard|http://www.shopclues.com/intex-corona-keyboard.html|0|0|0|0|0|0.0|2013-07-24 02:01:20 +0530
+425|keyboards_lists|Intex DUO 309 Keyboard and Mouse Combo|http://www.shopclues.com/intex-duo-cj-309-keyboard.html|0|0|0|0|0|0.0|2013-07-24 02:01:26 +0530
+426|keyboards_lists|Dell KM113 Wireless Keyboard and Mouse Combo|http://www.shopclues.com/dell-wireless-keyboard-and-mouse-combo-pack-km113.html|0|0|0|0|0|0.0|2013-07-24 02:01:28 +0530
+434|keyboards_lists|Microsoft Wired Desktop 600 USB 2.0 Keyboard and Mouse Combo|http://www.shopclues.com/microsoft-wired-desktop-600-usb-2.0-keyboard-black-en.html|0|0|0|0|0|0.0|2013-07-24 02:01:46 +0530
+438|keyboards_lists|Microsoft Wired Desktop 600 USB 2.0 Keyboard and Mouse Combo|http://www.shopclues.com/microsoft-wired-desktop-600-usb-2.0-keyboard-black-en-2-3.html|0|0|0|0|0|0.0|2013-07-24 02:01:56 +0530
+444|keyboards_lists|Logitech MK220 Wireless Keyboard and Mouse Combo|http://www.shopclues.com/car-charger-for-apple-ipad-iphone-and-ipod-clone.html|0|0|0|0|0|0.0|2013-07-24 02:02:10 +0530
+458|keyboards_lists|HP KZ249AA Wired Keyboard|http://www.shopclues.com/hp-kz249aa-wired-keyboard-black.html|0|0|0|0|0|0.0|2013-07-24 02:02:54 +0530
+459|keyboards_lists|iBall Big Keys 003 USB 2.0 Keyboard|http://www.shopclues.com/iball-big-keys-003-usb-2.0-keyboard.html|0|0|0|0|0|0.0|2013-07-24 02:02:54 +0530
+468|keyboards_lists|Logitech MK330 Wireless Keyboard and Mouse Combo|http://www.shopclues.com/logitech-mk330-wireless-keyboard--mouse-combo-kit--bill.html|0|0|0|0|0|0.0|2013-07-24 02:03:18 +0530
+471|keyboards_lists|Dell KM113 Wireless Keyboard and Mouse Combo|http://www.shopclues.com/dell-km113-wireless-keyboard-and-mouse-combo.html|0|0|0|0|0|0.0|2013-07-24 02:03:25 +0530
+472|keyboards_lists|Lenovo KM4802 USB 2.0 Keyboard and Mouse Combo|http://www.shopclues.com/lenovo-km4802-usb-2.0-keyboard-and-mouse-combo.html|0|0|0|0|0|0.0|2013-07-24 02:03:27 +0530
+484|keyboards_lists|Logitech K810 Bluetooth Illuminated Keyboard|http://www.shopclues.com/logitech-k810-wireless-bluetooth-illuminated-keyboard-for-windows-android-and-ios-en.html|0|0|0|0|0|0.0|2013-07-24 02:04:11 +0530
+496|keyboards_lists|Zebronics ZEB-K06 Keyboard - USB|http://www.shopclues.com/zebronics-zeb-k06-usb-2.0-keyboard.html|0|0|0|0|0|0.0|2013-07-24 02:04:39 +0530
+499|keyboards_lists|Microsoft Natural Ergo Desktop 7000 Wireless Keyboard and Mouse Combo|http://www.shopclues.com/microsoft-7000-natural-ergo-desktop-wireless-keyboard-and-mouse-combo.html|0|0|0|0|0|0.0|2013-07-24 02:04:48 +0530
+503|keyboards_lists|Zebronics ZEB-K06 Keyboard - USB|http://www.shopclues.com/zebronics-zeb-k06-keyboard-usb.html|0|0|0|0|0|0.0|2013-07-24 02:04:59 +0530
+504|keyboards_lists|Frontech JIL-1660 PS-2 Keyboard and Mouse Combo|http://www.shopclues.com/frontech-jil-1660-ps-2-keyboard-and-mouse-combo.html|0|0|0|0|0|0.0|2013-07-24 02:05:01 +0530
+539|pendrives_lists|SanDisk Cruzer Blade 8 GB Pen Drive|http://www.shopclues.com/sandisk-cruzer-blade-8gb-white-en.html|0|0|0|0|0|0.0|2013-07-24 02:05:05 +0530
+540|pendrives_lists|Sony Micro Vault USM-V 8 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-usm8gr-bc-e-8gb-pen-drive.html|0|0|0|0|0|0.0|2013-07-24 02:05:07 +0530
+543|pendrives_lists|Transcend JetFlash 350 16 GB Pen Drive|http://www.shopclues.com/transcend-jetflash-350-16-gb-pendrive.html|0|0|0|0|0|0.0|2013-07-24 02:05:19 +0530
+550|pendrives_lists|Sony Micro Vault USM-V 8 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-tiny-usm8gm-gc2-8gb-pen-drive.html|0|0|0|0|0|0.0|2013-07-24 02:05:38 +0530
+552|pendrives_lists|Sony Micro Vault USM-V 4 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-usm4gr-bc-e-4gb-pen-drive.html|0|0|0|0|0|0.0|2013-07-24 02:05:43 +0530
+554|pendrives_lists|Kingston DataTraveler 101 G2 4 GB Pen Drive|http://www.shopclues.com/kingston-datatraveler-101-g2-4gb-pendrive.html|0|0|0|0|0|0.0|2013-07-24 02:05:49 +0530
+556|pendrives_lists|SanDisk Cruzer Blade 4 GB Pen Drive|http://www.shopclues.com/sandisk-4-gb-cruzer-blade-usb-flash-pen-drive-en-2.html|0|0|0|0|0|0.0|2013-07-24 02:05:54 +0530
+559|pendrives_lists|SanDisk Cruzer Blade 8 GB Pen Drive|http://www.shopclues.com/sandisk-8gb-cruzer-blade-usb-flash-pen-drive-en.html|0|0|0|0|0|0.0|2013-07-24 02:06:02 +0530
+564|pendrives_lists|HP V-225W 8GB Pen Drive|http://www.shopclues.com/hp-v-225w-8gb-pen-drive-gold.html|0|0|0|0|0|0.0|2013-07-24 02:06:14 +0530
+569|pendrives_lists|Sony Micro Vault USM-V 4 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-tiny-4gb-pen-drive-usm4gm.html|0|0|0|0|0|0.0|2013-07-24 02:06:28 +0530
+572|pendrives_lists|Sony Micro Vault USM-V 8 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-usm8gr-wc-e-8gb-pen-drive.html|0|0|0|0|0|0.0|2013-07-24 02:06:41 +0530
+573|pendrives_lists|Moserbaer Racer 4GB Pen Drive|http://www.shopclues.com/moserbaer-racer-4gb-pen-drive-white-en.html|0|0|0|0|0|0.0|2013-07-24 02:06:43 +0530
+574|pendrives_lists|Moserbaer Racer 8GB Pen Drive|http://www.shopclues.com/moserbaer-racer-8gb-pen-drive-white-en.html|0|0|0|0|0|0.0|2013-07-24 02:06:44 +0530
+576|pendrives_lists|Sony Micro Vault USM-V 4 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-tiny-usm4gm-wc2-4gb-pen-drive.html|0|0|0|0|0|0.0|2013-07-24 02:06:51 +0530
+579|pendrives_lists|SanDisk Cruzer Blade 8 GB Pen Drive|http://www.shopclues.com/sandisk-cruzer-blade-8gb-pen-drive-en-2-3.html|0|0|0|0|0|0.0|2013-07-24 02:06:58 +0530
+592|pendrives_lists|Sony Micro Vault U Click USM8GU-W 8 GB Pen Drive|http://www.shopclues.com/sony-micro-8gb-vault-tiny-pendrive-en.html|0|0|0|0|0|0.0|2013-07-24 02:07:31 +0530
+598|pendrives_lists|Sony Micro Vault USM-V 8 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-tiny-usm8gm-pc2-8gb-pen-drive.html|0|0|0|0|0|0.0|2013-07-24 02:07:49 +0530
+603|pendrives_lists|Sony Micro Vault USM-V 8 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-tiny-usm8gm-bc2-8gb-pen-drive.html|0|0|0|0|0|0.0|2013-07-24 02:08:00 +0530
+611|pendrives_lists|Sandisk Cruzer CZ36 4 GB Pen Drive|http://www.shopclues.com/sandisk-4gb-cruzer-blade-usb-pen-drive.html|0|0|0|0|0|0.0|2013-07-24 02:08:21 +0530
+626|pendrives_lists|Sony Micro Vault USM-V 4 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-tiny-usm4gm-pc2-4gb-pen-drive.html|0|0|0|0|0|0.0|2013-07-24 02:09:03 +0530
+633|pendrives_lists|Toshiba Hayabusa 4 GB Pen Drive|http://www.shopclues.com/toshiba-hayabusa-4gb.html|0|0|0|0|0|0.0|2013-07-24 02:09:22 +0530
+636|pendrives_lists|Sony Micro Vault Tiny 8 GB Pen Drive|http://www.shopclues.com/sony-tiny-8gb-pendrive.html|0|0|0|0|0|0.0|2013-07-24 02:09:29 +0530
+641|pendrives_lists|SanDisk Cruzer Blade 4 GB Pen Drive|http://www.shopclues.com/sandisk-cruzer-blade-4gb-pen-drive-en.html|0|0|0|0|0|0.0|2013-07-24 02:09:40 +0530
+642|pendrives_lists|Toshiba Suruga 4 GB Pen Drive|http://www.shopclues.com/toshiba-suruga-4gb.html|0|0|0|0|0|0.0|2013-07-24 02:09:42 +0530
+644|pendrives_lists|Sony Micro Vault Tiny 4 GB Pen Drive|http://www.shopclues.com/sony-tiny-4gb-pendrive.html|0|0|0|0|0|0.0|2013-07-24 02:09:46 +0530
+647|pendrives_lists|Transcend Jet Flash 700 16 GB USB 3.0 Pen Drive|http://www.shopclues.com/transcend-jet-flash-700-16-gb-usb-3.0-pen-drive.html|0|0|0|0|0|0.0|2013-07-24 02:09:53 +0530
+650|pendrives_lists|SanDisk Cruzer Blade 16 GB Pen Drive|http://www.shopclues.com/sandisk-16gb-cruzer-blade-pen-drive.html|0|0|0|0|0|0.0|2013-07-24 02:10:00 +0530
+656|pendrives_lists|SanDisk Cruzer Blade 4 GB Pen Drive|http://www.shopclues.com/sandisk-cruzer-blade-4gb-pendrive-black-and-red.html|0|0|0|0|0|0.0|2013-07-24 02:10:25 +0530
+659|pendrives_lists|SanDisk Cruzer Blade 4 GB Pen Drive|http://www.shopclues.com/sandisk-cruzer-blade-4-gb-usb-flash-pen-drive-black.html|0|0|0|0|0|0.0|2013-07-24 02:10:33 +0530
+662|pendrives_lists|Moserbaer Swivel 32 GB Pen Drive|http://www.shopclues.com/moserbaer-swivel-32gb-pendrive.html|0|0|0|0|0|0.0|2013-07-24 02:10:41 +0530
+666|pendrives_lists|Sandisk Cruzer Facet 8 GB Pen Drive|http://www.shopclues.com/sandisk-cruzer-facet-8gb-pen-drive-blue-en.html|0|0|0|0|0|0.0|2013-07-24 02:10:50 +0530
+667|pendrives_lists|SanDisk Cruzer Blade 8 GB Pen Drive|http://www.shopclues.com/sandisk-cruzer-blade-pen-drive-sandisk-8gb-usb-pendrive-flash-drive.html|0|0|0|0|0|0.0|2013-07-24 02:10:52 +0530
+669|pendrives_lists|Kingston DataTraveler 109 4 GB USB 2.0  Pen Drive|http://www.shopclues.com/kingston-data-traveler-109-usb-2.0-8gb-pen-drive-black.html|0|0|0|0|0|0.0|2013-07-24 02:10:56 +0530
+673|pendrives_lists|Sony Micro Vault Tiny 4 GB Pen Drive|http://www.shopclues.com/sony-tiny-4gb-pendrive-white.html|0|0|0|0|0|0.0|2013-07-24 02:11:05 +0530
+676|pendrives_lists|SanDisk Cruzer Blade 4 GB Pen Drive|http://www.shopclues.com/new-sandisk-cruzer-blade-4gb-pen-drive-company-sealed-product--best-price..html|0|0|0|0|0|0.0|2013-07-24 02:11:11 +0530
+680|pendrives_lists|SanDisk Cruzer Blade 8 GB Pen Drive|http://www.shopclues.com/8-gb-scan-disk-pen-drive-only-330-rs.html|0|0|0|0|0|0.0|2013-07-24 02:11:21 +0530
+797|memory_cards_lists|Transcend SD 4GB Class 4 Memory Card|http://www.shopclues.com/sandisk-4gb-class-4-microsd-card.html|0|0|0|0|0|0.0|2013-07-24 02:11:30 +0530
+800|memory_cards_lists|Transcend SD 16GB Class 4 Memory Card|http://www.shopclues.com/transcend-16gb-class-4-microsd-card.html|0|0|0|0|0|0.0|2013-07-24 02:11:36 +0530
+801|memory_cards_lists|Kingston SD 4 GB Class 4 Memory Card|http://www.shopclues.com/kingston-4gb-micro-sd-card-en.html|0|0|0|0|0|0.0|2013-07-24 02:11:37 +0530
+804|memory_cards_lists|Sony Memory Card SR-8N4-T|http://www.shopclues.com/sony-memory-card-sr-8n4-t.html|0|0|0|0|0|0.0|2013-07-24 02:11:45 +0530
+806|memory_cards_lists|Samsung MB-MSAGA MicroSD 16 GB Memory Card Class 6|http://www.shopclues.com/samsung-microsd-16-gb-memory-card-class-6.html|0|0|0|0|0|0.0|2013-07-24 02:11:49 +0530
+809|memory_cards_lists|Samsung MB-MS8G MicroSD 8 GB Memory Card Class 4|http://www.shopclues.com/samsung-microsd-8-gb-memory-card-class-4.html|0|0|0|0|0|0.0|2013-07-24 02:11:54 +0530
+817|memory_cards_lists|Samsung MB-MS8G MicroSD 8 GB Memory Card Class 4|http://www.shopclues.com/samsung-8gb-micro-sd-card-class-4.html|0|0|0|0|0|0.0|2013-07-24 02:12:13 +0530
+828|memory_cards_lists|Sandisk Extreme Pro MicroSDHC UHS-I 16 GB Memory Card|http://www.shopclues.com/sandisk-16-gb-memory-card-micro-sd.html|0|0|0|0|0|0.0|2013-07-24 02:12:39 +0530
+859|mobiles_lists|Karbonn A30|http://www.shopclues.com/karbonn-a30-black-500838.html|0|0|0|0|0|0.0|2013-07-24 02:12:53 +0530
+872|mobiles_lists|Sony Xperia go|http://www.shopclues.com/sony-st27i-xperia-go-black.html|0|0|0|0|0|0.0|2013-07-24 02:13:19 +0530
+875|mobiles_lists|Micromax A110 Canvas 2|http://www.shopclues.com/micromax-canvas-2-a110-mobile.html|0|0|0|0|0|0.0|2013-07-24 02:13:26 +0530
+876|mobiles_lists|Samsung Galaxy Ace S5830|http://www.shopclues.com/samsung-galaxy-ace-s5830-3g-android-mobile-phone-en-2-3.html|0|0|0|0|0|0.0|2013-07-24 02:13:27 +0530
+878|mobiles_lists|Apple iPhone 5|http://www.shopclues.com/apple-iphone-5-16gb-black-white-en-2-3.html|0|0|0|0|0|0.0|2013-07-24 02:13:32 +0530
+880|mobiles_lists|Sony Xperia U|http://www.shopclues.com/sony-ericsson-experia-u-black-android-smartphone.html|0|0|0|0|0|0.0|2013-07-24 02:13:35 +0530
+883|mobiles_lists|Samsung Galaxy Grand I9082|http://www.shopclues.com/samsung-galaxy-grand-duos-i9082-white.html|0|0|0|0|0|0.0|2013-07-24 02:13:43 +0530
+885|mobiles_lists|Apple iPhone 3GS|http://www.shopclues.com/brand-new-apple-iphone-3g-8gb-software-unlocked.html|0|0|0|0|0|0.0|2013-07-24 02:13:47 +0530
+895|mobiles_lists|Sony Xperia J|http://www.shopclues.com/new-sony-ericsson-xperia-j-black-white-colour.html|0|0|0|0|0|0.0|2013-07-24 02:14:12 +0530
+897|mobiles_lists|Micromax A115 Canvas 3D|http://www.shopclues.com/micromax-canvas-3d-a115.html|0|0|0|0|0|0.0|2013-07-24 02:14:16 +0530
+904|mobiles_lists|BlackBerry Bold 9650|http://www.shopclues.com/bb-blackberry-9650-bold-business-smartphone.html|0|0|0|0|0|0.0|2013-07-24 02:14:35 +0530
+906|mobiles_lists|Sony Xperia miro|http://www.shopclues.com/sony-xperia-miro.html|0|0|0|0|0|0.0|2013-07-24 02:14:40 +0530
+909|mobiles_lists|Motorola WX290|http://www.shopclues.com/motorola-wx290.html|0|0|0|0|0|0.0|2013-07-24 02:14:46 +0530
+912|mobiles_lists|HTC Wildfire S|http://www.shopclues.com/new-htc-wildfire-free-16gb-card-free-android-mobile-clone-en.html|0|0|0|0|0|0.0|2013-07-24 02:14:52 +0530
+916|mobiles_lists|Samsung Galaxy Y Duos S6102|http://www.shopclues.com/new-samsung-s6102-android2.3-galaxy-y-duos-dual-sim-gsmgsm-mobile-wifi-3g.html|0|0|0|0|0|0.0|2013-07-24 02:15:02 +0530
+919|mobiles_lists|Micromax A110 Canvas 2|http://www.shopclues.com/lava-iris-n400-white-with-video-calling.html|0|0|0|0|0|0.0|2013-07-24 02:15:06 +0530
+921|mobiles_lists|Samsung Galaxy Y S5360|http://www.shopclues.com/samsung-galaxy-y-s5360-metalic-gray.html|0|0|0|0|0|0.0|2013-07-24 02:15:11 +0530
+932|mobiles_lists|HTC Status|http://www.shopclues.com/htc-status.html|0|0|0|0|0|0.0|2013-07-24 02:15:38 +0530
+934|mobiles_lists|Micromax Ninja A91|http://www.shopclues.com/micromax-ninja-a91-superphone-4.0-os-ics-android-dual-sim-5-mp-camera.html|0|0|0|0|0|0.0|2013-07-24 02:15:40 +0530
+937|mobiles_lists|HTC Desire C|http://www.shopclues.com/htc-desire-c-android-mobile-phone-with-5mp-camera.html|0|0|0|0|0|0.0|2013-07-24 02:15:48 +0530
+938|mobiles_lists|LG Fathom VS750|http://www.shopclues.com/lg-fathom-750-slider-phone-with-camera-of-3.2-mega-pixels-with-digital-zoom.html|0|0|0|0|0|0.0|2013-07-24 02:15:50 +0530
+943|mobiles_lists|Sony Xperia U|http://www.shopclues.com/sony-xperia-u-black-en.html|0|0|0|0|0|0.0|2013-07-24 02:16:01 +0530
+945|mobiles_lists|Micromax Bolt A27|http://www.shopclues.com/micromax-ninja-a27-black.html|0|0|0|0|0|0.0|2013-07-24 02:16:05 +0530
+950|mobiles_lists|Karbonn A9|http://www.shopclues.com/karbonn-a9-plus.html|0|0|0|0|0|0.0|2013-07-24 02:16:18 +0530
+952|mobiles_lists|HTC Desire HD|http://www.shopclues.com/htc-desire-hd-16gb-card-free-android-mobile-phone.html|0|0|0|0|0|0.0|2013-07-24 02:16:22 +0530
+956|mobiles_lists|Nokia Asha 305|http://www.shopclues.com/nokia-asha-305-dark-grey.html|0|0|0|0|0|0.0|2013-07-24 02:16:32 +0530
+957|mobiles_lists|Samsung Galaxy Grand I9082|http://www.shopclues.com/samsung-galaxy-grand-duos-i9082-dual-sim-5-8-mp-dual-core-1.2-ghz-3g-en.html|0|0|0|0|0|0.0|2013-07-24 02:16:34 +0530
+959|mobiles_lists|Samsung Galaxy Note N7000|http://www.shopclues.com/samsung-galaxy-note-n7000-wifi-3g-8mp-16gb-amoled-android-mobile-phone.html|0|0|0|0|0|0.0|2013-07-24 02:16:38 +0530
+963|mobiles_lists|Micromax A25|http://www.shopclues.com/micromax-a25-smarty.html|0|0|0|0|0|0.0|2013-07-24 02:16:49 +0530
+964|mobiles_lists|HTC HD2|http://www.shopclues.com/htc-hd2-android-ics-smartphone-mobile-phone.html|0|0|0|0|0|0.0|2013-07-24 02:16:51 +0530
+966|mobiles_lists|Samsung I9070 Galaxy S Advance|http://www.shopclues.com/samsung-galaxy-s-advance-i9070-mobile-en.html|0|0|0|0|0|0.0|2013-07-24 02:16:55 +0530
+970|mobiles_lists|BlackBerry Torch 9860|http://www.shopclues.com/blackberry-torch-9860-en-2-3-4-5-6.html|0|0|0|0|0|0.0|2013-07-24 02:17:04 +0530
+977|mobiles_lists|Nokia 603|http://www.shopclues.com/nokia-603-white.html|0|0|0|0|0|0.0|2013-07-24 02:17:23 +0530
+979|mobiles_lists|Micromax A110 Canvas 2|http://www.shopclues.com/new-micromax-canvas-2-a110-android-4.0-smartphone-best-price..html|0|0|0|0|0|0.0|2013-07-24 02:17:28 +0530
+983|mobiles_lists|Karbonn A1+|http://www.shopclues.com/karbonn-a1-smart-phone-white-colour.html|0|0|0|0|0|0.0|2013-07-24 02:17:37 +0530
+988|mobiles_lists|Sony Xperia P|http://www.shopclues.com/sony-xperia-p-lt22i-black.html|0|0|0|0|0|0.0|2013-07-24 02:17:46 +0530
+990|mobiles_lists|Sony Xperia U|http://www.shopclues.com/sony-xperia-u-white-and-yellow.html|0|0|0|0|0|0.0|2013-07-24 02:17:50 +0530
+991|mobiles_lists|LG Optimus L3 E400|http://www.shopclues.com/lg-optimus-l3-e400-black.html|0|0|0|0|0|0.0|2013-07-24 02:17:53 +0530
+993|mobiles_lists|Samsung Galaxy Grand I9082|http://www.shopclues.com/samsung-galaxy-grand-i9082.html|0|0|0|0|0|0.0|2013-07-24 02:17:57 +0530
+995|mobiles_lists|Sony Xperia neo L|http://www.shopclues.com/sony-xperia-neo-l.html|0|0|0|0|0|0.0|2013-07-24 02:18:02 +0530
+996|mobiles_lists|Sony Xperia L|http://www.shopclues.com/sony-xperia-l.html|0|0|0|0|0|0.0|2013-07-24 02:18:03 +0530
+997|mobiles_lists|Micromax Bolt A51|http://www.shopclues.com/micromax-bolt-a51-grey-brand-new-sealed-pack-1-year-micromax-warranty.html|0|0|0|0|0|0.0|2013-07-24 02:18:05 +0530
+1002|mobiles_lists|Apple iPhone 3GS|http://www.shopclues.com/apple-iphone-3gs-8gb-mobile-phone-factory-unlocked.html|0|0|0|0|0|0.0|2013-07-24 02:18:17 +0530
+1007|mobiles_lists|LG Optimus One P500|http://www.shopclues.com/lg-optimus-one-p500-android-smartphone-mobile-phone.html|0|0|0|0|0|0.0|2013-07-24 02:18:26 +0530
+1008|mobiles_lists|Karbonn A6|http://www.shopclues.com/karbonn-a6.html|0|0|0|0|0|0.0|2013-07-24 02:18:28 +0530
+1009|mobiles_lists|BlackBerry Bold 9700|http://www.shopclues.com/blackberry-9700-bold-business-smartphone.html|0|0|0|0|0|0.0|2013-07-24 02:18:29 +0530
+1011|mobiles_lists|BlackBerry Torch 9850|http://www.shopclues.com/blackberry-torch-9850-mobile-phone-with-3.7inch-touch-screen-smartphone.html|0|0|0|0|0|0.0|2013-07-24 02:18:33 +0530
+1012|mobiles_lists|Sony Xperia U|http://www.shopclues.com/sony-xperia-u-black-and-pink.html|0|0|0|0|0|0.0|2013-07-24 02:18:35 +0530
+1014|mobiles_lists|Samsung Galaxy Grand I9082|0|0|0|0|0|0|0.0|2013-07-24 02:18:37 +0530
+1017|mobiles_lists|LG Optimus L3 E405|http://www.shopclues.com/lg-optimus-l3-dual-e405-black.html|0|0|0|0|0|0.0|2013-07-24 02:18:44 +0530
+1018|mobiles_lists|BlackBerry Torch 9800|http://www.shopclues.com/blackberry-9800-torch-smartphone.html|0|0|0|0|0|0.0|2013-07-24 02:18:46 +0530
+1019|mobiles_lists|Nokia X2-02|http://www.shopclues.com/nokia-x2-02-en.html|0|0|0|0|0|0.0|2013-07-24 02:18:48 +0530
+1026|mobiles_lists|Karbonn A9|http://www.shopclues.com/karbonn-a9-white-en.html|0|0|0|0|0|0.0|2013-07-24 02:19:02 +0530
+1027|mobiles_lists|Samsung Galaxy S Duos S7562|0|0|0|0|0|0|0.0|2013-07-24 02:19:02 +0530
+1029|mobiles_lists|BlackBerry Curve 3G 9300|http://www.shopclues.com/blackberry-9300-curve-with-memory-card-slot-microsd-up-to-32gb-black.html|0|0|0|0|0|0.0|2013-07-24 02:19:06 +0530
+1030|mobiles_lists|Karbonn A111|http://www.shopclues.com/karbonn-a111-5-inch-ics-smartphone-with-scorpion-dual-core-processor.html|0|0|0|0|0|0.0|2013-07-24 02:19:08 +0530
+1031|mobiles_lists|Samsung Galaxy Nexus I9250|http://www.shopclues.com/samsung-galaxy-google-nexus-i9250-android-4.0-smartphone-titanium.html|0|0|0|0|0|0.0|2013-07-24 02:19:10 +0530
+1032|mobiles_lists|Samsung Champ Neo Duos C3262|http://www.shopclues.com/samsung-champ-deluxe-duos-en.html|0|0|0|0|0|0.0|2013-07-24 02:19:12 +0530
+1035|mobiles_lists|Sony Xperia go|http://www.shopclues.com/sony-st27i-xperia-go-white.html|0|0|0|0|0|0.0|2013-07-24 02:19:17 +0530
+1048|mobiles_lists|Sony Xperia S|http://www.shopclues.com/sony-xperia-s-lt26i-white.html|0|0|0|0|0|0.0|2013-07-24 02:19:48 +0530
+1054|mobiles_lists|Sony Xperia S|http://www.shopclues.com/sony-xperia-s-lt26i-black.html|0|0|0|0|0|0.0|2013-07-24 02:19:59 +0530
+1055|mobiles_lists|Sony Xperia sola|http://www.shopclues.com/sony-xperia-sola-mt27i-black.html|0|0|0|0|0|0.0|2013-07-24 02:20:01 +0530
+1056|mobiles_lists|Nokia 101|http://www.shopclues.com/nokia-101-mobile.html|0|0|0|0|0|0.0|2013-07-24 02:20:03 +0530
+1059|mobiles_lists|BlackBerry Torch 9860|http://www.shopclues.com/blackberry-torch-9860-grey-with-camera-primary-5-mp-smartphone.html|0|0|0|0|0|0.0|2013-07-24 02:20:09 +0530
+1061|mobiles_lists|Sony Xperia neo L|http://www.shopclues.com/sony-xperia-neo-l-black.html|0|0|0|0|0|0.0|2013-07-24 02:20:13 +0530
+1069|mobiles_lists|Celkon A95|http://www.shopclues.com/celkon-a95.html|0|0|0|0|0|0.0|2013-07-24 02:20:35 +0530
+1070|mobiles_lists|Samsung Galaxy Ace Duos S6802|http://www.shopclues.com/samsung-galaxy-ace-duos-s6802-mobile-phone-en.html|0|0|0|0|0|0.0|2013-07-24 02:20:36 +0530
+1073|mobiles_lists|Karbonn A1+|http://www.shopclues.com/karbonn-a1-plus-android-mobile-phone.html|0|0|0|0|0|0.0|2013-07-24 02:20:41 +0530
+1082|mobiles_lists|Celkon A200|http://www.shopclues.com/celkon-a200.html|0|0|0|0|0|0.0|2013-07-24 02:21:02 +0530
+1088|mobiles_lists|BlackBerry Torch 9810|http://www.shopclues.com/blackberry-9810-torch-smartphone-with-5-mp-camera.html|0|0|0|0|0|0.0|2013-07-24 02:21:16 +0530
+1089|mobiles_lists|LG Optimus Black P970|http://www.shopclues.com/lg-optimus-black-p970-black.html|0|0|0|0|0|0.0|2013-07-24 02:21:18 +0530
+1094|mobiles_lists|HTC Desire Z|http://www.shopclues.com/new-htc-desire-z-android-smart-mobile-phones.html|0|0|0|0|0|0.0|2013-07-24 02:21:31 +0530
+1095|mobiles_lists|Celkon A67|http://www.shopclues.com/celkon-a67.html|0|0|0|0|0|0.0|2013-07-24 02:21:33 +0530
+1097|mobiles_lists|Micromax Bolt A35|http://www.shopclues.com/micromax-bolt-a35-black-en.html|0|0|0|0|0|0.0|2013-07-24 02:21:36 +0530
+1098|mobiles_lists|LG Optimus L3 E400|http://www.shopclues.com/lg-optimus-l3-e400-white.html|0|0|0|0|0|0.0|2013-07-24 02:21:38 +0530
+1101|mobiles_lists|Sony Xperia neo L|http://www.shopclues.com/xperia-neo-l-mt25i-white.html|0|0|0|0|0|0.0|2013-07-24 02:21:45 +0530
+1104|mobiles_lists|LG Optimus Me P350|http://www.shopclues.com/lg-optimus-me-p350-black.html|0|0|0|0|0|0.0|2013-07-24 02:21:52 +0530
+1106|mobiles_lists|BlackBerry Curve 9320|http://www.shopclues.com/new-blackberry-curve-9320-fm-radio-clone.html|0|0|0|0|0|0.0|2013-07-24 02:21:55 +0530
+1107|mobiles_lists|BlackBerry Z10|http://www.shopclues.com/blackberry-z10-free-16gb-memory-card-bb-os-10-mobile-phone.html|0|0|0|0|0|0.0|2013-07-24 02:21:57 +0530
+1110|mobiles_lists|Micromax X335C|http://www.shopclues.com/micromax-x335-mobile-phones-black.html|0|0|0|0|0|0.0|2013-07-24 02:22:02 +0530
+1111|mobiles_lists|Samsung E2232|http://www.shopclues.com/samsung-e2232.html|0|0|0|0|0|0.0|2013-07-24 02:22:04 +0530
+1112|mobiles_lists|Samsung Galaxy Win I8550|http://www.shopclues.com/samsung-galaxy-quattro-i8550.html|0|0|0|0|0|0.0|2013-07-24 02:22:06 +0530
+1115|mobiles_lists|Karbonn A2|http://www.shopclues.com/karbonn-a2-with-video-calling-and-4-inch-display-black.html|0|0|0|0|0|0.0|2013-07-24 02:22:13 +0530
+1117|mobiles_lists|HTC Wildfire S|http://www.shopclues.com/new-htc-wildfire-s-free-16gb-card-free-android-mobile-phone-clone.html|0|0|0|0|0|0.0|2013-07-24 02:22:17 +0530
+1118|mobiles_lists|Nokia 112|http://www.shopclues.com/nokia-112-en.html|0|0|0|0|0|0.0|2013-07-24 02:22:18 +0530
+1127|mobiles_lists|Micromax A50 Ninja|http://www.shopclues.com/micromax-a50-ninja-mobile-phone-white-colour.html|0|0|0|0|0|0.0|2013-07-24 02:22:39 +0530
+1129|mobiles_lists|Nokia Asha 311|http://www.shopclues.com/new-nokia-asha-311-mobile-phone--best-price...html|0|0|0|0|0|0.0|2013-07-24 02:22:56 +0530
+1132|mobiles_lists|Karbonn K9 Jumbo|http://www.shopclues.com/karbonn-mobile-k9-jumbo.html|0|0|0|0|0|0.0|2013-07-24 02:23:00 +0530
+1134|mobiles_lists|Micromax A116 Canvas HD|http://www.shopclues.com/micromax-a116-canvas-3-hd-android-jelly-bean-4.1.2-8mp-3g-bt-4.0-wi-fi.html|0|0|0|0|0|0.0|2013-07-24 02:23:05 +0530
+1140|mobiles_lists|Samsung Galaxy Y S5360|http://www.shopclues.com/samsung-galaxy-y-s5360-mobile-phone.html|0|0|0|0|0|0.0|2013-07-24 02:23:17 +0530
+1146|mobiles_lists|Nokia Lumia 510|http://www.shopclues.com/new-nokia-lumia-710-windows-mobile-phone--best-price..-clone-en-2.html|0|0|0|0|0|0.0|2013-07-24 02:23:30 +0530
+1149|mobiles_lists|Apple iPhone 5|http://www.shopclues.com/apple-iphone-5-16gb-factory-unlocked-mobile-phone.html|0|0|0|0|0|0.0|2013-07-24 02:23:38 +0530
+1150|mobiles_lists|Micromax A101|http://www.shopclues.com/new-micromax-a101-black-smartphone-5-inch-display-android-4.0.4-mobile-phone--best-price...html|0|0|0|0|0|0.0|2013-07-24 02:23:39 +0530
+1153|mobiles_lists|Karbonn A9|http://www.shopclues.com/karbonn-a9-plus-clone.html|0|0|0|0|0|0.0|2013-07-24 02:23:44 +0530
+1154|mobiles_lists|Micromax A116 Canvas HD|http://www.shopclues.com/micromax-a116-canvas-hd-white-clone-clone.html|0|0|0|0|0|0.0|2013-07-24 02:23:45 +0530
+1159|mobiles_lists|Karbonn KT62|http://www.shopclues.com/karbonn-kt62-mobile.html|0|0|0|0|0|0.0|2013-07-24 02:23:58 +0530
+1160|mobiles_lists|Samsung Galaxy Y S5360|http://www.shopclues.com/samsung-galaxy-y-s5360-pure-white-en-2-3-4-5.html|0|0|0|0|0|0.0|2013-07-24 02:24:00 +0530
+1161|mobiles_lists|BlackBerry Curve 9370|http://www.shopclues.com/blackberry-9370-curve-with-5-mp-camera-led-flash-black.html|0|0|0|0|0|0.0|2013-07-24 02:24:02 +0530
+1163|mobiles_lists|Samsung Galaxy Y S5360|http://www.shopclues.com/samsung-galaxy-y-s5360-with-1-year-samsung-warranty.html|0|0|0|0|0|0.0|2013-07-24 02:24:06 +0530
+1164|mobiles_lists|BlackBerry Bold Touch 9930|http://www.shopclues.com/blackberry-9930-bold.html|0|0|0|0|0|0.0|2013-07-24 02:24:08 +0530
+1167|mobiles_lists|Micromax A110 Canvas 2|http://www.shopclues.com/micromax-canvas-2-a110-black-en.html|0|0|0|0|0|0.0|2013-07-24 02:24:15 +0530
+1170|mobiles_lists|Samsung I9070 Galaxy S Advance|http://www.shopclues.com/samsung-i9070-galaxy-s-advance.html|0|0|0|0|0|0.0|2013-07-24 02:24:23 +0530
+1172|mobiles_lists|Spice M-6800 FLO|http://www.shopclues.com/spice-m-6800-flo.html|0|0|0|0|0|0.0|2013-07-24 02:24:27 +0530
+1176|mobiles_lists|Karbonn K65 Buzz|http://www.shopclues.com/karbonn-k65-black-colour.html|0|0|0|0|0|0.0|2013-07-24 02:24:36 +0530
+1178|mobiles_lists|Celkon A119Q Signature HD|http://www.shopclues.com/celkon-signature-hd-119.html|0|0|0|0|0|0.0|2013-07-24 02:24:40 +0530
+1180|mobiles_lists|Sony Xperia neo L|http://www.shopclues.com/xperia-neo-l-mt25i-black.html|0|0|0|0|0|0.0|2013-07-24 02:24:45 +0530
+1182|mobiles_lists|Karbonn A15|http://www.shopclues.com/karbonn-a15-black-en-2.html|0|0|0|0|0|0.0|2013-07-24 02:24:50 +0530
+1183|mobiles_lists|Samsung Rex 90 S5292|http://www.shopclues.com/new-samsung-rex-90-dual-sim-gsm-gsm--wi-fi-enabled--3.2-mp-primary-camera--best-price.html|0|0|0|0|0|0.0|2013-07-24 02:24:51 +0530
+1185|mobiles_lists|Samsung Galaxy Ace S5830I|http://www.shopclues.com/samsung-galaxy-ace-s5830i-onyx-black.html|0|0|0|0|0|0.0|2013-07-24 02:24:54 +0530
+1187|mobiles_lists|LG Optimus Sol E730|http://www.shopclues.com/lg-optimus-sol-e730-black.html|0|0|0|0|0|0.0|2013-07-24 02:24:59 +0530
+1189|mobiles_lists|BlackBerry Bold 9790|http://www.shopclues.com/new-blackberry-9790-bold-with5-mp-camera-black-smatrphone.html|0|0|0|0|0|0.0|2013-07-24 02:25:04 +0530
+1192|mobiles_lists|Samsung Galaxy Ace S5830I|http://www.shopclues.com/samsung-galaxy-ace-s5830i-pure-white-en.html|0|0|0|0|0|0.0|2013-07-24 02:25:10 +0530
+1193|mobiles_lists|Celkon A98|http://www.shopclues.com/celkon-mobile-a98.html|0|0|0|0|0|0.0|2013-07-24 02:25:12 +0530
+1194|mobiles_lists|Micromax A110 Canvas 2|http://www.shopclues.com/micromax-canvas-2-a110-black-en-2.html|0|0|0|0|0|0.0|2013-07-24 02:25:14 +0530
+1198|mobiles_lists|Celkon A220|http://www.shopclues.com/celkon-a220-en.html|0|0|0|0|0|0.0|2013-07-24 02:25:22 +0530
+1208|mobiles_lists|Celkon A85|http://www.shopclues.com/celkon-mobile-a85.html|0|0|0|0|0|0.0|2013-07-24 02:25:45 +0530
+1212|mobiles_lists|Nokia 1280|http://www.shopclues.com/nokia-1280-black-with-vat-bill.html|0|0|0|0|0|0.0|2013-07-24 02:25:54 +0530
+1213|mobiles_lists|Micromax X274|http://www.shopclues.com/micromax-x274-mobile-phone-black-and-red.html|0|0|0|0|0|0.0|2013-07-24 02:25:56 +0530
+1223|mobiles_lists|Samsung Rex 70 S3802|http://www.shopclues.com/new-samsung-rex-70-s3802-dual-sim-gsm-gsm--2-mp-primary-camera--best-price.html|0|0|0|0|0|0.0|2013-07-24 02:26:20 +0530
+1228|mobiles_lists|Samsung A687 Strive|http://www.shopclues.com/samsung-strive-a-687-mobile-phone.html|0|0|0|0|0|0.0|2013-07-24 02:26:32 +0530
+1234|mobiles_lists|Nokia Lumia 720|http://www.shopclues.com/new-nokia-lumia-720-touch-screen-mobile-phone-with-wi-fi-windows-phon-best-price.html|0|0|0|0|0|0.0|2013-07-24 02:26:50 +0530
+1235|mobiles_lists|HTC Wildfire S|http://www.shopclues.com/htc-wildfire-s-dark-grey.html|0|0|0|0|0|0.0|2013-07-24 02:26:51 +0530
+1239|mobiles_lists|Micromax X099|http://www.shopclues.com/micromax-x099-white.html|0|0|0|0|0|0.0|2013-07-24 02:27:01 +0530
+1241|mobiles_lists|Samsung E2252|http://www.shopclues.com/samsung-e2252-en.html|0|0|0|0|0|0.0|2013-07-24 02:27:04 +0530
+1242|mobiles_lists|Karbonn A30|http://www.shopclues.com/karbonn-a30-white.html|0|0|0|0|0|0.0|2013-07-24 02:27:05 +0530
+1246|mobiles_lists|Micromax A110 Canvas 2|http://www.shopclues.com/micromax-canvas-2-a110--brand-new-sealed-pack--1-year-micromax-warranty.html|0|0|0|0|0|0.0|2013-07-24 02:27:15 +0530
+1247|mobiles_lists|Samsung Galaxy Grand I9082|http://www.shopclues.com/samsung-galaxy-grand-duos-i9082-blue-en-2.html|0|0|0|0|0|0.0|2013-07-24 02:27:17 +0530
+1251|mobiles_lists|Karbonn A30|http://www.shopclues.com/karbonn-mobile-a30-en.html|0|0|0|0|0|0.0|2013-07-24 02:27:26 +0530
+1252|mobiles_lists|Karbonn A3|http://www.shopclues.com/karbonn-a3-white-black.html|0|0|0|0|0|0.0|2013-07-24 02:27:28 +0530
+1255|mobiles_lists|Karbonn A2|http://www.shopclues.com/karbonn-mobile-a2.html|0|0|0|0|0|0.0|2013-07-24 02:27:33 +0530
+1258|mobiles_lists|Sony Xperia SL|http://www.shopclues.com/sony-xperia-sl-lt26ii-white-color.html|0|0|0|0|0|0.0|2013-07-24 02:27:40 +0530
+1259|mobiles_lists|Samsung Galaxy Y Plus S5303|http://www.shopclues.com/samsung-galaxy-y-plus-s5303-black.html|0|0|0|0|0|0.0|2013-07-24 02:27:41 +0530
+1261|mobiles_lists|BlackBerry Curve 9370|http://www.shopclues.com/blackberry-9370-curve-with-5-mp-camera-led-flash-black-business-smartphone.html|0|0|0|0|0|0.0|2013-07-24 02:27:46 +0530
+1266|mobiles_lists|Micromax Q55 Bling|http://www.shopclues.com/micromax-q55-white.html|0|0|0|0|0|0.0|2013-07-24 02:27:56 +0530
+1267|mobiles_lists|Micromax X1i|http://www.shopclues.com/micromax-x1i-xtra-mobile-black.html|0|0|0|0|0|0.0|2013-07-24 02:27:58 +0530
+1269|mobiles_lists|Nokia Asha 202|http://www.shopclues.com/nokia-asha-202-black-en-2-3-4-5-6-7.html|0|0|0|0|0|0.0|2013-07-24 02:28:01 +0530
+1270|mobiles_lists|Karbonn A21|http://www.shopclues.com/karbonn-mobile-a21.html|0|0|0|0|0|0.0|2013-07-24 02:28:03 +0530
+1272|mobiles_lists|Nokia Lumia 710|http://www.shopclues.com/new-nokia-lumia-710-windows-mobile-phone--best-price..-clone.html|0|0|0|0|0|0.0|2013-07-24 02:28:07 +0530
+1274|mobiles_lists|Celkon A75|http://www.shopclues.com/celkon-mobile-a75.html|0|0|0|0|0|0.0|2013-07-24 02:28:11 +0530
+1275|mobiles_lists|Micromax X335C|http://www.shopclues.com/micromax-x335c.html|0|0|0|0|0|0.0|2013-07-24 02:28:12 +0530
+1276|mobiles_lists|Micromax Viva A72|http://www.shopclues.com/micromax-canvas-viva-a72--black--brand-new-sealed-pack--1-year-micromax-warranty.html|0|0|0|0|0|0.0|2013-07-24 02:28:14 +0530
+1277|mobiles_lists|HTC Desire V|http://www.shopclues.com/intex-neo-v-black.html|0|0|0|0|0|0.0|2013-07-24 02:28:16 +0530
+1281|mobiles_lists|Samsung Rex 60 C3312R|http://www.shopclues.com/new-samsung-rex-60-dual-sim-gsm-gsm--1.3-mp-primary-camera--best-price.html|0|0|0|0|0|0.0|2013-07-24 02:28:26 +0530
+1282|mobiles_lists|HTC Wildfire S|http://www.shopclues.com/htc-wildfire-s--1-year-seller-warranty.html|0|0|0|0|0|0.0|2013-07-24 02:28:27 +0530
+1283|mobiles_lists|BlackBerry Curve 9360|http://www.shopclues.com/blackberry-curve-9360-black-business-smartphone.html|0|0|0|0|0|0.0|2013-07-24 02:28:29 +0530
+1284|mobiles_lists|Celkon A225|http://www.shopclues.com/celkon-mobile-a225.html|0|0|0|0|0|0.0|2013-07-24 02:28:31 +0530
+1287|mobiles_lists|Micromax X55 Blade|http://www.shopclues.com/micromax-x55-blade.html|0|0|0|0|0|0.0|2013-07-24 02:28:35 +0530
+1288|mobiles_lists|Karbonn A21|http://www.shopclues.com/karbonn-a21.html|0|0|0|0|0|0.0|2013-07-24 02:28:37 +0530
+1289|mobiles_lists|Nokia Lumia 710|http://www.shopclues.com/new-nokia-lumia-710-windows-mobile-phone--best-price...html|0|0|0|0|0|0.0|2013-07-24 02:28:38 +0530
+1292|mobiles_lists|Alcatel OT-890D|http://www.shopclues.com/alcatel-ot-890d-mobile-phone-blacksilvar.html|0|0|0|0|0|0.0|2013-07-24 02:28:45 +0530
+1300|mobiles_lists|Micromax X333|http://www.shopclues.com/micromax-x333-black-silver-en.html|0|0|0|0|0|0.0|2013-07-24 02:29:03 +0530
+1306|mobiles_lists|Micromax X099|http://www.shopclues.com/micromax-x099-mobile.html|0|0|0|0|0|0.0|2013-07-24 02:29:17 +0530
+1307|mobiles_lists|Karbonn S1 Titanium|http://www.shopclues.com/karbonn-s2-titanium-with-flip-cover.html|0|0|0|0|0|0.0|2013-07-24 02:29:19 +0530
+1308|mobiles_lists|Nokia Lumia 820|http://www.shopclues.com/new-nokia-lumia-820windows-phone-8-os8-mp-primary-camera1.5-ghz-dual-core-krait-processor--best-price..html|0|0|0|0|0|0.0|2013-07-24 02:29:21 +0530
+1311|mobiles_lists|Karbonn A9|http://www.shopclues.com/karbonn-a9-pearl-white-clone.html|0|0|0|0|0|0.0|2013-07-24 02:29:26 +0530
+1315|mobiles_lists|Celkon A97i|http://www.shopclues.com/celkon-mobile-a97i.html|0|0|0|0|0|0.0|2013-07-24 02:29:35 +0530
+1316|mobiles_lists|Samsung Galaxy Y S5360|http://www.shopclues.com/samsung-galaxy-y-s5360-mobile-phone-tentium-black-en.html|0|0|0|0|0|0.0|2013-07-24 02:29:37 +0530
+1317|mobiles_lists|Samsung I9500 Galaxy S4|http://www.shopclues.com/samsung-i9500-galaxy-s4-black.html|0|0|0|0|0|0.0|2013-07-24 02:29:38 +0530
+1319|mobiles_lists|Samsung Galaxy Chat B5330|http://www.shopclues.com/samsung-b5330.html|0|0|0|0|0|0.0|2013-07-24 02:29:42 +0530
+1320|mobiles_lists|BlackBerry Curve 9370|http://www.shopclues.com/blackberry-9370.html|0|0|0|0|0|0.0|2013-07-24 02:29:43 +0530
+1321|mobiles_lists|Karbonn A9|http://www.shopclues.com/karbonn-a9-mobile.html|0|0|0|0|0|0.0|2013-07-24 02:29:45 +0530
+1322|mobiles_lists|Micromax X321|http://www.shopclues.com/micromax-x321.html|0|0|0|0|0|0.0|2013-07-24 02:29:47 +0530
+1323|mobiles_lists|Karbonn A2|http://www.shopclues.com/karbonn-a2-black-white.html|0|0|0|0|0|0.0|2013-07-24 02:29:48 +0530
+1329|mobiles_lists|Samsung Galaxy Y S5360|http://www.shopclues.com/samsung-galaxy-y-s5360-metal-grey-smartphoneandroid-v2.3-ostft-capacitive-touchscreen--best-price..html|0|0|0|0|0|0.0|2013-07-24 02:29:58 +0530
+1331|mobiles_lists|Celkon A200|http://www.shopclues.com/celkon-mobile-a200.html|0|0|0|0|0|0.0|2013-07-24 02:30:12 +0530
+1332|mobiles_lists|Micromax A115 Canvas 3D|http://www.shopclues.com/micromax-canvas-3d-a115--black--brand-new-sealed-pack--1-year-micromax-warranty.html|0|0|0|0|0|0.0|2013-07-24 02:30:22 +0530
+1333|mobiles_lists|Micromax A116 Canvas HD|http://www.shopclues.com/micromax-canvas-hd-a116-mobile.html|0|0|0|0|0|0.0|2013-07-24 02:30:23 +0530
+1337|mobiles_lists|Micromax A89 Ninja|http://www.shopclues.com/micromax-a89-en.html|0|0|0|0|0|0.0|2013-07-24 02:30:30 +0530
+1339|mobiles_lists|LG Optimus Black (White version)|http://www.shopclues.com/intex-aqua-flash-white.html|0|0|0|0|0|0.0|2013-07-24 02:30:34 +0530
+1342|mobiles_lists|Samsung Galaxy Y Plus S5303|http://www.shopclues.com/samsung-galaxy-y-plus-s5303-white-en.html|0|0|0|0|0|0.0|2013-07-24 02:30:41 +0530
+1344|mobiles_lists|Micromax A116 Canvas HD|http://www.shopclues.com/micromax-canvas-hd-a116--black--brand-new-sealed-pack--1-year-micromax-warranty--free-leather-flip-cover--1999.html|0|0|0|0|0|0.0|2013-07-24 02:30:45 +0530
+1345|mobiles_lists|Samsung Galaxy Grand I9082|http://www.shopclues.com/samsung-galaxy-grand-duos-i9082-white-en-2.html|0|0|0|0|0|0.0|2013-07-24 02:30:47 +0530
+1348|mobiles_lists|Micromax Ninja A91|http://www.shopclues.com/micromax-a91.html|0|0|0|0|0|0.0|2013-07-24 02:30:52 +0530
+1350|mobiles_lists|Samsung Metro E2202|http://www.shopclues.com/samsung-metro-e2202.html|0|0|0|0|0|0.0|2013-07-24 02:30:56 +0530
+1352|mobiles_lists|HTC Explorer|http://www.shopclues.com/htc-explorer-white-and-black.html|0|0|0|0|0|0.0|2013-07-24 02:31:00 +0530
+1353|mobiles_lists|HTC Salsa|http://www.shopclues.com/new-htc-salsa-mobile-phone.html|0|0|0|0|0|0.0|2013-07-24 02:31:02 +0530
+1355|mobiles_lists|BlackBerry Bold Touch 9900|http://www.shopclues.com/blackberry-bold-9900-white.html|0|0|0|0|0|0.0|2013-07-24 02:31:06 +0530
+1357|mobiles_lists|Micromax A116 Canvas HD|http://www.shopclues.com/micromax-canvas-hd-a116--white--brand-new-sealed-pack--1-year-micromax-warranty--free-leather-flip-cover--1999.html|0|0|0|0|0|0.0|2013-07-24 02:31:08 +0530
+1358|mobiles_lists|Samsung I9500 Galaxy S4|http://www.shopclues.com/samsung-i9500-galaxy-s4-white.html|0|0|0|0|0|0.0|2013-07-24 02:31:10 +0530
+1360|mobiles_lists|Karbonn A9|http://www.shopclues.com/karbonn-a9-pearl-white.html|0|0|0|0|0|0.0|2013-07-24 02:31:12 +0530
+1361|mobiles_lists|Alcatel One Touch Idol|http://www.shopclues.com/alcatel-one-touch-idol-6030.html|0|0|0|0|0|0.0|2013-07-24 02:31:14 +0530
+1362|mobiles_lists|Micromax Bolt A51|http://www.shopclues.com/micromax-a51.html|0|0|0|0|0|0.0|2013-07-24 02:31:16 +0530
+1365|mobiles_lists|Karbonn K65 Buzz|http://www.shopclues.com/karbonn-mobile-k65-buzz.html|0|0|0|0|0|0.0|2013-07-24 02:31:22 +0530
+1367|mobiles_lists|Samsung Rex 90 S5292|http://www.shopclues.com/samsung-rex-90-s5292-white-en.html|0|0|0|0|0|0.0|2013-07-24 02:31:24 +0530
+1369|mobiles_lists|Celkon A67|http://www.shopclues.com/celkon-mobile-a67.html|0|0|0|0|0|0.0|2013-07-24 02:31:28 +0530
+1371|mobiles_lists|Samsung Rex 80 S5222R|http://www.shopclues.com/samsung-rex-80-s5222r-indigo-blue-en.html|0|0|0|0|0|0.0|2013-07-24 02:31:32 +0530
+1375|mobiles_lists|Samsung Galaxy Chat B5330|0|0|0|0|0|0|0.0|2013-07-24 02:31:39 +0530
+1376|mobiles_lists|Micromax A110 Canvas 2|http://www.shopclues.com/micromax-canvas-2-a110--white--brand-new-sealed-pack--1-year-micromax-warranty.html|0|0|0|0|0|0.0|2013-07-24 02:31:41 +0530
+1378|mobiles_lists|Samsung E1200 Pusha|http://www.shopclues.com/samsung-e1200-pusha.html|0|0|0|0|0|0.0|2013-07-24 02:31:44 +0530
+1380|mobiles_lists|Samsung Rex 80 S5222R|http://www.shopclues.com/samsung-rex-80-s5222r-silver-en.html|0|0|0|0|0|0.0|2013-07-24 02:31:48 +0530
+1383|mobiles_lists|Nokia 1280|http://www.shopclues.com/nokia-1280-black-en-2-3-4-5-6.html|0|0|0|0|0|0.0|2013-07-24 02:31:58 +0530
+1390|mobiles_lists|BlackBerry Curve 8530|http://www.shopclues.com/new-blackberry-curve-8530-reliance-3g-network-support--2-mp-primary-camera--cdma-handset--best-price..html|0|0|0|0|0|0.0|2013-07-24 02:32:13 +0530
+1396|mobiles_lists|Karbonn A9|http://www.shopclues.com/karbonn-a9-black-en-2-3.html|0|0|0|0|0|0.0|2013-07-24 02:32:24 +0530
+1398|mobiles_lists|Nokia Asha 305|http://www.shopclues.com/nokia-asha-305-mobile-phone-en-2-3.html|0|0|0|0|0|0.0|2013-07-24 02:32:28 +0530
+1399|mobiles_lists|Samsung Galaxy Music Duos S6012|http://www.shopclues.com/samsung-galaxy-music-duos-s6012-yellow.html|0|0|0|0|0|0.0|2013-07-24 02:32:29 +0530
+1400|mobiles_lists|Karbonn S1 Titanium|http://www.shopclues.com/karbonn-s1-titanium.html|0|0|0|0|0|0.0|2013-07-24 02:32:31 +0530
+1401|mobiles_lists|Samsung Rex 60 C3312R|http://www.shopclues.com/samsung-rex-60-c3312r-flamingo-red.html|0|0|0|0|0|0.0|2013-07-24 02:32:33 +0530
+1403|mobiles_lists|Karbonn A25|http://www.shopclues.com/karbonn-a25-mobile.html|0|0|0|0|0|0.0|2013-07-24 02:32:36 +0530
+1410|mobiles_lists|Karbonn A4|http://www.shopclues.com/karbonn-a4-black-en-2.html|0|0|0|0|0|0.0|2013-07-24 02:32:50 +0530
+1413|mobiles_lists|Samsung Galaxy Chat B5330|http://www.shopclues.com/samsung-galaxy-chat-b5330-android-4.0-ice-cream-sandwich-black-1yr-manf-wty.html|0|0|0|0|0|0.0|2013-07-24 02:32:53 +0530
+1414|mobiles_lists|Micromax A116 Canvas HD|http://www.shopclues.com/newmicromax-canvas-hd-a116android-v4.1.2-os-best-price..html|0|0|0|0|0|0.0|2013-07-24 02:32:55 +0530
+1418|mobiles_lists|Karbonn K440|http://www.shopclues.com/karbonn-mobile-k440-en.html|0|0|0|0|0|0.0|2013-07-24 02:33:01 +0530
+1421|mobiles_lists|Karbonn A4|http://www.shopclues.com/karbonn-a4-white.html|0|0|0|0|0|0.0|2013-07-24 02:33:13 +0530
+1428|mobiles_lists|Samsung Galaxy Chat B5330|http://www.shopclues.com/samsung-galaxy-chat-b5330-white-en-2.html|0|0|0|0|0|0.0|2013-07-24 02:33:33 +0530
+1429|mobiles_lists|Alcatel OT-810D|http://www.shopclues.com/alcatel-810d-victorian-blush.html|0|0|0|0|0|0.0|2013-07-24 02:33:35 +0530
+1433|mobiles_lists|Micromax A111 Canvas Doodle|http://www.shopclues.com/micromax-canvas-doodle-a111--white--brand-new-sealed-pack--1-year-micromax-warranty--free-leather-flip-cover-and-stylus-pen--2499.html|0|0|0|0|0|0.0|2013-07-24 02:33:43 +0530
+1434|mobiles_lists|Micromax X322|http://www.shopclues.com/micromax-a30-black-en-2-3.html|0|0|0|0|0|0.0|2013-07-24 02:33:44 +0530
+1438|mobiles_lists|Karbonn K65 Buzz|http://www.shopclues.com/karbonn-buzz-k65-white.html|0|0|0|0|0|0.0|2013-07-24 02:33:53 +0530
+1439|mobiles_lists|Samsung Champ Neo Duos C3262|http://www.shopclues.com/samsung-champ-neo-duos-c3262-ceramic-white--1-year-manufacturer-warranty-for-phone.html|0|0|0|0|0|0.0|2013-07-24 02:33:54 +0530
+1440|mobiles_lists|Micromax X490|http://www.shopclues.com/new-micromax-x4902-mp-primary-camera2-mp-primary-camera-best-price..html|0|0|0|0|0|0.0|2013-07-24 02:33:56 +0530
+1441|mobiles_lists|Samsung Champ Neo Duos C3262|http://www.shopclues.com/samsung-champ-neo-duos-c3262-black--1-year-manufacturer-warranty-for-phone.html|0|0|0|0|0|0.0|2013-07-24 02:33:58 +0530
+1443|mobiles_lists|Samsung Galaxy Y Plus S5303|http://www.shopclues.com/samsung-galaxy-y-plus-s5303.html|0|0|0|0|0|0.0|2013-07-24 02:34:01 +0530
+1445|mobiles_lists|Karbonn K52 Groovster|http://www.shopclues.com/karbonn-k52-plus-red-and-black.html|0|0|0|0|0|0.0|2013-07-24 02:34:04 +0530
+1446|mobiles_lists|Karbonn S1 Titanium|http://www.shopclues.com/karbonn-s1-titanium-with-1.2ghz-quad-core-black-clone.html|0|0|0|0|0|0.0|2013-07-24 02:34:06 +0530
+1447|mobiles_lists|Karbonn S1 Titanium|http://www.shopclues.com/karbonn-s1-titanium-with-1.2ghz-quad-core-black.html|0|0|0|0|0|0.0|2013-07-24 02:34:08 +0530
+1449|mobiles_lists|Nokia Asha 305|http://www.shopclues.com/nokia-asha-305-dual-sim-gsmgsm-3-touch-screen-mobile-phone.html|0|0|0|0|0|0.0|2013-07-24 02:34:11 +0530
+1455|mobiles_lists|Alcatel One Touch Scribe X|http://www.shopclues.com/intex-gsm-nano-x-black.html|0|0|0|0|0|0.0|2013-07-24 02:34:22 +0530
+1457|mobiles_lists|Micromax Ninja A54|http://www.shopclues.com/new-micromax-ninja-3.5-a54-smartphone-android-v2.3.5-os--best-price..html|0|0|0|0|0|0.0|2013-07-24 02:34:27 +0530
+1460|mobiles_lists|Micromax Ninja A91|http://www.shopclues.com/newmicromax-ninja-a91-superphone-4.0-os-ics-android-dual-sim-5-mp-camera--best-price..html|0|0|0|0|0|0.0|2013-07-24 02:34:33 +0530
+1461|mobiles_lists|Nokia 1280|http://www.shopclues.com/nokia-1280-mobile-phone-en-2.html|0|0|0|0|0|0.0|2013-07-24 02:34:34 +0530
+1466|mobiles_lists|Micromax X286|http://www.shopclues.com/micromax-x286-en.html|0|0|0|0|0|0.0|2013-07-24 02:34:45 +0530
+1472|mobiles_lists|Spice Mi-495 Stellar Virtuoso|http://www.shopclues.com/new-spice-mi-495-android4.0-stellar-vituoso-dual-sim-gsmgsm-mobile.html|0|0|0|0|0|0.0|2013-07-24 02:35:09 +0530
+1475|mobiles_lists|Karbonn K707 Spy II|http://www.shopclues.com/karbonn-k707-black-and-red.html|0|0|0|0|0|0.0|2013-07-24 02:35:17 +0530
+1476|mobiles_lists|Micromax A87 Ninja 4.0|http://www.shopclues.com/new-micromax-ninja-4.0-a87-smartphone-android-v2.3-os--best-price..html|0|0|0|0|0|0.0|2013-07-24 02:35:20 +0530
+1477|mobiles_lists|Apple iPhone 4S|http://www.shopclues.com/apple-iphone-4s-mobile-phone-16gb-white-en-2-3-4-5.html|0|0|0|0|0|0.0|2013-07-24 02:35:23 +0530
+1480|mobiles_lists|HTC Sensation XL|http://www.shopclues.com/new-htc-sensation-xl-16gb-mobile-phone-smartphone.html|0|0|0|0|0|0.0|2013-07-24 02:35:36 +0530
+1481|mobiles_lists|Karbonn K440|http://www.shopclues.com/karbonn-k440-black-and-white.html|0|0|0|0|0|0.0|2013-07-24 02:35:38 +0530
+1487|mobiles_lists|Spice Mi-495 Stellar Virtuoso|http://www.shopclues.com/new-spice-mi-495-android4.0-stellar-vituoso-dual-sim-gsmgsm-mobile-clone.html|0|0|0|0|0|0.0|2013-07-24 02:35:53 +0530
+1490|mobiles_lists|Micromax A116 Canvas HD|http://www.shopclues.com/micromax-canvas-hd-a116-white-and-black-dual-sim-8-mp-android-v4.1.2-jelly-bean-phone.html|0|0|0|0|0|0.0|2013-07-24 02:36:01 +0530
+1491|mobiles_lists|Samsung Galaxy Music Duos S6012|http://www.shopclues.com/samsung-galaxy-music-duos-s6012-android-4.0-white-colour-only-1yr-man-wty.html|0|0|0|0|0|0.0|2013-07-24 02:36:02 +0530
+1493|mobiles_lists|HTC One V|http://www.shopclues.com/htc-one-v-black.html|0|0|0|0|0|0.0|2013-07-24 02:36:08 +0530
+1495|mobiles_lists|Karbonn K440|http://www.shopclues.com/karbonn-k440-black-and-red.html|0|0|0|0|0|0.0|2013-07-24 02:36:11 +0530
+1496|mobiles_lists|HTC ChaCha|http://www.shopclues.com/htc-chacha-3g-mobile-phone.html|0|0|0|0|0|0.0|2013-07-24 02:36:12 +0530
+1497|mobiles_lists|Nokia Lumia 520|http://www.shopclues.com/new-nokia-lumia-520-mobile-phone-with-windows-phone-5-mp-primary-camerawi-fi-enabled--best-price..html|0|0|0|0|0|0.0|2013-07-24 02:36:14 +0530
+1500|mobiles_lists|Sony Xperia Z|http://www.shopclues.com/new-sony-xperia-z-13-mp-primary-camera--water-and-dust-resistant--one-touch-connect-with-nfc--best-price.html|0|0|0|0|0|0.0|2013-07-24 02:36:21 +0530
+1503|mobiles_lists|Nokia Lumia 920|http://www.shopclues.com/new-nokia-lumia-920windows-phone-8-os8.7-mp-primary-cameraqi-wireless-charging--best-price..html|0|0|0|0|0|0.0|2013-07-24 02:36:26 +0530
+1509|mobiles_lists|HTC Desire VC|http://www.shopclues.com/new-htc-t328d-desire-vc-1-ghz-processor--wi-fi-enabled--5-mp-primary-camera--best-price.html|0|0|0|0|0|0.0|2013-07-24 02:36:36 +0530
+1510|mobiles_lists|Nokia Lumia 620|http://www.shopclues.com/new-nokia-lumia-620-mobile-phone-with-windows-phone-5-mp-primary-camera--best-price..html|0|0|0|0|0|0.0|2013-07-24 02:36:39 +0530
+1511|mobiles_lists|HTC Desire V|http://www.shopclues.com/new-htc-t328w-desire-v--1-ghz-cortex-a5-processor--dual-sim-gsm-gsm-wi-fi-enabled-best-price.html|0|0|0|0|0|0.0|2013-07-24 02:36:40 +0530
+1515|mobiles_lists|Apple iPhone 3GS|http://www.shopclues.com/apple-iphone-3g-16gb-black-color.html|0|0|0|0|0|0.0|2013-07-24 02:36:48 +0530
+1516|mobiles_lists|Nokia Lumia 520|http://www.shopclues.com/nokia-lumia-520-windows-8-full-touch-smart-phone-4-1ghz-cpu-5mp.html|0|0|0|0|0|0.0|2013-07-24 02:36:50 +0530
+1518|mobiles_lists|Micromax Bolt A27|http://www.shopclues.com/newmicromax-bolt-a27micromax-a27-ninja-mobile-has-1-ghz-cortex-a5-processor-best-price..html|0|0|0|0|0|0.0|2013-07-24 02:36:56 +0530
+1519|mobiles_lists|Samsung Galaxy Ace Duos S6802|http://www.shopclues.com/samsung-galaxy-ace-duos-s6802-dual-sim-android-2.3-black-colour-1yr-manf-wty.html|0|0|0|0|0|0.0|2013-07-24 02:36:57 +0530
+1524|mobiles_lists|Nokia Asha 305|http://www.shopclues.com/new-nokia-asha-305-touch-screen-mobile-phone-with-mp3--bluetooth--best-price.html|0|0|0|0|0|0.0|2013-07-24 02:37:13 +0530
+1525|mobiles_lists|Samsung Galaxy Grand I9082|http://www.shopclues.com/new-samsung-galaxy-grand-duos-i90828-mp-primary-camerafull-hd-recordingbest-price..html|0|0|0|0|0|0.0|2013-07-24 02:37:15 +0530
+1526|mobiles_lists|HTC Wildfire S|http://www.shopclues.com/new-htc-wildfire-s-android-v2.3-gingerbread-os--wi-fi-enabled-5-mp-primary-camera-best-price.html|0|0|0|0|0|0.0|2013-07-24 02:37:16 +0530
+1527|mobiles_lists|Nokia Asha 202|http://www.shopclues.com/new-nokia-asha-202-dual-sim-mobile-phone-with-mp3--bluetooth--best-price..html|0|0|0|0|0|0.0|2013-07-24 02:37:18 +0530
+1528|mobiles_lists|Nokia Asha 205|http://www.shopclues.com/new-nokia-asha-205-dual-sim-mobile-phone-with-mp3--bluetooth--best-price..html|0|0|0|0|0|0.0|2013-07-24 02:37:20 +0530
+1529|mobiles_lists|Nokia Asha 308|http://www.shopclues.com/nokia-asha-308-black-dual-sim-mobile-phone.html|0|0|0|0|0|0.0|2013-07-24 02:37:23 +0530
+1536|mobiles_lists|Nokia Asha 201|http://www.shopclues.com/new-nokia-asha-201-qwerty-mobile-phone-with-bluetooth--gprs--best-price..html|0|0|0|0|0|0.0|2013-07-24 02:37:44 +0530
+1537|mobiles_lists|Samsung Rex 80 S5222R|http://www.shopclues.com/new-samsung-rex-80-wi-fi--java-enabled3.2-mp-primary-camera--best-price.html|0|0|0|0|0|0.0|2013-07-24 02:37:46 +0530
+1538|mobiles_lists|BlackBerry Curve 3G 9300|http://www.shopclues.com/blackberry-9300-curve-mobile-phone.html|0|0|0|0|0|0.0|2013-07-24 02:37:47 +0530
+1539|mobiles_lists|Micromax X222|http://www.shopclues.com/new-micromax-x222dual-standby-sim-gsm--gsm-gprs-enabled--best-price..html|0|0|0|0|0|0.0|2013-07-24 02:37:49 +0530
+1540|mobiles_lists|HTC Desire C|http://www.shopclues.com/new-htc-a320e-desire-c-wi-fi-enabled--android-v4.0-os--5-mp-primary-camera--best-price.html|0|0|0|0|0|0.0|2013-07-24 02:37:55 +0530
+1541|mobiles_lists|Micromax X291|http://www.shopclues.com/newmicromax-x291-dual-sim-gsm--gsm-dual-sim-gsm--gsm--best-price..html|0|0|0|0|0|0.0|2013-07-24 02:37:56 +0530
+1543|mobiles_lists|Nokia Asha 302|http://www.shopclues.com/new-nokia-asha-302-mobile-phone-with-3g--wifi--mp3--bluetooth--best-price.html|0|0|0|0|0|0.0|2013-07-24 02:38:01 +0530
+1544|mobiles_lists|Nokia Asha 311|http://www.shopclues.com/nokia-asha-311-3display-3.2mp-camera-1ghz-processor-mfg-warrnty.html|0|0|0|0|0|0.0|2013-07-24 02:38:04 +0530
+1545|mobiles_lists|Samsung Galaxy Music Duos S6012|http://www.shopclues.com/samsung-galaxy-music-duos-s6012-android-4.0-blue-colour-only-1yr-man-wty-clone.html|0|0|0|0|0|0.0|2013-07-24 02:38:08 +0530
+1547|mobiles_lists|Nokia Lumia 720|http://www.shopclues.com/nokia-lumia-720-microsoft-window-8-4.3-6.1mp-camera.html|0|0|0|0|0|0.0|2013-07-24 02:38:12 +0530
+1548|mobiles_lists|Nokia Lumia 620|http://www.shopclues.com/nokia-lumia-620-windows-8-os-3.81-inch-touch-1-ghz-dual-core-5-mp-cam.html|0|0|0|0|0|0.0|2013-07-24 02:38:15 +0530
+1553|mobiles_lists|Micromax A110 Canvas 2|http://www.shopclues.com/micromax-canvas-2-a110-white-5-8mp-4.0-ics-dual-core.html|0|0|0|0|0|0.0|2013-07-24 02:38:32 +0530
+1555|mobiles_lists|Nokia 206|http://www.shopclues.com/nokia-206.html|0|0|0|0|0|0.0|2013-07-24 02:38:36 +0530
+1558|mobiles_lists|Celkon A87|http://www.shopclues.com/celkon-mobile-a87.html|0|0|0|0|0|0.0|2013-07-24 02:38:42 +0530
+1559|mobiles_lists|Nokia 1280|http://www.shopclues.com/nokia-1280-en-2-3-4.html|0|0|0|0|0|0.0|2013-07-24 02:38:44 +0530
+1564|mobiles_lists|Nokia 101|http://www.shopclues.com/nokia-101-en-2.html|0|0|0|0|0|0.0|2013-07-24 02:38:57 +0530
+1565|mobiles_lists|LG Optimus Net Dual|http://www.shopclues.com/lg-optimus-net-dual-sim-p698-en.html|0|0|0|0|0|0.0|2013-07-24 02:38:57 +0530
+1883|mouses_lists|Acer Ferrari Wireless Mouse|http://www.shopclues.com/acer-ferrari-laptop-pc-mouse-en.html|0|0|0|0|0|0.0|2013-07-24 02:39:06 +0530
+1885|mouses_lists|Dell WM112 Wireless Optical Mouse|http://www.shopclues.com/dell-wm112-wireless-optical-mouse-black-en.html|0|0|0|0|0|0.0|2013-07-24 02:39:13 +0530
+1899|mouses_lists|Microsoft Mobile 1000 Wireless Optical Mouse|http://www.shopclues.com/microsoft-wireless-mobile-mouse-1000-en.html|0|0|0|0|0|0.0|2013-07-24 02:39:55 +0530
+1903|mouses_lists|Microsoft 100 USB 2.0 Optical Mouse|http://www.shopclues.com/microsoft-optical-mouse-100-en.html|0|0|0|0|0|0.0|2013-07-24 02:40:04 +0530
+1910|mouses_lists|Microsoft Explorer Touch Wireless BlueTrack Mouse|http://www.shopclues.com/microsoft-explorer-touch-mouse-en.html|0|0|0|0|0|0.0|2013-07-24 02:40:21 +0530
+1912|mouses_lists|Belkin M400 Ultimate Wireless Mouse|http://www.shopclues.com/belkin-ultimate-wireless-mouse-m400.html|0|0|0|0|0|0.0|2013-07-24 02:40:25 +0530
+1914|mouses_lists|Targus Ultra Mini Optical Mouse|http://www.shopclues.com/targus-mini-armor-mouse-amu95ap-50.html|0|0|0|0|0|0.0|2013-07-24 02:40:31 +0530
+1920|mouses_lists|Targus W063 Wireless Blue Trace Mouse|http://www.shopclues.com/targus-w063-wireless-blue-trace-mouse-063ap50.html|0|0|0|0|0|0.0|2013-07-24 02:40:44 +0530
+1922|mouses_lists|Belkin M250 Premium Wireless Mouse|http://www.shopclues.com/belkin-premium-wireless-mouse-m250.html|0|0|0|0|0|0.0|2013-07-24 02:40:48 +0530
+1923|mouses_lists|Targus Wireless Comfort Laser Mouse|http://www.shopclues.com/targus-wireless-comfort-laser-mouse-51ap50.html|0|0|0|0|0|0.0|2013-07-24 02:40:50 +0530
+1924|mouses_lists|Dell MS111 3-Button Optical USB 2.0 Mouse|http://www.shopclues.com/dell-ms111-3-button-optical-usb-2.0-mouse-en.html|0|0|0|0|0|0.0|2013-07-24 02:40:53 +0530
+1925|mouses_lists|Targus Basic Wireless Optical Mouse|http://www.shopclues.com/targus-basic-wireless-optical-mouse-47ap.html|0|0|0|0|0|0.0|2013-07-24 02:40:55 +0530
+1928|mouses_lists|Targus Amor Mini Blue Trace Mouse|http://www.shopclues.com/targus-armor-mini-blue-trace-mouse-097ap.html|0|0|0|0|0|0.0|2013-07-24 02:41:04 +0530
+1929|mouses_lists|Targus Cord-Storing Optical Mouse|http://www.shopclues.com/targus-cord-storing-optical-mouse-76ap50.html|0|0|0|0|0|0.0|2013-07-24 02:41:07 +0530
+1930|mouses_lists|Logitech Wireless Mini M187|http://www.shopclues.com/logitech-wireless-mouse-m185-black-clone.html|0|0|0|0|0|0.0|2013-07-24 02:41:07 +0530
+1945|mouses_lists|Dell WM112 Wireless Optical Mouse|http://www.shopclues.com/dell-wireless-optical-mouse-wm112-2.4ghz-radio-frequency....html|0|0|0|0|0|0.0|2013-07-24 02:41:53 +0530
+1960|mouses_lists|HP X4000b Bluetooth Mouse|http://www.shopclues.com/hp-x4000b-bluetooth-mouse.html|0|0|0|0|0|0.0|2013-07-24 02:42:34 +0530
+1961|mouses_lists|Logitech Wireless Mouse M185|http://www.shopclues.com/logitech-wireless-mouse-m185-swift-grey-fe.html|0|0|0|0|0|0.0|2013-07-24 02:42:35 +0530
+1964|mouses_lists|Lenovo Wired Laser Mouse M6811|http://www.shopclues.com/lenovo-6811-laser-gaming-mouse.html|0|0|0|0|0|0.0|2013-07-24 02:42:44 +0530
+2010|headphones_lists|Sennheiser HD 180|http://www.shopclues.com/sennheiser-hd-180-headphone-headset.html|0|0|0|0|0|0.0|2013-07-24 02:42:51 +0530
+2014|headphones_lists|Sennheiser CX 400 II Precision In-ear-canalphone|http://www.shopclues.com/sennheiser-cx-400-ii-precision-earphone.html|0|0|0|0|0|0.0|2013-07-24 02:43:02 +0530
+2017|headphones_lists|JBL Tempo In Ear Headphone|http://www.shopclues.com/jbl-tempo-on-ear-headphones-black-en.html|0|0|0|0|0|0.0|2013-07-24 02:43:09 +0530
+2018|headphones_lists|JBL Tempo In Ear Headphone|http://www.shopclues.com/jbl-tempo-on-ear-headphones-blue.html|0|0|0|0|0|0.0|2013-07-24 02:43:12 +0530
+2019|headphones_lists|JBL Tempo In Ear Headphone|http://www.shopclues.com/jbl-tempo-on-ear-headphones-white.html|0|0|0|0|0|0.0|2013-07-24 02:43:15 +0530
+2020|headphones_lists|JBL Tempo In Ear Headphone|http://www.shopclues.com/jbl-tempo-on-ear-headphones-red.html|0|0|0|0|0|0.0|2013-07-24 02:43:17 +0530
+2021|headphones_lists|Sony MDR-J10 In-the-ear Headphone|http://www.shopclues.com/sony-mdr-j10-earphones-headphones.html|0|0|0|0|0|0.0|2013-07-24 02:43:19 +0530
+2023|headphones_lists|Sennheiser HD 201 Headphone|http://www.shopclues.com/sennheiser-hd-201-headphone-en.html|0|0|0|0|0|0.0|2013-07-24 02:43:24 +0530
+2024|headphones_lists|Sennheiser HD 229 Headphone|http://www.shopclues.com/sennheiser-hd-229-headphone-en-2.html|0|0|0|0|0|0.0|2013-07-24 02:43:26 +0530
+2025|headphones_lists|Sennheiser HD 239 Headphone|http://www.shopclues.com/sennheiser-hd-239-headphone-en.html|0|0|0|0|0|0.0|2013-07-24 02:43:27 +0530
+2030|headphones_lists|Sony MDR-ZX300 Headphone|http://www.shopclues.com/sony-mdr-zx300-sound-monitoring-headphones-black.html|0|0|0|0|0|0.0|2013-07-24 02:43:41 +0530
+2031|headphones_lists|Sony MDR-ZX300 Headphone|http://www.shopclues.com/sony-mdr-zx300-sound-monitoring-headphones-golden.html|0|0|0|0|0|0.0|2013-07-24 02:43:42 +0530
+2034|headphones_lists|Philips SHE3590PP-10 Headphone|http://www.shopclues.com/philips-she3590pp-10-in-ear-headphones-en-2-3-4.html|0|0|0|0|0|0.0|2013-07-24 02:43:49 +0530
+2045|headphones_lists|Sennheiser CX 300 II Precision In-ear-canalphone|http://www.shopclues.com/sennheiser-cx-300-ii-precision-travel-headphones-en.html|0|0|0|0|0|0.0|2013-07-24 02:44:15 +0530
+2048|headphones_lists|Sony MDR-ZX300 Headphone|http://www.shopclues.com/sony-mdr-zx300-sound-monitoring-headphones-blue.html|0|0|0|0|0|0.0|2013-07-24 02:44:19 +0530
+2049|headphones_lists|Sony MDR-ZX300 Headphone|http://www.shopclues.com/sony-mdr-zx300-sound-monitoring-headphones-gold.html|0|0|0|0|0|0.0|2013-07-24 02:44:20 +0530
+2050|headphones_lists|Philips SHE3570BK In-the-ear Headphone|http://www.shopclues.com/philips-she3570bk-98-in-ear-headphones.html|0|0|0|0|0|0.0|2013-07-24 02:44:22 +0530
+2051|headphones_lists|Philips SHE3570BK In-the-ear Headphone|http://www.shopclues.com/philips-she3570wt-98-in-ear-headphones.html|0|0|0|0|0|0.0|2013-07-24 02:44:24 +0530
+2058|headphones_lists|Sennheiser HD 203 Headphone|http://www.shopclues.com/sennheiser-hd-203-professional-dj-closed-headset.html|0|0|0|0|0|0.0|2013-07-24 02:44:37 +0530
+2061|headphones_lists|Skullcandy S6HSDZ-058 Hesh 2.0 Rasta Headphone|http://www.shopclues.com/skullcandy-supreme-hesh-with-mic-s6hsdz-058-en.html|0|0|0|0|0|0.0|2013-07-24 02:44:43 +0530
+2063|headphones_lists|Sennheiser HD 229 Headphone|http://www.shopclues.com/sennheiser-hd-229-headphone-white.html|0|0|0|0|0|0.0|2013-07-24 02:44:46 +0530
+2064|headphones_lists|Sennheiser PXC 310 Headphone|http://www.shopclues.com/sennheiser-pxc-310-headphone.html|0|0|0|0|0|0.0|2013-07-24 02:44:47 +0530
+2065|headphones_lists|Sennheiser PXC 450 Headphone|http://www.shopclues.com/sennheiser-pxc-450-headphone.html|0|0|0|0|0|0.0|2013-07-24 02:44:49 +0530
+2068|headphones_lists|Philips SHQ3000-98 Headphone|http://www.shopclues.com/philips-shq3000-earhook-headphones-shq-3000-3.5mm-jack.html|0|0|0|0|0|0.0|2013-07-24 02:44:53 +0530
+2075|headphones_lists|Sennheiser OMX 680 Sports Headphone|http://www.shopclues.com/sennheiser-mx680-sports-in-ear-earphone-en-2.html|0|0|0|0|0|0.0|2013-07-24 02:45:08 +0530
+2076|headphones_lists|Sennheiser CX 310 Originals|http://www.shopclues.com/sennheiser-cx-310-originals-headphone.html|0|0|0|0|0|0.0|2013-07-24 02:45:10 +0530
+2082|headphones_lists|Sennheiser CX 680 Sports|http://www.shopclues.com/sennheiser-cx-680-sports-headset-en.html|0|0|0|0|0|0.0|2013-07-24 02:45:20 +0530
+2086|headphones_lists|JBL J22 In-the-ear Headphone|http://www.shopclues.com/jbl-j22-in-the-ear-headphone-black-en-2.html|0|0|0|0|0|0.0|2013-07-24 02:45:30 +0530
+2088|headphones_lists|JBL Tempo J04W Over-the-ear Headphone|http://www.shopclues.com/jbl-tempo-j04w-over-the-ear-headphone-white-en.html|0|0|0|0|0|0.0|2013-07-24 02:45:34 +0530
+2093|headphones_lists|Sony MDR-E9A Headphone|http://www.shopclues.com/sony-mdr-e9a-bc-in-headphone-black-en.html|0|0|0|0|0|0.0|2013-07-24 02:45:46 +0530
+2095|headphones_lists|Philips SHP1900 Headphone|http://www.shopclues.com/philips-shp1900-hi-fi-headphone-with-bill-and-waranty-209106.html|0|0|0|0|0|0.0|2013-07-24 02:45:50 +0530
+2097|headphones_lists|Sony MDR-ZX100-B On-the-ear Headphone|http://www.shopclues.com/sony-mdr-zx100-sound-monitoring-headphone-en.html|0|0|0|0|0|0.0|2013-07-24 02:45:54 +0530
+2098|headphones_lists|JBL Tempo In Ear Headphone|http://www.shopclues.com/jbl-tempo-in-ear-superior-earphones.html|0|0|0|0|0|0.0|2013-07-24 02:45:55 +0530
+2099|headphones_lists|Sony MDR-ZX100-B On-the-ear Headphone|http://www.shopclues.com/sony-mdr-zx100-sound-monitoring-headphone-black.html|0|0|0|0|0|0.0|2013-07-24 02:45:57 +0530
+2100|headphones_lists|Sony MDR-ZX100-B On-the-ear Headphone|http://www.shopclues.com/sony-mdr-zx100-sound-monitoring-headphone-blue.html|0|0|0|0|0|0.0|2013-07-24 02:45:58 +0530
+2101|headphones_lists|Sony MDR-ZX100-B On-the-ear Headphone|http://www.shopclues.com/sony-mdr-zx100-sound-monitoring-headphone-red.html|0|0|0|0|0|0.0|2013-07-24 02:46:00 +0530
+2137|printers_lists|Canon Image Class - MF3010 Multifunction Laser Printer|http://www.shopclues.com/canon-image-class-mf3010-multifunction-laser-printer-en-2.html|0|0|0|0|0|0.0|2013-07-24 02:46:02 +0530
+2139|printers_lists|Canon - IP1188 Single Function Inkjet Printer|http://www.shopclues.com/canon-ip1188-single-function-inkjet-printer-en-2.html|0|0|0|0|0|0.0|2013-07-24 02:46:08 +0530
+2140|printers_lists|Canon Laser Shot - LBP 2900B Single Function Laser Printer|http://www.shopclues.com/canon-laser-shot-lbp-2900b-single-function-laser-printer-en.html|0|0|0|0|0|0.0|2013-07-24 02:46:09 +0530
+2143|printers_lists|Canon PIXMA MG2270 Multifunction Inkjet Printer|http://www.shopclues.com/canon-pixma-mg2270-multifunction-inkjet-printer.html|0|0|0|0|0|0.0|2013-07-24 02:46:15 +0530
+2144|printers_lists|Canon PIXMA MG3170 Multifunction Inkjet Printer|http://www.shopclues.com/canon-pixma-mg3170-multifunction-inkjet-printer.html|0|0|0|0|0|0.0|2013-07-24 02:46:17 +0530
+2145|printers_lists|Canon PIXMA MP237 Multifunction Inkjet Printer|http://www.shopclues.com/canon-pixma-mp237-multifunction-inkjet-printer-en.html|0|0|0|0|0|0.0|2013-07-24 02:46:19 +0530
+2146|printers_lists|Canon PIXMA - MP 287 Multifunction Inkjet Printer|http://www.shopclues.com/canon-pixma-mp-287-multifunction-inkjet-printer-en-2.html|0|0|0|0|0|0.0|2013-07-24 02:46:21 +0530
+2148|printers_lists|Epson - ME-101 Multifunction Inkjet Printer|http://www.shopclues.com/epson-expression-me-101-printer.html|0|0|0|0|0|0.0|2013-07-24 02:46:25 +0530
+2153|printers_lists|HP Deskjet Ink Advantage 2515 All-in-One Printer|http://www.shopclues.com/hp-2515-ink-advantage-multifunction-inkjet-printer-en-2-3-4-5.html|0|0|0|0|0|0.0|2013-07-24 02:46:34 +0530
+2159|printers_lists|HP Deskjet 1000 - J110a Single Function Inkjet Printer|http://www.shopclues.com/hp-deskjet-1000-color-printer-j110a-en-2-3.html|0|0|0|0|0|0.0|2013-07-24 02:46:52 +0530
+2168|printers_lists|HP Deskjet 1050 All-in-One Printer|http://www.shopclues.com/hp-deskjet-1050-j-410-copier-scanner-color-printer.html|0|0|0|0|0|0.0|2013-07-24 02:47:13 +0530
+2176|printers_lists|HP Deskjet Ink Advantage 6525 e-All-in-One Printer|http://www.shopclues.com/hp-deskjet-ink-advantage-6525-e-all-in-one-printer.html|0|0|0|0|0|0.0|2013-07-24 02:47:31 +0530
+2180|printers_lists|HP Deskjet 1050 All-in-One Printer|http://www.shopclues.com/hp-deskjet-printer-1050.html|0|0|0|0|0|0.0|2013-07-24 02:47:39 +0530
+2183|printers_lists|HP LaserJet 1020 - 1020 Plus Single Function Laser Printer|http://www.shopclues.com/hp-laserjet-1020-plus-single-function-laser-printer.html|0|0|0|0|0|0.0|2013-07-24 02:47:44 +0530
+2191|printers_lists|HP Officejet 6500a Plus - E710n Multifunction Inkjet Printer|http://www.shopclues.com/hp-officejet-6500a-e-all-in-one-printer.html|0|0|0|0|0|0.0|2013-07-24 02:47:59 +0530
+2193|printers_lists|HP Officejet Pro 8100 ePrinter|http://www.shopclues.com/hp-officejet-pro-8100-eprinter-en.html|0|0|0|0|0|0.0|2013-07-24 02:48:03 +0530
+2195|printers_lists|HP Officejet Pro 8100 ePrinter|http://www.shopclues.com/hp-pro-8100-office-jet-printer.html|0|0|0|0|0|0.0|2013-07-24 02:48:07 +0530
+2202|printers_lists|Samsung - SCX 3401 Multifunction Laser Printer|http://www.shopclues.com/samsung-scx-3401-multifunction-laser-printer-en-2-3.html|0|0|0|0|0|0.0|2013-07-24 02:48:22 +0530
+2205|printers_lists|Samsung - SCX 4021 Multifunction Laser Printer|http://www.shopclues.com/samsung-scx-4021s-xip-multifunction-laser-printer-en.html|0|0|0|0|0|0.0|2013-07-24 02:48:29 +0530
+2206|printers_lists|Samsung - SCX 4321NS Multifunction Laser Printer|http://www.shopclues.com/samsung-scx-4321ns-xip-multifunction-laser-printer-en.html|0|0|0|0|0|0.0|2013-07-24 02:48:31 +0530
+2207|printers_lists|Samsung - SCX 4521FS Multifunction Laser Printer|http://www.shopclues.com/samsung-scx-4521fs-xip-multifunction-laser-printer-en.html|0|0|0|0|0|0.0|2013-07-24 02:48:33 +0530
+2269|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.shopclues.com/dell-inspiron-15-3521-laptop-intel-celeron-dual-core-2gb-500gb-dos.html|0|0|0|0|0|0.0|2013-07-24 02:48:54 +0530
+2271|laptops_lists|HP Pavilion 15-B003TU Sleekbook|http://www.shopclues.com/hp-pavilion-15-b003tu-laptop-pdc-2nd-gen-2-gb-500-gb-dos.html|0|0|0|0|0|0.0|2013-07-24 02:48:59 +0530
+2272|laptops_lists|Acer Aspire One 725 Laptop|http://www.shopclues.com/acer-aspire-one-725-laptop-apu-dual-core-2gb-320gb-win7-starter-256mb-graph-nu.sgpsi.002-black.html|0|0|0|0|0|0.0|2013-07-24 02:49:00 +0530
+2279|laptops_lists|Dell Vostro 2420 Laptop|http://www.shopclues.com/dell-vostro-2420-ci3-2nd-gen-laptop-black-and-rubber-texture.html|0|0|0|0|0|0.0|2013-07-24 02:49:16 +0530
+2289|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.shopclues.com/dell-inspiron-15-3521-laptop-pentium-dual-core-2gb-500gb-dos.html|0|0|0|0|0|0.0|2013-07-24 02:49:38 +0530
+2290|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.shopclues.com/dell-inspiron-15-3521-laptop-pentium-dual-core-2gb-500gb-win8.html|0|0|0|0|0|0.0|2013-07-24 02:49:40 +0530
+2292|laptops_lists|Samsung NP350E5C-S01IN Laptop|http://www.shopclues.com/samsung-np350e5c-s01in-laptop-3rd-gen-ci3-4gb-750gb-win8-1gb-graph-black.html|0|0|0|0|0|0.0|2013-07-24 02:49:44 +0530
+2294|laptops_lists|HP Pavilion G6-2226TU Laptop|http://www.shopclues.com/hp-pavilion-g6-2226tu-laptop-3rd-gen-ci3-4gb-500gb-win8-imprint-sparkling-black-en.html|0|0|0|0|0|0.0|2013-07-24 02:49:48 +0530
+2296|laptops_lists|Asus X53U-SX358D Laptop|http://www.shopclues.com/asus-x53u-sx358d-laptop-amd-brazos-500-gb-2-gb-dos.html|0|0|0|0|0|0.0|2013-07-24 02:49:54 +0530
+2298|laptops_lists|HP Pavilion 15-B002TX Sleekbook|http://www.shopclues.com/hp-pavilion-sleekbook-15-b002tx-core-i3-3rd-gen-2gb-500gb-1gb-graph-win8-sparkling-black.html|0|0|0|0|0|0.0|2013-07-24 02:49:58 +0530
+2302|laptops_lists|Sony VAIO SVE1511AEN Laptop|http://www.shopclues.com/sony-vaio-sve1511aen-15.5-laptop-black.html|0|0|0|0|0|0.0|2013-07-24 02:50:13 +0530
+2303|laptops_lists|Toshiba C850D M5010 Laptop|http://www.shopclues.com/toshiba-c850d-m5010-15.6-laptop-black-en-2-3-4.html|0|0|0|0|0|0.0|2013-07-24 02:50:16 +0530
+2306|laptops_lists|Samsung NP300E5X-A08IN Laptop|http://www.shopclues.com/samsung-np300e5x-a08in-laptop-3rd-gen-ci3-2gb-500gb-dos.html|0|0|0|0|0|0.0|2013-07-24 02:50:22 +0530
+2323|laptops_lists|Lenovo Essential G580-59-324064 Laptop|http://www.shopclues.com/lenovo-essential-g580-59-324064-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:51:04 +0530
+2324|laptops_lists|Sony VAIO E14133 Laptop|http://www.shopclues.com/sony-vaio-e14133-laptop-2gb-ram-500gb-hdd-3nd-gen-i3-win-8.html|0|0|0|0|0|0.0|2013-07-24 02:51:06 +0530
+2325|laptops_lists|Sony VAIO SVE14113EN Laptop|http://www.shopclues.com/sony-vaio-e14113-14-laptop-black-en.html|0|0|0|0|0|0.0|2013-07-24 02:51:07 +0530
+2337|laptops_lists|Toshiba Satellite C850-E0010 Laptop|http://www.shopclues.com/toshiba-satellite-c850-p0010-notebook.html|0|0|0|0|0|0.0|2013-07-24 02:51:38 +0530
+2357|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.shopclues.com/dell-inspiron-3521-v5601118th-black-intel-core-i5-3317u-4gb-ddr3-1tb-15-led-ati-radeon-hd8730m-2-gb-graphics-ubuntu.html|0|0|0|0|0|0.0|2013-07-24 02:52:29 +0530
+2358|laptops_lists|Acer Aspire One 725 Laptop|http://www.shopclues.com/acer-aspire-one-725-laptop-apu-dual-core-2gb-500gb-win7-hb-nu.sgpsi.001-black.html|0|0|0|0|0|0.0|2013-07-24 02:52:32 +0530
+2366|laptops_lists|HP Pavilion G6-2226TU Laptop|http://www.shopclues.com/hp-pavilion-g6-2226tu-laptop-3rd-gen-ci3-4gb-500gb-win8-200689.html|0|0|0|0|0|0.0|2013-07-24 02:52:49 +0530
+2367|laptops_lists|Dell Inspiron 15R Laptop|http://www.shopclues.com/dell-inspiron-15r-5520-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:52:51 +0530
+2374|laptops_lists|Sony VAIO E15135 Laptop|http://www.shopclues.com/sony-vaio-e15135-laptop-3rd-gen-ci3-4gb-500gb-win8-1gb-graph-black.html|0|0|0|0|0|0.0|2013-07-24 02:53:10 +0530
+2376|laptops_lists|HP Pavilion G6-2230TX Laptop|http://www.shopclues.com/hp-pavilion-g6-2230tx-notebook-pc-core-i3-3rd-gen-2gb-500gb-dos-sparkling-black.html|0|0|0|0|0|0.0|2013-07-24 02:53:20 +0530
+2381|laptops_lists|Sony VAIO SVE15115EN Laptop|http://www.shopclues.com/sony-vaio-sve15115en-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:53:32 +0530
+2391|laptops_lists|Dell Vostro 3560 Laptop|http://www.shopclues.com/dell-vostro-3560-laptop-3rd-gen-ci5-4gb-500gb-linux-1gb-graph-silver.html|0|0|0|0|0|0.0|2013-07-24 02:53:54 +0530
+2392|laptops_lists|Lenovo Ideapad Z570-59-321453 Laptop|http://www.shopclues.com/lenovo-z570-59-321453-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:53:56 +0530
+2393|laptops_lists|HP Pavilion 14-B012AU Sleekbook|http://www.shopclues.com/hp-pavilion-14-b012au-14-sleekbook.html|0|0|0|0|0|0.0|2013-07-24 02:53:58 +0530
+2395|laptops_lists|Dell Inspiron 15R 5521 Laptop|http://www.shopclues.com/dell-inspiron-15r-5521-corei5-3rd-gen-4gb-1tb-2gb-graphics-win8-silver-and-black.html|0|0|0|0|0|0.0|2013-07-24 02:54:03 +0530
+2396|laptops_lists|HP Pavilion G6-2232TX Laptop|http://www.shopclues.com/hp-pavilion-g6-2232tx-notebook-pc-core-i3-3rd-gen-4gb-500gb-1gb-graph-win8-linen-white.html|0|0|0|0|0|0.0|2013-07-24 02:54:05 +0530
+2399|laptops_lists|HP Pavilion G6-2204TX Laptop|http://www.shopclues.com/hp-pavilion-g6-2204tx-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:54:12 +0530
+2406|laptops_lists|Acer Aspire V5 571 Laptop|http://www.shopclues.com/acer-v5-571-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:54:28 +0530
+2413|laptops_lists|HP Pavilion G6-2231TX Laptop|http://www.shopclues.com/hp-pavilion-g6-2231tx-laptop-3rd-gen-ci3-4gb-500gb-win8-1gb-graph-en.html|0|0|0|0|0|0.0|2013-07-24 02:54:42 +0530
+2415|laptops_lists|Lenovo Ideapad Z580-59-338097 Laptop|http://www.shopclues.com/lenovo-ideapad-z580-59-338097-15.6inch-laptop-pearl-white.html|0|0|0|0|0|0.0|2013-07-24 02:54:47 +0530
+2420|laptops_lists|HP Pavilion G6-2203TX Laptop|http://www.shopclues.com/hp-pavilion-g6-2203tx-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:54:55 +0530
+2421|laptops_lists|Asus F202E-CT148H VivoBook|http://www.shopclues.com/asus-f202e-ct148h-corei3-3rd-gen-4gb-500gb-11.6-touch-windows-8-vivobook.html|0|0|0|0|0|0.0|2013-07-24 02:54:57 +0530
+2422|laptops_lists|Dell Vostro 2420 Laptop|http://www.shopclues.com/dell-vostro-2420-laptop-2nd-gen-ci3-2gb-500gb-win8-grey.html|0|0|0|0|0|0.0|2013-07-24 02:54:59 +0530
+2423|laptops_lists|HP 2000-2209TU Laptop|http://www.shopclues.com/hp-2000-2209tu-15.6-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:55:01 +0530
+2424|laptops_lists|Sony VAIO SVE15116EN Laptop|http://www.shopclues.com/sony-vaio-sve15116en-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:55:03 +0530
+2426|laptops_lists|Sony VAIO SVE15118FN Laptop|http://www.shopclues.com/sony-vaio-sve15118fn-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:55:08 +0530
+2432|laptops_lists|Sony VAIO SVE1511AEN Laptop|http://www.shopclues.com/sony-vaio-sve1511aen-15.5-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:55:22 +0530
+2433|laptops_lists|Asus K55VM-SX086D Laptop|http://www.shopclues.com/asus-k55vm-sx086d-laptop-3rd-gen-ci7-8gb-1tb-dos-2gb-graph-164647.html|0|0|0|0|0|0.0|2013-07-24 02:55:23 +0530
+2436|laptops_lists|Samsung NP900X1B-A01IN Laptop|http://www.shopclues.com/samsung-np900x1b-a01in-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:55:30 +0530
+2441|laptops_lists|Lenovo Ideapad S400-59-356394 Laptop|http://www.shopclues.com/lenovo-s400-59-356394-laptop-2nd-gen-pdc-2gb-500gb-dos.html|0|0|0|0|0|0.0|2013-07-24 02:55:40 +0530
+2456|laptops_lists|Lenovo Ideapad Z580-59-338105 Laptop|http://www.shopclues.com/lenovo-ideapad-z580-59-338105-15.6-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:56:14 +0530
+2457|laptops_lists|Sony VAIO E15135 Laptop|http://www.shopclues.com/sony-vaio-e15135-laptop-3rd-gen-ci3-4gb-500gb-win8-1gb-graph.html|0|0|0|0|0|0.0|2013-07-24 02:56:15 +0530
+2458|laptops_lists|HP 2000-2202TU Laptop|http://www.shopclues.com/hp-2000-2202tu-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:56:17 +0530
+2464|laptops_lists|HP Pavilion G6-2201AX Laptop|http://www.shopclues.com/hp-pavilion-g6-2201ax-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:56:31 +0530
+2466|laptops_lists|HP Pavilion DV6-7040TX Laptop|http://www.shopclues.com/hp-dv6-7040tx-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:56:35 +0530
+2468|laptops_lists|Sony VAIO E15136 Laptop|http://www.shopclues.com/sony-vaio-e15136-laptop-3rd-gen-ci5-4gb-500gb-win8-1gb-graph.html|0|0|0|0|0|0.0|2013-07-24 02:56:38 +0530
+2479|laptops_lists|HP Envy 4-1104TX Ultrabook|http://www.shopclues.com/hp-envy-4-1104tx-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:57:03 +0530
+2483|laptops_lists|HP Envy 4-1105TX Ultrabook|http://www.shopclues.com/hp-envy-4-1105tx-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:57:13 +0530
+2484|laptops_lists|HP Envy 4-1102TX Ultrabook|http://www.shopclues.com/hp-envy-4-1102tx-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:57:15 +0530
+2486|laptops_lists|HP 1000-1204TU Laptop|http://www.shopclues.com/hp-1000-1204tu-laptop-229016.html|0|0|0|0|0|0.0|2013-07-24 02:57:19 +0530
+2497|laptops_lists|HP Envy 6-1011TU Sleekbook|http://www.shopclues.com/hp-envy-6-1011tu-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:57:43 +0530
+2499|laptops_lists|HP Envy 4-1103TX Ultrabook|http://www.shopclues.com/hp-envy-4-1103tx-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:57:47 +0530
+2505|laptops_lists|Toshiba Satellite C870-I0010 Laptop|http://www.shopclues.com/toshiba-satellite-c870-i0010-17.3-laptop-en.html|0|0|0|0|0|0.0|2013-07-24 02:57:59 +0530
+2507|laptops_lists|Asus S550CM-CJ054H Ultrabook|http://www.shopclues.com/asus-s550cm-cj054h-ultrabook-3rd-gen-ci5-4gb-750gb-24gb-ssd-win8-2gb-graph-touch-black.html|0|0|0|0|0|0.0|2013-07-24 02:58:04 +0530
+2508|laptops_lists|Dell Inspiron 15R 5521 Laptop|http://www.shopclues.com/dell-inspiron-15r-5521-laptop-corei5-3rd-gen-4gb-500-dos.html|0|0|0|0|0|0.0|2013-07-24 02:58:05 +0530
+2511|laptops_lists|Dell Inspiron 15R 5521 Laptop|http://www.shopclues.com/dell-inspiron-15r-5521-corei5-3rd-gen-4gb-500gb-dos.html|0|0|0|0|0|0.0|2013-07-24 02:58:10 +0530
+2519|laptops_lists|Lenovo Ideapad Z580-59-338105 Laptop|http://www.shopclues.com/lenovo-ideapad-z580-59-338105-laptop.html|0|0|0|0|0|0.0|2013-07-24 02:58:24 +0530
+2522|laptops_lists|HP 1000-1204TU Laptop|http://www.shopclues.com/hp-1000-1204tu-notebook-cdc-500-gb-2-gb-win-8.html|0|0|0|0|0|0.0|2013-07-24 02:58:31 +0530
+2524|laptops_lists|Asus K55VD-SX314D Laptop|http://www.shopclues.com/asus-k55vd-sx314d-laptop-en.html|0|0|0|0|0|0.0|2013-07-24 02:58:34 +0530
+2525|laptops_lists|HP 1000-1130TU Laptop|http://www.shopclues.com/hp-1000-1320tu-intel-core-i3-2348m-2.30-ghz-4gb-ddr3-hdd-500gb-14.0-hd-led-brightview.html|0|0|0|0|0|0.0|2013-07-24 02:58:36 +0530
+2528|laptops_lists|Dell Vostro 1550|http://www.shopclues.com/dell-vostro-1550-2nd-gen-core-i3-2gb-ram-500gb-hdd-15.6inch-screen-dos.html|0|0|0|0|0|0.0|2013-07-24 02:58:42 +0530
+2539|laptops_lists|HP Envy 6-1011TU Sleekbook|http://www.shopclues.com/hp-envy-6-1011tu-15.6-laptop-en-2-3.html|0|0|0|0|0|0.0|2013-07-24 02:59:10 +0530
+2544|laptops_lists|Toshiba Satellite C850-P0011 Laptop|http://www.shopclues.com/toshiba-satellite-c850-p0011-laptop-2nd-gen-pdc-2gb-320gb-windows-7-premium.html|0|0|0|0|0|0.0|2013-07-24 02:59:24 +0530
+2547|laptops_lists|Toshiba Satellite C850-I5010 Laptop|http://www.shopclues.com/toshiba-satellite-c850-i5010-15.6-laptop-en.html|0|0|0|0|0|0.0|2013-07-24 02:59:31 +0530
+2552|laptops_lists|Lenovo Essential G580-59-324015 Laptop|http://www.shopclues.com/lenovo-essential-g580-59-324015-laptop-3rd-gen-ci3-2gb-500gb-dos-en.html|0|0|0|0|0|0.0|2013-07-24 02:59:42 +0530
+2553|laptops_lists|Dell Vostro 2520 Laptop|http://www.shopclues.com/dell-vostro-2520-laptop-i3-2328m-2nd-generation-2-gb-ram-500-gb-hdd-dos-15.6.html|0|0|0|0|0|0.0|2013-07-24 02:59:44 +0530
+2557|laptops_lists|Sony VAIO E15126CN Laptop|http://www.shopclues.com/sony-vaio-e15126cn-laptop-3rd-gen-ci3-4gb-500gb-win8.html|0|0|0|0|0|0.0|2013-07-24 02:59:53 +0530
+2566|laptops_lists|HP 450 Laptop|http://www.shopclues.com/hp-450-b8z76pa-laptop-celeron-dual-core-2-gb-320-gb-dos.html|0|0|0|0|0|0.0|2013-07-24 03:00:33 +0530
+2570|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.shopclues.com/dell-inspiron-15-3521-core-i5-3rd-gen-4gb-500gb-1gb-graphics-15.6-win-8.html|0|0|0|0|0|0.0|2013-07-24 03:00:42 +0530
+2581|laptops_lists|Asus 1225C-SIV014W Laptop|http://www.shopclues.com/asus-1225c-siv014w-laptop-2nd-gen-atom-dual-core-2gb-500gb-11.6.html|0|0|0|0|0|0.0|2013-07-24 03:01:10 +0530
+2590|laptops_lists|HP Pavilion DV6-7206TX Laptop|http://www.shopclues.com/hp-pavilion-dv6-7206tx-laptop-core-i7-3rd-gen-2-gb-8-gb-win-8.html|0|0|0|0|0|0.0|2013-07-24 03:01:31 +0530
+2607|laptops_lists|Toshiba Satellite C840-I4210 Laptop|http://www.shopclues.com/toshiba-satellite-c840-i4210-laptop-2-gen-ci3-2gb-500gb-win7-hb-black.html|0|0|0|0|0|0.0|2013-07-24 03:02:13 +0530
+2619|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.shopclues.com/dell-inspiron-15-3521-laptop-corei5-3rd-gen-4gb-500gb-win8.html|0|0|0|0|0|0.0|2013-07-24 03:02:46 +0530
+2622|laptops_lists|Samsung NP350V5X-S01IN Laptop|http://www.shopclues.com/samsung-np350v5x-s01in-laptop-3rd-gen-ci5-4gb-500gb-dos-2gb-graph-titan-silver.html|0|0|0|0|0|0.0|2013-07-24 03:02:53 +0530
+2634|laptops_lists|Dell Vostro 2420 Laptop|http://www.shopclues.com/intex-calling-tablet-i-connect-clone-en.html|0|0|0|0|0|0.0|2013-07-24 03:03:24 +0530
+2636|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.shopclues.com/dell-3521-core-i3-32227-3rd-gen-15.6-6gb-500gb-win-8.html|0|0|0|0|0|0.0|2013-07-24 03:03:28 +0530
+2637|laptops_lists|HP Pavilion G6-2229TU Laptop|http://www.shopclues.com/hp-pavilion-g6-2229tu-laptop-3rd-gen-ci5-4gb-500gb-dos-sparkling-black.html|0|0|0|0|0|0.0|2013-07-24 03:03:30 +0530
+2640|laptops_lists|Sony VAIO E15137 Laptop|http://www.shopclues.com/sony-vaio-e15137-laptop-3rd-gen-ci5-4gb-750gb-win8-2gb-graph-silver.html|0|0|0|0|0|0.0|2013-07-24 03:03:38 +0530
+2641|laptops_lists|Dell Vostro 2520 Laptop|http://www.shopclues.com/dell-vostro-2520-laptop-3rd-gen-ci5-4gb-500gb-dos-grey-en.html|0|0|0|0|0|0.0|2013-07-24 03:03:39 +0530
+2643|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.shopclues.com/dell-inspiron-15-3521-laptop-corei5-3rd-gen-4gb-500gb-dos.html|0|0|0|0|0|0.0|2013-07-24 03:03:44 +0530
+2646|laptops_lists|Sony VAIO E1411A Laptop|http://www.shopclues.com/sony-vaio-e1411a-laptop-2gb-ram-500gb-hdd-3rd-gen-i3-2.20-win-7-pro.html|0|0|0|0|0|0.0|2013-07-24 03:03:52 +0530
+2648|laptops_lists|Sony VAIO E15138 Laptop|http://www.shopclues.com/sony-vaio-e15138-laptop-3rd-gen-ci7-4gb-1tb-win8-2gb-graph-black.html|0|0|0|0|0|0.0|2013-07-24 03:03:58 +0530
+2650|laptops_lists|Lenovo Essential G580-59-351473 Laptop|http://www.shopclues.com/lenovo-essential-g580-59-352560-celeron-dual-core-laptop-black-with-original-bagpack.html|0|0|0|0|0|0.0|2013-07-24 03:04:05 +0530
+2653|laptops_lists|Dell Inspiron 15R 5521 Laptop|http://www.shopclues.com/dell-inspiron-15r-5521-corei5-3rd-gen-4gb-500gb-2gb-graphics-win8.html|0|0|0|0|0|0.0|2013-07-24 03:04:11 +0530
+2659|laptops_lists|HP 2000-2201TU Laptop|http://www.shopclues.com/hp-2000-2201tu-15.6-laptop-core-i3-2nd-gen-2-gb-500-gb-dos-black.html|0|0|0|0|0|0.0|2013-07-24 03:04:28 +0530
+2664|laptops_lists|Dell Vostro 2520 Laptop|http://www.shopclues.com/dell-vostro-2520-laptop-2nd-gen-ci3-2gb-500gb-dos-grey-en-2.html|0|0|0|0|0|0.0|2013-07-24 03:04:38 +0530
+2665|laptops_lists|Toshiba Satellite C850-I5212 Laptop|http://www.shopclues.com/toshiba-satellite-c850-i5212-laptop-2nd-gen-ci3-4gb-500gb-win7-hb-gloss-shining-silver.html|0|0|0|0|0|0.0|2013-07-24 03:04:40 +0530
+2666|laptops_lists|Samsung NP300E5X-S02IN Laptop|http://www.shopclues.com/samsung-np300e5x-s02in-laptop-2nd-gen-ci3-4gb-750gb-dos-1gb-graph-dual-tone-titan-silver-black.html|0|0|0|0|0|0.0|2013-07-24 03:04:42 +0530
+2669|laptops_lists|Dell Inspiron 15R 5521 Laptop|http://www.shopclues.com/dell-inspiron-15r-5521-corei5-3rd-gen-4gb-1tb-2gb-graphics-win8.html|0|0|0|0|0|0.0|2013-07-24 03:04:51 +0530
+2677|laptops_lists|Toshiba Portege R930-X3310 Laptop|http://www.shopclues.com/toshiba-portege-r830-i3310-core-i3-4gb-500gb-w7hp-laptop.html|0|0|0|0|0|0.0|2013-07-24 03:05:09 +0530
+2680|laptops_lists|HP Pavilion 1000-1B02AU Laptop|http://www.shopclues.com/hp-pavilion-1000-1b02au-laptop-amd-dual-core-2gb-320gb-dos-black.html|0|0|0|0|0|0.0|2013-07-24 03:05:16 +0530
+2693|laptops_lists|Sony VAIO T Series SVT13113EN Ultrabook|http://www.shopclues.com/sony-vaio-svt13113en-laptop-2nd-gen-intel-core-i3-4gb-500gb-windows-7-home-basic-silver.html|0|0|0|0|0|0.0|2013-07-24 03:05:52 +0530
+2694|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.shopclues.com/dell-inspiron-15-3521-laptop-corei3-2rd-gen-2gb-500gb-dos.html|0|0|0|0|0|0.0|2013-07-24 03:05:54 +0530
+2696|laptops_lists|HP Pavilion G6-2236TX Laptop|http://www.shopclues.com/hp-pavilion-g6-2236tx-laptop-core-i7-3rd-gen-gb-1tb-win8.html|0|0|0|0|0|0.0|2013-07-24 03:06:00 +0530
+2701|laptops_lists|Dell Inspiron 15R 5521 Laptop|http://www.shopclues.com/dell-inspiron-15r-5521-corei3-3rd-gen-4gb-500gb-2gb-graphics-win8.html|0|0|0|0|0|0.0|2013-07-24 03:06:14 +0530
+2712|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.shopclues.com/dell-inspiron-15-3521-laptop-corei3-2rd-gen-2gb-500gb-win8.html|0|0|0|0|0|0.0|2013-07-24 03:06:45 +0530
+2713|laptops_lists|Dell Vostro 3560 Laptop|http://www.shopclues.com/dell-3560-laptop-core-i3-2nd-gen-4gb-500gb-dos.html|0|0|0|0|0|0.0|2013-07-24 03:06:47 +0530
+2714|laptops_lists|HP Pavilion G6-2227TU Laptop|http://www.shopclues.com/hp-pavilion-g6-2227tu-laptop-3rd-gen-ci3-4gb-500gb-win-8.html|0|0|0|0|0|0.0|2013-07-24 03:06:50 +0530
+2716|laptops_lists|HP Pavilion G6-2320TX Laptop|http://www.shopclues.com/hp-pavilion-g6-2320tx-laptop-3rd-gen-ci5-4gb-1tb-win8-1gb-graph-imprint-sparkling-black.html|0|0|0|0|0|0.0|2013-07-24 03:06:55 +0530
+2723|laptops_lists|Dell 2520 Laptop|http://www.shopclues.com/dell-2520-laptop-i3-3rd-gen-4gb-500gb-win8.html|0|0|0|0|0|0.0|2013-07-24 03:07:12 +0530
+2725|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.shopclues.com/dell-inspiron-15-3521-laptop-corei3-3rd-gen-4gb-500gb-win8.html|0|0|0|0|0|0.0|2013-07-24 03:07:17 +0530
+2730|laptops_lists|Dell Vostro 2420 Laptop|http://www.shopclues.com/dell-vostro-2420-laptop-3rd-gen-ci5-4gb-500gb-win8-grey.html|0|0|0|0|0|0.0|2013-07-24 03:07:44 +0530
+2731|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.shopclues.com/dell-inspiron-15-3521-laptop-2nd-gen-ci3-4gb-500gb-ubuntu-black.html|0|0|0|0|0|0.0|2013-07-24 03:07:46 +0530
+2734|laptops_lists|Dell Vostro 3560 Laptop|http://www.shopclues.com/dell-vostro-3560-laptop-corei5-3rd-gen-4gb-500gb-1gb-graphics-dos-en.html|0|0|0|0|0|0.0|2013-07-24 03:08:02 +0530
+2735|laptops_lists|HP Pavilion 15-B003TU Sleekbook|http://www.shopclues.com/hp-pavilion-15-b003tu-sleekbook-2nd-gen-pdc-2gb-500gb-dos-imprint-sparkling-black.html|0|0|0|0|0|0.0|2013-07-24 03:08:04 +0530
+2746|laptops_lists|Acer Aspire V5 431 Laptop|http://www.shopclues.com/acer-aspire-v5-431-nx.m2ssi.004-laptop-pdc-2nd-gen-2gb-500gb-win-8.html|0|0|0|0|0|0.0|2013-07-24 03:08:36 +0530
+2748|laptops_lists|Acer Aspire E1 531 Laptop|http://www.shopclues.com/acer-aspire-e1-531-nx.m12si.027-pentium-dual-core-2nd-gen-2gb-500gb-win8.html|0|0|0|0|0|0.0|2013-07-24 03:08:40 +0530
+2750|laptops_lists|Dell Vostro 2420 Laptop|http://www.shopclues.com/dell-vostro-2420-laptop-i3-2nd-gen-2gb-500gb-dos.html|0|0|0|0|0|0.0|2013-07-24 03:08:44 +0530
+2751|laptops_lists|Acer V5-431P Touch Laptop|http://www.shopclues.com/acer-v5-431p-laptop-cdc-2gb-500gb-win8-touch-nx.m7lsi.003.html|0|0|0|0|0|0.0|2013-07-24 03:08:46 +0530
+2755|laptops_lists|Toshiba Satellite C850-P0012 Laptop|http://www.shopclues.com/toshiba-c850-p0012-laptop-2nd-gen-dual-core-2gb-500gb-dos-15.6.html|0|0|0|0|0|0.0|2013-07-24 03:08:55 +0530
+2756|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.shopclues.com/dell-inspiron-3521-cel-d-c-2ndgen-2gb-500gb-15.6-dos-en-2.html|0|0|0|0|0|0.0|2013-07-24 03:08:57 +0530
+2757|laptops_lists|Dell Vostro 2520 Laptop|http://www.shopclues.com/dell-vostro-2520-laptop-2nd-gen-ci3-2gb-500gb-win8-grey.html|0|0|0|0|0|0.0|2013-07-24 03:08:59 +0530
+2758|laptops_lists|Dell Vostro 2520 Laptop|http://www.shopclues.com/dell-vostro-2520-laptop-corei3-2nd-gen-2gb-500gb-win8.html|0|0|0|0|0|0.0|2013-07-24 03:09:02 +0530
+2764|laptops_lists|Toshiba Satellite C850-P0011 Laptop|http://www.shopclues.com/toshiba-c850-p0011-laptop-2nd-gen-dual-core-2gb-320gb-dos-15.6.html|0|0|0|0|0|0.0|2013-07-24 03:09:16 +0530
+2769|laptops_lists|Toshiba Satellite C665-I5210 Laptop|http://www.shopclues.com/toshiba-c665-i5210-laptop-2nd-gen-ci3-2gb-500gb-w7-15.6.html|0|0|0|0|0|0.0|2013-07-24 03:09:28 +0530
+2771|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.shopclues.com/dell-inspiron-3521-cel-d-c-2ndgen-2gb-500gb-15.6-dos-clone-en.html|0|0|0|0|0|0.0|2013-07-24 03:09:32 +0530
+2776|laptops_lists|Dell Vostro 1550 Laptop|http://www.shopclues.com/dell-vostro-1550-2nd-gen-core-i3-2gb-ram-500gb-hdd-15.6inch-screen-dos.html|0|0|0|0|0|0.0|2013-07-24 03:09:43 +0530
+2790|mobiles_lists|Samsung I9300 Galaxy S III(S3)|http://www.shopclues.com/samsung-galaxy-s3-i9300-32gb-blue.html|0|0|0|0|0|0.0|2013-07-24 03:09:46 +0530
+2792|mobiles_lists|LG(Google) Nexus 4 E960|http://www.shopclues.com/lg-nexus-4.html|0|0|0|0|0|0.0|2013-07-24 03:09:49 +0530
+2793|mobiles_lists|HTC Wildfire|http://www.shopclues.com/htc-wildfire-white-android-unlocked-smartphone-with-16-gb-memory-card-free-199651.html|0|0|0|0|0|0.0|2013-07-24 03:09:51 +0530
+2794|mobiles_lists|Sony Xperia tipo|http://www.shopclues.com/sony-xperia-tipo-single-sim.html|0|0|0|0|0|0.0|2013-07-24 03:09:53 +0530
+2796|mobiles_lists|Sony Xperia tipo|http://www.shopclues.com/sony-xperia-tipo-dual-silver.html|0|0|0|0|0|0.0|2013-07-24 03:09:58 +0530
+2802|mobiles_lists|Sony Xperia tipo|http://www.shopclues.com/sony-xperia-tipo-dual-black.html|0|0|0|0|0|0.0|2013-07-24 03:10:11 +0530
+2806|mobiles_lists|Sony Xperia ion|http://www.shopclues.com/sony-xperia-ion-black.html|0|0|0|0|0|0.0|2013-07-24 03:10:21 +0530
+2810|mobiles_lists|Samsung Galaxy Note II(2) N7100|http://www.shopclues.com/samsung-galaxy-note-2-n7100-grey-en-2-3.html|0|0|0|0|0|0.0|2013-07-24 03:10:33 +0530
+2812|mobiles_lists|Samsung I9300 Galaxy S III(S3)|0|0|0|0|0|0|0.0|2013-07-24 03:10:36 +0530
+2814|mobiles_lists|Samsung Galaxy Note II(2) N7100|http://www.shopclues.com/samsung-galaxy-note2-n7100-en-2.html|0|0|0|0|0|0.0|2013-07-24 03:10:40 +0530
+2815|mobiles_lists|Samsung I9300 Galaxy S III(S3)|http://www.shopclues.com/samsung-galaxy-s-iii-en-2.html|0|0|0|0|0|0.0|2013-07-24 03:10:42 +0530
+2817|mobiles_lists|Sony Xperia ion|http://www.shopclues.com/sony-xperia-ion-red.html|0|0|0|0|0|0.0|2013-07-24 03:10:48 +0530
+2819|mobiles_lists|Sony Xperia tipo|http://www.shopclues.com/sony-xperia-tipo-black.html|0|0|0|0|0|0.0|2013-07-24 03:10:53 +0530
+2820|mobiles_lists|Samsung I9300 Galaxy S III(S3)|http://www.shopclues.com/samsung-galaxy-s3-i9300-en.html|0|0|0|0|0|0.0|2013-07-24 03:10:56 +0530
+2823|mobiles_lists|Sony Xperia ion|http://www.shopclues.com/sony-xperia-ion-android-smartphone-lt28at-black-colour.html|0|0|0|0|0|0.0|2013-07-24 03:11:05 +0530
+2829|mobiles_lists|Samsung I9100 Galaxy S II(S2)|http://www.shopclues.com/samsung-galaxy-s-ii-smart-phone-i9100.html|0|0|0|0|0|0.0|2013-07-24 03:11:20 +0530
+2830|mobiles_lists|Sony Xperia tipo|http://www.shopclues.com/new-sony-ericsson-xperia-tipo-dual-sim-android-ics-smartphone.html|0|0|0|0|0|0.0|2013-07-24 03:11:22 +0530
+2834|mobiles_lists|LG(Google) Nexus 4 E960|http://www.shopclues.com/lg-e960-google-nexus-4-android-smart-mobile-phones.html|0|0|0|0|0|0.0|2013-07-24 03:11:31 +0530
+2838|mobiles_lists|HTC One S|http://www.shopclues.com/new-htc-one-s-16gb-black-colour-android-smart-mobile-phones.html|0|0|0|0|0|0.0|2013-07-24 03:11:39 +0530
+2839|mobiles_lists|Karbonn K451+(K451 Plus) Sound Wave|http://www.shopclues.com/karbonn-k451-plus.html|0|0|0|0|0|0.0|2013-07-24 03:11:41 +0530
+2840|mobiles_lists|Samsung Ch@t(Chat) 527|http://www.shopclues.com/vodafone-527.html|0|0|0|0|0|0.0|2013-07-24 03:11:43 +0530
+2851|mobiles_lists|Karbonn K451+(K451 Plus) Sound Wave|http://www.shopclues.com/karbonn-mobile-k451.html|0|0|0|0|0|0.0|2013-07-24 03:12:03 +0530
+2861|mobiles_lists|Samsung Google Nexus S|http://www.shopclues.com/new-samsung-google-nexus-i9250-android-smart-mobile-phones.html|0|0|0|0|0|0.0|2013-07-24 03:12:25 +0530
+2862|mobiles_lists|HTC One X|http://www.shopclues.com/new-htc-one-x-s720e-8-mp-primary-camera--full-hd-recording--android-v4.0-ice-cream-sandwich-os--best-price.html|0|0|0|0|0|0.0|2013-07-24 03:12:27 +0530
+2873|mobiles_lists|Karbonn K36+(K36 Plus) Jumbo Mini|http://www.shopclues.com/karbonn-k36-red.html|0|0|0|0|0|0.0|2013-07-24 03:12:50 +0530
+2876|mobiles_lists|HTC One S|http://www.shopclues.com/new-htc-z560e-one-s-android-v4.0-os--wi-fi-enabled--full-hd-recording--best-price.html|0|0|0|0|0|0.0|2013-07-24 03:12:56 +0530
+====Starting online_snapdeal_products | product_id====
+====Starting online_greendust_products | product_id====
+====Starting online_maniacstore_products | product_id====
+====Starting online_edabba_products | product_id====
+925|keyboards_lists|Microsoft Arc Keyboard - USB|http://www.edabba.com/content/microsoft-arc-usb-keyboard-black|0|0|0|0|0|0.0|2013-07-24 03:49:19 +0530
+940|pendrives_lists|Transcend JetFlash 500 32 GB Pen Drive|http://www.edabba.com/content/transcend-jetflash-500-32-gb-purple-0|0|0|0|0|0|0.0|2013-07-24 03:49:57 +0530
+947|memory_cards_lists|Transcend SD 2GB Memory Card|http://www.edabba.com/content/transcend-2gb-micro-sd-memory-card|0|0|0|0|0|0.0|2013-07-24 03:50:20 +0530
+948|memory_cards_lists|Transcend SD 4GB Class 4 Memory Card|http://www.edabba.com/content/transcend-4gb-micro-sd-memory-card|0|0|0|0|0|0.0|2013-07-24 03:50:24 +0530
+950|memory_cards_lists|Transcend SD 8GB Class 4 Memory Card|http://www.edabba.com/content/transcend-8gb-micro-sd-memory-card|0|0|0|0|0|0.0|2013-07-24 03:50:34 +0530
+952|memory_cards_lists|Transcend SD 16GB Class 4 Memory Card|http://www.edabba.com/content/transcend-16gb-micro-sd-memory-card|0|0|0|0|0|0.0|2013-07-24 03:50:42 +0530
+954|memory_cards_lists|Transcend SD 16GB Class 4 Memory Card|http://www.edabba.com/content/sandisk-16gb-micro-sd-memory-card|0|0|0|0|0|0.0|2013-07-24 03:50:50 +0530
+956|memory_cards_lists|Transcend SD 4GB Class 4 Memory Card|http://www.edabba.com/content/sandisk-4gb-micro-sd-memory-card|0|0|0|0|0|0.0|2013-07-24 03:50:57 +0530
+975|mobiles_lists|Samsung Galaxy Ace S5830|http://www.edabba.com/content/samsung-galaxy-ace-s5830-white|0|0|0|0|0|0.0|2013-07-24 03:51:52 +0530
+1077|mobiles_lists|Micromax GC275|http://www.edabba.com/content/micromax-gc275|0|0|0|0|0|0.0|2013-07-24 03:58:36 +0530
+1078|mobiles_lists|Micromax GC360|http://www.edabba.com/content/micromax-gc360|0|0|0|0|0|0.0|2013-07-24 03:58:40 +0530
+1093|mobiles_lists|Samsung Champ Neo Duos C3262|http://www.edabba.com/content/samsung-champ-neo-duos-c3262-black|0|0|0|0|0|0.0|2013-07-24 03:59:41 +0530
+1097|mobiles_lists|Micromax A110 Canvas 2|http://www.edabba.com/content/micromax-canvas-ii-a110-white-black|0|0|0|0|0|0.0|2013-07-24 04:00:03 +0530
+1115|mobiles_lists|Nokia 101|http://www.edabba.com/content/nokia-101-black|0|0|0|0|0|0.0|2013-07-24 04:01:17 +0530
+1116|mobiles_lists|Samsung Champ Neo Duos C3262|http://www.edabba.com/content/samsung-champ-neo-duos-c3262-metallic-silver|0|0|0|0|0|0.0|2013-07-24 04:01:21 +0530
+1120|mobiles_lists|Samsung E2252|http://www.edabba.com/content/samsung-e2252-white|0|0|0|0|0|0.0|2013-07-24 04:01:39 +0530
+1127|mobiles_lists|Samsung Galaxy Music Duos S6012|http://www.edabba.com/content/samsung-galaxy-music-duos-s6012-white|0|0|0|0|0|0.0|2013-07-24 04:02:23 +0530
+1136|mobiles_lists|Samsung Galaxy Music Duos S6012|http://www.edabba.com/content/samsung-galaxy-music-duos-s6012-yellow|0|0|0|0|0|0.0|2013-07-24 04:03:04 +0530
+1217|mouses_lists|Microsoft 100 USB 2.0 Optical Mouse|http://www.edabba.com/content/microsoft-optical-mouse-100|0|0|0|0|0|0.0|2013-07-24 04:03:43 +0530
+1220|mouses_lists|Microsoft 100 USB 2.0 Optical Mouse|http://www.edabba.com/content/microsoft-optical-mouse-100-black|0|0|0|0|0|0.0|2013-07-24 04:03:56 +0530
+1222|mouses_lists|Microsoft Express Limited Edition USB 2.0 BlueTrack Mouse|http://www.edabba.com/content/microsoft-express-wired-mouse-bluetrack|0|0|0|0|0|0.0|2013-07-24 04:04:04 +0530
+1226|mouses_lists|Dell WM112 Wireless Optical Mouse|http://www.edabba.com/content/dell-wm112-wireless-mouse|0|0|0|0|0|0.0|2013-07-24 04:04:20 +0530
+1227|mouses_lists|Microsoft Mobile 1000 Wireless Optical Mouse|http://www.edabba.com/content/microsoft-wireless-mobile-mouse-1000-black|0|0|0|0|0|0.0|2013-07-24 04:04:23 +0530
+1238|mouses_lists|Microsoft Arc Touch Wireless BlueTrack Mouse|http://www.edabba.com/content/microsoft-arc-mouse-black|0|0|0|0|0|0.0|2013-07-24 04:05:05 +0530
+1270|laptops_lists|HP 430 - QG623PA Laptop|0|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1271|laptops_lists|Asus X53U-SX358D Laptop|0|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1272|laptops_lists|HP 2000-2201TU Laptop|0|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1273|laptops_lists|Lenovo Essential G580-59-352560 Laptop| Windows 8 |0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1274|laptops_lists|Asus X54C-SX454D Laptop|0|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1275|laptops_lists|Dell Inspiron 15 3520 Laptop|0|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1276|laptops_lists|Dell Inspiron 15R SE Laptop| Win8|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1277|laptops_lists|Dell Inspiron 15R 5521 Laptop| Win7B|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1278|laptops_lists|Acer Aspire E1-571-BT Laptop|in stock|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1279|laptops_lists|HP Envy 4-1104TU Ultrabook| Silver|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1280|laptops_lists|Sony VAIO E15123CN Laptop|in stock|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1281|laptops_lists|Dell Inspiron 14 4050 Laptop| Win7P|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1282|laptops_lists|HP 2000-2125TU Laptop| Black|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1283|laptops_lists|Sony VAIO E14123CN Laptop|in stock|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1284|laptops_lists|HP Pavilion 14-B003TX Sleekbook| Win8 |0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1285|laptops_lists|HP Envy 4-1103TU Ultrabook| Black|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1286|laptops_lists|HP Pavilion DV6-7206TX Laptop| Black|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1287|laptops_lists|HP 2000 2116TU Laptop|0|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1288|laptops_lists|Sony VAIO E15125CN Laptop|in stock|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1289|laptops_lists|Sony VAIO E15129CN Laptop|in stock|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1290|laptops_lists|Sony VAIO E15126CN Laptop|in stock|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1291|laptops_lists|Sony VAIO E15128CN Laptop|in stock|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1292|laptops_lists|HP Envy 4-1105TX Ultrabook| Win8 |0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1293|laptops_lists|HP Envy 4-1023TU Sleekbook| Black|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1294|laptops_lists|HP 1000-1204TU Laptop| Black|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1295|laptops_lists|HP Envy 4-1104TX Ultrabook| Win8 |0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1296|laptops_lists|HP Pavilion DV6-7207TX Laptop| Black|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1297|laptops_lists|Asus X53U-SX181D Laptop| DOS|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1298|laptops_lists|HP Pavilion M6-1102TX Laptop|Win7 |0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1299|laptops_lists|HP Envy 4-1002TX Ultrabook|Win7 |0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1300|laptops_lists|HP Pavilion G6-2105TX Laptop| Win7 |0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1301|laptops_lists|Toshiba Satellite C850-E0010 Laptop| DOS|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1302|laptops_lists|HP Pavilion G4-2049TX Laptop| DOS |0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1303|laptops_lists|HP Envy 4-1023TU Sleekbook| Win7 |0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1304|laptops_lists|Samsung NP305E5Z-S01IN Laptop| DOS|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1305|laptops_lists|HP Envy 6-1011TU Sleekbook| Black|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1306|laptops_lists|HP Pavilion DV4-5008TX Laptop | Win7B|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+1307|laptops_lists|Sony VAIO T14113CN Ultrabook|in stock|0|0|0|0|0|0.0|2013-07-24 04:06:42 +0530
+====Starting online_tradus_products | product_id====
+755|laptops_lists|HP Pavilion G6-2232TX Laptop|http://www.tradus.com/hp-pavilion-g6-2232tx-laptop-3rd-gen-ci3-4gb-500gb-win8-1gb-graph-imptint-linen-white-color-modern/p/LNBMGQ8PIB4OJU8K|0|0|0|0|0|0.0|2013-07-24 04:17:40 +0530
+====Starting online_indiatimes_products | product_id====
+====Starting online_futurebazaar_products | product_id====
+====Starting online_croma_products | product_id====
+1110|tablets_lists|Samsung Galaxy Tab 2 P3110|http://www.cromaretail.com/Samsung-Galaxy-Tab--P3110-7%22-Tablet-(White)-pc-17223-162.aspx|0|0|0|0|0|0.0|2013-07-24 04:41:03 +0530
+1146|pendrives_lists|Sony Micro Vault 4 GB Pen Drive|http://www.cromaretail.com/Sony-USM4GRBC-4GB-Micro-Vault-Classic-USB-Flash-Drive-(Black)-pc-16212-231.aspx|0|0|0|0|0|0.0|2013-07-24 04:41:42 +0530
+1153|mobiles_lists|Nokia X2-02|http://www.cromaretail.com/Nokia-X2-02-GSM-Mobile-Phone-(Dual-SIM)-pc-9301-100.aspx|0|0|0|0|0|0.0|2013-07-24 04:41:55 +0530
+1154|mobiles_lists|Samsung C3312 Duos|http://www.cromaretail.com/Samsung-GT-C3312-GSM-Mobile-Phone-pc-9241-99.aspx|0|0|0|0|0|0.0|2013-07-24 04:41:57 +0530
+1194|mobiles_lists|Micromax A116 Canvas HD|http://www.cromaretail.com/Micromax-Canvas-HD-A116-GSM-Mobile-Phone-(Dual-SIM)-pc-17812-100.aspx|0|0|0|0|0|0.0|2013-07-24 04:43:02 +0530
+1198|mobiles_lists|Sony Xperia J|http://www.cromaretail.com/Sony-Xperia-J-GSM-Mobile-Phone-(Black)-pc-15998-95.aspx|0|0|0|0|0|0.0|2013-07-24 04:43:07 +0530
+====Starting online_bigbuy_products | product_id====
+1|routers_lists|Belkin Wireless Dual-Band Travel Router|http://www.bigbuy.in/product.php?id_product=885|0|0|0|0|0|0.0|2013-07-24 04:47:14 +0530
+2|routers_lists|Belkin Dual-Band Wireless Range Extender|http://www.bigbuy.in/product.php?id_product=883|0|0|0|0|0|0.0|2013-07-24 04:47:14 +0530
+3|routers_lists|Belkin N150 Wireless Modem Router|http://www.bigbuy.in/product.php?id_product=819|0|0|0|0|0|0.0|2013-07-24 04:47:14 +0530
+4|routers_lists|Belkin N600 DB Wireless Dual-Band N+ Modem Router (F9J1102zb)|http://www.bigbuy.in/product.php?id_product=817|0|0|0|0|0|0.0|2013-07-24 04:47:14 +0530
+5|routers_lists|Belkin Play Max Modem Router|http://www.bigbuy.in/product.php?id_product=816|0|0|0|0|0|0.0|2013-07-24 04:47:14 +0530
+6|routers_lists|Belkin N300 Wireless N Modem|http://www.bigbuy.in/product.php?id_product=815|0|0|0|0|0|0.0|2013-07-24 04:47:15 +0530
+7|routers_lists|Belkin N750 DB Wireless Dual-Band N Router|http://www.bigbuy.in/product.php?id_product=813|0|0|0|0|0|0.0|2013-07-24 04:47:15 +0530
+8|routers_lists|Belkin N600 DB Wireless Dual-Band N|http://www.bigbuy.in/product.php?id_product=811|0|0|0|0|0|0.0|2013-07-24 04:47:15 +0530
+9|routers_lists|Belkin N150 Wireless Modem Router|http://www.bigbuy.in/product.php?id_product=665|0|0|0|0|0|0.0|2013-07-24 04:47:15 +0530
+16|desktops_lists|Lenovo Essential C240 All-in-One (Celeron Dual Core|http://www.bigbuy.in/product.php?id_product=1801|0|0|0|0|0|0.0|2013-07-24 04:47:15 +0530
+17|desktops_lists|HP Omni 105-5510IX All-in-One (2nd Gen Ci3|http://www.bigbuy.in/product.php?id_product=1621|0|0|0|0|0|0.0|2013-07-24 04:47:16 +0530
+18|desktops_lists|HP Brazo 18-1106IN All-in-One (APU Dual Core|http://www.bigbuy.in/product.php?id_product=1531|0|0|0|0|0|0.0|2013-07-24 04:47:16 +0530
+19|desktops_lists|Lenovo Essential C200|http://www.bigbuy.in/product.php?id_product=1472|0|0|0|0|0|0.0|2013-07-24 04:47:16 +0530
+20|desktops_lists|Lenovo IdeaCentre A720 All-in-One (3rd Gen Ci5|http://www.bigbuy.in/product.php?id_product=1430|0|0|0|0|0|0.0|2013-07-24 04:47:16 +0530
+21|desktops_lists|Lenovo IdeaCentre A720 All-in-One (3rd Gen Ci5|http://www.bigbuy.in/product.php?id_product=1429|0|0|0|0|0|0.0|2013-07-24 04:47:16 +0530
+22|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen Ci5|http://www.bigbuy.in/product.php?id_product=1427|0|0|0|0|0|0.0|2013-07-24 04:47:17 +0530
+23|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen Ci3|http://www.bigbuy.in/product.php?id_product=1426|0|0|0|0|0|0.0|2013-07-24 04:47:17 +0530
+24|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen Ci3|http://www.bigbuy.in/product.php?id_product=1425|0|0|0|0|0|0.0|2013-07-24 04:47:17 +0530
+25|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen Ci3|http://www.bigbuy.in/product.php?id_product=1424|0|0|0|0|0|0.0|2013-07-24 04:47:17 +0530
+26|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen Ci3|http://www.bigbuy.in/product.php?id_product=1423|0|0|0|0|0|0.0|2013-07-24 04:47:17 +0530
+27|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen PDC|http://www.bigbuy.in/product.php?id_product=1422|0|0|0|0|0|0.0|2013-07-24 04:47:18 +0530
+28|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen PDC|http://www.bigbuy.in/product.php?id_product=1421|0|0|0|0|0|0.0|2013-07-24 04:47:18 +0530
+29|desktops_lists|Lenovo Essential C320 All-in-One (2nd Gen Ci3|http://www.bigbuy.in/product.php?id_product=1418|0|0|0|0|0|0.0|2013-07-24 04:47:18 +0530
+30|desktops_lists|Lenovo Essential C320 All-in-One (2nd Gen Ci3|http://www.bigbuy.in/product.php?id_product=1195|0|0|0|0|0|0.0|2013-07-24 04:47:18 +0530
+31|desktops_lists|Lenovo Essential C320 All-in-One (2nd Gen PDC|http://www.bigbuy.in/product.php?id_product=1194|0|0|0|0|0|0.0|2013-07-24 04:47:18 +0530
+32|desktops_lists|HP Omni 120-1160IN|http://www.bigbuy.in/product.php?id_product=1159|0|0|0|0|0|0.0|2013-07-24 04:47:19 +0530
+33|desktops_lists|HP Omni 120-1120IN All-in-One (2nd Gen PDC|http://www.bigbuy.in/product.php?id_product=1156|0|0|0|0|0|0.0|2013-07-24 04:47:19 +0530
+34|desktops_lists|HP Omni 120-2111IN All-in-One (2nd PDC|http://www.bigbuy.in/product.php?id_product=1154|0|0|0|0|0|0.0|2013-07-24 04:47:19 +0530
+35|desktops_lists|HP DreamScreen 400|http://www.bigbuy.in/product.php?id_product=1152|0|0|0|0|0|0.0|2013-07-24 04:47:19 +0530
+36|desktops_lists|HP Omni 120-1111IN|http://www.bigbuy.in/product.php?id_product=1150|0|0|0|0|0|0.0|2013-07-24 04:47:19 +0530
+37|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen Ci3|http://www.bigbuy.in/product.php?id_product=901|0|0|0|0|0|0.0|2013-07-24 04:47:20 +0530
+38|desktops_lists|HP Omni 120-1020IN|http://www.bigbuy.in/product.php?id_product=567|0|0|0|0|0|0.0|2013-07-24 04:47:20 +0530
+47|tablets_lists|iBall Slide 6309r Tablet|http://www.bigbuy.in/product.php?id_product=1633|0|0|0|0|0|0.0|2013-07-24 04:47:20 +0530
+48|tablets_lists|Samsung Galaxy Note 800|http://www.bigbuy.in/product.php?id_product=1564|0|0|0|0|0|0.0|2013-07-24 04:47:21 +0530
+49|tablets_lists|iBall Slide i6516 Tablet|http://www.bigbuy.in/product.php?id_product=1552|0|0|0|0|0|0.0|2013-07-24 04:47:21 +0530
+50|tablets_lists|Asus MeMO Pad ME172V Tablet|http://www.bigbuy.in/product.php?id_product=1550|0|0|0|0|0|0.0|2013-07-24 04:47:21 +0530
+51|tablets_lists|Acer Iconia B1-A71 Tablet|http://www.bigbuy.in/product.php?id_product=1536|0|0|0|0|0|0.0|2013-07-24 04:47:21 +0530
+52|tablets_lists|iBall Slide 3G 7271 Tablet|http://www.bigbuy.in/product.php?id_product=1521|0|0|0|0|0|0.0|2013-07-24 04:47:22 +0530
+53|tablets_lists|HCL ME U2 Tablet|http://www.bigbuy.in/product.php?id_product=1500|0|0|0|0|0|0.0|2013-07-24 04:47:22 +0530
+54|tablets_lists|Acer Iconia W500|http://www.bigbuy.in/product.php?id_product=1420|0|0|0|0|0|0.0|2013-07-24 04:47:22 +0530
+55|tablets_lists|Karbonn Marvel Smart Tab9 Tablet|http://www.bigbuy.in/product.php?id_product=1272|0|0|0|0|0|0.0|2013-07-24 04:47:22 +0530
+56|tablets_lists|HCL ME G1 Tablet|http://www.bigbuy.in/product.php?id_product=1253|0|0|0|0|0|0.0|2013-07-24 04:47:22 +0530
+57|tablets_lists|iBall Slide 3G 7334 Tablet|http://www.bigbuy.in/product.php?id_product=1238|0|0|0|0|0|0.0|2013-07-24 04:47:23 +0530
+58|tablets_lists|Karbonn Smart Tab3 Blade Tablet|http://www.bigbuy.in/product.php?id_product=1183|0|0|0|0|0|0.0|2013-07-24 04:47:23 +0530
+59|tablets_lists|Micromax Funbook Alpha P250 Tablet|http://www.bigbuy.in/product.php?id_product=1104|0|0|0|0|0|0.0|2013-07-24 04:47:23 +0530
+60|tablets_lists|iBall Slide i6012 Tablet|http://www.bigbuy.in/product.php?id_product=1044|0|0|0|0|0|0.0|2013-07-24 04:47:23 +0530
+61|tablets_lists|Samsung Galaxy Note 800|http://www.bigbuy.in/product.php?id_product=1026|0|0|0|0|0|0.0|2013-07-24 04:47:24 +0530
+62|tablets_lists|iBall Slide i7218|http://www.bigbuy.in/product.php?id_product=744|0|0|0|0|0|0.0|2013-07-24 04:47:24 +0530
+63|tablets_lists|iBall Slide 3G-7307 Tablet|http://www.bigbuy.in/product.php?id_product=743|0|0|0|0|0|0.0|2013-07-24 04:47:24 +0530
+78|mobiles_lists|Karbonn A6|http://www.bigbuy.in/1968-karbonn-a6-.html|0|0|0|0|0|0.0|2013-07-24 04:47:24 +0530
+79|mobiles_lists|Karbonn S1 Titanium|http://www.bigbuy.in/1967-karbonn-s1-titanium-.html|0|0|0|0|0|0.0|2013-07-24 04:47:24 +0530
+80|mobiles_lists|Karbonn S5 Titanium|http://www.bigbuy.in/1966-karbonn-s5-titanium-mobile.html|0|0|0|0|0|0.0|2013-07-24 04:47:25 +0530
+81|mobiles_lists|Nokia Lumia 720|http://www.bigbuy.in/1639-nokia-lumia-720yellow.html|0|0|0|0|0|0.0|2013-07-24 04:47:25 +0530
+82|mobiles_lists|Nokia Lumia 720|http://www.bigbuy.in/1638-nokia-lumia-720-white.html|0|0|0|0|0|0.0|2013-07-24 04:47:25 +0530
+83|mobiles_lists|Nokia Lumia 720|http://www.bigbuy.in/1637-nokia-lumia-720-cyan.html|0|0|0|0|0|0.0|2013-07-24 04:47:25 +0530
+84|mobiles_lists|Nokia Lumia 720|http://www.bigbuy.in/1636-nokia-lumia-720red.html|0|0|0|0|0|0.0|2013-07-24 04:47:26 +0530
+85|mobiles_lists|Nokia Lumia 620|http://www.bigbuy.in/smart-phone/1631-nokia-lumia-620-lime.html|0|0|0|0|0|0.0|2013-07-24 04:47:26 +0530
+86|mobiles_lists|Nokia Lumia 620|http://www.bigbuy.in/smart-phone/1629-nokia-lumia-620-black.html|0|0|0|0|0|0.0|2013-07-24 04:47:26 +0530
+87|mobiles_lists|Nokia Lumia 520|http://www.bigbuy.in/smart-phone/1628-nokia-lumia-520-black.html|0|0|0|0|0|0.0|2013-07-24 04:47:26 +0530
+88|mobiles_lists|Nokia Lumia 520|http://www.bigbuy.in/smart-phone/1627-nokia-lumia-520-yellow.html|0|0|0|0|0|0.0|2013-07-24 04:47:26 +0530
+89|mobiles_lists|Nokia Lumia 520|http://www.bigbuy.in/smart-phone/1626-nokia-lumia-520-white.html|0|0|0|0|0|0.0|2013-07-24 04:47:26 +0530
+90|mobiles_lists|Nokia Lumia 520|http://www.bigbuy.in/1625-nokia-lumia-520-black.html|0|0|0|0|0|0.0|2013-07-24 04:47:27 +0530
+91|mobiles_lists|Nokia Lumia 620|http://www.bigbuy.in/1624-nokia-lumia-620-black.html|0|0|0|0|0|0.0|2013-07-24 04:47:27 +0530
+92|mobiles_lists|Sony Xperia Z|http://www.bigbuy.in/1593-sony-xperia-z-black.html|0|0|0|0|0|0.0|2013-07-24 04:47:27 +0530
+93|mobiles_lists|Samsung Galaxy Ace Duos S6802|http://www.bigbuy.in/smart-phone/1563-samsung-galaxy-ace-duos-s6802-chic-white.html|0|0|0|0|0|0.0|2013-07-24 04:47:27 +0530
+94|mobiles_lists|Samsung Galaxy Ace Duos S6802|http://www.bigbuy.in/smart-phone/1562-samsung-galaxy-ace-duos-s6802-metallic-black.html|0|0|0|0|0|0.0|2013-07-24 04:47:28 +0530
+95|mobiles_lists|Samsung Galaxy Ace Plus S7500|http://www.bigbuy.in/smart-phone/1561-samsung-galaxy-ace-plus-s7500-dark-blue.html|0|0|0|0|0|0.0|2013-07-24 04:47:28 +0530
+96|mobiles_lists|Samsung Galaxy Grand I9082|http://www.bigbuy.in/smart-phone/1560-samsung-galaxy-grand-duos-i9082-metallic-blue.html|0|0|0|0|0|0.0|2013-07-24 04:47:28 +0530
+97|mobiles_lists|Samsung Galaxy Grand I9082|http://www.bigbuy.in/smart-phone/1559-samsung-galaxy-grand-duos-i9082-elegant-white.html|0|0|0|0|0|0.0|2013-07-24 04:47:28 +0530
+98|mobiles_lists|Nokia 112|http://www.bigbuy.in/1797-nokia-112-dark-grey-.html|0|0|0|0|0|0.0|2013-07-24 04:47:28 +0530
+99|mobiles_lists|Nokia 112|http://www.bigbuy.in/1796-nokia-112-white-.html|0|0|0|0|0|0.0|2013-07-24 04:47:29 +0530
+100|mobiles_lists|Nokia 112|http://www.bigbuy.in/1793-nokia-112-cyan-.html|0|0|0|0|0|0.0|2013-07-24 04:47:29 +0530
+101|mobiles_lists|Nokia 112|http://www.bigbuy.in/1791-nokia-112-red-.html|0|0|0|0|0|0.0|2013-07-24 04:47:29 +0530
+102|mobiles_lists|Nokia Asha 205|http://www.bigbuy.in/1788-nokia-asha-205-white-orange-.html|0|0|0|0|0|0.0|2013-07-24 04:47:29 +0530
+103|mobiles_lists|Nokia Asha 205|http://www.bigbuy.in/1786-nokia-asha-205-cyan-dark-rose-.html|0|0|0|0|0|0.0|2013-07-24 04:47:30 +0530
+104|mobiles_lists|Nokia 1280|http://www.bigbuy.in/1758-nokia-1280-black-.html|0|0|0|0|0|0.0|2013-07-24 04:47:30 +0530
+105|mobiles_lists|Nokia 100|http://www.bigbuy.in/1717-nokia-100-legion-blue-.html|0|0|0|0|0|0.0|2013-07-24 04:47:30 +0530
+106|mobiles_lists|Nokia 100|http://www.bigbuy.in/1716-nokia-100.html|0|0|0|0|0|0.0|2013-07-24 04:47:30 +0530
+107|mobiles_lists|Nokia Asha 305|http://www.bigbuy.in/1715-nokia-asha-305-silver-white-.html|0|0|0|0|0|0.0|2013-07-24 04:47:30 +0530
+108|mobiles_lists|Nokia 105|http://www.bigbuy.in/1761-nokia-105.html|0|0|0|0|0|0.0|2013-07-24 04:47:31 +0530
+141|printers_lists|Canon Image Class - MF3010 Multifunction Laser Printer|http://www.bigbuy.in/product.php?id_product=1007|0|0|0|0|0|0.0|2013-07-24 04:47:31 +0530
+142|printers_lists|Canon Laser Shot - LBP 2900B Single Function Laser Printer|http://www.bigbuy.in/product.php?id_product=1006|0|0|0|0|0|0.0|2013-07-24 04:47:31 +0530
+143|printers_lists|HP LaserJet Pro - M1136 Multifunction Laser Printer|http://www.bigbuy.in/product.php?id_product=964|0|0|0|0|0|0.0|2013-07-24 04:47:31 +0530
+144|printers_lists|HP LaserJet Pro - P1108 Single Function Laser Printer|http://www.bigbuy.in/product.php?id_product=668|0|0|0|0|0|0.0|2013-07-24 04:47:31 +0530
+====Starting online_univercell_products | product_id====
+====Starting online_homeshop18_products | product_id====
+====Starting online_nikishop_products | product_id====
+====Starting online_mirchimart_products | product_id====
+1622|routers_lists|Netgear DGN2200 ADSL2+ Wireless N300 Router With Modem|http://www.mirchimart.com/Netgear-N300-ADSL2&;jsessionid=95ECE62E77ACE4A20F19FCAE6F540DBB.jvm1#43;-Wireless-Router-with-Modem-DGN2200/Routers/p/79WFE3X5DG0|0|0|0|0|0|0.0|2013-07-24 05:01:08 +0530
+1624|routers_lists|Netgear DGN2200 ADSL2+ Wireless N300 Router With Modem|http://www.mirchimart.com/Netgear-N600-ADSL2&;jsessionid=95ECE62E77ACE4A20F19FCAE6F540DBB.jvm1#43;-Wireless-Router-with-Modem-DGND3700/Routers/p/GB9ECLJM6MW|0|0|0|0|0|0.0|2013-07-24 05:01:09 +0530
+1636|desktops_lists|HP Pavilion 20-B086IN All-in-One (2nd Gen PDC|0|0|0|0|0|0|0.0|2013-07-24 05:01:13 +0530
+1640|desktops_lists|HP Omni 120-1120IN All-in-One (2nd Gen PDC|0|0|0|0|0|0|0.0|2013-07-24 05:01:15 +0530
+1647|desktops_lists|HP Pavilion 20-B083IN All-in-One (2nd Gen Ci3|in stock|0|0|0|0|0|0.0|2013-07-24 05:01:19 +0530
+1649|desktops_lists|HP Omni 120-1232IL All-in-One (Celeron Dual Core|0|0|0|0|0|0|0.0|2013-07-24 05:01:20 +0530
+1731|tablets_lists|Micromax Funbook Infinity P275 Tablet|http://www.mirchimart.com/Micromax-Funbook-Infinity-P275-Tablet--WiFi-4GB/Tablet/p/S9Z9Q3FA191CK3|0|0|0|0|0|0.0|2013-07-24 05:03:20 +0530
+1772|mobiles_lists|Karbonn A9|http://www.mirchimart.com/Karbonn-A9&;jsessionid=F2FC7B86943E191DD3C3E806D498B7F1.jvm1#43;-Black-Mobile/Mobiles/p/5PG1MD1WCT1CUT1|0|0|0|0|0|0.0|2013-07-24 05:04:37 +0530
+2011|mobiles_lists|Micromax X274|http://www.mirchimart.com/Micromax-X274-Black--Red/Mobiles/p/1K0Q6IJYM7CWN24N|0|0|0|0|0|0.0|2013-07-24 05:08:43 +0530
+2013|mobiles_lists|Micromax X274|http://www.mirchimart.com/Micromax-X274-Black--Blue/Mobiles/p/5YGGHRPWW2GWDNJF|0|0|0|0|0|0.0|2013-07-24 05:08:45 +0530
+2309|printers_lists|HP Officejet 4500 - G510h Multifunction Inkjet Printer|http://www.mirchimart.com/HP-Officejet-4500-AllinOne-G510h-Printer/Printers/p/W4QG5S3OMARK9B|0|0|0|0|0|0.0|2013-07-24 05:09:49 +0530
+====Starting online_landmark_products | product_id====
+====Starting online_grabmore_products | product_id====
+96|desktops_lists|HP Omni 120-1020IN|http://www.grabmore.in/products/12806998/HP-120-1120-IN-Touchscreen-Desktops-20-HD.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+97|desktops_lists|HP Omni 27-1010IN|http://www.grabmore.in/products/12807002/HP-Omni-27-1010IN-Touchscreen-Desktops.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+98|desktops_lists|HP Envy 23-D020IN TouchSmart All-in-One (3rd Gen Ci5|http://www.grabmore.in/products/12807003/HP-Envy-Touchsmart-23-D020IN-Touchscreen-Desktops.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+99|desktops_lists|HP Omni 120-1234IL All-in-One (2nd Gen PDC|http://www.grabmore.in/products/12807422/HP-Omni-120-1234il-Desktop-PC-H3U80AA.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+100|desktops_lists|HP Pavilion 20-B086IN All-in-One (2nd Gen PDC|http://www.grabmore.in/products/12807427/HP-Pavilion-20-b086in-All-in-One-Desktop-PC-H3W32AA.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+130|tablets_lists|Nexus 7 Tablet|http://www.grabmore.in/products/12756606/ASUS-Google-Nexus-7-Tablet-16GB.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+131|tablets_lists|HCL ME Tablet X1|http://www.grabmore.in/products/12763760/HCL-X1-Tablet.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+132|tablets_lists|HCL ME Tablet U1|http://www.grabmore.in/products/12798060/HCL-ME-U1-7-Tablet-with-out-Calling-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+133|tablets_lists|Asus MeMO Pad ME172V Tablet|http://www.grabmore.in/products/0886227411917/ASUS-MeMO-Pad-ME172V-A1-GR-7-Inch-16GB-Tablet-Grey.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+134|tablets_lists|HCL ME Connect 2G 2.0 Tablet|http://www.grabmore.in/products/12798063/HCL-ME-V1-7-Tablet-with-Calling-Single-Sim-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+135|tablets_lists|Apple 16GB iPad 2 with Wi-Fi 3G|http://www.grabmore.in/products/789127000000/Apple-iPad-2-WI-FI+3G-16GB-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+136|tablets_lists|Apple 16GB iPad 2 with Wi-Fi 3G|http://www.grabmore.in/products/789050000054/Apple-iPad-2-WI-FI+3G-16GB-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+137|tablets_lists|Asus Eee Pad Transformer TF201 Tablet|http://www.grabmore.in/products/886227027859/ASUS-Transformer-Prime-TF201-C1-GR-10.1-Inch-64GB-Tablet-Amethyst-Gray.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+138|tablets_lists|Sony SGPT211IN-S|http://www.grabmore.in/products/11767711/Sony-P-Tablet-SGPT211IN/S-3G+Wi-Fi-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+139|tablets_lists|Samsung Galaxy Tab 2 P3100|http://www.grabmore.in/products/0635753498493/Samsung-Galaxy-Tab-2-10.1-Inch-Wi-Fi.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+140|tablets_lists|Asus Eee Pad Transformer TF300TG-1A134A Tablet|http://www.grabmore.in/products/0886227185054/ASUS-Transformer-TF300-T-B1-BL-10.1-Inch-32-GB-Tablet-Blue.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+141|tablets_lists|Blackberry Playbook|http://www.grabmore.in/products/802975651504/Blackberry-Playbook-7-Inch-Tablet-16GB.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+142|tablets_lists|Blackberry Playbook|http://www.grabmore.in/products/802975651573/Blackberry-Playbook-7-Inch-Tablet-32GB.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+143|tablets_lists|Blackberry Playbook|http://www.grabmore.in/products/843163073395/Blackberry-Playbook-7-Inch-Tablet-64GB.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+144|tablets_lists|HCL ME Tablet X1|http://www.grabmore.in/products/12763761/HCL-My-Edu-tablet-X1-for-K-12.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+145|tablets_lists|HCL ME Tablet X1|http://www.grabmore.in/products/12763764/HCL-My-Edu-tablet-X1-for-Higher-Education.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+146|tablets_lists|Samsung Galaxy Tab 2 P3100|http://www.grabmore.in/products/12769349/Samsung-Galaxy-Tab2-310-GT-P3100-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+147|tablets_lists|Nexus 7 Tablet|http://www.grabmore.in/products/12782745/ASUS-Google-Nexus-7-Tablet-32GB.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+148|tablets_lists|Nexus 7 Tablet|http://www.grabmore.in/products/12784125/ASUS-Google-Nexus-7-Tablet-32-GB-with-Mobile-data-HSPA+-3G.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+149|tablets_lists|Apple 16GB iPad Mini with Wi-Fi and Cellular|http://www.grabmore.in/products/12786698/Apple-iPad-Mini-16-GB-Wi-Fi-+-Cellular-White-&-Silver.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+150|tablets_lists|HCL ME G1 Tablet|http://www.grabmore.in/products/12798046/HCL-ME-G1-9.7-Tablet-with-out-Calling-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+151|tablets_lists|Samsung Galaxy Tab 2 P3110|http://www.grabmore.in/products/12809208/Samsung-Galaxy-Tab-2-P3110-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+152|tablets_lists|Asus MeMO Pad ME172V Tablet|http://www.grabmore.in/products/0886227411931/ASUS-MeMO-Pad-ME172V-A1-PK-7-Inch-16-GB-Tablet-Pink.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+153|tablets_lists|Asus MeMO Pad ME172V Tablet|http://www.grabmore.in/products/0886227411948/ASUS-MeMO-Pad-ME172V-A1-WH-7-Inch-16-GB-Tablet-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+154|tablets_lists|Sony Xperia Z Tablet|http://www.grabmore.in/products/027242856370/Sony-Xperia-64-GB-9.4-Inch-Tablet-S-SGPT123US/S.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+155|tablets_lists|Samsung Galaxy Tab 2 P3100|http://www.grabmore.in/products/12883180/Samsung-Galaxy-Tab-2-P3100-Titanium-Silver.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+161|speakers_lists|F&D F3000U 5.1 Multimedia Speakers|http://www.grabmore.in/products/11012608/F&D-F3000U-5.1-home-theatre-speaker.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+162|speakers_lists|JBL Creature III Multimedia Speakers|http://www.grabmore.in/products/050036919357/JBL-Creature-III-Self-Powered-Multimedia-Speaker-System-CREATURE3BLK-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+163|speakers_lists|JBL Jembe 2 Multimedia Speakers|http://www.grabmore.in/products/12793263/JBL-Jembe-Wireless-Bluetooth-Speakers.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+164|speakers_lists|F&D A333U 2.1 Multimedia Speakers|http://www.grabmore.in/products/11012603/F&D-A333U-2.1-multimedia-speaker-with-USB-reader.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+165|speakers_lists|F&D A110 2.1 Multimedia Speakers|http://www.grabmore.in/products/11012606/F&D-A520-2.1-Speakers-with-6.5-inch-Sub-Woofer-for-Deep-Bass.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+166|speakers_lists|F&D A510 2.1 Multimedia Speakers|http://www.grabmore.in/products/11012607/F&D-A510-2.1-Speakers-WITH-6.5-Sub-Woofer-for-Deep-Bass5000W-SOUND.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+167|speakers_lists|Creative SBS A335 2.1 Multimedia Speakers|http://www.grabmore.in/products/11422440/Creative-SBS-A335-Speaker..html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+168|speakers_lists|Creative SBS A120 2.1 Multimedia Speakers|http://www.grabmore.in/products/11755048/Creative-SBS-A120-2.1-Speaker-System.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+169|speakers_lists|Frontech JIL-3335 Multimedia Speaker|http://www.grabmore.in/products/12766854/Frontech-2.1-Subwoofers-JIL-3335-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+176|keyboards_lists|Logitech G13  Keyboard|http://www.grabmore.in/products/097855053893/Logitech-G13-Advanced-Gameboard-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+177|keyboards_lists|Logitech G19  Keyboard|http://www.grabmore.in/products/097855056382/Logitech-G19-Keyboard-for-Gaming.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+178|keyboards_lists|Logitech G13  Keyboard|http://www.grabmore.in/products/097855053893/Logitech-G13-Advanced-Gameboard-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+179|keyboards_lists|Microsoft natural ergonomic keyboard 4000|http://www.grabmore.in/products/882224015462/Microsoft-Natural-Ergonomic-Keyboard-4000.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+180|keyboards_lists|Microsoft Wireless Desktop 3000|http://www.grabmore.in/products/882224779760/Microsoft-Wireless-Desktop-3000.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+181|keyboards_lists|Logitech Ultra-flat Keyboard|http://www.grabmore.in/products/6136748/Logitech-Ultra-Flat-Keyboard-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+182|keyboards_lists|Microsoft Wired Desktop 600 USB 2.0 Keyboard and Mouse Combo|http://www.grabmore.in/products/0882224741958/Microsoft-Wired-Desktop-600-with-USB-Port-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+183|keyboards_lists|Logitech K200 Media Keyboard|http://www.grabmore.in/products/0097855067227/Logitech-Media-Keyboard-K200-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+184|keyboards_lists|Microsoft Arc Keyboard - USB|http://www.grabmore.in/products/0882224930284/Microsoft-Arc-Wireless-Keyboard-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+185|keyboards_lists|Microsoft Wired Desktop 600 USB 2.0 Keyboard and Mouse Combo|http://www.grabmore.in/products/0882224741590/Microsoft-Wired-Keyboard-600-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+186|keyboards_lists|Apple Wireless Keyboard|http://www.grabmore.in/products/9658679/Apple-Wireless-Keyboard-MC184LL/B.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+187|keyboards_lists|Apple Keyboard with Numeric Keypad|http://www.grabmore.in/products/9658683/Apple-Keyboard-with-Numeric-Keypad-MB110LL/B.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+188|keyboards_lists|Microsoft Wireless Desktop 3000|http://www.grabmore.in/products/088537025260/Microsoft-Wireless-Desktop-2000.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+189|keyboards_lists|Logitech K100 Classic Keyboard - PS-2|http://www.grabmore.in/products/11390124/Logitech-Classic-Keyboard-K100-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+190|keyboards_lists|Frontech JIL-1660 PS-2 Keyboard and Mouse Combo|http://www.grabmore.in/products/11755051/Frontech-Keyboard-with-Mouse-Combo-JIL-1660.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+191|keyboards_lists|Logitech K750 Wireless Solar Keyboard|http://www.grabmore.in/products/097855071613/Logitech-Wireless-Solar-Keyboard-K750.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+192|keyboards_lists|Logitech K270 Wireless Keyboard|http://www.grabmore.in/products/097855073358/Logitech-Wireless-Keyboard-K270-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+193|keyboards_lists|Microsoft natural ergonomic keyboard 4000|http://www.grabmore.in/products/885370247848/Microsoft-Natural-Ergonomic-Keyboard-4000-for-Business.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+194|keyboards_lists|Microsoft Wireless Desktop 3000|http://www.grabmore.in/products/885370301137/Microsoft-Comfort-Curve-Desktop-3000-for-Business.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+195|keyboards_lists|Logitech Gaming Keyboard G105 USB 2.0  Keyboard|http://www.grabmore.in/products/0097855081933/Logitech-Gaming-Keyboard-G105-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+196|keyboards_lists|Microsoft Wired Keyboard 200 USB|http://www.grabmore.in/products/0885370249286/Microsoft-Optical-Mouse-200-for-Business-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+197|keyboards_lists|Microsoft Bluetooth Mobile 5000 Keyboard|http://www.grabmore.in/products/0885370349535/Microsoft-Bluetooth-Mobile-Keyboard-5000.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+198|keyboards_lists|Microsoft Wedge Mobile Wireless Keyboard|http://www.grabmore.in/products/0885370380453/Microsoft-Wedge-Mobile-Keyboard-for-Business-U7R-00001.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+199|keyboards_lists|Microsoft Sculpt Comfort Wireless Keyboard|http://www.grabmore.in/products/0885370409598/Microsoft-Sculpt-Comfort-Keyboard.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+200|keyboards_lists|Logitech K810 Bluetooth Illuminated Keyboard|http://www.grabmore.in/products/0097855089069/Logitech-Bluetooth-Illuminated-Keyboard-K810-for-PCs-Tablets-Smartphones-Black-920-004292.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+201|keyboards_lists|Logitech Gaming Keyboard G105 USB 2.0  Keyboard|http://www.grabmore.in/products/097855079725/Logitech-G105-Gaming-Keyboard-with-Backlighting-920-003371.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+202|keyboards_lists|Microsoft Wedge Mobile Wireless Keyboard|http://www.grabmore.in/products/885370379938/Microsoft-Wedge-Mobile-Keyboard.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+207|pendrives_lists|SanDisk Cruzer Blade 4 GB Pen Drive|http://www.grabmore.in/products/0619659064716/SanDisk-Cruzer-Blade-USB-flash-Drive-4GB-SDCZ50-004G.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+208|pendrives_lists|SanDisk Cruzer Blade 8 GB Pen Drive|http://www.grabmore.in/products/9661257/SanDisk-Cruzer-Blade-USB-flash-Drive-8GB-SDCZ50-008G.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+209|pendrives_lists|SanDisk Cruzer Blade 16 GB Pen Drive|http://www.grabmore.in/products/9662569/SanDisk-Cruzer-Blade-USB-Flash-Drive-16GB-SDCZ50-016G.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+210|pendrives_lists|SanDisk Cruzer Blade 8 GB Pen Drive|http://www.grabmore.in/products/11539020/Sandisk-Cruzer-Switch-8-GB-Pendrive.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+211|pendrives_lists|SanDisk Cruzer Edge 4 GB Pen Drive|http://www.grabmore.in/products/0619659066048/Sandisk-Cruzer-Edge-4GB-USB-Flash-Drive-SDCZ51-004G.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+212|pendrives_lists|Sandisk Cruzer Glide 128 GB Pen Drive|http://www.grabmore.in/products/B007YX9OGW/SanDisk-128GB-Cruzer-Glide-USB-SDCZ60-128G-B35.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+213|pendrives_lists|Kingston Digital DataTraveler Micro 8 GB Pen Drive|http://www.grabmore.in/products/0740617181623/Kingston-Digital-DataTraveler-4000-8-GB-Flash-Drive-DT4000/8GB.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+214|pendrives_lists|Kingston Data DataTraveler 108 8 GB Pen Drive|http://www.grabmore.in/products/740617203868/Kingston-DT101G2/64GBZ-101-Gen-2-64GB-DataTraveler-Green.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+222|memory_cards_lists|SanDisk Ultra CF 16 GB Memory Card|http://www.grabmore.in/products/619659043889/SanDisk-Ultra-Compact-Flash-16GB-Card-SDCFH-016G-U46.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+223|memory_cards_lists|SanDisk Extreme CF 32 GB Memory Card|http://www.grabmore.in/products/619659057923/SanDisk-Extreme-Compact-Flash-32GB-Card-SDCFX-032G-X46.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+224|memory_cards_lists|SanDisk MS Pro Duo 4GB Memory Card|http://www.grabmore.in/products/0619659021511/SanDisk-Ultra-Compact-Flash-4GB-Card-SDCFH-004G-U46.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+225|memory_cards_lists|SanDisk Extreme Pro SDHC 16 GB 95MB-s UHS Speed Class 10 Memory Card|http://www.grabmore.in/products/0619659064310/SanDisk-16GB-Extreme-Pro-SDHC-Memory-Card-SDSDXP1-016G.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+226|memory_cards_lists|SanDisk Extreme CF 32 GB Memory Card|http://www.grabmore.in/products/0619659058494/SanDisk-32GB-Standard-SD-and-SDHC-Card-SDSDB-032G-B35.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+227|memory_cards_lists|SanDisk Extreme Pro SDHC 32 GB 95MB-s UHS Speed Class 10 Memory Card|http://www.grabmore.in/products/0619659056308/SanDisk-Extreme-Pro-Compact-Flash-32GB-Card-SDCFXP-032G.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+228|memory_cards_lists|Sandisk Extreme Pro MicroSDHC UHS-I 16 GB Memory Card|http://www.grabmore.in/products/0619659056278/SanDisk-Extreme-Pro-Compact-Flash-16GB-Card-SDCFXP-016G.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+229|memory_cards_lists|SanDisk Extreme Pro SDHC 8 GB 95MB-s UHS Speed Class 10 Memory Card|http://www.grabmore.in/products/0619659064303/SanDisk-8GB-Extreme-Pro-SDHC-Memory-Card-SDSDXP1-008G.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+230|memory_cards_lists|SanDisk Extreme Pro SDHC 32 GB 95MB-s UHS Speed Class 10 Memory Card|http://www.grabmore.in/products/0619659064723/SanDisk-32GB-Extreme-Pro-SDHC-Memory-Card-SDSDXP1-032G.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+231|memory_cards_lists|SanDisk Extreme CF 16 GB 60MB-S Memory Card|http://www.grabmore.in/products/0619659057886/SanDisk-Extreme-Compact-Flash-16GB-Card-SDCFX-016G-X46.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+232|memory_cards_lists|SanDisk Extreme HD Video SDHC 16 GB 45MB-s UHS-I Class 10 Memory Card|http://www.grabmore.in/products/0619659062217/SanDisk-Extreme-HD-Video-16-GB-SDHC-Class-6-Memory-Card-SDSDRX3-016G-A21.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+233|memory_cards_lists|SanDisk SD 2GB Memory Card|http://www.grabmore.in/products/9649734/SANDISK-2GB-MICRO-SD-MEMORY-CARD.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+234|memory_cards_lists|SanDisk Ultra SDHC 8 GB Class 4 Memory Card|http://www.grabmore.in/products/9656271/SanDisk-8GB-Micro-SDHC-Class-4-Memory-Card.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+235|memory_cards_lists|Samsung MB-MS4GA MicroSD 4 GB Memory Card Class 4|http://www.grabmore.in/products/619659067007/SanDisk-4GB-MICRO-SD-CARD-class-4.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+236|memory_cards_lists|SanDisk Memory Card Extreme Pro MicroSDHC UHS-I 8 GB|http://www.grabmore.in/products/11390140/SanDisk-8GB-microSD-High-Capacity-microSDHC-Card-8-GB.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+237|memory_cards_lists|SanDisk Ultra CF 4 GB Memory Card|http://www.grabmore.in/products/0619659070366/SanDisk-Mobile-Ultra-4GB-Micro-SDHC-Memory-Card-SDSDQY-004G.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+238|memory_cards_lists|SanDisk Ultra CF 8 GB Memory Card|http://www.grabmore.in/products/0619659070557/SanDisk-Mobile-Ultra-8GB-Micro-SDHC-Memory-Card-SDSDQY-008G.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+239|memory_cards_lists|SanDisk Extreme CF 64 GB 60MB-S Memory Card|http://www.grabmore.in/products/0619659070946/SanDisk-Extreme-Pro-64GB-SDHC-95mb/s-UHS-Card-SDSDXPA-064G-X46.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+240|memory_cards_lists|SanDisk Ultra SDHC 16 GB 30MB-S Class 10 Memory Card|http://www.grabmore.in/products/0619659076290/SanDisk-16GB-Ultra-Class-10-SDHC-Card-30MB/s-SDSDU-016G.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+241|memory_cards_lists|SanDisk Ultra SDHC 32 GB 30MB-S Class 10 Memory Card|http://www.grabmore.in/products/0619659077679/Sandisk-32GB-Ultra-Class-10-SDHC-Card-30MB/s-SDSDU-032G.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+242|memory_cards_lists|SanDisk Memory Card Mobile Ultra 32 GB Class 10|http://www.grabmore.in/products/0619659070717/SanDisk-Mobile-Ultra-32GB-microSDHC-Card-SDSDQY-032G-U46.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+243|memory_cards_lists|SanDisk Ultra SDXC 64 GB 30MB-S Class 10 Memory Card|http://www.grabmore.in/products/0619659077747/SanDisk-64GB-Ultra-Class-10-SDXC-UHS-I-Card-30MB/s-SDSDU-064G.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+244|memory_cards_lists|SanDisk Memory Card MicroSDHC 32GB|http://www.grabmore.in/products/0619659078362/Sandisk-SDSDQUA-032G-A11A-32gb-Sdsdqua-016g-a11a-Microsd-Flsh-30mb/sec-Class6-With-Adapter.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+245|memory_cards_lists|SanDisk Ultra SDHC 8 GB 30MB-S Class 10 Memory Card|http://www.grabmore.in/products/0619659082840/SanDisk-8GB-Ultra-Class-10-SDHC-Card-30MB/s-SDSDU-008G.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+246|memory_cards_lists|SanDisk Ultra SDHC 32 GB 20MB-S Class 6 Memory Card|http://www.grabmore.in/products/619659066840/SanDisk-Ultra-SDHC-Card-32GB-SDSDH-032G-U46S.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+247|memory_cards_lists|SanDisk SDHC 8GB Memory Card|http://www.grabmore.in/products/619659078676/SanDisk-Ultra-8GB-microSDHC-Card-Plus-Adapter-SDSDQYA-008G-U46A.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+248|memory_cards_lists|Transcend SD 8GB Class 4 Memory Card|http://www.grabmore.in/products/0760557810414/Transcend-TS8GCF100I-8GB-Industrial-Compact-Flash-Card.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+249|memory_cards_lists|SanDisk Memory Card MicroSD 2GB|http://www.grabmore.in/products/0619659066871/Sandisk-MicroSD-Card-2GB-with-Adapter-Mobile.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+250|memory_cards_lists|Transcend SD 16GB Class 4 Memory Card|http://www.grabmore.in/products/760557819837/Transcend-MicroSDHC-Memory-Card-with-SD-Adaptor-Class-4-16-GB-[Amazon-Frustration-Free-Packaging].html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+251|memory_cards_lists|Transcend CF 32GB Memory Card|http://www.grabmore.in/products/760557820147/Transcend-TS32GCF200I-32GB-CompactFlash-Memory-Card.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+252|memory_cards_lists|Transcend SD 32GB Class 10 Memory Card|http://www.grabmore.in/products/760557824398/Transcend-32GB-Wi-Fi-SDHC-Class-10-Memory-Card.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+253|mobiles_lists|Samsung Galaxy Fit S5670|http://www.grabmore.in/products/9625433/Samsung-Galaxy-Fit-S5670.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+254|mobiles_lists|Samsung Galaxy Ace S5830|http://www.grabmore.in/products/9631886/Samsung-Galaxy-Ace-S5830.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+255|mobiles_lists|Samsung Galaxy Y S5360|http://www.grabmore.in/products/9658846/Samsung-Galaxy-Y-S5360-Mobile.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+256|mobiles_lists|BlackBerry Torch 9810|http://www.grabmore.in/products/9660362/BlackBerry-Torch-9810-Zinc-Grey.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+257|mobiles_lists|Micromax Q80|http://www.grabmore.in/products/11119865/Micromax-Q80-Mobil-Phone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+258|mobiles_lists|HTC EVO Design 4G|http://www.grabmore.in/products/11119886/HTC-Evo-Design-4G-Sprint-Android-Mobile-Phone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+259|mobiles_lists|Nokia Lumia 920|http://www.grabmore.in/products/12774767/Nokia-Lumia-920-Windows-Phone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+260|mobiles_lists|Apple iPhone 5|http://www.grabmore.in/products/12774774/Apple-iPhone-5-16GB-Smart-Phone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+261|mobiles_lists|Apple iPhone 5|http://www.grabmore.in/products/12774775/Apple-iPhone-5-16GB-Smart-Phone-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+262|mobiles_lists|Nokia Lumia 510|http://www.grabmore.in/products/12794593/Nokia-Lumia-510-Mobile-Phone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+263|mobiles_lists|Nokia Lumia 820|http://www.grabmore.in/products/12794594/Nokia-Lumia-820-Windows-Phone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+264|mobiles_lists|Samsung Galaxy Grand I9082|http://www.grabmore.in/products/12800269/Samsung-Galaxy-Grand-Duos-I9082-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+265|mobiles_lists|HTC Desire V|http://www.grabmore.in/products/12808693/HTC-Desire-V-T328W-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+266|mobiles_lists|HTC One|http://www.grabmore.in/products/12832793/HTC-One-Android-Mobile-Phone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+267|mobiles_lists|Samsung T469 Gravity 2|http://www.grabmore.in/products/9625057/Samsung-SGH-T469.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+268|mobiles_lists|Nokia 500|http://www.grabmore.in/products/9632138/Nokia-500.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+269|mobiles_lists|BlackBerry Curve 8520|http://www.grabmore.in/products/9660349/Blackberry-Curve-8520-Smartphone.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+270|mobiles_lists|BlackBerry Curve 3G 9300|http://www.grabmore.in/products/9660357/BlackBerry-Curve-3G-9300-Smartphone.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+271|mobiles_lists|Nokia C2-01|http://www.grabmore.in/products/758478024096/Nokia-C2-01-Unlocked-GSM-Phone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+272|mobiles_lists|Nokia N8|http://www.grabmore.in/products/758478022757/Nokia-N8-Unlocked-GSM-Touchscreen-Phone-Featuring-GPS-with-Voice-Navigation-and-12-MP-Camera-U.S.-Version-with-Warranty-Silver/White.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+273|mobiles_lists|Nokia 101|http://www.grabmore.in/products/9665170/Nokia-101-Mobile-Phone.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+274|mobiles_lists|Apple iPhone 4S|http://www.grabmore.in/products/10212164/Apple-iPhone-4S-16Gb-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+275|mobiles_lists|HTC DROID Incredible 4G LTE|http://www.grabmore.in/products/11012596/Htc-My-Touch-4G-Android-1Ghz768-Ram-3.8-5MP-HD-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+276|mobiles_lists|Nokia Lumia 710|http://www.grabmore.in/products/11112532/Nokia-Lumia-710-Mobile-Phone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+277|mobiles_lists|Motorola Photon 4G MB855|http://www.grabmore.in/products/11119873/Motorola-Photon-4G-MB855-Android-mobile-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+278|mobiles_lists|Nokia Asha 200|http://www.grabmore.in/products/11419863/Nokia-Asha-200-Dual-SIM-Mobile-Phone.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+279|mobiles_lists|Nokia C5-05|http://www.grabmore.in/products/11419918/Nokia-C5-05-Touch-Screen-Mobile-Phone-Black/Aluminium-grey.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+280|mobiles_lists|Nokia 100|http://www.grabmore.in/products/11420345/Nokia-100-Festival-Mobile-Phone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+281|mobiles_lists|Nokia E6|http://www.grabmore.in/products/11420382/Nokia-E6-Unlocked-GSM-Phone-With-Touchscreen-Silver.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+282|mobiles_lists|Samsung Galaxy Nexus I9250|http://www.grabmore.in/products/11755080/Samsung-I9250-Galaxy-Nexus-16GB-Unlocked.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+283|mobiles_lists|Samsung Focus Flash I677|http://www.grabmore.in/products/896216002033/Samsung-Focusâ„¢-Flash-Windows-Smartphone-SGH-I677-Dark-Gray.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+284|mobiles_lists|Samsung Galaxy Ace Duos I589|http://www.grabmore.in/products/12113714/Samsung-Galaxy-Ace-Duos-SCH-I589-Dual-SIM-Android-2.3-Mobile-Phone.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+285|mobiles_lists|Nokia Asha 202|http://www.grabmore.in/products/12460583/Nokia-Asha-202-Smartphone-With-Dual-Sim.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+286|mobiles_lists|Samsung Galaxy Y Duos S6102|http://www.grabmore.in/products/874512326954/Samsung-Galaxy-Y-Duos-S6102-Android-Dual-SIM-Quadband-Unlocked.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+287|mobiles_lists|Nokia 500|http://www.grabmore.in/products/12719084/Nokia-500-5MP-Camera-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+288|mobiles_lists|Nokia Lumia 800|http://www.grabmore.in/products/12754856/Nokia-Lumia-800-Unlocked-Windows-Smartphone-Blue/Cyan.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+289|mobiles_lists|Nokia Lumia 800|http://www.grabmore.in/products/12754858/Nokia-Lumia-800-Windows-Smartphone-Matte-Magenta.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+290|mobiles_lists|BlackBerry Curve 9220|http://www.grabmore.in/products/12764325/Blackberry-9220-Curve-Mobile-Phone.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+291|mobiles_lists|Samsung Galaxy Ace Duos S6802|http://www.grabmore.in/products/12764326/Samsung-Galaxy-Ace-Duos-GT-S6802.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+292|mobiles_lists|Nokia Asha 305|http://www.grabmore.in/products/12764330/Nokia-Asha-305-Mobile-Phone.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+293|mobiles_lists|BlackBerry Curve 9320|http://www.grabmore.in/products/12764334/BlackBerry-9320-Curve-Mobile-Phone.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+294|mobiles_lists|BlackBerry Porsche Design P'9981|http://www.grabmore.in/products/12764349/BlackBerry-Porsche-Design-P9981-SmartPhone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+295|mobiles_lists|Nokia Asha 302|http://www.grabmore.in/products/12764414/Nokia-Asha-302-Mobile-Phone.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+296|mobiles_lists|Nokia Asha 303|http://www.grabmore.in/products/12764416/Nokia-Asha-303-Mobile-Phone.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+297|mobiles_lists|Nokia Lumia 610|http://www.grabmore.in/products/12764418/Nokia-Lumia-610-Mobile-Phone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+298|mobiles_lists|Samsung Omnia M S7530|http://www.grabmore.in/products/12771146/Samsung-Omnia-M-GT-S7530-Smartphone.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+299|mobiles_lists|Nokia Lumia 920|http://www.grabmore.in/products/12774278/Nokia-Lumia-920-Windows-Phone-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+300|mobiles_lists|Apple iPhone 5|http://www.grabmore.in/products/12774776/Apple-iPhone-5-32GB-Smart-Phone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+301|mobiles_lists|Apple iPhone 5|http://www.grabmore.in/products/12774777/Apple-iPhone-5-32GB-Smart-Phone-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+302|mobiles_lists|Apple iPhone 5|http://www.grabmore.in/products/12774778/Apple-iPhone-5-64GB-Smart-Phone-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+303|mobiles_lists|Apple iPhone 5|http://www.grabmore.in/products/12774779/Apple-iPhone-5-64GB-Smart-Phone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+304|mobiles_lists|Nokia Lumia 710|http://www.grabmore.in/products/12783551/Nokia-Lumia-710-Windows-Phone-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+305|mobiles_lists|Samsung I9070 Galaxy S Advance|http://www.grabmore.in/products/12785441/Samsung-Galaxy-S-Advance-GT-I9070-Metallic-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:28 +0530
+306|mobiles_lists|Nokia 808 PureView|http://www.grabmore.in/products/12785533/Nokia-808-PureView-Mobile-Phone-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+307|mobiles_lists|Samsung Galaxy Ace Duos S6802|http://www.grabmore.in/products/12786417/Samsung-Galaxy-Ace-Duos-GT-S6802-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+308|mobiles_lists|Nokia Lumia 610|http://www.grabmore.in/products/12786551/Nokia-Lumia-610-Mobile-Phone-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+309|mobiles_lists|Nokia Asha 302|http://www.grabmore.in/products/12786552/Nokia-Asha-302-Mobile-Phone-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+310|mobiles_lists|Nokia Asha 200|http://www.grabmore.in/products/12786553/Nokia-Asha-200-Dual-SIM-Mobile-Phone-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+311|mobiles_lists|Nokia Asha 311|http://www.grabmore.in/products/12786556/Nokia-Asha-311-Dual-Sim-Mobile-Phone-Dark-Grey.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+312|mobiles_lists|Nokia Asha 311|http://www.grabmore.in/products/12786558/Nokia-Asha-311-Dual-Sim-Mobile-Phone-Rose-Red.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+313|mobiles_lists|Nokia Asha 305|http://www.grabmore.in/products/12786560/Nokia-Asha-305-Smartphone-Red.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+314|mobiles_lists|Samsung Galaxy Chat B5330|http://www.grabmore.in/products/12786583/Samsung-Galaxy-Chat-B5330-Android-Phone.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+315|mobiles_lists|Samsung Galaxy S Duos S7562|http://www.grabmore.in/products/12786599/Samsung-Galaxy-S-Duos-S7562-Smartphone-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+316|mobiles_lists|Samsung Galaxy S Duos S7562|http://www.grabmore.in/products/12786600/Samsung-Galaxy-S-Duos-S7562-Smartphone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+317|mobiles_lists|Nokia Lumia 820|http://www.grabmore.in/products/12794596/Nokia-Lumia-820-Windows-Phone-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+318|mobiles_lists|BlackBerry Z10|http://www.grabmore.in/products/12800234/BlackBerry-Z10-Smartphone.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+319|mobiles_lists|Nokia Asha 202|http://www.grabmore.in/products/12801143/Nokia-Asha-202-Dual-Sim-Mobile-Phone-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+320|mobiles_lists|Nokia Asha 302|http://www.grabmore.in/products/12801169/Nokia-Asha-302-Mobile-Phone-Red.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+321|mobiles_lists|Nokia Lumia 610|http://www.grabmore.in/products/12801175/Nokia-Lumia-610-Mobile-Phone-Cyan.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+322|mobiles_lists|Samsung Champ Neo Duos C3262|http://www.grabmore.in/products/12801180/Samsung-Champ-Neo-Duos-C3262-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+323|mobiles_lists|Samsung Champ Neo Duos C3262|http://www.grabmore.in/products/12801181/Samsung-Champ-Neo-Duos-C3262-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+324|mobiles_lists|Samsung Galaxy Note N7000|http://www.grabmore.in/products/12801231/Samsung-Galaxy-Note-N7000-16GB-Smartphone-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+325|mobiles_lists|Samsung Rex 80 S5222R|http://www.grabmore.in/products/12808917/Samsung-REX-80-S5222R-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+326|mobiles_lists|Samsung Rex 70 S3802|http://www.grabmore.in/products/12808924/Samsung-REX-70-S3802-Blue.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+327|mobiles_lists|Nokia Lumia 520|http://www.grabmore.in/products/12808946/Nokia-Lumia-520-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+328|mobiles_lists|Nokia Lumia 520|http://www.grabmore.in/products/12808953/Nokia-Lumia-520-Cyan.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+329|mobiles_lists|Samsung Rex 70 S3802|http://www.grabmore.in/products/12809021/Samsung-REX-70-S3802-Silver.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+330|mobiles_lists|Samsung Rex 70 S3802|http://www.grabmore.in/products/12809022/Samsung-REX-70-S3802-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+331|mobiles_lists|Samsung Rex 80 S5222R|http://www.grabmore.in/products/12809026/Samsung-REX-80-S5222R-Blue.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+332|mobiles_lists|Samsung Rex 80 S5222R|http://www.grabmore.in/products/12809028/Samsung-REX-80-S5222R-Silver.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+333|mobiles_lists|Samsung Rex 60 C3312R|http://www.grabmore.in/products/12809031/Samsung-REX-60-C3312R-Silver.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+334|mobiles_lists|Samsung Rex 60 C3312R|http://www.grabmore.in/products/12809033/Samsung-REX-60-C3312R-Red.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+335|mobiles_lists|Samsung Galaxy Music Duos S6012|http://www.grabmore.in/products/12809206/Samsung-Galaxy-Music-Duos-S6012-Blue.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+336|mobiles_lists|Samsung Galaxy Music Duos S6012|http://www.grabmore.in/products/12809207/Samsung-Galaxy-Music-Duos-S6012-Yellow.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+337|mobiles_lists|Samsung Galaxy Chat B5330|http://www.grabmore.in/products/12809218/Samsung-Galaxy-Chat-Android-Phone-B5330-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+338|mobiles_lists|Nokia Lumia 720|http://www.grabmore.in/products/12809426/Nokia-Lumia-720-Red.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+339|mobiles_lists|Nokia 1280|http://www.grabmore.in/products/12830324/Nokia-1280-Grey.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+340|mobiles_lists|Nokia 100|http://www.grabmore.in/products/12830340/Nokia-100-GSM-Mobile-Phone-Light-Blue.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+341|mobiles_lists|Nokia 112|http://www.grabmore.in/products/12830343/Nokia-112-Cyan.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+342|mobiles_lists|Nokia 112|http://www.grabmore.in/products/12830344/Nokia-112-Dark-Grey.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+343|mobiles_lists|Nokia 112|http://www.grabmore.in/products/12830346/Nokia-112-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+344|mobiles_lists|Nokia Asha 201|http://www.grabmore.in/products/12830351/Nokia-Asha-201-Graphite.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+345|mobiles_lists|Nokia Asha 201|http://www.grabmore.in/products/12830354/Nokia-Asha-201-Light-Pink.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+346|mobiles_lists|Nokia Asha 201|http://www.grabmore.in/products/12830355/Nokia-Asha-201-Pearl-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+347|mobiles_lists|Nokia Asha 205|http://www.grabmore.in/products/12830358/Nokia-Asha-205-Dual-Sim-Mobile-Phone-Cyan-Dark-Rose.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+348|mobiles_lists|Nokia Asha 205|http://www.grabmore.in/products/12830359/Nokia-Asha-205-Dual-Sim-Mobile-Phone-White/Orange.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+349|mobiles_lists|Nokia Asha 303|http://www.grabmore.in/products/12830362/Nokia-Asha-303-Red.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+350|mobiles_lists|Nokia Asha 306|http://www.grabmore.in/products/12830364/Nokia-Asha-306-Grey.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+351|mobiles_lists|Nokia Asha 308|http://www.grabmore.in/products/12830366/Nokia-Asha-308-Dual-Sim-Mobile-Phone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+352|mobiles_lists|Nokia Asha 309|http://www.grabmore.in/products/12830369/Nokia-Asha-309-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+353|mobiles_lists|Nokia Asha 310|http://www.grabmore.in/products/12830372/Nokia-Asha-310-Dual-Sim-Mobile-Phone-Golden-Light.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+354|mobiles_lists|Nokia 500|http://www.grabmore.in/products/12830418/Nokia-500-3G-Mobile-Phone-Green.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+355|mobiles_lists|Nokia 500|http://www.grabmore.in/products/12830419/Nokia-500-3G-Mobile-Phone-Red.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+356|mobiles_lists|Nokia Lumia 720|http://www.grabmore.in/products/12831108/Nokia-Lumia-720-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+357|mobiles_lists|Nokia Lumia 720|http://www.grabmore.in/products/12831109/Nokia-Lumia-720-Cyan.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+358|mobiles_lists|Nokia Lumia 720|http://www.grabmore.in/products/12831110/Nokia-Lumia-720-Yellow.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+359|mobiles_lists|Nokia Lumia 720|http://www.grabmore.in/products/12831111/Nokia-Lumia-720-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+360|mobiles_lists|HTC One|http://www.grabmore.in/products/12832794/HTC-One-Android-Mobile-Phone-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+361|mobiles_lists|Nokia Lumia 920|http://www.grabmore.in/products/570054882414/Nokia-Lumia-920-Quad-Band-GSM-Smartphone-Black-Unlocked.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+362|mobiles_lists|Samsung Galaxy Y Duos S6102|http://www.grabmore.in/products/12883182/Samsung-Galaxy-Y-Duos-S6102-Pure-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+380|headsets_lists|Apple MA850G-B In-the-ear Headset with Remote and Mic|http://www.grabmore.in/products/9659453/Apple-In-ear-Headphones-for-iPod-MA850G/B-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+381|headsets_lists|HP HA3000 Interchangeable Color Anlog Headset|http://www.grabmore.in/products/886111915583/HP-HEADSET-HA3000-JASPER.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+382|headsets_lists|HP Stereo Headset|http://www.grabmore.in/products/886112161576/HP-Stereo-Headset-H2500-A2Q79A.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+383|headsets_lists|Logitech Wireless Headset H600|http://www.grabmore.in/products/12764897/Logitech-Wireless-Headset.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+384|headsets_lists|Sennheiser MM 400-X|http://www.grabmore.in/products/615104227712/Sennheiser-MM-400-X-On-Ear-Stereo-Bluetooth-Headse.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+385|headsets_lists|Sennheiser MM 500-X|http://www.grabmore.in/products/615104227743/Sennheiser-MM-500-X-Over-Ear-Bluetooth-Wireless-St.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+386|headsets_lists|Sennheiser MM 30i|http://www.grabmore.in/products/615104200067/Sennheiser-MM-30i-Stereo-Headset.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+387|headsets_lists|Sennheiser CX 275s In-the-ear Headset|http://www.grabmore.in/products/615104235397/Sennheiser-CX-275S-In-Ear-Headphones-with-Smartpho.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+388|headsets_lists|Sennheiser MM 70i Headset|http://www.grabmore.in/products/615104186286/Sennheiser-MM-70i-In-Ear-Sound-Isolating-Stereo-He.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+395|mouses_lists|Logitech Wireless Mouse M310|http://www.grabmore.in/products/097855066237/Logitech-Wireless-Mouse-M310-Silver.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+396|mouses_lists|Logitech Wireless Mouse M310|http://www.grabmore.in/products/097855067876/Logitech-Wireless-Mouse-M310Blue.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+397|mouses_lists|Microsoft Mobile 4000 Wireless BlueTrack Mouse|http://www.grabmore.in/products/882224015462/Microsoft-Natural-Ergonomic-Keyboard-4000.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+398|mouses_lists|Microsoft Arc Touch Wireless BlueTrack Mouse|http://www.grabmore.in/products/882224729987/Microsoft-Arc-Mouse-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+399|mouses_lists|Microsoft Arc Touch Wireless BlueTrack Mouse|http://www.grabmore.in/products/882224803793/Microsoft-ARC-Mouse-Mac/Win-USB-Blue.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+400|mouses_lists|Targus Wireless Compact Laser Mouse|http://www.grabmore.in/products/092636251420/Targus-Wireless-Compact-Laser-Mouse-AMW55AP.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+401|mouses_lists|Targus Wireless Optical Mouse|http://www.grabmore.in/products/092636251437/Targus-Wireless-Optical-Laptop-Mouse-AMW56AP.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+402|mouses_lists|Microsoft Notebook 5000 Wireless Laser Mouse|http://www.grabmore.in/products/882224109499/Microsoft-Wireless-Laser-Mouse-5000-Metallic-Black-63A-00001.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+403|mouses_lists|Microsoft Arc Touch Wireless BlueTrack Mouse|http://www.grabmore.in/products/885370144550/Microsoft-ARC-Touch-Mouse.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+404|mouses_lists|Logitech Bluetooth Mouse M555b|http://www.grabmore.in/products/097855057808/Logitech-Bluetooth-Mouse-M555b-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+405|mouses_lists|Targus Wireless Optical Mouse|http://www.grabmore.in/products/0092636251437/Targus-Wireless-Optical-Laptop-Mouse-AMW56US-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+406|mouses_lists|Microsoft Mobile 1000 Wireless Optical Mouse|http://www.grabmore.in/products/0885370163940/Microsoft-Wireless-Mobile-Mouse-1000.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+407|mouses_lists|Microsoft Mobile 4000 Wireless BlueTrack Mouse|http://www.grabmore.in/products/0882224863957/Microsoft-Wireless-Mobile-Mouse-4000-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+408|mouses_lists|Microsoft Arc Touch Wireless BlueTrack Mouse|http://www.grabmore.in/products/0882224930284/Microsoft-Arc-Wireless-Keyboard-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+409|mouses_lists|Microsoft Arc Touch Wireless BlueTrack Mouse|http://www.grabmore.in/products/0885370144550/Microsoft-Arc-Touch-Mouse-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+410|mouses_lists|Microsoft Touch Wireless BlueTrack Mouse|http://www.grabmore.in/products/885370289770/Microsoft-Touch-Mouse.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+411|mouses_lists|Apple MB112ZM-B USB Optical Mouse|http://www.grabmore.in/products/9658682/Apple-Wired-Mouse-MB112ZM/B.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+412|mouses_lists|Belkin F5L051 Mouse|http://www.grabmore.in/products/722868726587/Belkin-F5L051-MDD-Retractable-Comfort-Mouse-Blue.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+413|mouses_lists|Microsoft 100 USB 2.0 Optical Mouse|http://www.grabmore.in/products/11539208/Microsoft-Optical-Mouse-100-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+414|mouses_lists|Logitech Wireless Mouse M185|http://www.grabmore.in/products/097855074126/Logitech-Wireless-Mouse-M185-Grey.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+415|mouses_lists|Logitech Wireless Mouse M310|http://www.grabmore.in/products/097855076540/Logitech-Wireless-Mouse-M310-Flame-Red-910-002486.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+416|mouses_lists|Logitech Wireless Mouse M310|http://www.grabmore.in/products/097855076564/Logitech-Wireless-Mouse-M310-Vivid-Violet-910-002488.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+417|mouses_lists|Microsoft 3500 Wireless BlueTrack Mouse|http://www.grabmore.in/products/885370249163/Microsoft-Wireless-Mobile-Mouse-3500.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+418|mouses_lists|Microsoft Mobile 4000 Wireless BlueTrack Mouse|http://www.grabmore.in/products/885370249194/Microsoft-Wireless-Mobile-Mouse-4000-for-Business.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+419|mouses_lists|Logitech Wireless Touchpad|http://www.grabmore.in/products/0097855078582/Logitech-Wireless-Touchpad-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+420|mouses_lists|Belkin M150 Essential Wired Mouse|http://www.grabmore.in/products/12714509/Belkin-Essential-Wired-Mouse-M150-F5M006au-Black/Blue.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+421|mouses_lists|Belkin M250 Premium Wireless Mouse|http://www.grabmore.in/products/12714510/Belkin-Premium-Wireless-Mouse-M250-F5M002au-Black/Grey.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+422|mouses_lists|Belkin M400 Ultimate Wireless Mouse|http://www.grabmore.in/products/12714511/Belkin-Ultimate-Wireless-Mouse-M400-F5M003au-Black/Grey.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+423|mouses_lists|Belkin M450 Ultimate Wireless Mouse|http://www.grabmore.in/products/12714512/Belkin-Ultimate-Wireless-Mouse-M450-F5M004au-Black/Red.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+424|mouses_lists|Logitech M235 Wireless Mouse|http://www.grabmore.in/products/0097855086457/Logitech-910-002974-M325-Wireless-Mouse-for-Web-Scrolling-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+425|mouses_lists|Logitech Wireless Mini M187|http://www.grabmore.in/products/12764551/Logitech-Wireless-Mini-Mouse-M187-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+426|mouses_lists|Logitech Wireless Mouse M235|http://www.grabmore.in/products/12764553/Logitech-Wireless-Mouse-M235-Glossy.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+427|mouses_lists|Logitech Wireless Mouse M235|http://www.grabmore.in/products/12764554/Logitech-Wireless-Mouse-M235-Red.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+428|mouses_lists|Logitech Wireless Mouse M235|http://www.grabmore.in/products/12764555/Logitech-Wireless-Mouse-M235-Blue.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+429|mouses_lists|Logitech Wireless Mouse M235|http://www.grabmore.in/products/12764579/Logitech-Wireless-Mouse-M235-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+430|mouses_lists|Logitech Wireless Mouse M235|http://www.grabmore.in/products/12764580/Logitech-Wireless-Mouse-M235-Pink-Splash.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+431|mouses_lists|Logitech Anywhere Mouse M905|http://www.grabmore.in/products/12764597/Logitech-Anywhere-Mouse-M905-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+432|mouses_lists|Logitech Cordless Performance Mouse M950|http://www.grabmore.in/products/12764602/Logitech-Performance-Mouse-M950-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+433|mouses_lists|HP Wi-Fi Direct Bronze Mobile Mouse|http://www.grabmore.in/products/12769401/HP-Wi-Fi-Direct-Bronze-Mobile-Mouse-LQ083AA.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+434|mouses_lists|Targus Ultra Mini Optical Mouse|http://www.grabmore.in/products/12769666/Targus-Ultra-Mini-Optical-Mouse-AMU95AP.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+435|mouses_lists|Targus Amor Mini Blue Trace Mouse|http://www.grabmore.in/products/12769765/Targus-Amor-Mini-Blue-Trace-Mouse-AMU097AP.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+436|mouses_lists|Microsoft 3500 Wireless BlueTrack Mouse|http://www.grabmore.in/products/0885370412055/Microsoft-3500-Wireless-Mobile-Mouse-Magenta-Pink-GMF-00278.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+437|mouses_lists|Targus Wired Optical Mouse|http://www.grabmore.in/products/12770234/Targus-Armor-Wired-Optical-Mouse-AMU8602AP.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+438|mouses_lists|Microsoft 3500 Wireless BlueTrack Mouse|http://www.grabmore.in/products/0885370412000/Microsoft-3500-Wireless-Mobile-Mouse-Cyan-Blue-GMF-00273.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+439|mouses_lists|Logitech Wireless Mouse M310|http://www.grabmore.in/products/0097855084514/Logitech-Wireless-Mouse-M310-Red-Topography-910-002953.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+440|mouses_lists|Logitech Wireless Mouse M310|http://www.grabmore.in/products/0097855086266/Logitech-Wireless-Mouse-M310-Black-Topography-910-002999.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+441|mouses_lists|Logitech Wireless Mouse M310|http://www.grabmore.in/products/0097855086310/Logitech-Wireless-Mouse-M310-Crimson-Ribbons-910-003125.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+442|mouses_lists|Logitech Wireless Mouse M310|http://www.grabmore.in/products/0097855086259/Logitech-Wireless-Mouse-M310-Sky-Scraper-910-002998.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+443|mouses_lists|Microsoft Sculpt Touch Wireless BlueTrack Mouse|http://www.grabmore.in/products/0885370359251/Microsoft-Sculpt-Touch-Mouse-6PL-00003.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+444|mouses_lists|Microsoft Mobile 1000 Wireless Optical Mouse|http://www.grabmore.in/products/0885370412147/Microsoft-1000-Wireless-Mobile-Mouse-Cyan-Blue-2CF-00031.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+445|mouses_lists|Microsoft Mobile 1000 Wireless Optical Mouse|http://www.grabmore.in/products/0885370412192/Microsoft-1000-Wireless-Mobile-Mouse-Magenta-Pink-2CF-00036.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+446|mouses_lists|Microsoft Wedge Touch Wireless BlueTrack Mouse|http://www.grabmore.in/products/0885370380453/Microsoft-Wedge-Mobile-Keyboard-for-Business-U7R-00001.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+447|mouses_lists|Targus W063 Wireless Blue Trace Mouse|http://www.grabmore.in/products/12801671/Targus-W063-Wireless-BlueTrace-Mouse-AMW063AP.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+448|mouses_lists|Logitech Zone Touch T400 Mouse|http://www.grabmore.in/products/097855089991/Logitech-Zone-Touch-Mouse-T400-for-Windows-8-Black-910-003041.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+449|mouses_lists|Logitech Touch Mouse T620 Mouse|http://www.grabmore.in/products/097855091222/Logitech-Touch-Mouse-T620-with-Full-Touch-Surface-for-Windows-8-Graphite-910-003334.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+450|mouses_lists|Microsoft Wedge Touch Wireless BlueTrack Mouse|http://www.grabmore.in/products/885370404470/Microsoft-Wedge-Touch-Mouse.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+451|mouses_lists|Microsoft Wedge Touch Wireless BlueTrack Mouse|http://www.grabmore.in/products/885370379938/Microsoft-Wedge-Mobile-Keyboard.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+452|mouses_lists|Targus Wireless Optical Mouse|http://www.grabmore.in/products/092636275020/Targus-Wireless-Optical-Mouse.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+458|headphones_lists|JBL Tempo In Ear Headphone|http://www.grabmore.in/products/12608183/JBL-Tempo-On-ear-Headphone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+459|headphones_lists|Sennheiser MX 580 Headphone|http://www.grabmore.in/products/615104170339/Sennheiser-MX-Series-MX-580.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+460|headphones_lists|Sennheiser PX 100-II Headphone|http://www.grabmore.in/products/615104169227/Sennheiser-PX-100-II-On-Ear-Miniheadphone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+461|headphones_lists|Sennheiser PX 200-II Headphone|http://www.grabmore.in/products/615104169234/Sennheiser-PX-Series-PX-200-II-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+462|headphones_lists|Sennheiser HD 205 II|http://www.grabmore.in/products/615104185784/Sennheiser-Professional-HD-205-II-Black/Grey.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+463|headphones_lists|Sennheiser HD 202 II|http://www.grabmore.in/products/4044155054699/Sennheiser-HD-202-II-Professional-Headphones-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+464|headphones_lists|Sennheiser RS 170 Headphone|http://www.grabmore.in/products/615104182707/Sennheiser-RS-170-Digital-Wireless-Headphone-with-Dynamic-Bass-and-Surround-Sound.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+465|headphones_lists|Sennheiser RS 180 Headphone|http://www.grabmore.in/products/615104184558/Sennheiser-HDR-180-Supplemental-RS180-Wireless-Headphones-Charger/Transmitter-not-included.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+466|headphones_lists|Sennheiser HD 518 Headphone|http://www.grabmore.in/products/615104187672/Sennheiser-Audiophile-HD-518-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+467|headphones_lists|Sennheiser HD 558 Headphone|http://www.grabmore.in/products/615104187702/Sennheiser-Audiophile-HD-558.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+468|headphones_lists|Sennheiser RS 160 Headphone|http://www.grabmore.in/products/615104170506/Sennheiser-RS-160-Digital-Wireless-Headphones-with-Dynamic-Surround-Sound.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+469|headphones_lists|Sennheiser OMX 680 Sports Headphone|http://www.grabmore.in/products/615104173552/Sennheiser-Adidas-Performance-OMX-680-Black/Yellow.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+470|headphones_lists|Sennheiser CX 215 In-ear-canalphone|http://www.grabmore.in/products/615104222861/Sennheiser-CX-Series-CX-215-Blue.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+471|headphones_lists|Sennheiser HD 280 PRO Over-the-ear Headphone|http://www.grabmore.in/products/615104049741/Sennheiser-Professional-HD-280-PRO.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+472|headphones_lists|Sennheiser PXC 310 Headphone|http://www.grabmore.in/products/615104140141/Sennheiser-Noise-Cancellation-PXC-310-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+473|headphones_lists|Sennheiser CX 310 Originals|http://www.grabmore.in/products/615104191914/Sennheiser-CX-310-Originals-High-Quality-Noise-Isolating-Ear-Canal-Headphones-with-Bass-Driven-Sound.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+474|headphones_lists|Panasonic RP-HJE120E-A In-the-ear Headphone|http://www.grabmore.in/products/0885170002371/Panasonic-RP-HJE120-A-In-Ear-Earbud-Ergo-Fit-Headphone-Blue.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+475|headphones_lists|Panasonic RP-HJE120E-R In-the-ear Headphone|http://www.grabmore.in/products/0885170002418/Panasonic-RP-HJE120-R-In-Ear-Earbud-Ergo-Fit-Headphone-Red.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+476|headphones_lists|Panasonic RP-HJE120E-P In-the-ear Headphone|http://www.grabmore.in/products/0885170002425/Panasonic-RP-HJE120-P-In-Ear-Earbud-Ergo-Fit-Headphone-Pink.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+477|headphones_lists|Panasonic RP-DJ120E-W Headphone|http://www.grabmore.in/products/0885170045828/Panasonic-RP-HJC120-W-Earbuds-w/iPhone-controller-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+478|headphones_lists|Panasonic RP-HJE355E-K In-the-ear Headphone|http://www.grabmore.in/products/0885170045989/Panasonic-RP-HJE355-K-High-Fidelity-Ergo-Fit-Inner-Ear-Earbud-Headphone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+479|headphones_lists|Panasonic RP-HJE355E-W Headphone|http://www.grabmore.in/products/0885170073753/Panasonic-RP-HJE355-W-High-Fidelity-Ergo-Fit-Inner-Ear-Earbud-Headphone-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+480|headphones_lists|Panasonic RP-HJE355E-A Headphone|http://www.grabmore.in/products/0885170073760/Panasonic-RP-HJE355-A-High-Fidelity-Ergo-Fit-Inner-Ear-Earbud-Headphone-Blue.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+481|headphones_lists|Panasonic RP-HJE355E-R Headphone|http://www.grabmore.in/products/0885170073784/Panasonic-RP-HJE355-R-High-Fidelity-Ergo-Fit-Inner-Ear-Earbud-Headphone-Red.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+482|headphones_lists|Panasonic RP-HJE140E-K In-the-ear Headphone|http://www.grabmore.in/products/0885170082915/Panasonic-RP-HJE140-K-L-shaped-Ear-Earbud-Headphone.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+483|headphones_lists|Panasonic RP-HJE140E-A In-the-ear Headphone|http://www.grabmore.in/products/0885170082939/Panasonic-RP-HJE140-A-L-shaped-Ear-Earbud-Headphone.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+484|headphones_lists|Panasonic RP-HJE140E-G In-the-ear Headphone|http://www.grabmore.in/products/0885170082946/Panasonic-RP-HJE140-G-L-shaped-Ear-Earbud-Headphone.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+485|headphones_lists|Panasonic RP-HJE140E-D In-the-ear Headphone|http://www.grabmore.in/products/0885170082953/Panasonic-RP-HJE140-D-L-shaped-Ear-Earbud-Headphone.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+486|headphones_lists|Panasonic RP-HJE140E-R In-the-ear Headphone|http://www.grabmore.in/products/0885170082960/Panasonic-RP-HJE140-R-L-shaped-Ear-Earbud-Headphone.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+487|headphones_lists|Skullcandy S2DUDZ-042 In-the-ear Headphone|http://www.grabmore.in/products/878615024274/Skullcandy-JIB-Earbuds-Purple-S2DUDZ-042.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+488|headphones_lists|Skullcandy S2DUDZ-040 In-the-ear Headphone|http://www.grabmore.in/products/878615024267/Skullcandy-Jib-In-ear-Headphones-S2DUDZ-40-Pink.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+489|headphones_lists|Sennheiser HD 180|http://www.grabmore.in/products/12786859/Sennheiser-Wired-HD-180.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+490|headphones_lists|Sennheiser HD 229 Headphone|http://www.grabmore.in/products/615104218543/Sennheiser-Wired-HD-229-Black/Red.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+491|headphones_lists|Sennheiser HD 229 Headphone|http://www.grabmore.in/products/615104218581/Sennheiser-Wired-HD-229-White/Orange.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+492|headphones_lists|Sennheiser HD 419 Headphone|http://www.grabmore.in/products/615104218024/Sennheiser-Wired-HD-419-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+493|headphones_lists|Sennheiser HD 429 Headphone|http://www.grabmore.in/products/615104218048/Sennheiser-Wired-HD-429-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+494|headphones_lists|Sennheiser HD 439 Headphone|http://www.grabmore.in/products/615104218079/Sennheiser-Wired-HD-439-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+495|headphones_lists|Sennheiser HD 449 Headphone|http://www.grabmore.in/products/615104218093/Sennheiser-Wired-HD-449-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+496|headphones_lists|Sennheiser HD 598 Headphone|http://www.grabmore.in/products/033171306947/Sennheiser-Audiophile-HD-598.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+497|headphones_lists|Sennheiser HD 650 Headphone|http://www.grabmore.in/products/12786886/Sennheiser-Audiophile-HD-650.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+498|headphones_lists|Sennheiser HD 700|http://www.grabmore.in/products/615104221048/Sennheiser-Audiophile-HD-700-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+499|headphones_lists|Sennheiser HD 800 Headphone|http://www.grabmore.in/products/615104102958/Sennheiser-Audiophile-HD-800-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+500|headphones_lists|Sennheiser PXC 250-II Headphone|http://www.grabmore.in/products/763615961608/Sennheiser-Noise-Cancellation-PXC-250-II.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+501|headphones_lists|Sennheiser PXC 450 Headphone|http://www.grabmore.in/products/615104112230/Sennheiser-Noise-Cancellation-PXC-450.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+502|headphones_lists|Sennheiser RS 120 Headphone|http://www.grabmore.in/products/B0001FTVEK/Sennheiser-Wireless-RS-120.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+503|headphones_lists|Sennheiser RS 220 Headphone|http://www.grabmore.in/products/B006ZNX81E/Sennheiser-Wireless-RS-220-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+504|headphones_lists|Sennheiser PX 90 Headphone|http://www.grabmore.in/products/615104170384/Sennheiser-PX-Series-PX-90-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+505|headphones_lists|Sennheiser PMX 90 Headphone|http://www.grabmore.in/products/615104170377/Sennheiser-PMX-Series-PMX-90.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+506|headphones_lists|Sennheiser CX 175 In-ear-canalphone|http://www.grabmore.in/products/12786900/Sennheiser-CX-Series-CX175-Headphones-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+507|headphones_lists|Sennheiser CX 215 In-ear-canalphone|http://www.grabmore.in/products/615104222885/Sennheiser-CX-Series-CX-215-Orange.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+508|headphones_lists|Sennheiser CX 215 In-ear-canalphone|http://www.grabmore.in/products/615104222892/Sennheiser-CX-Series-CX-215-Earphones-Red.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+509|headphones_lists|Sennheiser CX 300 II Precision In-ear-canalphone|http://www.grabmore.in/products/951827399214/Sennheiser-CX-Series-CX-300-II-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+510|headphones_lists|Sennheiser CX 400 II Precision In-ear-canalphone|http://www.grabmore.in/products/12786907/Sennheiser-CX-Series-CX-400-II-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+511|headphones_lists|Sennheiser MX 170 Earphones|http://www.grabmore.in/products/615104185821/Sennheiser-MX-Series-MX-170-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+512|headphones_lists|Sennheiser MX 270 Headphone|http://www.grabmore.in/products/033171588657/Sennheiser-MX-Series-MX-270.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+513|headphones_lists|Sennheiser MX 365 Earphones|http://www.grabmore.in/products/12786915/Sennheiser-MX-Series-MX-365-Blue.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+514|headphones_lists|Sennheiser MX 365 Earphones|http://www.grabmore.in/products/615104222786/Sennheiser-MX-Series-MX-365-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+515|headphones_lists|Sennheiser PMX 680 Sports Headphone|http://www.grabmore.in/products/615104173682/Sennheiser-Adidas-Performance-PMX-680-Yellow.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+516|headphones_lists|Sennheiser HD 25 Originals Headphone|http://www.grabmore.in/products/615104184725/Sennheiser-Adidas-HD-25-Orginals-Headphones-Black/Blue.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+517|headphones_lists|Sennheiser HD 25-1-II Headphone|http://www.grabmore.in/products/615104135703/Sennheiser-Professional-HD-25II.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+518|headphones_lists|Sennheiser HD 380 Pro Headphone|http://www.grabmore.in/products/615104166738/Sennheiser-HD-380-Pro-Collapsible-High-end-Headphones-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+519|headphones_lists|Sennheiser RS 180 Headphone|http://www.grabmore.in/products/12786974/Sennheiser-CX-Series-CX-180-Headphones.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+520|headphones_lists|Sennheiser PX 80|http://www.grabmore.in/products/12787125/Sennheiser-PX-Series-PX-80.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+521|headphones_lists|Sony XBA-1 In-the-ear Headphone|http://www.grabmore.in/products/0027242819504/Sony-XBA-1-Prestige-In-ear-Headphones-xba1.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+522|headphones_lists|Skullcandy S2IKDZ-101 Ink'd 2 Headphone|http://www.grabmore.in/products/12801865/Skullcandy-S2IKDY-101-Inkd-2.0-Earbud-Headphones-with-Mic-Blue/Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+523|headphones_lists|JBL Tempo In-the-ear J01R Headphone|http://www.grabmore.in/products/12804032/JBL-Tempo-In-Ear-Head-Phone-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+524|headphones_lists|JBL J22 In-the-ear Headphone|http://www.grabmore.in/products/12804035/JBL-J22-In-Ear-Phone-Headphone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+525|headphones_lists|Sennheiser PX 210 BT Headphone|http://www.grabmore.in/products/4044156027227/Sennheiser-PX-210-BT-Closed-Mini-Headphones.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+526|headphones_lists|Sennheiser RS 170 Headphone|http://www.grabmore.in/products/4044155045437/Sennheiser-RS-170-Digital-Wireless-Headphone-Syste.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+527|headphones_lists|Sennheiser RS 160 Headphone|http://www.grabmore.in/products/4044155045420/Sennheiser-RS-160-Digital-Wireless-Headphone-Syste.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+528|headphones_lists|Sennheiser HD 280 PRO Over-the-ear Headphone|http://www.grabmore.in/products/4012418049744/Sennheiser-HD-280-Professional-Headphones.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+529|headphones_lists|Sennheiser PX 100-II Headphone|http://www.grabmore.in/products/4044155044423/Sennheiser-PX-100-II-Supra-Aural-Mini-Headphones-.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+530|headphones_lists|Sony MDR-XB600-B On-the-ear Headphones|http://www.grabmore.in/products/027242847224/Sony-MDR-XB600-Extra-Bass-Over-Ear-Headphones.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+531|headphones_lists|Skullcandy Mix Master S6MMDM-003 Over-the-ear Headphone|http://www.grabmore.in/products/878615044289/Skullcandy-Mix-Master-Black-Over-Ear-Headphone-Cor.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+532|headphones_lists|Skullcandy Mix Master S6MMDM-003 Over-the-ear Headphone|http://www.grabmore.in/products/878615040335/Skullcandy-Mix-Master-Over-Ear-Headphone-with-Mic3.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+533|headphones_lists|Sennheiser PXC 310 Headphone|http://www.grabmore.in/products/4044156027302/Sennheiser-PXC-310-Closed-Mini-Headphones.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+534|headphones_lists|Skullcandy Lowrider Mic'd Black-Bone White S5LWDY-117 On-the-ear Headphone|http://www.grabmore.in/products/878615038431/Skullcandy-Lowrider-Headphone-With-Inline-Mic-Gu.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+535|headphones_lists|Sennheiser MX 680 Sports Headphone|http://www.grabmore.in/products/4044155047042/Sennheiser-MX-680-Adidas-Sports-Headphones.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+536|headphones_lists|Skullcandy Lowrider Mic'd Black-Bone White S5LWDY-117 On-the-ear Headphone|http://www.grabmore.in/products/878615038493/Skullcandy-Lowrider-Headphone-With-Inline-Mic-At.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+537|headphones_lists|Skullcandy Mix Master S6MMDM-003 Over-the-ear Headphone|http://www.grabmore.in/products/878615040878/Skullcandy-Mix-Master-Over-Ear-Headphone-with-Mic3-Howell.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+585|printers_lists|Dell - 1130 Single Function Laser Printer|http://www.grabmore.in/products/884116039242/Dell-Laserjet-Printer-1130-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+586|printers_lists|HP Deskjet 1050 All-in-One Printer|http://www.grabmore.in/products/884962809594/HP-Deskjet-1050-All-in-One-Multifunction-printer-/-copier-/-scanner-color-ink-jet-copying-up-to-16-ppm-mono-/-12-ppm-color-printing-up-to-16-ppm-mono-/-12-ppm-color-60-sheets-Hi-Speed-USB.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+587|printers_lists|HP LaserJet 1020 - 1020 Plus Single Function Laser Printer|http://www.grabmore.in/products/829160710440/HP-LaserJet-1020-Printer-Q5911AABA.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+588|printers_lists|HP LaserJet Pro - P1106 Single Function Laser Printer|http://www.grabmore.in/products/11767343/HP-LaserJet-Pro-P1106-Printer-CE653A-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+589|printers_lists|HP LaserJet Pro - P1108 Single Function Laser Printer|http://www.grabmore.in/products/11767348/HP-LaserJet-Pro-P1108-Printer-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+590|printers_lists|HP Officejet - 100 Single Function Inkjet Printer|http://www.grabmore.in/products/0885631426791/HP-Officejet-100-Mobile-Printer.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+591|printers_lists|HP Officejet 4500 - G510h Multifunction Inkjet Printer|http://www.grabmore.in/products/884962535523/HP-Officejet-4500-All-in-One-PrintFaxScanCopy.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+592|printers_lists|HP Officejet 4500 - G510h Multifunction Inkjet Printer|http://www.grabmore.in/products/11767413/HP-Officejet-4500-Desktop-All-in-One-Printer-G510a.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+600|mobiles_lists|Samsung I9300 Galaxy S III(S3)|http://www.grabmore.in/products/12714155/Samsung-I9300-Galaxy-S-III-16GB-Android-Smartphone-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+601|mobiles_lists|Samsung I9100 Galaxy S II(S2)|http://www.grabmore.in/products/814792010372/samsung-Galaxy-S-II-I9100.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+602|mobiles_lists|Nokia Lumia 900|http://www.grabmore.in/products/12767124/Nokia-Lumia-900-Unlocked-Phone-Black.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+603|mobiles_lists|Nokia Lumia 900|http://www.grabmore.in/products/12767125/Nokia-Lumia-900-Unlocked-Phone-Blue.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+604|mobiles_lists|Nokia Lumia 900|http://www.grabmore.in/products/12767126/Nokia-Lumia-900-Unlocked-Phone-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+605|mobiles_lists|Samsung I9300 Galaxy S III(S3)|http://www.grabmore.in/products/12785437/Samsung-I9300-Galaxy-S-III-16GB-Android-Smartphone-Pebble-Blue.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+606|mobiles_lists|Samsung Galaxy Note II(2) N7100|http://www.grabmore.in/products/12786586/Samsung-Galaxy-Note-II-N7100-Titanium-Grey.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+607|mobiles_lists|Samsung Galaxy Note II(2) N7100|http://www.grabmore.in/products/12786588/Samsung-Galaxy-Note-II-N7100-Marble-White.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+608|mobiles_lists|Sony Xperia T LTE|http://www.grabmore.in/products/0095673855835/Sony-Xperia-ZL-LTE-C6506-Unlocked-Android-Phone-U.S.-Warranty-Red.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530
+609|mobiles_lists|Samsung I9100 Galaxy S II(S2)|http://www.grabmore.in/products/8806071703725/Samsung-Galaxy-S-II-I9100-Android-Smartphone-Unlocked.html|0|0|0|0|0|0.0|2013-07-24 05:24:29 +0530

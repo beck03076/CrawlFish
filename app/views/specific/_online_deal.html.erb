@@ -1,0 +1,48 @@
+<% if !@online_deal.empty? %>
+<% @online_deal.each do |i| %>
+	
+<% @online_deal_product_details.each do |j| %>
+	<% if i.sub_category_id == 1 %>
+		<% @deal_product_image_url=j.book_image_url %>
+		<% @deal_product_name=j.book_name %>
+	<% elsif i.sub_category_id == 2 %>
+		<% @deal_product_image_url=j.mobile_image_url %>
+		<% @deal_product_name=j.mobile_name %>
+	<% end %>
+<% end %>
+<table class="cf-specific-deal-online-table" cellpadding="5px" cellspacing=0>
+
+<tr>
+<td rowspan=4 class="cf-specific-deal-online-img">
+	<%= image_tag(@deal_product_image_url, :alt => @deal_product_name, :title => @deal_product_name) %>
+</td>
+</tr>
+
+<tr>
+<td colspan=2 class="cf-specific-deal-online-prd-name">
+	<%= @deal_product_name %>
+</td>
+</tr>
+
+<tr>
+<td class="cf-specific-deal-online-deal-info">
+	<b>Deal:</b> <%= i.deal_info %>
+</td>
+</tr>
+
+<tr>
+<td colspan=2 class="cf-specific-deal-online-visit-shop">
+	<div class="visit-shop-div">
+	<%= link_to "VISIT SHOP", i.redirect_url%>
+	</div>
+	<div style="clear:both"></div>
+</td>
+</tr>
+
+</table>
+<% end %>
+<% else %>
+	<div style="color:#C42525;text-align:center;font-size:13px">
+		There are no deals available from any online shops!
+	</div>
+<% end %>

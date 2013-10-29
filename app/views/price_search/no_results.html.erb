@@ -1,0 +1,101 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noindex" />
+<meta name="Description" content="CrawlFish - A unique price comparison website which compares prices from online portals and retailers from all cities in India. It is also 'first of its kind' location based price search engine in India." />
+<meta name="alexaVerifyID" content="agt3D-roIDhC4m8ZSkYS7nPfiqw" />
+<title>CrawlFish - A unique price comparison website which compares prices from online portals and retailers in cities in India</title>
+<link rel="shortcut icon" type="image/x-icon" href="/Images/favicon.ico">
+<%= stylesheet_link_tag    "application" %>
+<%= csrf_meta_tags %>
+<%= javascript_include_tag "application" %>
+<link href="/Stylesheets/genericsearchpage.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32882383-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+
+<div class="cf-generic-content">
+
+<div class="cf-generic-header">
+
+	<div class="cf-generic-header-logo">
+		<%= link_to image_tag("/Images/fcd-bold.png",:alt=> 'CrawlFish_Logo',:title=>'CrawlFish : Find. Compare. Decide') ,{:controller => 'main',:action => 'index'},:class => 'imgLogo'%>
+	 <!-- end cf-generic-header-logo --></div>
+
+    	<div class="cf-generic-header-search-form">
+    		<%= decide_search_form %>
+    	<!-- end cf-generic-header-search-form --></div>
+
+	<div class="cf-generic-header-links">
+		<ul class="cf-general-header-links-ul">
+			<% if !@search_case.nil? %>
+			<% if @search_case == "products" %>
+        			<li><%= link_to "Price Finder",{:controller => 'price_search',:action => 'index'},:id=>'cf-a-general-buy'%></li>
+				<li><%= link_to "Home",{:controller => 'main',:action => 'index'},:id=>'cf-a-special-home'%></li>
+			<% elsif @search_case == "price" %>
+				<li><%= link_to "Price Finder",{:controller => 'price_search',:action => 'index'},:id=>'cf-a-special-buy'%></li>
+				<li><%= link_to "Home",{:controller => 'main',:action => 'index'},:id=>'cf-a-general-home'%></li>
+			<% end %>
+			<% end %>
+        	</ul>
+	 <!--end cf-generic-header-links --></div>
+
+<!-- end cf-generic-header --></div>
+
+
+<div class="cf-generic-content-wrapper">
+	<div class="cf-generic-no-results-main-content">
+		<div class="cf-generic-no-results">
+			<div class="cf-generic-no-results-header">
+				<span style="color:#C42525">No Results Found!</span>
+			</div>
+			<div class="cf-generic-no-results-content">
+				<% if @message="No results fetched!" %>
+				<span style="font-size:13px">Sorry! We did not get any results for your search within the price range.</span>
+				<div style="padding-bottom:5px"></div>				
+				<div class="cf-generic-no-results-points">
+					<div class="cf-generic-no-results-points-header">
+						<span style="color:#C42525">Suggestions!</span>
+					</div>
+					<ul style="font-size:13px">
+						<li>Please search with different price range.</li>
+						<li>Visit <%= link_to "CrawlFish 101",{:controller => 'footer',:action => 'faq'}%> to learn better to search in CrawlFish.</li>
+						</ul>
+				</div>
+				<div style="padding-top:10px"></div>	
+				<div class="cf-generic-no-results-link">
+					<%= link_to "BACK", :back %>
+				</div>
+				<% else %>
+				<% end %>
+			</div>
+			
+			
+		</div>		
+	<!-- end cf-generic-no-results-main-content --></div>
+
+	<div class="clear"></div>
+	<div class="cf-generic-footer">
+ 		<div class="cf-generic-footer-details">
+			<div class="cf-generic-footer-content">
+			<%= render 'shared/footer' %>
+			<!-- end cf-generic-footer-content --></div>
+		</div>
+	<!-- end cf-generic-footer --></div>
+<!-- end cf-generic-content-wrapper --></div>
+<!-- end cf-generic-content --></div>
+

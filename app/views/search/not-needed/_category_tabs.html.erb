@@ -1,0 +1,29 @@
+<% if !@books_all_count.nil? && !@mobiles_all_count.nil? %>
+
+	<% if @books_all_count.to_i >= @mobiles_all_count.to_i %>
+
+		<%= render 'search/books_category_tabs' %>
+
+		<div style="padding-top:15px;"></div>
+
+		<%= render 'search/mobiles_category_tabs' %>
+
+	<%else%>
+
+		<%= render 'search/mobiles_category_tabs' %>
+
+		<div style="padding-top:15px;"></div>
+
+		<%= render 'search/books_category_tabs' %>
+
+	<%end%>
+
+<% else %>
+
+	<%= render 'search/books_category_tabs' %>
+
+	<div style="padding-top:15px;"></div>
+
+	<%= render 'search/mobiles_category_tabs' %>
+
+<% end %>

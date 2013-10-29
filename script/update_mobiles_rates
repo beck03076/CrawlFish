@@ -1,0 +1,17 @@
+if test $1 = "insert"
+then
+
+cd $3
+
+rake db:migrate:up VERSION=20121113194814
+
+`mysql -u root -p'Sector@123' -e "LOAD DATA LOCAL INFILE '$2' INTO TABLE temp_mobiles_rates FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP" crawlfishdevdb`
+
+echo "Data loaded successfully"
+
+rake db:migrate:down VERSION=20121113194814
+
+cd
+
+exit 0
+fi

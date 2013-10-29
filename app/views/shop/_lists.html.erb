@@ -1,0 +1,13 @@
+
+<div class="cf-lsmc-tab-menu">
+<ul id="list" >
+
+    <%["details","map","reviews","products"].each_with_index do |i,j| %>
+        <!-- You have pass 1 in the 6 position as parameter for shops controller-->
+        <%= form_list_item(i,i.titleize,"type",@list,1,1) %>  
+           
+    <% end %>
+
+</ul>
+</div>
+

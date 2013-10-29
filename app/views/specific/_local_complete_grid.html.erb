@@ -1,0 +1,262 @@
+<% @local_grids.each_with_index do |grid,index_value| %>
+
+
+    <% @vendor_admin_branch = get_admin_branch(grid.vendor_id) %>
+
+    <%= form_grid_div(index_value) %>
+
+<table class="cf-specific-product-grid-table-online-details" border=0 cellpadding=0 cellspacing=0>
+
+		<tr class="cf-specific-product-grid-table-local-inner-tr-content">
+		<% @vendor_freeze_flag = get_freeze_flag(grid.vendor_id) %>
+		<td id="td-seller-local">
+
+		<% if @area.nil? %>
+			<% get_vendor_total_branches_count(grid.vendor_name)%>
+			<% if @vendor_total_branches_count.nil? %>
+				<div class="td-seller-local-vendorname"><%= grid.vendor_alias_name.titlecase%></div>
+			<% else %>
+				<div class="td-seller-local-vendorname">
+					<%= grid.vendor_alias_name.titlecase%><br/>
+					<span style="font-size:11px;color:#000;font-weight:normal">
+					<% if @vendor_total_branches_count ==1 %>
+						(<%= @vendor_total_branches_count%> branch)
+					<% elsif @vendor_total_branches_count > 1 %>
+						(<%= @vendor_total_branches_count%> branches)
+					<% end %>
+					</span>
+				</div>
+			<% end %>
+		<% else %>
+			<div class="td-seller-local-vendorname-branch"><%= grid.vendor_alias_name.titlecase %> (<%= grid.branch_name.titlecase%>) </div>
+		<% end %>
+		</td>
+
+		 <td id="td-price">
+			<% if @vendor_freeze_flag == "y" %>
+				<%= "N.A." %>
+			<% else %>
+				<%= "Rs."+(grid.price.to_i).to_s %>
+			<% end %>
+		</td>
+    		 <td id="td-shipping">
+		<% if grid.availability.gsub(/\s+/, "").downcase == "outofstock" || @vendor_freeze_flag == "y" %>
+			<%="N.A."%>
+		<% else %>
+	    		 <% if grid.delivery.downcase == "y" %>
+    				 <%= grid.delivery_time %>&nbsp;&&nbsp;<%=if (grid.delivery_cost.to_i <= 0) then grid.delivery_cost = "Free"; else ; "Rs." + (grid.delivery_cost.to_i).to_s; end  %>
+    			 <% else %>
+    				 <%= p "No Door Delivery" %>
+    			 <% end %>
+		<%end%>
+
+    		 </td>
+    		 <td id="local-visit-shop" data-unique_id="<%= grid.unique_id %>" data-query="<%=@query%>">
+		 <div class="visit-shop-div">
+			<% if @vendor_freeze_flag == "y" %>
+				<div class="cf-local-visit-shop-freeze-flag">
+					VISIT SHOP
+				</div>
+			<% else %>
+
+			   <%= form_specific_to_local_link("VISIT SHOP",
+			                                   grid.unique_id,
+			                                   @country,
+			                                   @category_name,
+			                                   @product_name,
+			                                   @product_color,
+			                                   @current_city.city_name,
+			                                   @area_names,
+			                                   grid.vendor_alias_name) %>
+
+
+
+			<% end %>
+		</div>
+		<div style="clear:both"></div>
+		</td>
+    		</tr>
+
+</table>
+
+<div class="cf-specific-grid-table">
+
+<% if index_value % 2 == 0 %>
+
+	<div class="cf-specific-grid-table-inner-even">
+
+<% else %>
+
+	<div class="cf-specific-grid-table-inner-odd">
+<% end%>
+
+
+		
+
+		<div class="cf-sgt-admin-branch">
+			<span style="font-weight:normal;color:#111;font-size:12px;">Head Office:&nbsp;</span>
+			<span class="cf-sgt-admin-branch-text"><%=@vendor_admin_branch.titlecase %></span>
+		</div>
+
+		<% if @vendor_clicks_count == 0 %>
+
+			<div class="cf-sgt-interested">
+				<span class="cf-sgt-interested-notext">No vote for this product yet</span>
+			</div>
+
+		<%else%>
+
+			<div class="cf-sgt-interested">
+				<span class="cf-sgt-interested-text"> <span style="font-size:14px;font-weight:bold"><%=@vendor_clicks_count %>
+				<% if @vendor_clicks_count > 1 %>
+					votes
+				<% else %>
+					vote
+				<%end%>
+				</span> to buy products from this shop</span>
+			</div>
+
+		<%end%>
+
+		<div style="clear:both"></div>
+
+
+
+		<% if grid.established_year.gsub(".","").downcase == "na" %>
+			<div class="cf-sgt-established">
+				<span style="font-weight:normal;color:#111;font-size:12px;">Established:&nbsp;</span>
+				<span class="cf-sgt-established-text">N.A.</span>
+			</div>
+		<%else%>
+
+			<div class="cf-sgt-established">
+				<span style="font-weight:normal;color:#111;font-size:12px;">Established:&nbsp;</span>
+				<span class="cf-sgt-established-text"><%=grid.established_year %></span>
+				<% if grid.vendor_speciality_store.gsub(".","").downcase == "na" %>
+
+				<%else%>
+					<div class="cf-sgt-speciality">
+						<%= image_tag(grid.vendor_speciality_store) %>
+					</div>
+				<%end%>
+			</div>
+
+		<%end%>
+
+		<% if grid.special_offers.gsub(".","").downcase == "na" %>
+
+		<% if grid.miscellaneous.gsub(".","").downcase == "na" %>
+
+			<div class="cf-sgt-misc">
+				<span style="font-weight:bold;color:#B00;font-size:14px;font-style:normal;">Offers:&nbsp;</span>
+				<span class="cf-sgt-misc-notext">
+					No Offers
+				</span>
+			</div>
+
+		<% else %>
+
+			<div class="cf-sgt-misc">
+				<div class="cf-sgt-misc-inner">
+				<span class="cf-sgt-misc-text">
+					<% @arr_offers = grid.miscellaneous.split("|") %>
+					<% @arr_offers.each_with_index do |value,index| %>
+						<% if index_value % 2 == 0 %>
+
+							<table class="cf-sgt-misc-table-even" border=0 cellpadding=0 cellspacing=0>
+
+						<% else %>
+
+							<table class="cf-sgt-misc-table-odd" border=0 cellpadding=0 cellspacing=0>
+
+						<% end%>
+
+						<tr>
+							<td class="td-misc-table">
+								<% if index == 0 %>
+								<span style="font-weight:bold;color:#B00;font-size:14px;font-style:normal;">Offers:&nbsp;</span>
+								<% else %>
+
+								<% end %>
+							</td>
+							<td>
+								<% if index == 0 %>
+								<span class="cf-sgt-misc-table-text"><%=index+1 %>.&nbsp;<%=value%></span>
+								<% else %>
+								<div style="padding-top:1px"></div>
+								<span class="cf-sgt-misc-table-text"><%=index+1 %>.&nbsp;<%=value%></span>
+								<% end %>
+							</td>
+						</tr>
+						</table>
+					<%end%>
+				</span>
+				</div>
+			</div>
+
+		<% end %>
+
+		<% else %>
+
+			<div class="cf-sgt-misc">
+				<div class="cf-sgt-misc-inner">
+				<span class="cf-sgt-misc-text">
+					<% @arr_special_offers = grid.special_offers.split("|") %>
+					<% @arr_special_offers.each_with_index do |value,index| %>
+						<% if index_value % 2 == 0 %>
+
+							<table class="cf-sgt-misc-table-even" border=0 cellpadding=0 cellspacing=0>
+
+						<% else %>
+
+							<table class="cf-sgt-misc-table-odd" border=0 cellpadding=0 cellspacing=0>
+
+						<% end%>
+
+						<tr>
+							<td class="td-misc-table">
+								<% if index == 0 %>
+								<span style="font-weight:bold;color:#B00;font-size:14px;font-style:normal;">Offers:&nbsp;</span>
+								<% else %>
+
+								<% end %>
+							</td>
+							<td>
+								<% if index == 0 %>
+								<span class="cf-sgt-misc-table-text"><%=index+1 %>.&nbsp;<%=value%></span>
+								<% else %>
+								<div style="padding-top:1px"></div>
+								<span class="cf-sgt-misc-table-text"><%=index+1 %>.&nbsp;<%=value%></span>
+								<% end %>
+							</td>
+						</tr>
+						</table>
+					<%end%>
+				</span>
+				</div>
+			</div>
+
+		<% end %>
+
+		<div style="clear:both"></div>
+
+		<div style="padding-bottom:5px"></div>
+</div>
+<div style="padding-bottom:10px"></div>
+</div>
+
+<div class="cf-specific-grid-table-tr-header">
+
+</div>
+	<% if index_value % 2 == 0 %>
+
+		</div>
+
+	<% else %>
+
+		</div>
+
+	<% end%>
+
+<% end%>
+

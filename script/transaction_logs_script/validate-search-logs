@@ -1,0 +1,46 @@
+#! /bin/sh
+
+# Master script that validates and collates all the log files to prepare the final log file, which will be inserted into inserted into vendor_product_transactions_log table
+
+search_log_folder="/var/www/CrawlFish/public/search_logs/$1"
+script_path="/var/www/CrawlFish/script/transaction_logs_script"
+
+
+if test -e $search_log_folder
+then 
+cd $search_log_folder
+
+if test -e $search_log_folder/final_logs
+then
+rm -r $search_log_folder/final_logs/*
+else
+mkdir final_logs
+fi
+
+for file in `ls *.dat`
+do
+
+awk -F\| '{ if (NR > 1) print "|"$1"|"$2 }' $file >> $search_log_folder/final_logs/searchkeys.dat
+
+log_date=`awk -F\  '{ if (NR == 1) print $1 }' $file`
+
+done
+
+awk -f $script_path/remove_duplicates.awk $search_log_folder/final_logs/searchkeys.dat > $search_log_folder/final_logs/final_searchkeys.dat
+rm -r $search_log_folder/final_logs/searchkeys.dat
+
+cd $search_log_folder/final_logs
+
+if test -e final_searchkeys.dat -a -s final_searchkeys.dat
+then
+	mysql -u root -p'Sector@123' -e "LOAD DATA LOCAL INFILE '$search_log_folder/final_logs/final_searchkeys.dat' INTO TABLE temp_searchkey_logs FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' SET log_date='$log_date',created_at=CURRENT_TIMESTAMP" crawlfishdevdb
+echo "search keys successfully logged into table"
+else
+echo "no search keys present"
+exit 1
+fi
+
+cd
+else
+echo "no search logs present today"
+fi

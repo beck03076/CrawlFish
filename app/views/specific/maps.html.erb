@@ -1,0 +1,142 @@
+
+<div id="main-panel">
+
+        <div id="left-panel">
+                <div class="gray-button padL20 padT20">
+                  <%= form_generic_to_specific_page_links("link",
+                                                           "View All Shops in #{@city.titleize}",
+                                                           "local",
+                                                           @category_name,
+                                                           s_to_url(@product_name),
+                                                           s_to_url(@product_identifier),
+                                                           @country,
+                                                           @city,nil,"map")%>
+                </div>
+                <div class="comments-text padL20 padT10">
+                    Be careful before trying this! You will see many shops in a small space<br/> but if you zoom in on a single shop, it gets useful. 
+                </div>
+                <br/>
+                
+                <% if @local_grids_count > 0 %>
+                   <div class="red-text" align="center">
+                        Drag 
+                        <span class="gray-text">
+                         to move around
+                        </span>
+                        Scroll 
+                        <span class="gray-text">
+                        to zoom in and out!
+                        </span>
+                   </div>
+                   <div class="g-text" align="center">
+                        Showing in map : 
+                        <%= plurals(@local_grids_count,"shop","<b>x</b>").html_safe %>
+                        that sells <b><%= @product_name.titleize %></b> 
+                        
+                        <br/>
+                        <span class="gray-text text-n13">
+                          (Click on a shop to view its details)
+                        </span>
+                  </div>
+                  
+
+                <% end %>
+                <br/>
+                
+                <% if @type == "local" %>
+                <div class="padL20">
+                 <%= gmaps(:map_options => { :container_class => "map_container_renamed" },:markers => {:data => @json, :options => {  :auto_adjust => true, :center_on_user => true, :auto_zoom => true, :zoom => 50}}) %>
+                </div>
+                <br/>
+                <% end %>
+                <%= render "shared/online_bran"%>
+                
+                
+        </div>
+        
+        <div id="right-panel">
+        
+            <% if !@areas.blank? %>
+                <div align="right">
+                Filtered by: 
+                <span class ="g-text">
+                <%= @areas.map {|i| i.branch_name}.join(", ") %>
+                </span>
+                </div>
+            <% end %>
+            <br/>
+
+            <div class="darkgray-text text-n11" align="right">
+                You can filter based on a list of hub/nearby<br/> areas displayed in the right panel. 
+                <div class="gray-text text-n9">
+                    All other areas in chennai are also displayed but<br/> 
+                    there might me some areas that won't have shops<br/> 
+                    selling 
+                    <span class="g-text">
+                        <%= @product_name.titleize %>.
+                    </span>
+                </div>
+            </div>
+        
+            <div class="padT20 w150 padL40 fr">
+
+                <% if @no_area_results == 1 %>
+                           
+                  <%= form_hub_links("map") %>
+
+                <% else %>
+
+                   <% if @area_ids == 0 %>
+                          
+                       <%= form_hub_links("map") %>
+                            
+                  <% else %>
+                          
+                       <%= form_nearby_links("map") %>
+                            
+                  <% end %>    <br/>
+
+                <% end %>
+                
+             </div>
+             <div class="w150 padL40 fr">
+             <%= render 'shared/all_areas_s', :kind => "map" %>
+             </div>
+
+        </div>
+        <div style="clear:both">&nbsp;</div>
+        
+        <%= render "shared/all_areas"%>
+        
+        <%= render "shared/local_bran"%>
+        
+        <%= render "shared/p_range" %>
+
+        
+</div>
+
+<% content_for :scripts do %>
+<script type="text/javascript" charset="utf-8">
+
+    // On click on markers goto the link parameter
+    Gmaps.map.callback = function() {
+
+        function redirect_to_local(arg) { return function(){
+ 
+        window.open(arg, '_blank');
+        window.focus();
+
+        };
+        };
+
+        for (var i = 0; i < Gmaps.map.markers.length; i++ ) {
+
+            google.maps.event.addListener(Gmaps.map.markers[i].serviceObject, 'click',redirect_to_local(Gmaps.map.markers[i].link) );
+
+        }
+    };
+
+</script>
+<% end %>
+
+<%= yield :scripts %>

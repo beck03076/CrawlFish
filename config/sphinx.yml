@@ -1,0 +1,12 @@
+development:
+  stopwords: /home/think/CrawlFish/db/sphinx/data/stopwords.txt
+  pid_file: /home/think/CrawlFish/tmp/searchd.pid
+  wordforms: /home/think/CrawlFish/db/sphinx/data/wordforms.txt
+  searchd_file_path: /home/think/CrawlFish/db/sphinx
+  morphology: stem_en
+production:
+  stopwords: /var/www/CrawlFish/db/sphinx/data/stopwords.txt
+  pid_file: /var/www/CrawlFish/tmp/searchd.pid
+  searchd_file_path: /var/www/CrawlFish/db/sphinx
+  wordforms: /var/www/CrawlFish/db/sphinx/data/wordforms.txt
+  morphology: stem_en

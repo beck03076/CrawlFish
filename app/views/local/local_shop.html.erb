@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="alexaVerifyID" content="agt3D-roIDhC4m8ZSkYS7nPfiqw" />
+
+<%if !@meta_local_keywords.nil? %>
+<%if !@meta_local_keywords.empty? %>
+<meta name="keywords" content="<%= @meta_local_keywords %>" >
+<% end %>
+<% end %>
+
+<%if !@meta_local_description.nil? %>
+<%if !@meta_local_description.empty? %>
+<meta name="description" content="<%= @meta_local_description %>" >
+<% end %>
+<% end %>
+
+<%if !@meta_local_title.nil? %>
+<%if !@meta_local_title.empty? %>
+<title><%= @meta_local_title %></title>
+<% end %>
+<% end %>
+
+<link rel="shortcut icon" type="image/x-icon" href="/Images/favicon.ico">
+
+<link href="/Stylesheets/vendorshoppage.css" rel="stylesheet" type="text/css">
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32882383-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+$(function() {
+    $(window).scroll(function() {
+        if($(this).scrollTop() != 0) {
+            $('#toTop').fadeIn();    
+        } else {
+            $('#toTop').fadeOut();
+        }
+    });
+ 
+    $('#toTop').click(function() {
+        $('body,html').animate({scrollTop:0},'slow');
+    });    
+});
+</script>
+<body>
+
+<!-- MAIN PANEL - STARTS -->
+    <div id="main-panel">
+        <!-- LEFT PANEL - STARTS -->
+        <div id="left-panel">
+        
+            <%= render 'vendor_details' %>
+            <br/>
+            <%= render 'lists' %>
+
+            <%= render "shared/"+@list %>
+            
+            <br/>
+            <br/>
+            <br/>
+            
+            <div class="border-gray-t"> </div>
+            
+            <%= render "shared/online_bran"%>
+       
+       </div>
+       <!-- LEFT PANEL - ENDS -->
+       
+       <!-- RIGHT PANEL - STARTS -->
+        <div id="right-panel" class="border-gray-l">
+           <%= render "shared/pop_7"%>
+           
+            <%= render "shared/hub"%>
+            
+            <%= render "shared/top"%>            
+            
+            <%= render "shared/p_p_range"%>
+            
+            <%= render "shared/o_shops"%>
+            
+            <%= render "shared/a_wise"%>
+        </div>
+        <!-- RIGHT PANEL - STARTS -->
+        
+        <div style="clear:both">&nbsp;</div> 
+        
+        <%= render "shared/local_bran" %>
+        <%= render "shared/p_range" %> 
+        
+    </div>    
+</body>
+</html>

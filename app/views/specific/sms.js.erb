@@ -1,0 +1,26 @@
+$("#sms-form").dialog({
+  show: 1000,
+  closeOnEscape: true,
+  autoOpen: true,
+  width: 500,
+  height: 400,
+  modal: true,
+  draggable:true,
+  resizable:false,
+  title: 'SMS will be sent to <%= truncate(@vendor_name.titleize,:length => 20) %>  and you too!',
+  buttons: [
+       {
+            text: "CLOSE",
+            className: 'close-button-class',
+            click: function() {
+                $(this).dialog("close");
+            }
+        }
+    ],
+  open: function() {
+    $("#sms-form").html("<%= escape_javascript(render('specific/'+@what)) %>");
+    $("#slide-msg").html("");
+    },
+  
+});
+

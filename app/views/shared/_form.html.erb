@@ -1,0 +1,212 @@
+<!-- HEADER LAYOUT - STARTS -->
+    <div id="header">
+    <!-- LOGO BOX - STARTS -->
+    <div id="logo-box">
+      <div class="header-logo gray-bg">
+      <%= link_to image_tag("/Images/logo.jpg"),"/", {:class => 'white-bg'} %><br/>
+      <div class="gray-link-s border-gray-t" align="center">
+      <%= link_to "about","/about"%> &middot; 
+      <%= link_to "complain","/complain",
+                        :remote =>true %> &middot; 
+       <%= link_to "blog","/blog" %>
+      <br/>
+      <%= link_to "we love creativity","/we-love-creativity"%>
+      <div id="complain"></div>
+      </div>
+      </div>
+    </div>
+    <!-- LOGO BOX - ENDS -->
+    <!-- SEARCH BOX SHORTCUT - STARTS -->
+    <div id="online-box">
+        <div class="subTab">
+        <%= form_tag url_for(:controller => "price-comparison",
+                                             :action => "search"),
+                                             :method => 'get'  do %>
+                   
+                                             
+                            <% @query = params[:query].to_s %>
+                            <%= hidden_field_tag 'city',@current_city.city_name  %>
+                            <%= hidden_field_tag 'country', "india" %>
+                            
+                            <div id="city_name" data-city_name= <%= @current_city.city_name %>> </div>
+            <!-- TAB BOX - STARTS -->
+            <div class="tabs" id="main-tab1">
+                <!-- TABS DETAILS - STARTS -->
+                <div class="fl padL5" style="margin-top:-5px">
+                    <span class="white-text text-b12">
+                        City : 
+                    </span> 
+                    <span class="white-text text-b12">
+                        Chennai
+                    </span>
+                    <div class="white-text text-n10">
+                        Coming soon Bangalore
+                    </div>
+                </div>
+                <%= hidden_field_tag 'type',"local", :class => "products" %>
+                <%= tabs(@type,"products") %>
+                
+                 <span id="numbers" class="gray-boxp marB10 text-n12 padT2 padLR5 padB2" style="margin-left:10px">
+                 <%= render "shared/numbers" %>
+                 </span>
+                <!-- TABS DETAILS - ENDS -->
+                <div class="clear"></div>
+            </div>
+            <!-- TAB BOX - ENDS -->
+            <!-- TAB CONTAINER BOX - STARTS -->
+            <div class="container">
+                <div class="tab-content">
+                        <center>
+                        <table width="100%"  cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                            <td align="left" valign="bottom" nowrap class="nowrap">
+                                <span class="text-b12">Search for:</span>
+                                <span class="comments-text"> (<%= truncate(Populars.one,:length => 25) %>)</span>
+                            </td>
+                            <td align="left" valign="bottom" nowrap class="nowrap" id="areas-lbl">
+                                <span class="text-b12">
+                                    Near:
+                                </span>
+                                <span class="comments-text" id="near-com"> 
+                                    Multiple areas(adyar, alwarpet, velachery)
+                                </span>
+                            </td>
+                            
+                        <tr>
+                        <% text = @product_name.nil? ? @query : @product_name.titleize %>
+                            <td align="left" valign="top" nowrap>
+                                <%= text_field_tag "query",
+                                                    text, 
+                                                    {:id => "prod-search", 
+                                                    :title => "Search for your product!",
+                                                    :placeholder => "Type product name..",
+                                                    :onFocus => "setFocus_textbox('prod-search')",
+                                                    :onBlur => "setNoFocus_textbox('prod-search')",
+                                                    :class => "text-field w240 padL5"} %>
+                            </td>                            
+                            <td align="left" valign="top" nowrap>
+                            <span  class="nowrap" >
+                            <% @areas = @areas.nil?||@areas.kind_of?(String) ? [] : @areas %>
+                            <%= text_field_tag :multiple_area_ids,
+                                                {},
+                                                {:placeholder => "All of chennai..",
+                                                :onFocus => "setFocus_textbox('multiple_area_ids')",
+                                                :onBlur => "setNoFocus_textbox('multiple_area_ids')",
+                                                :data => {:pre => @areas.take(3).map{|i|
+                                                         {"id" => i.branch_id,
+                                                         "branch_name" => i.branch_name
+                                                         }}},
+                                                :class => "text-field w240 padL5" } %>
+
+                            <td>  
+                            <%= image_submit_tag "/Images/searchProd.png" %>
+                            </td> 
+                            </span>
+                            </td>
+                        </tr>
+                        
+                        </table>
+                        </center>
+                    <div id="tab1">
+                    </div>
+                    <div id="tab2">
+                    </div>
+                </div>
+            </div>
+            <!-- TAB CONTAINER BOX - ENDS -->
+            <% end %>
+        </div>
+    </div>
+    <!-- SEARCH BOX SHORTCUT - ENDS -->
+    <!-- REGISTER USER - STARTS -->
+    <div id="cart-box">
+        <div class="subTab">
+            <!-- TABS DETAILS - STARTS -->
+            <%= form_tag '/price_search/start_search/price',
+                                                  :method => 'get',
+                                                  :id => "price_search_form"  do  %>
+                                                  
+                   <% @price_query = number_with_precision(params[:price_query], :precision => 2) %>
+                   <%= hidden_field_tag 'city',@current_city.city_name  %>
+                   <%= hidden_field_tag 'country', "india" %>
+            <div class="tabs" id="main-tab2">
+            
+                 <%= hidden_field_tag 'type',"local", :class => "price" %>
+                                 <%= tabs(@type,"price") %>
+                
+                 
+                <div class="clear"></div>
+            </div>
+            <!-- TABS DETAILS - ENDS -->
+            <!-- TABS CONTAINER - STARTS -->
+            <div class="container">
+                <div class="tab-content">
+                    <center>
+                    <table width="100%" cellpadding="0" cellspacing="0" border="0" class="padT5">
+                    <tr>
+                        <td align="left" valign="bottom" nowrap class="nowrap">
+                                <span class="text-b12 padT10">Enter budget:  </span>
+                                <span class="comments-text padT10"> (10,500)</span>
+                        </td>
+                   </tr>
+                   <tr>
+                   
+
+    <div id="city_name" data-city_name= <%= @current_city.city_name %>> </div>
+                        <td align="left" >
+                            <!-- SEARCH BOX - STARTS -->
+
+                            <span  class="nowrap">
+                            <%= text_field_tag "price_query",
+                                                @price_query,
+                                                {:id => "price-search", 
+                                                 :title => "Search with a price!",
+                                                 :placeholder => "Type price..",
+                                                 :onFocus => "setFocus_textbox('price-search')",
+                                                 :onBlur => "setNoFocus_textbox('price-search')",
+                                                 :class => "text-field w160 padL5"}  %>
+                            </span>
+                            <!-- SEARCH BOX - ENDS -->
+                        </td>
+                        <td>
+                         <%= image_submit_tag("/Images/searchPri.png",:size => "20x20") %>
+                        </td>
+                    <% end %>    
+                    </tr>
+                    </table>
+                    </center>
+                    <!-- USE IT FOR JS - STARTS -->
+                    <div id="tab3"></div>
+                    <div id="tab4"></div>
+                    <!-- USE IT FOR JS - ENDS -->
+                </div>
+            </div>
+            <!-- TABS CONTAINER - ENDS -->
+        </div>
+    </div>
+    <!-- REGISTER USER - ENDS -->
+    <div class="clear"></div>
+    </div>
+    <!-- HEADER LAYOUT - ENDS -->
+    <%= render "shared/nav" %>
+    <br/>
+    <div class="darkgray-text text-b10 padL10 padT20">
+        Page Rendered in about
+        <span class="g-text">
+        <%= sprintf('%.3f', (Time.now.usec - @start_time).abs / 1000000.0) %>
+        </span>
+        seconds (<span class="g-text"><%= @c_cat %></span>
+        categories &middot; 
+        <span class="g-text">
+        <%= @c_prod %> 
+        </span>
+        products listing &middot;
+        <span class="g-text">
+        <%= @c_vend %> 
+        </span>
+        shops).
+        
+    </span>
+    </div>
+    
+    

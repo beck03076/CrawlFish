@@ -1,0 +1,63 @@
+<script type="text/javascript">
+
+$(function() {
+     
+     $("form#buy-submit").submit(function() {  
+     
+      var data = $('form#buy-submit').serialize();
+      
+       $.post('/specific/buy_send',data, function(result){
+       
+         $("div#buy-msg").hide().html(result).fadeIn(3000);
+         
+                       
+        });        
+
+        return false;
+      });
+    
+});
+
+</script>
+<%= form_tag url_for(:controller => "specific", 
+                     :action => "buy_send"),
+                     :id => 'buy-submit',:method => 'post'  do %>
+                     
+
+     <%= hidden_field_tag 'vendor_id', @vendor_id %>
+     <%= hidden_field_tag 'product_id', @product_id %>
+     <%= hidden_field_tag 'sub_category_id', @sub_category_id %>
+     <%= hidden_field_tag 'sms', @sms %>
+
+   <div class="text-b12 gray-text">
+    It's a <span class="g-text">
+            2 step 
+           </span> 
+    process to get the latest price of 
+           <span class="g-text">
+            <%= @product_name.titleize %>
+           </span> 
+    from       
+           <span class="g-text">
+            <%= @vendor_name.titleize %>
+           </span> 
+   </div>
+                         
+    <table cellspacing="0" cellpadding="0" border="0" width="100%" class="priceTable">
+    <tr>
+    Step - 1:
+    Enter your Name : <%= text_field_tag :customer_name %>
+    <tr/>
+    <tr>
+    Step - 2:
+    Enter your Mobile Number : <%= text_field_tag :customer_phone_no %>
+<td colspan="3" align="center" valign="top">
+    </tr>
+     <tr> 
+     <%= submit_tag "Send"  %>
+     </tr>
+    </table>    
+
+<% end %>
+
+<div id="buy-msg"> Enter your details and click send! </div>

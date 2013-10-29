@@ -1,0 +1,89 @@
+<%= form_tag url_for(:controller => 'and_go_dashboard', :action => 'get_vendor_details'),:id => "and_go_dashboard_form"  do  %>
+
+<div style="padding-right:58px">
+		<div style="float:right;padding-right:0px">
+			<%= select_tag("andgo_sub_category_id", options_for_select(@sub_categories.map{|i| [i.category_name.titlecase,i.sub_category_id]}),:class=>'price-search-category-select',:title=>"Select a category") %>
+		</div>
+		<div id="loading-bar-andgo-subcategory" style="display:none">
+				
+			<%= image_tag "/Images/156.gif", :size => "20x20" %>
+		</div>
+
+	</div>
+
+<div style="clear:both;padding-bottom:5px"></div>
+
+
+<table class="cf-andgo-middle-content-details-table" cellpadding=0 cellspacing=0>
+<tr>
+
+<td class="cf-andgo-middle-content-details-name">
+	Product Name 
+</td>
+
+<td class="cf-andgo-middle-content-details-txt">
+	<%= text_field_tag "query",nil,{:id => "cf-andgo-middle-content-product-searchtext", :title => "Enter a product",:placeholder => "Search for a mobile phone",:onFocus => "setFocus_textbox('cf-andgo-middle-content-product-searchtext')", :onBlur => "setNoFocus_textbox('cf-andgo-middle-content-product-searchtext')"} %> <span style="color:#B00">*</span>
+</td>
+
+</tr>
+
+<tr><td style="padding-top:10px"></td></tr>
+
+<tr>
+
+<td class="cf-andgo-middle-content-details-name">
+	Customer Phone No
+</td>
+
+<td class="cf-andgo-middle-content-details-txt">
+	<%= text_field_tag "mobile_number",nil,{:id => "cf-andgo-middle-content-mobilenumber-text", :title => "Enter a mobile number",:placeholder => "Enter mobile number",:onFocus => "setFocus_textbox('cf-andgo-middle-content-mobilenumber-text')", :onBlur => "setNoFocus_textbox('cf-andgo-middle-content-mobilenumber-text')"} %> <span style="color:#B00">*</span>
+</td>
+
+</tr>
+
+<tr><td style="padding-top:10px"></td></tr>
+
+<tr>
+
+<td class="cf-andgo-middle-content-details-name">
+	City 
+</td>
+
+<td class="cf-andgo-middle-content-details-txt">
+	<%= text_field_tag "city",nil,{:id => "cf-andgo-middle-content-city-text", :title => "Enter a city",:placeholder => "Enter city",:onFocus => "setFocus_textbox('cf-andgo-middle-content-city-text')", :onBlur => "setNoFocus_textbox('cf-andgo-middle-content-city-text')"} %> <span style="color:#B00">*</span>
+</td>
+
+</tr>
+
+<tr><td style="padding-top:10px"></td></tr>
+
+<tr>
+
+<td class="cf-andgo-middle-content-details-name">
+	Area 
+</td>
+
+<td class="cf-andgo-middle-content-details-txt">
+	<%= text_field_tag "area",nil,{:id => "cf-andgo-middle-content-area-text", :title => "Enter a city",:placeholder => "Enter area",:onFocus => "setFocus_textbox('cf-andgo-middle-content-area-text')", :onBlur => "setNoFocus_textbox('cf-andgo-middle-content-area-text')"} %>
+</td>
+
+</tr>
+
+<tr><td style="padding-top:10px"></td></tr>
+
+<tr>
+<td class="cf-andgo-middle-content-details-empty"> </td>
+
+<td class="cf-andgo-middle-content-details-submit">
+	<div style="float:left">
+		<%= submit_tag "SEARCH",{:id => "cf-andgo-middle-content-submit" , :title => "Click here to SUBMIT" ,:name => "",:onClick=>"return validate_and_go_form()"} %> 
+		<%= button_tag 'RESET', :type => 'reset',:id => "cf-andgo-middle-content-reset" , :title => "Click here to RESET" ,:name => "",:onClick=>"return reset_form()" %>
+
+	</div>
+</td>
+
+</tr>
+
+</table>
+
+<% end %>

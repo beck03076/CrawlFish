@@ -1,0 +1,13 @@
+
+<% @more[:genre].each do |i| %>
+    <%= form_more_links("genre",i[:id],i[:name],i[:count]).html_safe %>
+<% end %>
+
+<% @more[:author].each do |i| %>
+    <%= form_more_links("author",i[:id],i[:name],i[:count]).html_safe %>
+<% end %>
+
+<% @more[:publisher].each do |i| %>
+    <%= form_more_links("publisher",i[:id],i[:name],i[:count]).html_safe %>
+<% end %>
+

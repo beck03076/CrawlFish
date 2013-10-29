@@ -1,0 +1,46 @@
+<div class="cf-generic-results-content-header">
+
+  <div class="cf-generic-results-content-total-results">
+
+      <% current_counts = get_current_counts(@sub_category_flag) %>
+
+      <span class="total-results">
+        
+        <!-- This method is called from search_helper.rb helper -->     
+        <%= plurals(@category_counts[0],"result","<b>x</b>").html_safe %>
+                
+        found in 
+        
+        <%= plurals(@category_counts[1],"category","<b>x</b>").html_safe %>
+        
+      </span>
+
+  </div>
+
+  <% if @category_counts[1] == 1 %>
+
+  <div class="cf-generic-results-content-specific-results">
+
+	<span style="font-weight:normal;font-size:13px">
+
+         Displaying 
+	         <%= plurals(current_counts[0],"result","<font color=#C42525><b>x</b></font>").html_safe %>
+         in
+         <span style="color:#C42525;font-weight:bold">
+         <%= current_counts[1].titleize %>
+         </span>
+         
+        </span>        
+
+  </div>
+  
+	<% if current_counts[0] == 0 %>
+    <div style="padding-bottom:10px">
+  	  <span style="font-size:13px">But we found results in other categories!</span>
+   </div>
+  	<% end %>
+
+  <% end %>
+
+</div>
+

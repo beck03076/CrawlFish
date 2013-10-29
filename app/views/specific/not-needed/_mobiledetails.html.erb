@@ -1,0 +1,121 @@
+<table class="cf-specific-product-header-table" cellspacing=0 cellpadding=0>
+
+  <tr>
+    <td class="cf-specific-product-header-table-image">
+      <%= image_tag(@product_image_url,
+                    :alt => @product_name,
+                    :title => @product_name) %>
+    </td>
+    
+    <td class="cf-specific-product-header-table-details">
+    
+      <div class="cf-specific-product-header-table-details-text">
+        <%= @product_name.titlecase %>
+      </div>
+      
+      <div class="cf-specific-product-header-table-details-color">
+         <span class="mobile-details-color"> 
+            <%= @identifier_type.titleize %>: 
+         </span>
+         <span class="mobile-details-color-name">
+           <%= @product_identifier.titlecase %>
+         </span>
+      </div>
+      
+      <div class="cf-specific-product-header-table-details-avl">
+        <span class="green">
+          In stock:
+        </span>
+        
+        <% if @type == "local" %>
+          <span class="count">
+            <% if @local_grids_count <= 1 %>
+              <%=  @local_grids_count %> shop near you
+          </span>
+          <span>&nbsp;and&nbsp;
+            <%else%>
+              <%=  @local_grids_count %> shops near you
+          </span>
+          <span>&nbsp;and&nbsp;
+        <%end%>
+        </span>
+        <% elsif @type == "online" %>
+          <span class="count">
+            <% if @online_grids_count <= 1 %>
+                <%= @online_grids_count %> shop online
+            <%else%>
+                <%= @online_grids_count %> shops online
+            <%end%>
+           </span>
+        <% end %>
+      </div>
+      
+      <% if !(@price_range.nil?) %>
+        <!-- <%= form_specific_page_price.html_safe %> -->
+      <% else %>
+        <% price_range_final,price_type = form_price_range_final_text(@price_range_final,2,@product_id) %>
+      
+      <div class="cf-specific-product-header-table-details-startsat">
+      </div>
+
+      <% end %>
+      
+      <!--
+
+      <% if !@mrp.nil? %>
+
+        <% if @mrp !=0 %>
+            <div class="cf-specific-product-header-table-details-mrp">
+              <span style="font-size:13px;font-weight:bold">
+                  MRP:&nbsp;
+                  <span class="mrp-style">
+                    <s>
+                     Rs.<%=@mrp.to_i%>
+                    </s>
+                  </span>
+               </span>
+            </div>
+         <% end %>
+
+      <% end %>
+      
+      -->
+
+    <div style="clear:both"></div>
+
+    <div class="cf-specific-product-header-table-details-atodetails">
+        To know more details about this mobile, <a href="#details">
+          Click Here
+          </a>
+    </div>
+    
+    </td>
+</tr>
+</table>
+
+<div style="padding-top:0px"></div>
+
+<div class="cf-specific-mobile-colors">
+
+    <%= form_tag url_for('/change_product_identifier') , :method => "get" do %>
+
+        <%= form_hidden_field_tags_specific_page(@type) %>
+
+        <span style="font-weight:bold;font-size:13px;color:#008000"> 
+        
+        Choose <%= @identifier_type.titleize %>: 
+        
+        </span>
+        
+        <%= select_tag("product_id",
+                       options_for_select(@options,
+                       @product_id))%>
+
+        <%= submit_tag "FIND SHOPS" %>
+
+   <% end %>
+
+</div>
+
+<div style="clear:both"></div>
+

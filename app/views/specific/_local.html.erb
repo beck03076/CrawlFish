@@ -1,0 +1,43 @@
+<script type="text/javascript">
+
+
+
+</script>
+  
+<% @product_id ||=  params[:product_id] %>
+<% @sub_category_id ||= params[:sub_category_id] %>
+<% @area_id ||= params[:area_id] %>
+<% @search_case ||= params[:search_case] %>
+
+                                           
+
+<%= form_data(["product_id",
+               "sub_category_id",
+               "excludable_availability_ids",
+               "area_ids_now",
+               "city",
+               "country",
+               "product_name",
+               "product_identifier",
+               "category_name"],"data-slide") %>
+
+
+
+<div align="center" class="padB10">
+
+                  <% if !(@area_ids == 0)  %>
+                    <%= render 'slider' %>
+                  <% end %>
+</div>
+<div class="border-gray-t padT5"></div>
+
+<%= render 'sort' %>
+
+<div id="actual-local-grid">
+
+    <%= render 'actual_local_grid' %>
+
+</div>
+
+ 
+

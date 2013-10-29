@@ -1,0 +1,19 @@
+<%= form_tag url_for(:controller => 'evaluate_coupon_code', :action => 'evaluate'),:id =>"exclusive_coupon_code_form" do %>
+<table border=0 cellspacing=0 cellpadding=10>
+	<tr>
+	<td class="fgt-login-name-lbl">Name</td>
+	<td class="fgt-vendor-name"><%= select_tag("exclusive_coupon_vendor_id",options_for_select(ExclusiveCouponsVendorDetails.all.collect {|p| [ p.exclusive_vendor_name.titlecase, p.exclusive_coupon_vendor_id ] }.insert(0, ["Select", "0"]),0)) %></td>
+	</tr>
+	<tr>
+	<td class="fgt-login-name-lbl">Coupon Code</td>
+	<td>
+		<%= text_field_tag "exclusive_coupon_code",nil,{:id => "exclusive-coupon-code",:class=>'fgt-login-name-txt',:title => "Enter your coupon code",:placeholder => "Coupon Code"}%>
+	</td>
+	</tr>
+
+	<tr>
+	<td>&nbsp;</td>
+	<td><%= submit_tag "Submit",{:class=>'fgt-submit',:title => "Click here to evaluate coupon code",:name => "",:onClick=>"return validate();"}%></td>
+	</tr>
+</table>
+<% end %>

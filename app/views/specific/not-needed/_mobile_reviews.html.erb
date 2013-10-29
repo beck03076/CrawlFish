@@ -1,0 +1,25 @@
+<% get_mobile_reviews(@product_name,@product_brand,@mobile_color) %>
+
+<% if !@mobile_reviews.nil? %>
+
+
+<div class="cf-specific-youtube-mobile-reviews">
+	<%= @mobile_reviews.review_landing_video_url.html_safe %>
+</div>
+
+<div style="padding-top:10px"></div>
+
+<div class="cf-specific-external-mobile-reviews">
+	To find detailed review for this mobile,&nbsp;<%= link_to("Click here",@mobile_reviews.review_landing_external_url,:target => "_blank") %>
+</div>
+
+
+<% else %>
+
+<div class="cf-specific-product-details-header-reviews-text">
+	<div style="padding:10px;text-align:center">
+	<span style="color:#C42525;font-weight:bold;font-size:13px;">There are no reviews available for this mobile right now!</span> 
+	</div>
+</div>
+
+<% end %>

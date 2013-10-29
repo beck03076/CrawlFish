@@ -1,0 +1,234 @@
+<script type="text/javascript">
+
+onload = function()
+{
+	var txtBox = document.getElementById("mobile-number");
+        var txtLength = document.getElementById("mobile-number").value.length;
+	txtBox.focus();
+        txtBox.setSelectionRange(txtLength,txtLength);
+        txtBox.value = "";
+	txtBox.style.border='1px solid #06C';
+}
+
+function setFocus_textbox(elementId)
+{
+	if (!document.getElementById)
+    {
+        return;
+    }
+
+    var searchkey = document.getElementById(elementId).value.replace(/\s/g, "");
+    if (searchkey == "")
+    {
+        document.getElementById(elementId).value = "";
+    }
+
+    var txtBox = document.getElementById(elementId);
+    var txtLength = document.getElementById(elementId).value.length;
+
+    if (txtBox != null)
+    {
+        txtBox.focus();
+        txtBox.setSelectionRange(txtLength,txtLength);
+        txtBox.value = "";
+	txtBox.style.border='1px solid #06C';
+
+    }
+}
+
+function validate_mobile_number(elementId)
+{
+    var searchkey = document.getElementById(elementId).value.replace(/\s/g, "");
+    if (searchkey == "")
+    {
+        document.getElementById(elementId).value = "";
+        setFocus_textbox(elementId);
+        return false;
+    }
+    var number = document.getElementById(elementId).value;
+    var numberLength = document.getElementById(elementId).value.length;
+    if (number.match(/[a-z]+/i) != null){
+      setFocus_textbox(elementId);
+      return false;
+    }
+    else if (number.length < 10){
+      setFocus_textbox(elementId);
+      return false;
+    }
+
+
+}
+
+function validate_coupon_code_form()
+{
+	if (validate_mobile_number('mobile-number') == false)
+	{
+		return false;
+	}
+}
+
+</script>
+
+<% j = @vendor %>
+
+<table class="cf-local-shop-main-content-header-table" cellpadding=5px cellspacing=0>
+
+<tr>
+    <td class="local-prd-img"><%= image_tag(@product_image_url)%></td>
+
+	<td class="local-prd-details">
+
+		<div class="cf-local-header-table-prod-name">
+		
+		  <%= form_generic_to_specific_page_links("link",
+                                                     @product_name,
+                                                     "local",
+                                                     @category_name,
+                                                     @product_name,
+                                                     @identifier,
+                                                     @country,
+                                                     @city,
+                                                     @area_names) %>
+
+		</div>
+                <% @local_grid.each do |i| %>
+		<table cellpadding=10 cellspacing=0 border=0>
+		<tr>
+			<td class="td-shopping-info" colspan=2>Your shopping info: </td>
+		</tr>
+		<tr>
+			<td class="td-left"><b>Shop&nbsp;:&nbsp;</b><span style="color:#DD4B39"><b><%= j.vendor_alias_name.titlecase %></b></span></td>
+			<td><span class="ls-grid-avl-span"><%= i.availability.titlecase %></span></td>
+		</tr>
+		<tr>
+			<td class="td-left"><b>Area&nbsp;&nbsp;:&nbsp;</b><span style="color:#DD4B39"><b><%= j.branch_alias_name.titlecase %></b></span></td>
+			<td><span class="ls-grid-avl-delivery">
+			<% if i.delivery.downcase == "y" %>
+    				<%= i.delivery_time %>
+    			 <% else %>
+    				 <%= p "No Door Delivery" %>
+    			 <% end %>
+
+			</span></td>
+		</tr>
+		<tr>
+			<td class="td-left"><b>City&nbsp;&nbsp;&nbsp;:&nbsp;</b><span style="color:#DD4B39"><b><%= j.city_name.titlecase %></b></span></td>
+			<td><span class="ls-grid-avl-delivery">
+			<% if i.delivery.downcase == "y" %>
+    				<%=if (i.delivery_cost.to_i <= 0) then i.delivery_cost = "Free Door Delivery"; else ; i.delivery_cost; end  %>
+    			 <% else %>
+    				 <%= p "N.A." %>
+    			 <% end %>
+
+			</span></td>
+		</tr>
+		<tr><td colspan=2></td></tr>
+		<tr>				
+			<td class="td-offers" style="border-left:1px solid #DDD;border-top:3px solid #C42525;"><span style="font-weight:bold;color:#000;font-size:14px;font-style:normal;">CrawlFish Price&nbsp;:&nbsp;</span></td>
+			<td class="td-offers-text-td" style="border-right:1px solid #DDD;border-top:3px solid #C42525;">
+				<span class="ls-grid-price-span">Rs.<%= i.price.to_i %></span>
+			</td>			
+		</tr>
+
+		<% if j.miscellaneous.chomp.downcase.gsub(".","") !="na" %>
+		<tr>				
+			<td class="td-offers" style="border-left:1px solid #DDD;"><span style="font-weight:bold;color:#000;font-size:14px;font-style:normal;">Special Offers:&nbsp;</span></td>
+			<td class="td-offers-text-td" style="border-right:1px solid #DDD;">
+			<% @arr_offers = j.miscellaneous.split("|") %>
+					<% @arr_offers.each_with_index do |value,index| %>
+						<table class="cf-sgt-misc-table" border=0 cellpadding=0 cellspacing=0>
+						<tr>
+							<td>
+								<% if index == 0 %>
+								<span class="cf-sgt-misc-table-text"><%=index+1 %>.&nbsp;<%=value%></span>
+								<% else %>
+								<div style="padding-top:4px"></div>
+								<span class="cf-sgt-misc-table-text"><%=index+1 %>.&nbsp;<%=value%></span>
+								<% end %>
+							</td>
+						</tr>
+						</table>
+			<%end%>
+			</td>			
+		</tr>
+		<% else %>
+			<tr><td colspan=2 style="border-left:1px solid #DDD;border-right:1px solid #DDD;"></td></tr>
+		<% end %>
+
+		<tr>
+			
+			<td class="td-generate-coupon-code" colspan=2>
+
+			 <div id="coupon-code" title="coupon_code" style="display:none"></div>
+
+			 <div id="generate-coupon-code-container" style="display:none">
+
+				<%= form_tag url_for(:controller => 'local', :action => 'generate_coupon_code'),:id => "generate-coupon-code-form" do %>
+					
+					<%= hidden_field_tag 'product_id', @product_id,{:id => "scc_product_id"} %>
+    					<%= hidden_field_tag 'vendor_id', @vendor_id,{:id => "scc_vendor_id"} %>
+					<%= hidden_field_tag 'sub_category_id', @sub_category_id,{:id => "scc_category_id"} %>
+					<%= hidden_field_tag 'unique_id', @unique_id,{:id => "scc_unique_id"} %>
+
+					<%= label_tag "Mobile:(+91) -" %>&nbsp;
+					&nbsp;&nbsp;<%= text_field_tag "mobile_number",nil,{:id => "mobile-number",:maxlength => 10,:size => 10}%>
+					<%= submit_tag "SUBMIT",{:id => "submit-coupon-code-button",:onClick=>"return validate_coupon_code_form();"} %>
+					<%= link_to "CANCEL" %>		
+					<div style="clear:both"></div>
+
+				<% end %>
+
+			</div>
+
+			<div id="generate-coupon-code" style="text-align:center;display:">
+				<%= link_to "Generate coupon code and Send SMS !"%>
+			</div>
+
+			<div id="generate-coupon-code-loading" style="text-align:center;display:none">
+				<%= image_tag "/Images/156.gif", :size => "30x30" %>
+			</div>
+
+			</td>
+		</tr>
+		<tr><td colspan=2></td></tr>
+		<tr>
+			
+			<td class="td-buy-coupon-text" colspan=2><div class="cf-td-coupon-text">* Generate coupon code to buy <%=@product_name%> at above price and offers from <b><%= @vendor_alias_name.titlecase %>, <%= j.city_name.titlecase %></b> and also to claim your gift! </div></td>
+		</tr>
+		</table>
+		<% end %>
+
+	</td>
+	</tr>
+	<%if !@deal_info.flatten.join.empty?%>
+	<tr>
+	<td>
+	</td>
+	<td>
+		<span style="padding-left:15px;font-weight:bold;font-size:13px;">Deal:&nbsp;</span><span class="deal-info"><%=@deal_info.flatten.join %></span>
+	</td>
+	</tr>
+	<%end%>
+	<tr>
+	<td colspan=2><div style="padding-top:10px;border-top:1px solid #CCC;"></div></td>
+	</tr>
+
+</table>
+
+
+
+<div class="cf-local-shop-main-content-header-details-section">
+	<%if @deal_info.flatten.join.empty?%>
+	<div class="cf-local-shop-main-content-hds-header">
+		<% @local_grid.each do |i| %>
+		<span><b><%=@product_name%></b> is available in <b><%= j.vendor_alias_name.titlecase %></b> shop in <b><%= j.branch_alias_name.titlecase %>,<%= j.city_name.capitalize %></b> at price <b>Rs.<%=i.price.to_i%></b>. You can choose to buy from this shop using the coupon code at the above price with offers. To know more about <%= j.vendor_alias_name.titlecase %> shop, <a href="#details">click here</a> </span>
+		<% end %>
+	</div>
+	<%else%>
+	<div class="cf-local-shop-main-content-hds-header">
+		<span><b><%=@product_name.join%></b> is available in <b><%= j.vendor_alias_name.titlecase %></b> shop in <b><%= j.branch_alias_name.titlecase %>,<%= j.city_name.capitalize %></b>. There is a deal offered by <b><%= j.vendor_alias_name.titlecase %></b> on this product. You can choose to avail this deal from the shop. Hurry! To know more about <%= j.vendor_alias_name.titlecase %> shop, <a href="#details">click here</a> </span>
+	</div>
+<% end %>
+</div>
+ 
+

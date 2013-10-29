@@ -1,0 +1,93 @@
+<% i = @vendor %>
+<% @id = @vendor.vendor_id %>
+
+<table class="padL20 padT10">
+<tr>
+<td valign="top" width="350">
+    <div class="border-gray-b">
+        <span class="cf-vendor-name">
+        <%= i.vendor_alias_name %>
+        </span>
+        <span class="gray-text text-n12">
+         - <%= i.branch_alias_name.titleize %>, <%= i.city_name.titleize %>
+        </span>
+        <br/>        
+    </div>
+    <span class="g-text text-b13">
+        <%= @click[@id] %>
+        </span> 
+        <span class="gray-text text-n11">
+        people have visited this page before!
+        </span>
+        
+       <%= render "shared/contact" %>
+       
+       <div style="clear:both">&nbsp;</div>
+        <div id="generate-coupon-code" style="display:">
+            <%= link_to "Contact" + " " + i.vendor_alias_name.titleize %>
+        </div>
+        <div class="gray-text text-n10 padT5">
+          Click here, to request <%= i.vendor_alias_name %> <br/>for the best price of <%= @product_name.titleize %>!
+        </div>
+        <div class="padT15">
+
+        
+        <span class="lightblack-text text-n11">
+        <% msg =  @areas.size > 1  ? "Also located in" : "Located only in" %>
+        <%= msg %>
+        <div class="g-link">
+         <% @areas.each do |a| %>
+         <%= form_specific_to_local_link(a.branch_name,
+                                       nil,
+                                       nil,
+                                       @country,
+                                       @category_name,
+                                       @product_name,
+                                       @identifier,
+                                       @city,
+                                       a.branch_name,
+                                       @vendor_name) %> <b> &middot; </b>
+        <% end %>
+        </div>
+        </span>                                 
+
+        </div>
+</td>
+<td valign="top">
+    <div class="text-n11 border-gray-l padL10 gray-button">
+      <%= form_rating(1) %>
+      <%= form_specific_to_local_link("Write a review",
+                                       nil,
+                                       "reviews",
+                                       @country,
+                                       @category_name,
+                                       @product_name,
+                                       @identifier,
+                                       @city,
+                                       @area_names,
+                                       @vendor_name) %> or <br/><br/>
+                                       <%= form_specific_to_local_link("Read user reviews",
+                                       nil,
+                                       "reviews#read-user-reviews",
+                                       @country,
+                                       @category_name,
+                                       @product_name,
+                                       @identifier,
+                                       @city,
+                                       @area_names,
+                                       @vendor_name) %>
+    </div>
+</td>
+<td valign="top">
+   <div class="text-n11 padL30">
+     <%= render 'product_details' %>
+   </div>
+</td>
+<td valign="top" align="right">
+
+</td>
+</tr>
+
+</table>
+
+

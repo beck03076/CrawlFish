@@ -1,0 +1,91 @@
+<div class="cf-lsmc-vendor-details">
+
+<% if !@vendor.nil? %>
+<% i = @vendor %>
+
+
+
+<span class="icon-text">
+    <img src="/Images/address.png" width="20" height="20">
+    <span>ADDRESS</span>
+</span>
+<span class="lightblack-text text-n12">
+<%= i.vendor_address.gsub(/,/,', ') %>
+</span>
+
+<div style="clear:both;padding-bottom:2px"></div>
+
+<span class="icon-text">
+    <img src="/Images/phone.png" width="20" height="20">
+   <span>PHONE</span>
+</span>
+<span class="lightblack-text text-n12">
+<%= i.vendor_phone.split(",")[0] %>
+</span>
+<div style="clear:both;padding-bottom:2px"></div>
+
+<span class="icon-text">
+    <img src="/Images/email.png" width="20" height="20">
+    <span>EMAIL</span>
+</span>
+<span class="lightblack-text text-n12">
+<%= i.vendor_email %>
+</span>
+<div style="clear:both;padding-bottom:2px"></div>
+
+<span class="icon-text">
+    <img src="/Images/clock.png" width="20" height="20">
+    <span>TIMING</span>
+</span>
+<span class="lightblack-text text-n12">
+<%= i.working_time %>
+</span>
+<div style="clear:both;padding-bottom:2px"></div>
+
+<span class="icon-text">
+    <img src="/Images/calendar.png" width="20" height="20">
+    <span>SINCE</span>
+</span>
+<span class="lightblack-text text-n12">
+<%= i.established_year %>
+</span>
+<div style="clear:both;padding-bottom:2px"></div>
+
+<span class="icon-text">
+    <img src="/Images/archive.png" width="20" height="20">
+    <span>CATEGORIES</span>
+</span>
+<span class="lightblack-text text-n12">
+<%= i.vendor_sub_categories.gsub(/_lists/,"").gsub(',',', ').titleize %>
+</span>
+<div style="clear:both;padding-bottom:2px"></div>
+
+    <div class="gray-box marA10 padLR20">
+        <span class="icon-text">
+        <img src="/Images/offers.png" width="20" height="20">
+        <span>OFFERS</span>
+        </span>
+        
+        <% temp = i.miscellaneous.gsub('|',' , ') %>
+        
+        
+        <span class="lightblack-text text-n12">
+            <%= temp == "na" ? "You have been a little unlucky! No offers yet!" : temp %> 
+        </span>
+        
+        <div style="clear:both;padding-bottom:2px"></div>
+    </div>
+
+
+<span class="icon-text">
+    <img src="/Images/desc.png" width="20" height="20">
+    <span>DESCRIPTION</span>
+</span>
+<span class="lightblack-text text-n12">
+<%= i.vendor_description.html_safe %>
+</span>
+
+
+<%end%>
+
+</div>

@@ -1,0 +1,481 @@
+# Files are used to write success and error logs
+require "fileutils"
+# Mechanize is used to scrap data from urls and patterns
+require 'mechanize'
+# to connect to a remote database
+require 'rubygems'
+require 'active_record'
+require 'mysql2'
+require 'net/ssh/gateway'
+# to check if a port is open
+require 'socket'
+require 'timeout'
+
+namespace :update do
+####==online price==#################
+
+  desc "Update patterns table"
+  task :pattern => :environment do |task|
+    # check if a port to production is open, if not open one
+    open_port
+  
+    #Variables that are MUST
+    name = check(ENV['NAME'])
+    pattern = check(ENV['PATTERN'])
+    
+    sql = "SELECT vendor_id FROM vendors_lists 
+           WHERE vendor_name = " + "'" + name + "'"
+    say(sql)
+    id = db.execute(sql).first[0]
+    
+    p = eval(pattern)
+    
+    [:product_availability,:product_shipping_cost,:product_shipping_time,:product_special_offers].each do |i|
+    
+      if (p[i].nil?)
+        abort("\n========================\n\n\nPlease specify #{i} in your pattern!\n\n\n========================\n\n")
+      end
+        
+    end
+    
+    if p.keys.find_all { |e| /\d+/ =~ e.to_s  }.empty?
+      abort("\n========================\n\n\nPlease specify PRICE in your pattern, as INTEGERS(1,2,3..)!\n\n\n========================\n\n")
+   end
+   
+   pattern = pattern.inspect
+   
+   sql = "SELECT id FROM patterns
+           WHERE vendor_id = #{id}"
+   p_id = db.execute(sql).map{|i| i}
+   
+    if p_id.blank?
+        t_name ="online_" + name + "_products"
+        b_type = "online"
+        sql = "INSERT INTO patterns(vendor_id,pattern,t_name,b_type,u_at)
+               VALUES(#{id},#{pattern},'#{t_name.downcase}','#{b_type}',now())"
+               
+        puts "\n==============\n\n"
+        puts "Going to execute ... #{sql}"
+        puts "\n==============\n\n" 
+        
+        db.execute(sql)
+        
+        puts "\n==============\n\n"
+        puts "Vendor : #{name.titleize}\n\n"
+        puts "INSERTED and UPDATED PATTERN successfully!"
+        puts "\n==============\n\n"    
+    
+    else
+    
+        sql = "UPDATE patterns SET 
+                      pattern = #{pattern}
+               WHERE vendor_id = #{id}"
+               
+        puts "\n==============\n\n"
+        puts "Going to execute ... #{sql}"
+        puts "\n==============\n\n" 
+        
+        db.execute(sql)
+        
+        puts "\n==============\n\n"
+        puts "Vendor : #{name.titleize}\n\n"
+        puts "Updated PATTERN successfully!"
+        puts "\n==============\n\n"    
+     end 
+  end
+
+  # Please set TABLE to 0 if you want to update all tables
+  desc "Update Online Price"
+  task :online_price  => :environment do |task|
+  # Including this module to use its methods, a line in application.rb to load lib/modules is added. 
+  include UpdatePrice
+  
+  # check if a port to production is open, if not open one
+    open_port
+  
+   #Below block sets all the important variables from the command line
+    
+    #Variables that are MUST
+    source = check(ENV['SOURCE'])
+    dest = check(ENV['DEST'])
+    id = check(ENV['ID'])
+    @path = check(ENV['PATH'])
+
+    #Variables that are optional
+    table = ENV['TABLE'].nil? ? 0 : "'" + ENV['TABLE'].to_s + "'"
+    c = ENV['CAT'].nil? ? 0 : "'" + ENV['CAT'].to_s + "'"
+    gap = ENV['GAP'].nil? ? 3 :  ENV['GAP'].to_s
+    
+    # Setting the tasks name for naming the log folder
+    task = task.name.split(":")[1].gsub(/_/,"-").gsub(/^/,"-")
+    
+    # These variables are persistent across all the methods used in this module.
+    @output = Hash.new{|hash, key| hash[key] = Hash.new}
+    @d = Date.today.to_s + task.to_s
+    @c = 0
+    
+    #Handles the CTRL+ C event, sends email and breaks
+    Kernel.trap('INT') { 
+    
+     puts "\nCaught Ctrl + C! \n\n"
+     
+     # Setting the c flag (denoting ctrl+c) to 1, so that the task knows that someone pressed ctrl + c
+     @c = 1
+    
+     send_mail
+     
+     abort("Kernel trapped")
+     
+    }
+
+    # Fetches the patterns and table_names based on gap and table_name
+    pattern = g_pattern(table,gap)
+    
+    # Check if the pattern is empty to print msgs or go ahead with update
+    if pattern.empty?
+    
+      # No Patterns, so abort the task with a message
+      abort("\n== Maybe the selected tables are all already UP TO DATE! == \n\n")
+    
+    else
+    
+      # This section below, outputs all the tables that are going to be updated
+      puts "=====GOING TO UPDATE THE FOLLOWING TABLES WITH PATTERNS ON RANDOM BASIS======\n\n"
+            
+            pattern.each do |i|
+            
+             @output[i[0]][:e] = 0
+             
+             @output[i[0]][:s] = 0
+             
+             @output[i[0]][:kb] = 0             
+            
+             p "-------------------------------------"
+             p i[0].titleize 
+             p i[1]
+             p "-------------------------------------"
+            
+            end 
+            
+      puts "===========================================================\n\n"
+
+      # Iterate through all the tables and call the single function which takes a table and a pattern as input and starts updating that table.
+      pattern.each do |i|
+
+        puts "=====Starting with #{i[0].titleize}======\n\n"
+        
+          # Check the method definition for the parameters explanation
+          single(i[0],i[1],source,dest,id,c,gap,task)
+                  
+        puts "=====Ending #{i[0].titleize}======\n\n"
+                
+      end
+      
+      send_mail
+          
+    end
+
+  end 
+  #==================== Level - 1 Methods (Used by task) ================
+  
+  #sends an email to the specified id.
+  def send_mail
+    
+    begin
+  
+     puts "\nPreparing to send the logfile..\n\nClosing log files.."
+     
+     @e.close if !(@e.closed?)
+     
+     @s.close if !(@s.closed?)
+     
+     TestMailer.price_log(@output,@path + "/log/"+@d).deliver
+     
+     puts "\nMail sent!\n\n"
+
+    rescue Exception => e
+    
+      puts "\nCaught a NETWORK exception while sending EMAIL!\n\n"
+      
+      abort("\nITS YOUR NETWORK!\n\n")
+    
+    end
+       
+  end
+  
+  #p = pattern, t= table_name, s= source,d=destination,c=sub_category_id
+  def single(t,p,s,d,id_name,c,gap,task)
+
+    agent = Mechanize.new     
+    
+    sql = "SELECT #{id_name},#{s},product_sub_category,product_name,product_redirect_url
+           FROM #{t}
+           WHERE product_sub_category IN (#{c})"
+                                                         
+    if !(gap == "0")
+
+      sql = sql + " AND IFNULL(updated_at,created_at) <= DATE_SUB(CURDATE(),
+                                                         INTERVAL #{gap} DAY)"
+    
+    end                                                         
+                                                         
+    puts "=========== Executing the SELECT query ==========="
+    puts "\n"
+    puts sql
+    puts "\n"
+    puts "=================================================="
+    
+    # Executing the above SQL and storing the results in out.
+    out = db.execute(sql)
+    
+    # Receiving the errors.txt and success.txt file handlers in arr
+    arr = files(t,id_name,task)
+
+    out.each do |i|
+
+      # Receiving values if successfully scraped else 0
+      final = scrap(p,i[1],agent,d)
+      p "**********"
+      p final
+      # Updating the table and receiving the timestamp
+      time = actual_update(final,d,t,i[0],id_name)
+      #Writing the scraped details in the log files based on error or success
+      log_it(final,t,i[0],id_name,arr[0],arr[1],time,i[2],i[3],i[4])
+          
+    end
+    
+    t = "'" + t.to_s + "'"
+    
+    update_patterns(t,arr[1])
+    
+    arr[0].close
+    
+    arr[1].close
+  
+  end
+
+  #This method will take t_name as input and give t_names and patterns
+  def g_pattern(t,gap)
+    
+    sql = "SELECT t_name,
+                  pattern 
+           FROM patterns 
+           WHERE 1 " 
+           
+    if !(t.to_s == "0")
+     sql = sql + " AND FIND_IN_SET(t_name,#{t})"
+    end    
+    if !(gap == "0")    
+      sql = sql + " AND u_at <= DATE_SUB(CURDATE(), INTERVAL #{gap} DAY) "    
+    end
+    
+    sql = sql + " ORDER BY RAND()"
+           
+    puts "=========== Executing the SELECT query ==========="
+    puts "\n"
+    puts sql
+    puts "\n"
+    puts "=================================================="
+
+    out = db.execute(sql)
+    
+    out.map{|i| [i[0],i[1]] }
+
+  end
+    # check if a port in the production db is open
+    def is_port_open?(ip, port)
+      begin
+        Timeout::timeout(1) do
+          begin
+            s = TCPSocket.new(ip, port)
+            s.close
+            return true
+          rescue Errno::ECONNREFUSED, Errno::EHOSTUNREACH
+            return false
+          end
+        end
+      rescue Timeout::Error
+      end
+      return false
+    end
+    
+    def open_port    
+         say("Starting to open port...")
+         gateway = Net::SSH::Gateway.new(
+                  '180.179.50.152',
+                  'U4f95KQ5B',
+                  :password => "3yXdX276"
+                  )
+        
+        if !is_port_open?('127.0.0.1',3307)
+          say("Port is not open, opening a new one..")
+          port = gateway.open('127.0.0.1', 3306, 3307)                                              
+        end
+    end
+  
+  #Connection adapter to the db, returns connection object
+  def db     
+    # gateway thing for production make sure to open_port at the beginning of tasks
+    ActiveRecord::Base.establish_connection(:adapter => "mysql2",
+                                            :database=>"crawlfishdevdb",
+                                            :user=>"root",
+                                            :password=>"Sector@123",
+                                            :host=>"127.0.0.1",
+                                            :port => 3307).connection()
+   # Old school local approach for development
+   #ActiveRecord::Base.establish_connection(:adapter => "mysql2",
+   #                                          :database=>"prod2",
+   #                                         :user=>"root",
+   #                                           :password=>"Sector@123").connection()    
+  end
+  
+  #i= any thing can be passed to here, if passed is nil, it will abort else it will return the passed
+  def check(i)
+  
+    if i.nil?
+    
+      abort("\nCommand line arguments missing!\n\n")
+      
+    else
+    
+       i
+  
+    end
+      
+  end
+  
+  
+  #============= Level - 2 Methods (Used by level 1 methods) =============
+  
+  # this method will update the patterns table with the u_at time.
+  def update_patterns(t,s)
+  
+    sql = "UPDATE patterns SET u_at = now() WHERE t_name = #{t}"
+    
+    puts "======= Executing the UPDATE query on PATTERNS ==="
+    puts "\n"
+    puts sql
+    puts "\n"
+    puts "=================================================="
+
+    db.execute(sql)
+    
+    s.write("====Updated Patterns Table for #{t} ====\n")
+  
+  end
+  
+  # creates the log files if not present. and cd to the log files directory.
+  def files(t,id_name,task)
+    
+     FileUtils.cd(@path+"/log",:verbose => true)
+
+    if File.directory? @d
+     
+       puts "Directory #{@d} exists"
+       
+     else
+     
+       FileUtils.mkdir @d, :mode => 0700,  :verbose => true
+              
+     end
+     
+     FileUtils.cd(@d,:verbose => true)
+     
+     @e = open_1(@e,"errors.txt",t,id_name)
+     
+     @s = open_1(@s,"success.txt",t,id_name)
+         
+     [@e,@s]
+  
+  end
+  
+  #p = pattern, url = url to be visited and scraped, a = mechanize agent
+  def scrap(p,url,a,dest)
+  
+        begin
+        
+             p = eval(p)
+             dest = dest.split(",")
+             update(p,url,a,dest)
+            
+             #This exception block has a logic, if the occurred exception is during the task execution then, it will be ignored and continued giving a message, or if it occurred during CTRL + C, then the task will abort.
+        rescue Exception => e
+        
+              puts "\nCaught a NETWORK exception while SCRAPING!\n\n"      
+              if @c == 0
+               return {:product_price => 0,
+                        :product_availability => 0,
+                        :product_shipping_time => 0,
+                        :product_shipping_cost => 0,
+                        :product_special_offers => 0,
+                        :kb => 0.0}
+              elsif @c == 1
+               abort("\nNothing to worry. Its a casual error!\n\n")
+              end 
+          
+        end
+  end
+  
+  #d=destination column, t=table_name
+  def actual_update(final,d,t,id,id_name)
+
+    if !(final[:product_price] == 0)
+    
+        final = final.reject{ |k| k == :kb }
+        final = final.select{|k,v|  v != 0  }
+        
+        ActiveRecord::Base.logger = Logger.new(STDOUT) 
+        
+        begin    
+            puts "\n=========== Executing the UPDATE query on #{t} ===\n\n"
+            t.camelize.constantize.where(id_name.to_sym => id).update_all(final)
+            puts "=================================================="        
+        rescue Exception => e        
+              puts "\nCaught a DATABASE exception while UPDATING!\n\n"
+              abort("\nExecute the above query and fix it!\n\n")
+        end
+    
+    end    
+    
+    Time.now.to_s
+  end
+  
+  # final, t= table_name, id= product_id,id_name is product_id,path = app_path
+  def log_it(final,t,id,id_name,e,s,time,c,p,url)
+
+    text = id.to_s + "|" + c + "|" + p + "|" + url + "|" + final.values.join("|") +  "|" + time + "\n"
+  
+    if final[:product_price] == 0
+    
+      e.write(text)
+      
+      @output[t][:e] += 1
+      
+    else
+    
+      s.write(text)
+      
+      @output[t][:s] += 1
+    
+    end
+    
+    @output[t][:kb] += final[:kb]
+  
+  end
+ 
+ #============= Level - 3 Methods (Used by level 2 methods) ============= 
+  
+ # Used to open files in append mode 
+  def open_1(handler,file_name,t,id_name)
+  
+    handler = File.open(file_name, "a+")
+    
+    handler.write("====Starting #{t} | #{id_name}====\n")
+    
+    handler
+  
+  end
+
+
+end
+

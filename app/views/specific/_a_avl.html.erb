@@ -1,0 +1,209 @@
+<% if @online_grids_count < 5 %>
+<div class="g-text text-b15 padL10">
+We worked a little more ...
+<span class="darkgray-text text-n12">
+and fetched you a list of 
+<b>
+ retail shops
+</b>
+that also sells this product.
+</span>
+</div>
+
+<table cellspacing="0" cellpadding="0" border="0" width="100%" class="priceTable">
+
+<% @a_avl.each_with_index do |grid,index_value| %>
+
+  <% @id = grid.vendor_id %>
+  
+  <% @v_name = grid.vendor_alias_name %>
+
+  <% admin = @admin[@id] %>
+
+  <% click = @click[@id] %>
+  
+  <% b_no = @branches_no[grid.vendor_name]  %>
+  
+  <% admin = admin.nil? ? "N.A" : admin %>
+  
+  <% freeze = @f_flag[@id] %>  
+  
+  <% @uid = grid.unique_id %>
+  
+  <% @v_alias = grid.vendor_alias_name %>  
+  
+  <% name = form_specific_to_local_link(grid.vendor_alias_name,
+                                               grid.unique_id,
+                                               @country,
+                                               @category_name,
+                                               @product_name,
+                                               @product_identifier,
+                                               @city,
+                                               admin,
+                                               grid.vendor_alias_name)  %>
+                   
+        <tr class="<%= cycle("even", "odd") %>">
+          <td align="center" valign="top" data-unique_id="<%= grid.unique_id %>" data-query="<%=@query%>">
+            
+            <% if @area.nil? %>
+                    <span class="red-link-b padB5">
+                    <% if grid.premium == 1 %>
+                 <%= image_tag("../Images/crown.png",:size => "14x14") %>
+                 <% end %>
+                    <%= name %>
+                    </span>
+                    <br/>
+                    <% if !b_no.nil? %>
+                        <span class="lightblack-text padB5">
+                         (<%= plurals(b_no,"branch","<b>x</b>").html_safe %>)
+                        </span><br/>
+                    <% end %>
+            <% else %>
+                <span class="red-link-b padB5">
+                    <%= name %>
+                    </span> (<%= grid.branch_name.titlecase%>)
+            <% end %>
+            
+            <br/>
+         
+            <div class="comments-text padB5">
+            <%= truncate(grid.vendor_address,:length => 30)%>
+            </div>
+            
+            <span class="gray-button">
+            <%= form_specific_to_local_link("Shop details",
+                                               grid.unique_id,
+                                               @country,
+                                               @category_name,
+                                               @product_name,
+                                               @product_identifier,
+                                               @city,
+                                               admin,
+                                               grid.vendor_alias_name) %>
+            </span>
+            
+            
+            <div class="red-text padT10">
+            
+            (<b><%= click %></b> clicks<img src="/Images/help.png" width="8" height="8" class="tooltip" title="Number of times, people have clicked and viewed this particular shops page!">)
+                                    
+            </div>
+                        
+            </td>
+            
+            
+            <td align="center" valign="top">
+            
+              <div class="gray-link-b">
+            
+              <%= form_generic_to_specific_page_links("link",
+                                          admin,
+                                          "local",
+                                          @category_name,
+                                          @product_name,
+                                          @product_identifier,
+                                          @country,
+                                          @city,
+                                          admin) %><br/>
+              <span class="gray-text text-n9"> (Head Office)</span>                            
+              </div>
+              <div class="gray-button padT10">
+                    <%= form_specific_to_local_link("Locate in map",
+                                                       grid.unique_id,
+                                                       "map",
+                                                       @country,
+                                                       @category_name,
+                                                       @product_name,
+                                                       @product_identifier,
+                                                       @city,
+                                                       admin,
+                                                       grid.vendor_alias_name) %>
+                </div>
+             
+              <div class="text-n11 red-text padT10">
+                 <%= grid.working_time.gsub(/-/," to ") %> 
+              </div>
+
+              <div class="text-n12 gray-text padT5">
+              Estd. <%=grid.established_year %>
+              </div>
+              <br/>        
+              <div class="text-n10 grayl-box g-text g-link w120">
+                  
+                  <%= form_specific_to_local_link("<b>Offers:</b>",
+                                               grid.unique_id,
+                                               @country,
+                                               @category_name,
+                                               @product_name,
+                                               @product_identifier,
+                                               @city,
+                                               admin,
+                                               grid.vendor_alias_name) %>
+                  
+                  <%= truncate(grid.miscellaneous.gsub(/\|/,", "),:length => 75)  %>
+              </div>
+              
+            </td>
+            
+            <td align="center" valign="top">
+            
+                <%= form_rating %>
+                
+                <% if !grid.brands.nil? && grid.authorised == 1 %>
+                    <div class="g-text text-n10 padT10">
+                      Authorised seller
+                    </div>
+                    <% b =  "../Images/brand-logos/" + grid.brands.split(",")[0] + ".png" %>
+                    <%= image_tag(b,:size => "32x32") %>
+                <% end %>
+                            
+            </td>
+            
+          
+            <td align="right" valign="top">
+                
+                <p>
+                   <span class="text-n8" id="get-price">
+                       <%= sms("Get Latest Price",
+                         "green-button",
+                         grid.enquiry_no,
+                         "latest_price",grid.vendor_alias_name) %> <br/>
+                       <span class="text-n10 gray-text ht-s"> of <%= @product_name.titleize %> </span>
+                   </span>
+                </p>
+                
+                <p>
+                
+                     
+                
+                <% if grid.delivery == 'y' %>
+                    <div class="text-n10 g-text">
+                          <%= image_tag("../Images/delivery.png",:size => "20x20") %>
+                          Door delivery <br/>
+                          in <b><%= grid.delivery_time %> </b>
+                    </div>    
+                <% else %>
+                    <div class="text-n10 dark-gray-text ">
+                          No door delivery 
+                    </div>                 
+                <% end %>   
+                </p>
+                <% out = price_color(grid.c_at,grid.u_at) %>
+                    
+                    <div id=<%= "updated-ago-" + grid.unique_id.to_s %> class="text-n10 gray-text">
+                    
+                        ... <%= out[2] %>
+                     
+                    </div>                    
+                     
+                     <% if grid.cards == 1 %>
+                     <%= image_tag("../Images/cards.png",:size => "20x20") %>
+                     <% end %>
+   
+                 
+            </td>
+            
+       </tr>  
+<% end %>
+</table>
+<% end %>

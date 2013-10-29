@@ -1,0 +1,33 @@
+<div id="main-panel">
+<div id="left-panel">
+        <div class="padB10 padT15 padL15">
+            <span class="red-text text-b16 ">
+                <%= @area.titleize %> - Shops listing
+            </span>
+            <div class="comments-text padB5 border-gray-b">
+                    Click on any shop below, to view the contact details, description, reviews and more!
+            </div>
+        </div>
+
+<%= form_v(@shops,@admin) %> 
+<%= render "shared/online_bran"%>
+
+</div> 
+
+<div id="right-panel" class="border-gray-l padT15">
+
+                <%= render "shared/hub"%>
+                
+                <%= render "shared/top"%>
+                
+                <%= render "shared/p_p_range"%>
+                
+                <%= render "shared/o_shops"%>
+</div>
+    <div style="clear:both">&nbsp;</div> 
+
+    <%= render "shared/p_range" %>
+    
+</div>
+
+

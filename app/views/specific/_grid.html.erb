@@ -1,0 +1,92 @@
+<script type="text/javascript">
+
+
+$(function () {
+
+    var p_id = $("#data-sort #product_id").data("product_id");
+    var s_c_id = $("#data-sort #sub_category_id").data("sub_category_id");
+        
+    i = p_id + "|" + s_c_id + ",";
+
+    c = "items_recently_viewed";
+    
+    if($.cookie(c)) { 
+        j = $.cookie(c);
+        i = j + i
+    }
+    // Recently viewed items will be kept track for 10000 days
+    $.cookie(c,i, {expires:10000, path: '/'});
+
+    
+});
+  
+$(function () {
+setTimeout(function () {
+  if ($.cookie("vendor_rev") != "yes")
+    {
+    //setting 30 minutes interval before asking to write reviews
+    d = set_date(30);
+    
+    // Simplifying the container variable and preparing the asker
+    var c = ".custom_container"
+    shop = $(c).data('shop');  
+    v_id = $(c).data('v_id');
+    // Check if no shops
+    if (shop != "" && v_id != ""){
+
+                // Extracting the data from the data-sort div and manipulating it
+                var arr = [];            
+                i = 0;            
+                dataDiv = "#data-sort > div";            
+                $(dataDiv).each(function(){            
+                  var div = $(this);              
+                  arr[i++] = div.data(this.id);           
+                });
+                
+                param = arr.slice(4,9).join("/");
+                // sending an ajax get request to open the review modal for the current vendor
+                $.get("/asker/" + shop + "/" + v_id + "/" + param);
+    }
+        
+            // Setting the cookie "vendor_rev" value to yes and setting the expiry time as 30 minutes
+            $.cookie("vendor_rev", "yes", { expires: d, path: '/'});
+   }//close no shops checked IF
+   
+   }, 7000);
+});
+
+</script>
+<div id="vendor-rating-form" style="background-color:FFFFFF;"></div>
+    
+<div id="sms-form"></div>
+
+
+
+
+<% if @type == "local" %>
+
+   <div id="local-grid" data-product_id="<%= @product_id %>" data-sub_category_id="<%= @sub_category_id %>" data-search_case="<%= @search_case %>" >
+     
+     
+     <div id="item-left-panel">
+        <%= render ('specific/near_by') %>
+        <%= render 'shared/all_areas_s', :kind => "specific" %>
+     </div>
+     
+     <div id="item-right-panel">
+         <%= render ('specific/local') %>
+     </div>
+     
+   </div>
+    
+<% elsif @type == "online" %>
+
+    <div id="online-grid">
+    
+      <%= render 'online' %>
+      
+    </div>
+
+<% end %>
+
+

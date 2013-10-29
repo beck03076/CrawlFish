@@ -1,0 +1,1121 @@
+====Starting online_snapdeal_products | product_id====
+1373|laptops_lists|Asus S550CM-CJ054H Ultrabook|53562|0|0|Free Shipping|0|360.537109375|2013-06-17 21:14:33 +0530
+1374|laptops_lists|HP Pavilion G6-2237TX Laptop|45504|0|0|Free Shipping|0|403.478515625|2013-06-17 21:14:34 +0530
+1375|laptops_lists|HP Pavilion G6-2236TX Laptop|54910|0|0|Free Shipping|0|361.7158203125|2013-06-17 21:14:35 +0530
+1376|laptops_lists|Dell Vostro 2520 Laptop|26480|0|0|Free Shipping|0|359.6533203125|2013-06-17 21:14:36 +0530
+1377|laptops_lists|HP Pavilion G6-2226TU Laptop|30874|0|0|Free Shipping|0|419.3935546875|2013-06-17 21:14:37 +0530
+1378|laptops_lists|Asus K55VM-SX086D Laptop|49999|0|0|Free Shipping|0|430.2939453125|2013-06-17 21:14:40 +0530
+1379|laptops_lists|Lenovo Essential G580-59-358263 Laptop|31539|0|0|Free Shipping|0|406.0751953125|2013-06-17 21:14:40 +0530
+1380|laptops_lists|Sony VAIO E14133 Laptop|32330|0|0|Free Shipping|0|344.3779296875|2013-06-17 21:14:41 +0530
+1381|laptops_lists|Dell Vostro 2520 Laptop|31539|0|0|Free Shipping|0|341.36328125|2013-06-17 21:14:42 +0530
+1382|laptops_lists|HP Pavilion DV6-7206TX Laptop|62984|0|0|Free Shipping|0|340.7158203125|2013-06-17 21:14:43 +0530
+1383|laptops_lists|Samsung NP530U4C-S01IN Laptop|54473|0|0|Free Shipping|0|383.7744140625|2013-06-17 21:14:44 +0530
+1384|laptops_lists|Asus X53U-SX358D Laptop|17799|0|0|Free Shipping|0|400.861328125|2013-06-17 21:14:45 +0530
+1385|laptops_lists|Sony VAIO E15136 Laptop|42680|0|0|Free Shipping|0|395.2548828125|2013-06-17 21:14:46 +0530
+1386|laptops_lists|HP Pavilion G6-2301AX Laptop|31445|0|0|Free Shipping|0|368.857421875|2013-06-17 21:14:47 +0530
+1387|laptops_lists|Sony VAIO E15136 Laptop|42130|0|0|Free Shipping|0|389.48046875|2013-06-17 21:14:48 +0530
+1388|laptops_lists|HP Pavilion G6-2320TX Laptop|39350|0|0|Free Shipping|0|404.51953125|2013-06-17 21:14:49 +0530
+1389|laptops_lists|Samsung NP305E5Z-S01IN Laptop|23519|0|0|Free Shipping|0|415.4423828125|2013-06-17 21:14:50 +0530
+1390|laptops_lists|HP Pavilion G6-2312AX Laptop|36090|0|0|Free Shipping|0|394.296875|2013-06-17 21:14:51 +0530
+1391|laptops_lists|HP Envy 4-1104TX Ultrabook|52249|0|0|Free Shipping|0|362.2763671875|2013-06-17 21:14:53 +0530
+1392|laptops_lists|HP Pavilion 14-B104AU Sleekbook|20614|0|0|Free Shipping|0|390.8681640625|2013-06-17 21:14:54 +0530
+1393|laptops_lists|Asus Eee PC 1015CX-RED014W Netbook|14500|0|0|Free Shipping|0|427.76171875|2013-06-17 21:14:55 +0530
+1394|laptops_lists|Dell Vostro 2520 Laptop|27999|0|0|Free Shipping|0|469.1923828125|2013-06-17 21:14:56 +0530
+1395|laptops_lists|Dell Inspiron 15R 5521 Laptop|45168|0|0|Free Shipping|0|340.9921875|2013-06-17 21:14:57 +0530
+1396|laptops_lists|Dell Inspiron 15 3521 Laptop|44178|0|0|Free Shipping|0|371.8212890625|2013-06-17 21:14:58 +0530
+1397|laptops_lists|Acer Aspire V5-121 Netbook|21999|0|0|Free Shipping|0|361.04296875|2013-06-17 21:14:59 +0530
+1398|laptops_lists|Toshiba Satellite C850-P0011 Laptop|20000|out of stock|0|Free Shipping|0|425.5927734375|2013-06-17 21:15:00 +0530
+1399|laptops_lists|Dell Inspiron 15 3521 Laptop|42147|0|0|Free Shipping|0|343.4365234375|2013-06-17 21:15:01 +0530
+1400|laptops_lists|HP Pavilion G6-2309TU Laptop|37430|0|0|Free Shipping|0|353.2880859375|2013-06-17 21:15:02 +0530
+1401|laptops_lists|Samsung NP350V5C-A03IN Laptop|38499|0|0|Free Shipping|0|385.6552734375|2013-06-17 21:15:03 +0530
+1402|laptops_lists|Samsung NP300E5C-A08IN Laptop|35899|0|0|Free Shipping|0|365.4912109375|2013-06-17 21:15:04 +0530
+1403|laptops_lists|Acer Aspire E1 531 Laptop|22999|0|0|Free Shipping|0|410.7568359375|2013-06-17 21:15:06 +0530
+1404|laptops_lists|HP Pavilion G6-2232TX Laptop|34009|0|0|Free Shipping|0|363.3193359375|2013-06-17 21:15:07 +0530
+1405|laptops_lists|Lenovo ThinkPad X230-2325-3VQ Laptop|66974|0|0|Free Shipping|0|338.7783203125|2013-06-17 21:15:08 +0530
+1406|laptops_lists|HP Pavilion G6-2227TU Laptop|31539|0|0|Free Shipping|0|387.025390625|2013-06-17 21:15:09 +0530
+1407|laptops_lists|Asus X55C-SX161D Laptop|21515|0|0|Free Shipping|0|340.0703125|2013-06-17 21:15:10 +0530
+1408|laptops_lists|Samsung NP550P5C-S05IN Laptop|58890|0|0|Free Shipping|0|397.087890625|2013-06-17 21:15:11 +0530
+1409|laptops_lists|HP Envy X2 11-G004TU Laptop|56049|0|0|Free Shipping|0|361.59375|2013-06-17 21:15:12 +0530
+1410|laptops_lists|Dell New Inspiron 15R SE Laptop|51300|0|0|Free Shipping|0|346.3251953125|2013-06-17 21:15:13 +0530
+1411|laptops_lists|Samsung NP350V5C-S08IN Laptop|51750|0|0|Free Shipping|0|344.4423828125|2013-06-17 21:15:14 +0530
+1412|laptops_lists|Lenovo Ideapad U310-59-342832 Ultrabook|43500|0|0|Free Shipping|0|341.39453125|2013-06-17 21:15:15 +0530
+1413|laptops_lists|Acer Gateway NE56R Laptop|19801|0|0|Free Shipping|0|475.0107421875|2013-06-17 21:15:16 +0530
+1414|laptops_lists|Dell Inspiron 15R Laptop|40849|0|0|Free Shipping|0|338.8134765625|2013-06-17 21:15:17 +0530
+1415|laptops_lists|Asus S56CA-XX056H Ultrabook|41000|0|0|Free Shipping|0|340.0107421875|2013-06-17 21:15:18 +0530
+1416|laptops_lists|Acer Aspire V5-571P Laptop|39499|0|0|Free Shipping|0|341.7890625|2013-06-17 21:15:19 +0530
+1417|laptops_lists|HP 4540s ProBook|37999|0|0|Free Shipping|0|342.0087890625|2013-06-17 21:15:21 +0530
+1418|laptops_lists|Lenovo Ideapad Z580-59-347591 Laptop|37999|0|0|Free Shipping|0|346.404296875|2013-06-17 21:15:22 +0530
+1419|laptops_lists|Acer Aspire E1 571G Laptop|35843|0|0|Free Shipping|0|341.3896484375|2013-06-17 21:15:24 +0530
+1420|laptops_lists|HP Pavilion G6-2229TU Laptop|34200|0|0|Free Shipping|0|353.24609375|2013-06-17 21:15:26 +0530
+1421|laptops_lists|Asus F202E-CT148H VivoBook|35149|0|0|Free Shipping|0|339.4580078125|2013-06-17 21:15:27 +0530
+1422|laptops_lists|Lenovo Ideapad U310-59-341069 Ultrabook|36000|0|0|Free Shipping|0|361.1337890625|2013-06-17 21:15:28 +0530
+1423|laptops_lists|Acer Aspire V5-121 Netbook|16667|0|0|Free Shipping|0|366.3369140625|2013-06-17 21:15:29 +0530
+1424|laptops_lists|Samsung NP350E5C-S02IN Laptop|34000|0|0|Free Shipping|0|363.8046875|2013-06-17 21:15:30 +0530
+1425|laptops_lists|Sony VAIO E14133 Laptop|32330|0|0|Free Shipping|0|346.908203125|2013-06-17 21:15:31 +0530
+1426|laptops_lists|Lenovo Essential G580-59-355385 Laptop|29829|0|0|Free Shipping|0|340.515625|2013-06-17 21:15:32 +0530
+1427|laptops_lists|Asus Eee PC 1015CX-BLK024W Netbook|14500|0|0|Free Shipping|0|416.337890625|2013-06-17 21:15:33 +0530
+1428|laptops_lists|Acer Aspire V5 571 Laptop|28974|0|0|Free Shipping|0|343.5517578125|2013-06-17 21:15:34 +0530
+1429|laptops_lists|Samsung NP300E5C-A09IN Laptop|30100|0|0|Free Shipping|0|340.001953125|2013-06-17 21:15:37 +0530
+1430|laptops_lists|Lenovo Ideapad S400-59-340452 Laptop|28000|0|0|Free Shipping|0|342.5087890625|2013-06-17 21:15:38 +0530
+1431|laptops_lists|Sony VAIO E15131 Laptop|27430|0|0|Free Shipping|0|343.0302734375|2013-06-17 21:15:39 +0530
+1432|laptops_lists|Dell Vostro 2420 Laptop|25269|0|0|Free Shipping|0|343.173828125|2013-06-17 21:15:40 +0530
+1433|laptops_lists|HP 2000-2201TU Laptop|26504|0|0|Free Shipping|0|345.890625|2013-06-17 21:15:41 +0530
+1434|laptops_lists|Dell Inspiron 15 3521 Laptop|25599|0|0|Free Shipping|0|328.2353515625|2013-06-17 21:15:41 +0530
+1435|laptops_lists|Dell Vostro 2420 Laptop|24604|out of stock|0|Free Shipping|0|368.025390625|2013-06-17 21:15:42 +0530
+1436|laptops_lists|HP 450 Laptop|24225|0|0|Free Shipping|0|341.9873046875|2013-06-17 21:15:44 +0530
+1437|laptops_lists|Samsung NP300E5X-A0BIN Laptop|24690|0|0|Free Shipping|0|373.9873046875|2013-06-17 21:15:45 +0530
+1438|laptops_lists|Dell Vostro 2520 Laptop|23179|0|0|Free Shipping|0|339.919921875|2013-06-17 21:15:46 +0530
+1439|laptops_lists|Samsung NP355E5C-A01IN Laptop|21999|0|0|Free Shipping|0|362.6572265625|2013-06-17 21:15:47 +0530
+1440|laptops_lists|Toshiba Satellite C850-P0012 Laptop|21800|0|0|Free Shipping|0|347.8818359375|2013-06-17 21:15:48 +0530
+1441|laptops_lists|HP Pavilion 1000-1B02AU Laptop|18999|0|0|Free Shipping|0|346.8876953125|2013-06-17 21:15:49 +0530
+1442|laptops_lists|Toshiba C850D M5010 Laptop|18334|0|0|Free Shipping|0|340.2177734375|2013-06-17 21:15:50 +0530
+1443|laptops_lists|Acer Aspire V5-131 Netbook|17099|0|0|Free Shipping|0|341.986328125|2013-06-17 21:15:51 +0530
+1444|laptops_lists|Lenovo Ideapad Z580-59-333346 Laptop|43604|0|0|Free Shipping|0|341.796875|2013-06-17 21:15:52 +0530
+1445|laptops_lists|Lenovo Essential B480-59-343081 Laptop|32699|0|0|Free Shipping|0|360.6298828125|2013-06-17 21:15:53 +0530
+1446|laptops_lists|Sony VAIO T13126CN Ultrabook|63690|0|0|Free Shipping|0|341.8232421875|2013-06-17 21:15:53 +0530
+1447|laptops_lists|Sony VAIO E15125CN Laptop|35270|0|0|Free Shipping|0|342.982421875|2013-06-17 21:15:54 +0530
+1448|laptops_lists|Sony VAIO E14127CN Laptop|42680|0|0|Free Shipping|0|363.1826171875|2013-06-17 21:15:56 +0530
+1449|laptops_lists|Sony VAIO E15129CN Laptop|57810|0|0|Free Shipping|0|341.060546875|2013-06-17 21:15:57 +0530
+1450|laptops_lists|Toshiba Satellite C840-I4210 Laptop|29729|0|0|Free Shipping|0|383.490234375|2013-06-17 21:15:58 +0530
+1451|laptops_lists|Sony VAIO Duo 11 SVD11213CNB Ultrabook|88190|0|0|Free Shipping|0|348.2041015625|2013-06-17 21:15:59 +0530
+1452|laptops_lists|Dell Inspiron 15 3521 Laptop|41693|0|0|Free Shipping|0|328.0634765625|2013-06-17 21:16:00 +0530
+1453|laptops_lists|Dell Inspiron 15R Laptop|32839|0|0|Free Shipping|0|328.2099609375|2013-06-17 21:16:01 +0530
+1454|laptops_lists|Dell Inspiron 15R 5521 Laptop|37995|0|0|Free Shipping|0|330.2568359375|2013-06-17 21:16:02 +0530
+1455|laptops_lists|Dell XPS 13 Ultrabook|94990|0|0|Free Shipping|0|327.9296875|2013-06-17 21:16:03 +0530
+1456|laptops_lists|Dell Inspiron 15 3521 Laptop|35911|0|0|Free Shipping|0|328.0908203125|2013-06-17 21:16:04 +0530
+1457|laptops_lists|Dell XPS 13 Ultrabook|72073|0|0|Free Shipping|0|327.951171875|2013-06-17 21:16:05 +0530
+1458|laptops_lists|Dell Inspiron 15R 5521 Laptop|45234|0|0|Free Shipping|0|328.0927734375|2013-06-17 21:16:06 +0530
+1459|laptops_lists|Dell Inspiron 15R 5521 Laptop|54922|0|0|Free Shipping|0|328.0634765625|2013-06-17 21:16:07 +0530
+1460|laptops_lists|Dell Inspiron 14R Laptop|41900|0|0|Free Shipping|0|348.2197265625|2013-06-17 21:16:08 +0530
+1461|laptops_lists|HP 2000-2314TU Laptop|29682|0|0|Free Shipping|0|341.9091796875|2013-06-17 21:16:09 +0530
+1462|laptops_lists|HP 4440s ProBook|34499|0|0|Free Shipping|0|340.6787109375|2013-06-17 21:16:10 +0530
+1463|laptops_lists|Samsung NP300E5E-A03IN Laptop|33899|0|0|Free Shipping|0|342.2265625|2013-06-17 21:16:11 +0530
+1464|laptops_lists|Dell Inspiron 15R 5521 Laptop|37118|out of stock|0|Free Shipping|0|342.505859375|2013-06-17 21:16:12 +0530
+1465|laptops_lists|HP 450 Laptop|36099|0|0|Free Shipping|0|392.939453125|2013-06-17 21:16:13 +0530
+1466|laptops_lists|HP Elite Book 2560p Laptop|74574|0|0|Free Shipping|0|337.1162109375|2013-06-17 21:16:14 +0530
+1467|laptops_lists|HP 4540s ProBook|45599|0|0|Free Shipping|0|341.814453125|2013-06-17 21:16:15 +0530
+1468|laptops_lists|HP 4440s ProBook|43177|0|0|Free Shipping|0|341.884765625|2013-06-17 21:16:16 +0530
+1469|laptops_lists|HP 431 Laptop|27739|0|0|Free Shipping|0|339.9267578125|2013-06-17 21:16:17 +0530
+1470|laptops_lists|HP 4440s ProBook|35500|0|0|Free Shipping|0|335.3359375|2013-06-17 21:16:18 +0530
+1471|laptops_lists|HP 4440s ProBook|40374|0|0|Free Shipping|0|338.8583984375|2013-06-17 21:16:20 +0530
+1472|laptops_lists|Acer Aspire E1 421 Laptop|22324|0|0|Free Shipping|0|338.3662109375|2013-06-17 21:16:21 +0530
+1473|laptops_lists|Toshiba Satellite L750-X531B Laptop|40660|0|0|Free Shipping|0|341.787109375|2013-06-17 21:16:22 +0530
+1474|laptops_lists|HP 430 - QG623PA Laptop|28499|0|0|Free Shipping|0|337.904296875|2013-06-17 21:16:23 +0530
+1475|laptops_lists|HP 4530s ProBook|56999|0|0|Free Shipping|0|340.0283203125|2013-06-17 21:16:23 +0530
+1476|laptops_lists|HP Elite Book 2560p Laptop|73054|0|0|Free Shipping|0|340.70703125|2013-06-17 21:16:24 +0530
+1477|laptops_lists|HP 4540s ProBook|35596|0|0|Free Shipping|0|339.0439453125|2013-06-17 21:16:25 +0530
+1478|laptops_lists|HP 4540s ProBook|31634|0|0|Free Shipping|0|338.84765625|2013-06-17 21:16:26 +0530
+1479|laptops_lists|HP 430 - QG623PA Laptop|25174|0|0|Free Shipping|0|333.3671875|2013-06-17 21:16:27 +0530
+1480|laptops_lists|HP 450 Laptop|21279|0|0|Free Shipping|0|332.94140625|2013-06-17 21:16:28 +0530
+1481|laptops_lists|Dell Inspiron 15 3521 Laptop|37865|out of stock|0|Free Shipping|0|349.3212890625|2013-06-17 21:16:29 +0530
+1482|laptops_lists|HP 2000 2116TU Laptop|32109|0|0|Free Shipping|0|366.955078125|2013-06-17 21:16:31 +0530
+1483|laptops_lists|HP Envy 6-1011TU Sleekbook|39709|0|0|Free Shipping|0|357.294921875|2013-06-17 21:16:33 +0530
+1484|laptops_lists|Lenovo Ideapad U310-59-342830 Ultrabook|44079|0|0|Free Shipping|0|341.841796875|2013-06-17 21:16:34 +0530
+1485|laptops_lists|Acer TravelMate B Notebook|78849|0|0|Free Shipping|0|338.2861328125|2013-06-17 21:16:35 +0530
+1486|laptops_lists|Lenovo ThinkPad E430-3254-D5Q Laptop|30589|0|0|Free Shipping|0|338.7099609375|2013-06-17 21:16:36 +0530
+1487|laptops_lists|Dell Inspiron 15Z Ultrabook|44678|0|0|Free Shipping|0|347.2822265625|2013-06-17 21:16:37 +0530
+1488|laptops_lists|Dell Inspiron 14R Laptop|48465|0|0|Free Shipping|0|341.2265625|2013-06-17 21:16:38 +0530
+1489|laptops_lists|Dell Vostro 2520 Laptop|24947|0|0|Free Shipping|0|341.5419921875|2013-06-17 21:16:39 +0530
+1490|laptops_lists|Dell Inspiron 15 3521 Laptop|26876|0|0|Free Shipping|0|359.1318359375|2013-06-17 21:16:40 +0530
+1491|laptops_lists|Dell Inspiron 15 3521 Laptop|32815|0|0|Free Shipping|0|345.9755859375|2013-06-17 21:16:40 +0530
+1492|laptops_lists|Dell Inspiron 15Z Ultrabook|59322|0|0|Free Shipping|0|347.234375|2013-06-17 21:16:41 +0530
+1493|laptops_lists|Dell Inspiron 15Z Ultrabook|52000|0|0|Free Shipping|0|347.8173828125|2013-06-17 21:16:43 +0530
+1494|laptops_lists|Dell Inspiron 15 3521 Laptop|39885|out of stock|0|Free Shipping|0|347.4970703125|2013-06-17 21:16:44 +0530
+1495|laptops_lists|Toshiba Satellite C850-I5214 Laptop|33000|out of stock|0|Free Shipping|0|346.111328125|2013-06-17 21:16:45 +0530
+1496|laptops_lists|Dell Inspiron 15R 5521 Laptop|37708|0|0|Free Shipping|0|342.2685546875|2013-06-17 21:16:47 +0530
+1497|laptops_lists|Samsung NP900X1B-A01IN Laptop|900|0|0|Free Shipping|0|379.2529296875|2013-06-17 21:16:48 +0530
+1498|laptops_lists|HP Pavilion G6-2202TX Laptop|41799|0|0|Free Shipping|0|333.826171875|2013-06-17 21:16:49 +0530
+1499|laptops_lists|Lenovo Essential G580-59-356383 Laptop|35719|0|0|Free Shipping|0|338.029296875|2013-06-17 21:16:51 +0530
+1500|laptops_lists|Lenovo Essential G580-59-324014 Laptop|32489|0|0|Free Shipping|0|340.4384765625|2013-06-17 21:16:52 +0530
+1501|laptops_lists|Acer Aspire E1 531 Laptop|22799|0|0|Free Shipping|0|342.7373046875|2013-06-17 21:16:53 +0530
+1502|laptops_lists|Acer Gateway NE56R Laptop|22989|0|0|Free Shipping|0|350.388671875|2013-06-17 21:16:54 +0530
+1503|laptops_lists|Samsung NP355E5C-A01IN Laptop|23274|0|0|Free Shipping|0|345.669921875|2013-06-17 21:16:55 +0530
+1504|laptops_lists|Toshiba Satellite C665-I5210 Laptop|31000|0|0|Free Shipping|0|344.837890625|2013-06-17 21:16:56 +0530
+1505|laptops_lists|Toshiba Satellite C850-I2010 Laptop|29999|0|0|Free Shipping|0|347.6513671875|2013-06-17 21:16:57 +0530
+1506|laptops_lists|Toshiba Satellite M840-X4212 Laptop|36999|out of stock|0|Free Shipping|0|346.5615234375|2013-06-17 21:16:59 +0530
+1507|laptops_lists|HP 2000-2106TU Laptop|22600|0|0|Free Shipping|0|398.9326171875|2013-06-17 21:17:00 +0530
+1508|laptops_lists|Samsung NP300E4V-A01IN Laptop|20425|0|0|Free Shipping|0|375.181640625|2013-06-17 21:17:01 +0530
+1509|laptops_lists|HP 650 Laptop|24604|0|0|Free Shipping|0|342.4248046875|2013-06-17 21:17:03 +0530
+1510|laptops_lists|Lenovo Ideapad S405-59-348194 Laptop|29925|0|0|Free Shipping|0|342.267578125|2013-06-17 21:17:05 +0530
+1511|laptops_lists|Asus X54C-SX454D Laptop|23275|0|0|Free Shipping|0|381.7216796875|2013-06-17 21:17:06 +0530
+1512|laptops_lists|HP Pavilion G6-2228TU Laptop|31190|0|0|Free Shipping|0|341.1416015625|2013-06-17 21:17:07 +0530
+1513|laptops_lists|HP Envy 4-1201TX Ultrabook|59510|0|0|Free Shipping|0|360.02734375|2013-06-17 21:17:08 +0530
+1514|laptops_lists|HP 2000-2106TU Laptop|21600|0|0|Free Shipping|0|387.5830078125|2013-06-17 21:17:09 +0530
+1515|laptops_lists|HP Envy 4-1202TX Ultrabook|54710|0|0|Free Shipping|0|342.32421875|2013-06-17 21:17:10 +0530
+1516|laptops_lists|HP Pavilion G6-2304TX Laptop|46070|0|0|Free Shipping|0|365.8125|2013-06-17 21:17:10 +0530
+1517|laptops_lists|HP Envy 4-1203TX Ultrabook|54710|0|0|Free Shipping|0|342.2685546875|2013-06-17 21:17:12 +0530
+1518|laptops_lists|HP Pavilion 15-B002TU Sleekbook|28790|0|0|Free Shipping|0|344.9384765625|2013-06-17 21:17:13 +0530
+1519|laptops_lists|Dell Inspiron 15R 5521 Laptop|45979|out of stock|0|Free Shipping|0|392.2177734375|2013-06-17 21:17:14 +0530
+1520|laptops_lists|Samsung NP530U4B-S02IN Ultrabook|49999|0|0|Free Shipping|0|341.615234375|2013-06-17 21:17:15 +0530
+1521|laptops_lists|Samsung ATIV Smart Laptop|50999|0|0|Free Shipping|0|342.8388671875|2013-06-17 21:17:16 +0530
+1522|laptops_lists|Samsung NP350V5C-S06IN Laptop|55500|0|0|Free Shipping|0|339.3876953125|2013-06-17 21:17:16 +0530
+1523|laptops_lists|Samsung NP300V5A-S0CIN Laptop|45571|0|0|Free Shipping|0|364.8544921875|2013-06-17 21:17:18 +0530
+1524|laptops_lists|Samsung NP350V5C-S06IN Laptop|55515|0|0|Free Shipping|0|376.669921875|2013-06-17 21:17:19 +0530
+1525|laptops_lists|Samsung NP550P5C-S01IN Laptop|50581|0|0|Free Shipping|0|367.5732421875|2013-06-17 21:17:20 +0530
+1526|laptops_lists|Samsung NP530U4C-S06IN Laptop|44100|0|0|Free Shipping|0|346.0302734375|2013-06-17 21:17:21 +0530
+1527|laptops_lists|Samsung NP350V5C-S01IN Laptop|32750|0|0|Free Shipping|0|362.8388671875|2013-06-17 21:17:22 +0530
+1528|laptops_lists|Samsung NP530U4C-S04IN Ultrabook|43150|0|0|Free Shipping|0|371.8818359375|2013-06-17 21:17:23 +0530
+1529|laptops_lists|Samsung NP540U3C-A01IN Ultrabook|56499|0|0|Free Shipping|0|343.0693359375|2013-06-17 21:17:24 +0530
+1530|laptops_lists|Samsung NP350V5C-S0BIN Laptop|42750|0|0|Free Shipping|0|344.01171875|2013-06-17 21:17:24 +0530
+1531|laptops_lists|Samsung NP300E5V-A02IN Laptop|28199|0|0|Free Shipping|0|344.22265625|2013-06-17 21:17:25 +0530
+1532|laptops_lists|Samsung NP355V5C-S05IN Laptop|53389|0|0|Free Shipping|0|341.44140625|2013-06-17 21:17:26 +0530
+1533|laptops_lists|Samsung ATIV Smart Laptop|73499|0|0|Free Shipping|0|345.5126953125|2013-06-17 21:17:27 +0530
+1534|laptops_lists|Samsung NP550P5C-S04IN Laptop|51250|0|0|Free Shipping|0|406.712890625|2013-06-17 21:17:29 +0530
+1535|laptops_lists|Samsung NP355V5C-S05IN Laptop|34700|0|0|Free Shipping|0|439.275390625|2013-06-17 21:17:32 +0530
+1536|laptops_lists|Samsung NP300E5C-S01IN Laptop|40000|0|0|Free Shipping|0|376.8603515625|2013-06-17 21:17:33 +0530
+1537|laptops_lists|Samsung NP350V5C-S02IN Laptop|41550|0|0|Free Shipping|0|389.2626953125|2013-06-17 21:17:34 +0530
+1538|laptops_lists|Samsung NP355V5C-S06IN Laptop|30800|0|0|Free Shipping|0|381.591796875|2013-06-17 21:17:35 +0530
+1539|laptops_lists|Samsung NP350V5X-S01IN Laptop|36750|0|0|Free Shipping|0|345.1630859375|2013-06-17 21:17:36 +0530
+1540|laptops_lists|Lenovo Ideapad Z580-59-333630 Laptop|36954|0|0|Free Shipping|0|340.7431640625|2013-06-17 21:17:37 +0530
+1541|laptops_lists|Lenovo Ideapad U410-59-342777 Ultrabook|51584|0|0|Free Shipping|0|343.380859375|2013-06-17 21:17:38 +0530
+1542|laptops_lists|Lenovo Ideapad Z370-59-342158 Laptop|30114|0|0|Free Shipping|0|384.2626953125|2013-06-17 21:17:39 +0530
+1543|laptops_lists|HP Envy 4-1103TX Ultrabook|54624|0|0|Free Shipping|0|343.8427734375|2013-06-17 21:17:40 +0530
+1544|laptops_lists|HP Envy 4-1102TX Ultrabook|57950|out of stock|0|Free Shipping|0|387.908203125|2013-06-17 21:17:41 +0530
+1545|laptops_lists|Lenovo Ideapad S400-59-358392 Laptop|24842|0|0|Free Shipping|0|342.1533203125|2013-06-17 21:17:42 +0530
+1546|laptops_lists|Lenovo Ideapad S300-59-348107 Laptop|30875|0|0|Free Shipping|0|343.595703125|2013-06-17 21:17:43 +0530
+1547|laptops_lists|Lenovo Ideapad U410-59-342778 Ultrabook|50824|0|0|Free Shipping|0|343.4970703125|2013-06-17 21:17:43 +0530
+1548|laptops_lists|Lenovo Ideapad Z580-59-333347 Laptop|41324|0|0|Free Shipping|0|342.0234375|2013-06-17 21:17:45 +0530
+1549|laptops_lists|Lenovo Ideapad Z580-59-347570 Laptop|35624|0|0|Free Shipping|0|385.8662109375|2013-06-17 21:17:46 +0530
+1550|laptops_lists|Dell Inspiron 15 3521 Laptop|28500|0|0|Free Shipping|0|404.0498046875|2013-06-17 21:17:47 +0530
+1551|laptops_lists|Dell New Inspiron 15R Laptop|39425|0|0|Free Shipping|0|344.736328125|2013-06-17 21:17:48 +0530
+1552|laptops_lists|HP Pavilion G6-2221TU Laptop|36670|0|0|Free Shipping|0|335.6494140625|2013-06-17 21:17:49 +0530
+1553|laptops_lists|Dell Vostro 2520 Laptop|26599|0|0|Free Shipping|0|338.9453125|2013-06-17 21:17:50 +0530
+1554|laptops_lists|Asus S56CM-XO177H Ultrabook|38999|0|0|Free Shipping|0|338.66015625|2013-06-17 21:17:51 +0530
+1555|laptops_lists|Lenovo Ideapad U410-59-342788 Ultrabook|57854|0|0|Free Shipping|0|341.505859375|2013-06-17 21:17:53 +0530
+1556|laptops_lists|Lenovo Ideapad U310-59-341068 Ultrabook|39614|0|0|Free Shipping|0|342.05859375|2013-06-17 21:17:54 +0530
+1557|laptops_lists|Lenovo Ideapad U410-59-341061 Ultrabook|44459|0|0|Free Shipping|0|344.1943359375|2013-06-17 21:17:55 +0530
+1558|laptops_lists|Lenovo Ideapad Z580-59-339351 Laptop|54529|0|0|Free Shipping|0|345.5|2013-06-17 21:17:56 +0530
+1559|laptops_lists|HP Pavilion 15-B004TU Sleekbook|24224|0|0|Free Shipping|0|339.037109375|2013-06-17 21:17:57 +0530
+1560|laptops_lists|Dell Vostro 2520 Laptop|27455|0|0|Free Shipping|0|339.3232421875|2013-06-17 21:17:59 +0530
+1561|laptops_lists|Samsung NP300E5C-A0CIN Laptop|28000|0|0|Free Shipping|0|342.517578125|2013-06-17 21:18:00 +0530
+1562|laptops_lists|Lenovo Essential G580-59-355398 Laptop|32299|0|0|Free Shipping|0|341.4990234375|2013-06-17 21:18:02 +0530
+1563|laptops_lists|Lenovo Ideapad Z580-59-333347 Laptop|40374|0|0|Free Shipping|0|336.60546875|2013-06-17 21:18:03 +0530
+1564|laptops_lists|Lenovo Essential G580-59-337031 Laptop|30874|0|0|Free Shipping|0|342.0107421875|2013-06-17 21:18:04 +0530
+1565|laptops_lists|Dell Vostro 2420 Laptop|31433|0|0|Free Shipping|0|342.671875|2013-06-17 21:18:05 +0530
+1566|laptops_lists|Lenovo Ideapad U510-59-349348 Ultrabook|56999|0|0|Free Shipping|0|338.458984375|2013-06-17 21:18:06 +0530
+1567|laptops_lists|Lenovo Ideapad Z580-59-347604 Laptop|35624|0|0|Free Shipping|0|385.2890625|2013-06-17 21:18:07 +0530
+1568|laptops_lists|Lenovo Ideapad Z580-59-347587 Laptop|35624|0|0|Free Shipping|0|340.1396484375|2013-06-17 21:18:08 +0530
+1569|laptops_lists|Lenovo Essential G585-59-348619 Laptop|23179|0|0|Free Shipping|0|335.4140625|2013-06-17 21:18:09 +0530
+1570|laptops_lists|Lenovo Essential G580-59-356384 Laptop|30779|0|0|Free Shipping|0|388.009765625|2013-06-17 21:18:10 +0530
+1571|laptops_lists|HP Pavilion 15-B002TX Sleekbook|31349|0|0|Free Shipping|0|341.8603515625|2013-06-17 21:18:11 +0530
+1572|laptops_lists|Asus F501A-XX187H Laptop|28999|0|0|Free Shipping|0|344.052734375|2013-06-17 21:18:12 +0530
+1573|laptops_lists|Lenovo Essential G580-59-336936 Laptop|28879|0|0|Free Shipping|0|358.841796875|2013-06-17 21:18:13 +0530
+1574|laptops_lists|HP 1000-1204TU Laptop|23369|out of stock|0|Free Shipping|0|368.1875|2013-06-17 21:18:14 +0530
+1575|laptops_lists|HP 450 Laptop|19569|0|0|Free Shipping|0|340.4091796875|2013-06-17 21:18:15 +0530
+1576|laptops_lists|HP 450 Laptop|28024|0|0|Free Shipping|0|333.9189453125|2013-06-17 21:18:16 +0530
+1577|laptops_lists|Dell Vostro 2520 Laptop|28498|0|0|Free Shipping|0|341.2998046875|2013-06-17 21:18:17 +0530
+1578|laptops_lists|Dell Vostro 2520 Laptop|35720|0|0|Free Shipping|0|339.1201171875|2013-06-17 21:18:18 +0530
+1579|laptops_lists|Dell Vostro 2520 Laptop|21849|0|0|Free Shipping|0|370.912109375|2013-06-17 21:18:19 +0530
+1580|laptops_lists|Dell Inspiron 15R Laptop|39899|out of stock|0|Free Shipping|0|339.931640625|2013-06-17 21:18:20 +0530
+1581|laptops_lists|Dell Vostro 2420 Laptop|21849|0|0|Free Shipping|0|357.6123046875|2013-06-17 21:18:21 +0530
+1582|laptops_lists|HP Pavilion M6-1102TX Laptop|53199|0|0|Free Shipping|0|363.09765625|2013-06-17 21:18:22 +0530
+1583|laptops_lists|HP Pavilion M6-1103TX Laptop|53199|0|0|Free Shipping|0|344.689453125|2013-06-17 21:18:23 +0530
+1584|laptops_lists|HP Pavilion G6-2201AX Laptop|30589|0|0|Free Shipping|0|361.4248046875|2013-06-17 21:18:25 +0530
+1585|laptops_lists|HP Pavilion 15-B003TU Sleekbook|21849|0|0|Free Shipping|0|391.2880859375|2013-06-17 21:18:26 +0530
+1586|laptops_lists|HP 2000-2202TU Laptop|29449|0|0|Free Shipping|0|367.607421875|2013-06-17 21:18:27 +0530
+1587|laptops_lists|Lenovo Essential G580-59-355396 Laptop|30209|0|0|Free Shipping|0|341.529296875|2013-06-17 21:18:28 +0530
+1588|laptops_lists|Lenovo Ideapad S400-59-340453 Laptop|28000|0|0|Free Shipping|0|344.21875|2013-06-17 21:18:28 +0530
+1589|laptops_lists|Lenovo Ideapad Z580-59-347589 Laptop|41500|0|0|Free Shipping|0|346.373046875|2013-06-17 21:18:29 +0530
+1590|laptops_lists|Lenovo Ideapad S400-59-356394 Laptop|24200|0|0|Free Shipping|0|341.8349609375|2013-06-17 21:18:30 +0530
+1591|laptops_lists|Lenovo Essential G580-59-351470 Laptop|23000|0|0|Free Shipping|0|338.7568359375|2013-06-17 21:18:31 +0530
+1592|laptops_lists|Lenovo Essential G580-59-361898 Laptop|26500|0|0|Free Shipping|0|361.294921875|2013-06-17 21:18:32 +0530
+1593|laptops_lists|HP 450 Laptop|21754|0|0|Free Shipping|0|341.755859375|2013-06-17 21:18:33 +0530
+1594|laptops_lists|Lenovo Essential G580-59-358346 Laptop|28750|0|0|Free Shipping|0|359.6689453125|2013-06-17 21:18:34 +0530
+1595|laptops_lists|Samsung NP300E5E-A04IN Laptop|23800|0|0|Free Shipping|0|343.8173828125|2013-06-17 21:18:35 +0530
+1596|laptops_lists|HP Pavilion G6-2302AX Laptop|27549|0|0|Free Shipping|0|404.9443359375|2013-06-17 21:18:36 +0530
+1597|laptops_lists|Lenovo Essential G580-59-351467 Laptop|21300|0|0|Free Shipping|0|357.736328125|2013-06-17 21:18:37 +0530
+1598|laptops_lists|Lenovo Essential G580-59-351466 Laptop|25000|0|0|Free Shipping|0|342.771484375|2013-06-17 21:18:38 +0530
+1599|laptops_lists|Lenovo Essential G580-59-324015 Laptop|28500|0|0|Free Shipping|0|342.1298828125|2013-06-17 21:18:39 +0530
+1600|laptops_lists|Lenovo Essential G580-59-324008 Laptop|28500|0|0|Free Shipping|0|365.982421875|2013-06-17 21:18:40 +0530
+1601|laptops_lists|Lenovo Essential G580-59-351473 Laptop|22997|0|0|Free Shipping|0|360.025390625|2013-06-17 21:18:41 +0530
+1602|laptops_lists|Lenovo Essential G580-59-362296 Laptop|20750|0|0|Free Shipping|0|341.37109375|2013-06-17 21:18:42 +0530
+1603|laptops_lists|Lenovo Ideapad Z580-59-347567 Laptop|33800|0|0|Free Shipping|0|341.228515625|2013-06-17 21:18:43 +0530
+1604|laptops_lists|Samsung NP370R5E-S06IN Laptop|34886|0|0|Free Shipping|0|376.3232421875|2013-06-17 21:18:44 +0530
+1605|laptops_lists|Samsung NP370R5E-S05IN Laptop|40984|0|0|Free Shipping|0|390.5625|2013-06-17 21:18:45 +0530
+1606|laptops_lists|Lenovo Essential G580-59-351474 Laptop|23000|0|0|Free Shipping|0|388.173828125|2013-06-17 21:18:46 +0530
+1607|laptops_lists|HP Pavilion G6-2231TX Laptop|33534|0|0|Free Shipping|0|366.2998046875|2013-06-17 21:18:47 +0530
+1608|laptops_lists|Asus K55VD-SX313R Laptop|31999|0|0|Free Shipping|0|340.654296875|2013-06-17 21:18:48 +0530
+1609|laptops_lists|Asus K55VD-SX314R Laptop|33320|0|0|Free Shipping|0|339.1572265625|2013-06-17 21:18:49 +0530
+1610|laptops_lists|Samsung NP350E5C-S03IN Laptop|34600|0|0|Free Shipping|0|393.6396484375|2013-06-17 21:18:49 +0530
+1611|laptops_lists|Asus S56CA-XX030R Ultrabook|33999|0|0|Free Shipping|0|344.494140625|2013-06-17 21:18:50 +0530
+1612|laptops_lists|Samsung NP300V5A-S0GIN Laptop|35404|0|0|Free Shipping|0|344.8740234375|2013-06-17 21:18:51 +0530
+1613|laptops_lists|Asus K55VD-SX314D Laptop|29390|0|0|Free Shipping|0|395.9609375|2013-06-17 21:18:52 +0530
+1614|laptops_lists|Asus X54C-SX425D Laptop|25499|0|0|Free Shipping|0|363.7978515625|2013-06-17 21:18:53 +0530
+1615|laptops_lists|Samsung NP535U4C-S02IN Ultrabook|40999|0|0|Free Shipping|0|432.37890625|2013-06-17 21:18:54 +0530
+1616|laptops_lists|Acer V5-431 Laptop|25649|0|0|Free Shipping|0|343.65234375|2013-06-17 21:18:55 +0530
+1617|laptops_lists|HP Pavilion G6-2230TX Laptop|30399|0|0|Free Shipping|0|398.7060546875|2013-06-17 21:18:56 +0530
+1618|laptops_lists|Asus X55C-SX078D Laptop|22449|0|0|Free Shipping|0|362.7294921875|2013-06-17 21:18:57 +0530
+1619|laptops_lists|HP Envy 4-1103TU Ultrabook|50349|0|0|Free Shipping|0|341.37109375|2013-06-17 21:18:58 +0530
+1620|laptops_lists|Acer Aspire V5 571 Laptop|31159|0|0|Free Shipping|0|341.9306640625|2013-06-17 21:18:59 +0530
+1621|laptops_lists|Acer Aspire V5 571 Laptop|32299|0|0|Free Shipping|0|342.7470703125|2013-06-17 21:19:00 +0530
+1622|laptops_lists|Acer Aspire V5 571 Laptop|31349|0|0|Free Shipping|0|339.984375|2013-06-17 21:19:01 +0530
+1623|laptops_lists|Acer Aspire V5 571 Laptop|33249|0|0|Free Shipping|0|344.0517578125|2013-06-17 21:19:02 +0530
+1624|laptops_lists|Acer Aspire V5 571G Laptop|39424|0|0|Free Shipping|0|338.9765625|2013-06-17 21:19:03 +0530
+1625|laptops_lists|Acer Aspire V5 571G Laptop|37049|0|0|Free Shipping|0|341.1591796875|2013-06-17 21:19:04 +0530
+1626|laptops_lists|Acer Aspire V5 571G Laptop|40849|0|0|Free Shipping|0|340.2685546875|2013-06-17 21:19:05 +0530
+1627|laptops_lists|Acer Aspire V5 571G Laptop|42084|0|0|Free Shipping|0|340.8115234375|2013-06-17 21:19:06 +0530
+1628|laptops_lists|Acer Aspire Timeline Ultra M5 481T Laptop|45884|0|0|Free Shipping|0|343.7177734375|2013-06-17 21:19:07 +0530
+1629|laptops_lists|Acer Aspire Timeline Ultra M5 481T Laptop|49399|0|0|Free Shipping|0|343.7265625|2013-06-17 21:19:08 +0530
+1630|laptops_lists|Acer Aspire V5-471P Laptop|37239|0|0|Free Shipping|0|385.10546875|2013-06-17 21:19:09 +0530
+1631|laptops_lists|Acer Aspire V5-471P Laptop|43224|0|0|Free Shipping|0|372.8427734375|2013-06-17 21:19:10 +0530
+1632|laptops_lists|Acer Aspire E1 571 Laptop|30286|0|0|Free Shipping|0|338.3876953125|2013-06-17 21:19:11 +0530
+1633|laptops_lists|Acer Aspire E1 531 Laptop|21849|0|0|Free Shipping|0|338.666015625|2013-06-17 21:19:12 +0530
+1634|laptops_lists|Acer Aspire E1 571 Laptop|34959|0|0|Free Shipping|0|337.0966796875|2013-06-17 21:19:13 +0530
+1635|laptops_lists|Acer Aspire E1 571G Laptop|32109|0|0|Free Shipping|0|338.8828125|2013-06-17 21:19:14 +0530
+1636|laptops_lists|Acer Aspire E1 571G Laptop|39709|0|0|Free Shipping|0|340.0068359375|2013-06-17 21:19:15 +0530
+1637|laptops_lists|Acer Aspire E1 571G Laptop|31349|0|0|Free Shipping|0|338.7236328125|2013-06-17 21:19:16 +0530
+1638|laptops_lists|Acer Aspire E1 571 Laptop|26219|0|0|Free Shipping|0|342.3095703125|2013-06-17 21:19:18 +0530
+1639|laptops_lists|Acer Aspire V5 571G Laptop|35149|0|0|Free Shipping|0|337.85546875|2013-06-17 21:19:19 +0530
+1640|laptops_lists|Acer Aspire V5 431 Laptop|25174|0|0|Free Shipping|0|340.45703125|2013-06-17 21:19:20 +0530
+1641|laptops_lists|Acer Aspire E1 571 Laptop|26979|0|0|Free Shipping|0|340.3564453125|2013-06-17 21:19:21 +0530
+1642|laptops_lists|Acer Aspire V5-121 Netbook|17004|out of stock|0|Free Shipping|0|343.3232421875|2013-06-17 21:19:22 +0530
+1643|laptops_lists|Acer Aspire E1 571G Laptop|33724|0|0|Free Shipping|0|341.08203125|2013-06-17 21:19:23 +0530
+1644|laptops_lists|Acer Aspire E1 571G Laptop|30304|0|0|Free Shipping|0|337.32421875|2013-06-17 21:19:24 +0530
+1645|laptops_lists|Acer Aspire V5 571 Laptop|32204|0|0|Free Shipping|0|337.8388671875|2013-06-17 21:19:25 +0530
+1646|laptops_lists|Acer Aspire V5 531 Laptop|24129|0|0|Free Shipping|0|342.5419921875|2013-06-17 21:19:26 +0530
+1647|laptops_lists|Acer Aspire V5 431 Laptop|23749|0|0|Free Shipping|0|343.40625|2013-06-17 21:19:27 +0530
+1648|laptops_lists|Acer Aspire V5 431 Laptop|23749|0|0|Free Shipping|0|345.126953125|2013-06-17 21:19:28 +0530
+1649|laptops_lists|Acer Aspire V5 431 Laptop|34389|0|0|Free Shipping|0|340.4423828125|2013-06-17 21:19:29 +0530
+1650|laptops_lists|Acer Aspire V5 571 Laptop|28974|0|0|Free Shipping|0|342.5419921875|2013-06-17 21:19:30 +0530
+1651|laptops_lists|Acer Aspire V5 571 Laptop|29924|0|0|Free Shipping|0|342.7724609375|2013-06-17 21:19:31 +0530
+1652|laptops_lists|Acer Aspire V5 571 Laptop|28974|0|0|Free Shipping|0|342.7080078125|2013-06-17 21:19:32 +0530
+1653|laptops_lists|Acer Aspire E1-531-BT Laptop|23464|0|0|Free Shipping|0|341.3408203125|2013-06-17 21:19:33 +0530
+1654|laptops_lists|Samsung NP350V5C-S07IN Laptop|40840|0|0|Free Shipping|0|345.865234375|2013-06-17 21:19:34 +0530
+1655|laptops_lists|Dell Vostro 2420 Laptop|27315|out of stock|0|Free Shipping|0|385.138671875|2013-06-17 21:19:36 +0530
+1656|laptops_lists|Lenovo Ideapad Z580-59-333347 Laptop|40469|0|0|Free Shipping|0|336.783203125|2013-06-17 21:19:36 +0530
+1657|laptops_lists|HP 2000-2D02TU Laptop|23990|0|0|Free Shipping|0|340.294921875|2013-06-17 21:19:37 +0530
+1658|laptops_lists|Dell New Inspiron 15R Laptop|40375|out of stock|0|Free Shipping|0|411.150390625|2013-06-17 21:19:39 +0530
+1659|laptops_lists|Dell Inspiron 15R Laptop|37999|out of stock|0|Free Shipping|0|369.978515625|2013-06-17 21:19:40 +0530
+1660|laptops_lists|Acer Aspire E1 571 Laptop|35624|out of stock|0|Free Shipping|0|341.376953125|2013-06-17 21:19:41 +0530
+1661|laptops_lists|Dell Vostro 1550|25602|0|0|Free Shipping|0|426.1181640625|2013-06-17 21:19:43 +0530
+1662|laptops_lists|Samsung NP355E5X-A01IN Laptop|22499|out of stock|0|Free Shipping|0|339.9287109375|2013-06-17 21:19:44 +0530
+1663|laptops_lists|Samsung NP350E5C-S01IN Laptop|37134|0|0|Free Shipping|0|364.2412109375|2013-06-17 21:19:45 +0530
+1664|laptops_lists|Dell Inspiron 15 3521 Laptop|34299|out of stock|0|Free Shipping|0|340.5966796875|2013-06-17 21:19:46 +0530
+1665|laptops_lists|Lenovo Essential B490-59-356128 Laptop|23599|out of stock|0|Free Shipping|0|334.6767578125|2013-06-17 21:19:48 +0530
+1666|laptops_lists|Lenovo Z580-59-333345 Laptop|43499|out of stock|0|Free Shipping|0|341.3251953125|2013-06-17 21:19:49 +0530
+1667|laptops_lists|Lenovo Essential G570-59-340549 Laptop|27899|out of stock|0|Free Shipping|0|387.927734375|2013-06-17 21:19:51 +0530
+1668|laptops_lists|Lenovo Essential G580-59-347375 Laptop|30989|out of stock|0|Free Shipping|0|380.0703125|2013-06-17 21:19:52 +0530
+1669|laptops_lists|Lenovo Ideapad Z580-59-339356 Laptop|57299|out of stock|0|Free Shipping|0|342.771484375|2013-06-17 21:19:53 +0530
+1670|laptops_lists|Lenovo Essential G570-59-337986 Laptop|22499|out of stock|0|Free Shipping|0|341.2373046875|2013-06-17 21:19:55 +0530
+1671|laptops_lists|Lenovo Ideapad U410-59-342779 Ultrabook|51999|out of stock|0|Free Shipping|0|345.353515625|2013-06-17 21:19:56 +0530
+1672|laptops_lists|Lenovo Essential G580-59-324058 Laptop|35999|out of stock|0|Free Shipping|0|344.5390625|2013-06-17 21:19:58 +0530
+1673|laptops_lists|Lenovo Ideapad Y500-59-346619 Laptop|67449|out of stock|0|Free Shipping|0|369.6591796875|2013-06-17 21:19:59 +0530
+1674|laptops_lists|Lenovo Ideapad Z580-59-347586 Laptop|44799|out of stock|0|Free Shipping|0|361.810546875|2013-06-17 21:20:00 +0530
+1675|laptops_lists|Lenovo Essential G580-59-348965 Laptop|36499|out of stock|0|Free Shipping|0|381.00390625|2013-06-17 21:20:01 +0530
+1676|laptops_lists|Lenovo Ideapad Z580-59-333346 Laptop|42999|out of stock|0|Free Shipping|0|340.9443359375|2013-06-17 21:20:01 +0530
+1677|laptops_lists|Lenovo Ideapad Z570-59-321542 Laptop|37699|out of stock|0|Free Shipping|0|340.6142578125|2013-06-17 21:20:02 +0530
+1678|laptops_lists|Lenovo Ideapad Z580-59-338105 Laptop|34999|out of stock|0|Free Shipping|0|398.9951171875|2013-06-17 21:20:03 +0530
+1679|laptops_lists|Lenovo Ideapad Z570-59-321453 Laptop|44199|out of stock|0|Free Shipping|0|339.9833984375|2013-06-17 21:20:04 +0530
+1680|laptops_lists|Lenovo Essential G580-59-324061 Laptop|33199|out of stock|0|Free Shipping|0|407.4091796875|2013-06-17 21:20:06 +0530
+1681|laptops_lists|Lenovo Ideapad S400-59-355933 Laptop|25399|out of stock|0|Free Shipping|0|378.31640625|2013-06-17 21:20:07 +0530
+1682|laptops_lists|Lenovo Essential B480-59-343762-1924 Laptop|28899|out of stock|0|Free Shipping|0|340.5185546875|2013-06-17 21:20:07 +0530
+1683|laptops_lists|Lenovo ThinkPad Edge E430-3254-D9Q Laptop|48999|out of stock|0|Free Shipping|0|373.1162109375|2013-06-17 21:20:09 +0530
+1684|laptops_lists|Sony VAIO S15125CN Laptop|68590|out of stock|0|Free Shipping|0|344.0625|2013-06-17 21:20:10 +0530
+1685|laptops_lists|Sony VAIO E14A25CN Laptop|48990|out of stock|0|Free Shipping|0|341.115234375|2013-06-17 21:20:10 +0530
+1686|laptops_lists|Sony VAIO T11125CN Ultrabook|51930|out of stock|0|Free Shipping|0|341.455078125|2013-06-17 21:20:14 +0530
+1687|laptops_lists|Sony VAIO T14116PN Ultrabook|57590|out of stock|0|Free Shipping|0|341.3779296875|2013-06-17 21:20:15 +0530
+1688|laptops_lists|Sony VAIO T14113CN Ultrabook|48990|out of stock|0|Free Shipping|0|360.8193359375|2013-06-17 21:20:16 +0530
+1689|laptops_lists|Sony VAIO T13125CN Ultrabook|52910|out of stock|0|Free Shipping|0|341.4287109375|2013-06-17 21:20:16 +0530
+1690|laptops_lists|Sony VAIO E14A25CN Laptop|48990|out of stock|0|Free Shipping|0|342.9296875|2013-06-17 21:20:17 +0530
+1691|laptops_lists|Sony VAIO E14A25CN Laptop|48990|out of stock|0|Free Shipping|0|343.2626953125|2013-06-17 21:20:18 +0530
+1692|laptops_lists|Samsung NP355E5X-A01IN Laptop|20458|0|0|Free Shipping|0|379.4755859375|2013-06-17 21:20:19 +0530
+1693|laptops_lists|Asus S400CA-CA028H Ultrabook|58299|out of stock|0|Free Shipping|0|375.662109375|2013-06-17 21:20:20 +0530
+1694|laptops_lists|Sony VAIO SVE15118FN Laptop|56830|out of stock|0|Free Shipping|0|341.9345703125|2013-06-17 21:20:21 +0530
+1695|laptops_lists|Sony VAIO SVS13A15GN Laptop|73490|out of stock|0|Free Shipping|0|342.421875|2013-06-17 21:20:23 +0530
+1696|laptops_lists|Toshiba Satellite C850-P5010 Laptop|19799|out of stock|0|Free Shipping|0|422.8876953125|2013-06-17 21:20:24 +0530
+1697|laptops_lists|HP 4530s ProBook|35599|out of stock|0|Free Shipping|0|340.80859375|2013-06-17 21:20:25 +0530
+1698|laptops_lists|HP Pavilion 14-B003TX Sleekbook|38599|0|0|Free Shipping|0|367.763671875|2013-06-17 21:20:25 +0530
+1699|laptops_lists|Dell Inspiron 15R Laptop|34300|out of stock|0|Free Shipping|0|339.5751953125|2013-06-17 21:20:26 +0530
+1700|laptops_lists|Dell Vostro 1450 Laptop|27800|0|0|Free Shipping|0|342.52734375|2013-06-17 21:20:27 +0530
+1701|laptops_lists|HP Pavilion G4-2049TX Laptop|36199|out of stock|0|Free Shipping|0|394.6044921875|2013-06-17 21:20:28 +0530
+1702|laptops_lists|Sony VAIO S13125CN Laptop|63690|out of stock|0|Free Shipping|0|341.869140625|2013-06-17 21:20:29 +0530
+1703|laptops_lists|Lenovo Ideapad Z500-59-370611 Laptop|49799|0|0|Free Shipping|0|341.93359375|2013-06-17 21:20:31 +0530
+1704|laptops_lists|Acer Aspire One 756 Netbook|18199|out of stock|0|Free Shipping|0|340.029296875|2013-06-17 21:20:32 +0530
+1705|laptops_lists|Dell Inspiron 15R 5521 Laptop|49475|out of stock|0|Free Shipping|0|340.7900390625|2013-06-17 21:20:33 +0530
+1706|laptops_lists|Dell Inspiron 14R Laptop|43768|out of stock|0|Free Shipping|0|341.8642578125|2013-06-17 21:20:34 +0530
+1707|laptops_lists|Acer Aspire E1 571 Laptop|31499|out of stock|0|Free Shipping|0|338.4619140625|2013-06-17 21:20:35 +0530
+1708|laptops_lists|Dell Inspiron 15R 5521 Laptop|40011|0|0|Free Shipping|0|339.5087890625|2013-06-17 21:20:36 +0530
+1709|laptops_lists|Acer Aspire V5 531 Laptop|26599|out of stock|0|Free Shipping|0|341.837890625|2013-06-17 21:20:38 +0530
+1710|laptops_lists|Acer Aspire V5-131 Netbook|18199|out of stock|0|Free Shipping|0|366.4267578125|2013-06-17 21:20:39 +0530
+1711|laptops_lists|Acer Aspire E1 571 Laptop|32199|out of stock|0|Free Shipping|0|338.7373046875|2013-06-17 21:20:40 +0530
+1712|laptops_lists|Acer Aspire E1 431 Laptop|22099|out of stock|0|Free Shipping|0|343.3857421875|2013-06-17 21:20:42 +0530
+1713|laptops_lists|Dell Inspiron 15R 5521 Laptop|57302|0|0|Free Shipping|0|340.4453125|2013-06-17 21:20:44 +0530
+1714|laptops_lists|HP 2000-2D03TU Laptop|25910|0|0|Free Shipping|0|339.9404296875|2013-06-17 21:20:45 +0530
+1715|laptops_lists|HP 2000-2125TU Laptop|28300|0|0|Free Shipping|0|357.1416015625|2013-06-17 21:20:46 +0530
+1716|laptops_lists|HP Envy 4-1104TU Ultrabook|52790|0|0|Free Shipping|0|341.5634765625|2013-06-17 21:20:47 +0530
+1717|laptops_lists|Asus K55VM-SX086V Laptop|50550|0|0|Free Shipping|0|383.9326171875|2013-06-17 21:20:48 +0530
+1718|laptops_lists|HP Pavilion 15-B001TU Sleekbook|40310|0|0|Free Shipping|0|368.259765625|2013-06-17 21:20:49 +0530
+1719|laptops_lists|HP 2000-2313TU Laptop|26678|0|0|Free Shipping|0|339.7880859375|2013-06-17 21:20:50 +0530
+1720|laptops_lists|HP Envy Spectre XT 13-2001TU Ultrabook|57590|0|0|Free Shipping|0|349.9755859375|2013-06-17 21:20:51 +0530
+1721|laptops_lists|HP Envy M6-1213TX Laptop|55670|0|0|Free Shipping|0|338.66796875|2013-06-17 21:20:52 +0530
+1722|laptops_lists|HP Envy M6-1216TX Laptop|62390|0|0|Free Shipping|0|341.2333984375|2013-06-17 21:20:53 +0530
+1723|laptops_lists|HP Envy 4-1003TX Sleekbook|47990|0|0|Free Shipping|0|341.2587890625|2013-06-17 21:20:54 +0530
+1724|laptops_lists|Asus X45C-VX020D Laptop|26287|out of stock|0|Free Shipping|0|371.9638671875|2013-06-17 21:20:55 +0530
+1725|laptops_lists|HP Envy 4-1105TX Ultrabook|55499|out of stock|0|Free Shipping|0|342.8837890625|2013-06-17 21:20:57 +0530
+1726|laptops_lists|HP Pavilion M6-1104TX Laptop|58999|out of stock|0|Free Shipping|0|362.8544921875|2013-06-17 21:20:58 +0530
+1727|laptops_lists|Dell Inspiron 14z Laptop|51775|out of stock|0|Free Shipping|0|343.4384765625|2013-06-17 21:20:59 +0530
+1728|laptops_lists|Dell Inspiron 14z Laptop|45599|out of stock|0|Free Shipping|0|341.9296875|2013-06-17 21:21:00 +0530
+1729|laptops_lists|Dell Inspiron 15R Laptop|37049|out of stock|0|Free Shipping|0|394.169921875|2013-06-17 21:21:01 +0530
+1730|laptops_lists|Lenovo Ideapad Z580-59-333651 Laptop|36289|out of stock|0|Free Shipping|0|341.1796875|2013-06-17 21:21:02 +0530
+1731|laptops_lists|HP Pavilion 14-B049TU Sleekbook|28999|out of stock|0|Free Shipping|0|342.904296875|2013-06-17 21:21:03 +0530
+1732|laptops_lists|HP Pavilion G6-2007TX Laptop|32342|out of stock|0|Free Shipping|0|342.5361328125|2013-06-17 21:21:05 +0530
+1733|laptops_lists|Acer Aspire One 756 Netbook|20234|out of stock|0|Free Shipping|0|338.59765625|2013-06-17 21:21:06 +0530
+1734|laptops_lists|Asus S56CA-XX056R Ultrabook|42000|0|0|Free Shipping|0|448.0791015625|2013-06-17 21:21:07 +0530
+1735|laptops_lists|Acer Aspire E1 571 Laptop|29599|out of stock|0|Free Shipping|0|338.6884765625|2013-06-17 21:21:08 +0530
+1736|laptops_lists|Asus F501A-XX187R Laptop|29399|out of stock|0|Free Shipping|0|365.259765625|2013-06-17 21:21:09 +0530
+====Updated Patterns Table for 'online_snapdeal_products' ====
+====Starting online_mirchimart_products | product_id====
+1782|laptops_lists|Dell Vostro 1550|26999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|167.0390625|2013-06-17 21:21:10 +0530
+1783|laptops_lists|Asus X53U-SX358D Laptop|17990|out of stock|0|Free Door Delivery|0|156.232421875|2013-06-17 21:21:11 +0530
+1784|laptops_lists|Dell Vostro 2520 Laptop|27950|in stock|Dispatches in 1-3 business days.|Free Door Delivery|0|164.1162109375|2013-06-17 21:21:11 +0530
+1785|laptops_lists|Asus F501A-XX187R Laptop|28999|in stock|Dispatches in 1-3 business days.|Free Door Delivery|0|167.8505859375|2013-06-17 21:21:12 +0530
+1786|laptops_lists|Toshiba Satellite L850 Satellite L850-Y5310 Laptop|54499|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|163.0712890625|2013-06-17 21:21:13 +0530
+1787|laptops_lists|HP 2000-2106TU Laptop|22222|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|162.8603515625|2013-06-17 21:21:13 +0530
+1788|laptops_lists|HP 431 Laptop|28999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|161.912109375|2013-06-17 21:21:14 +0530
+1789|laptops_lists|Toshiba Satellite L750-X531B Laptop|39999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|164.4814453125|2013-06-17 21:21:15 +0530
+1790|laptops_lists|Samsung NP355V5C-S06IN Laptop|30399|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|161.3212890625|2013-06-17 21:21:16 +0530
+1791|laptops_lists|Asus X54C-SX454D Laptop|23499|out of stock|0|Free Door Delivery|0|153.31640625|2013-06-17 21:21:16 +0530
+1792|laptops_lists|Dell Vostro 2420 Laptop|27890|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|165.7548828125|2013-06-17 21:21:17 +0530
+1793|laptops_lists|Asus K55A-SX464D Laptop|19999|in stock|Dispatches in 1-3 business days.|Free Door Delivery|0|163.8232421875|2013-06-17 21:21:18 +0530
+1794|laptops_lists|Toshiba Satellite C850-P0011 Laptop|19999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|163.65234375|2013-06-17 21:21:19 +0530
+1795|laptops_lists|Samsung NP305E5Z-S01IN Laptop|23490|in stock|Dispatches in 1-3 business days.|Free Door Delivery|0|179.3408203125|2013-06-17 21:21:19 +0530
+1796|laptops_lists|HP 2000-2313TU Laptop|26890|in stock|Dispatches in 6-8 business days.|Free Door Delivery|0|164.953125|2013-06-17 21:21:20 +0530
+1797|laptops_lists|Acer Aspire E1 571 Laptop|34899|in stock|Dispatches in 1-3 business days.|Free Door Delivery|0|145.7626953125|2013-06-17 21:21:21 +0530
+1798|laptops_lists|Samsung NP370R5E-S05IN Laptop|43799|in stock|Dispatches in 1-3 business days.|Free Door Delivery|0|163.5224609375|2013-06-17 21:21:21 +0530
+1799|laptops_lists|Lenovo Essential G580-59-351467 Laptop|22850|in stock|Dispatches in 1-3 business days.|Free Door Delivery|0|163.921875|2013-06-17 21:21:22 +0530
+1800|laptops_lists|Dell Inspiron 15 3521 Laptop|30190|in stock|Dispatches in 1-3 business days.|Free Door Delivery|0|165.443359375|2013-06-17 21:21:23 +0530
+1801|laptops_lists|Dell Inspiron 15 3521 Laptop|21999|in stock|Dispatches in 1-3 business days.|Free Door Delivery|0|162.72265625|2013-06-17 21:21:24 +0530
+1802|laptops_lists|Acer Aspire E1 531 Laptop|22649|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|161.3515625|2013-06-17 21:21:24 +0530
+1803|laptops_lists|Samsung NP300E4V-A01IN Laptop|21450|in stock|Dispatches in 1-3 business days.|Free Door Delivery|0|185.5859375|2013-06-17 21:21:25 +0530
+1804|laptops_lists|Samsung NP300E5C-A08IN Laptop|37200|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|175.970703125|2013-06-17 21:21:26 +0530
+1805|laptops_lists|Samsung NP355V5C-S05IN Laptop|35199|in stock|Dispatches in 1-3 business days.|Free Door Delivery|0|160.541015625|2013-06-17 21:21:27 +0530
+1806|laptops_lists|Acer Gateway NE-56R Laptop|20199|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|166.84375|2013-06-17 21:21:28 +0530
+1807|laptops_lists|HP Pavilion G6-2231TX Laptop|35990|in stock|Dispatches in 1-3 business days.|Free Door Delivery|0|167.01953125|2013-06-17 21:21:28 +0530
+1808|laptops_lists|Lenovo Essential G580-59-351474 Laptop|23750|in stock|Dispatches in 1-3 business days.|Free Door Delivery|0|161.23828125|2013-06-17 21:21:29 +0530
+1809|laptops_lists|Asus F202E-CT148H VivoBook|34499|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|157.017578125|2013-06-17 21:21:30 +0530
+1810|laptops_lists|HP Pavilion G6-2301AX Laptop|33999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|167.4111328125|2013-06-17 21:21:30 +0530
+1811|laptops_lists|HP Envy X2 11-G004TU Laptop|58799|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|161.9365234375|2013-06-17 21:21:31 +0530
+1812|laptops_lists|Samsung NP355E5X-A01IN Laptop|20699|in stock|Dispatches in 1-3 business days.|Free Door Delivery|0|176.228515625|2013-06-17 21:21:32 +0530
+1813|laptops_lists|HP Pavilion G6-2227TU Laptop|33550|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|160.6083984375|2013-06-17 21:21:33 +0530
+1814|laptops_lists|Samsung NP300E5C-A09IN Laptop|30399|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|161.71875|2013-06-17 21:21:34 +0530
+1815|laptops_lists|Toshiba Satellite L850-Y3110 Laptop|54499|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|154.8818359375|2013-06-17 21:21:34 +0530
+1816|laptops_lists|Lenovo Essential G570-59-340549 Laptop|26790|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|162.6201171875|2013-06-17 21:21:35 +0530
+1817|laptops_lists|Lenovo Ideapad S400-59-340453 Laptop|29490|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|164.9609375|2013-06-17 21:21:36 +0530
+1818|laptops_lists|HP Pavilion G6-2304TX Laptop|46890|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|166.94140625|2013-06-17 21:21:36 +0530
+1819|laptops_lists|Lenovo Ideapad Z580-59-347587 Laptop|37599|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|159.9072265625|2013-06-17 21:21:37 +0530
+1820|laptops_lists|Dell Inspiron 15 3521 Laptop|28490|out of stock|0|Free Door Delivery|0|156.064453125|2013-06-17 21:21:38 +0530
+1821|laptops_lists|Samsung NP350V5C-S07IN Laptop|46850|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|159.2724609375|2013-06-17 21:21:38 +0530
+1822|laptops_lists|Asus X54C-SX425D Laptop|23999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|163.6162109375|2013-06-17 21:21:39 +0530
+1823|laptops_lists|Dell Inspiron 15R 5521 Laptop|39799|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|170.0205078125|2013-06-17 21:21:40 +0530
+1824|laptops_lists|Dell Inspiron 15R 5521 Laptop|44490|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|171.7265625|2013-06-17 21:21:41 +0530
+1825|laptops_lists|Dell Inspiron 15R 5521 Laptop|39499|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|171.52734375|2013-06-17 21:21:41 +0530
+1826|laptops_lists|Dell Inspiron 15R 5521 Laptop|36950|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|166.3623046875|2013-06-17 21:21:42 +0530
+1827|laptops_lists|Samsung NP530U4C-S06IN Laptop|46999|in stock|Dispatches in 5-8 business days.|Free Door Delivery|0|165.208984375|2013-06-17 21:21:43 +0530
+1828|laptops_lists|Toshiba Satellite C850-X0110 Laptop|33999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|162.8173828125|2013-06-17 21:21:43 +0530
+1829|laptops_lists|Samsung NP550P5C-S05IN Laptop|61990|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|161.6484375|2013-06-17 21:21:44 +0530
+1830|laptops_lists|HP Pavilion G6-2312AX Laptop|39950|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|166.244140625|2013-06-17 21:21:45 +0530
+1831|laptops_lists|Samsung NP355V5C-S05IN Laptop|56999|in stock|Dispatches in 5-8 business days.|Free Door Delivery|0|160.8251953125|2013-06-17 21:21:46 +0530
+1832|laptops_lists|Sony VAIO T14116PN Ultrabook|54990|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|162.6669921875|2013-06-17 21:21:47 +0530
+1833|laptops_lists|Samsung NP350V5X-S01IN Laptop|38499|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|164.9482421875|2013-06-17 21:21:48 +0530
+1834|laptops_lists|Acer V5-431P Touch Laptop|33499|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|152.7080078125|2013-06-17 21:21:49 +0530
+1835|laptops_lists|HP Envy 4-1202TX Ultrabook|55890|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|161.9296875|2013-06-17 21:21:49 +0530
+1836|laptops_lists|HP Envy 4-1201TX Ultrabook|60990|in stock|Dispatches in 5-8 business days.|Free Door Delivery|0|162.8212890625|2013-06-17 21:21:50 +0530
+1837|laptops_lists|HP Envy 4-1203TX Ultrabook|55890|in stock|Dispatches in 5-8 business days.|Free Door Delivery|0|161.9462890625|2013-06-17 21:21:51 +0530
+1838|laptops_lists|HP Pavilion G6-2320TX Laptop|41990|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|164.802734375|2013-06-17 21:21:52 +0530
+1839|laptops_lists|Lenovo Ideapad Z585-59-347937 Laptop|34999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|164.6484375|2013-06-17 21:21:52 +0530
+1840|laptops_lists|Acer Aspire V5 571 Laptop|32890|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|160.58203125|2013-06-17 21:21:53 +0530
+1841|laptops_lists|Acer Aspire V3 571G Laptop|47690|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|166.8701171875|2013-06-17 21:21:54 +0530
+1842|laptops_lists|Acer Aspire V5-121 Netbook|21899|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|163.841796875|2013-06-17 21:21:54 +0530
+1843|laptops_lists|Acer Aspire V5-121 Netbook|17149|in stock|Dispatches in 5-8 business days.|Free Door Delivery|0|163.9423828125|2013-06-17 21:21:55 +0530
+1844|laptops_lists|Acer Aspire V5-121 Netbook|17149|in stock|Dispatches in 5-8 business days.|Free Door Delivery|0|163.9638671875|2013-06-17 21:21:56 +0530
+1845|laptops_lists|Acer Aspire V5 571G Laptop|36649|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|166.1982421875|2013-06-17 21:21:56 +0530
+1846|laptops_lists|Toshiba Satellite C870-I0010 Laptop|30399|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|159.19140625|2013-06-17 21:21:57 +0530
+1847|laptops_lists|Asus S550CM-CJ054H Ultrabook|54999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|167.86328125|2013-06-17 21:21:58 +0530
+1848|laptops_lists|Samsung NP300E5E-A03IN Laptop|28999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|163.734375|2013-06-17 21:21:59 +0530
+1849|laptops_lists|Dell Inspiron 15 3521 Laptop|25999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|161.0|2013-06-17 21:21:59 +0530
+1850|laptops_lists|HP 450 Laptop|21990|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|160.5283203125|2013-06-17 21:22:00 +0530
+1851|laptops_lists|Samsung NP550P5C-S04IN Laptop|51990|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|164.275390625|2013-06-17 21:22:01 +0530
+1852|laptops_lists|Lenovo Essential G580-59-363678 Laptop|29999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|161.61328125|2013-06-17 21:22:02 +0530
+1853|laptops_lists|Dell Vostro 3560 Laptop|40399|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|165.90234375|2013-06-17 21:22:02 +0530
+1854|laptops_lists|HP Pavilion 1000-1B02AU Laptop|20699|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|162.0234375|2013-06-17 21:22:03 +0530
+1855|laptops_lists|Samsung NP535U4C-S02IN Ultrabook|40690|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|164.3662109375|2013-06-17 21:22:04 +0530
+1856|laptops_lists|Acer Aspire E1 571 Laptop|32899|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|146.2763671875|2013-06-17 21:22:04 +0530
+1857|laptops_lists|Acer Aspire E1 571 Laptop|26499|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|163.0751953125|2013-06-17 21:22:05 +0530
+1858|laptops_lists|Toshiba Satellite U940-X0110 Ultrabook|48990|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|161.0556640625|2013-06-17 21:22:06 +0530
+1859|laptops_lists|Toshiba Satellite C850-I0110 Laptop|29890|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|174.9091796875|2013-06-17 21:22:07 +0530
+1860|laptops_lists|Lenovo Ideapad S400-59-356394 Laptop|23350|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|161.3369140625|2013-06-17 21:22:08 +0530
+1861|laptops_lists|HP 2000-2D02TU Laptop|24115|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|164.9296875|2013-06-17 21:22:08 +0530
+1862|laptops_lists|HP 2000-2D03TU Laptop|25999|in stock|Dispatches in 5-8 business days.|Free Door Delivery|0|165.2900390625|2013-06-17 21:22:09 +0530
+1863|laptops_lists|Dell Inspiron 15R Laptop|39899|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|166.3125|2013-06-17 21:22:10 +0530
+1864|laptops_lists|Dell Inspiron 15 3521 Laptop|41999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|166.2666015625|2013-06-17 21:22:10 +0530
+1865|laptops_lists|Dell Inspiron 15 3521 Laptop|37990|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|165.875|2013-06-17 21:22:11 +0530
+1866|laptops_lists|HP Pavilion G6-2229TU Laptop|34999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|165.068359375|2013-06-17 21:22:12 +0530
+1867|laptops_lists|HP Pavilion Touchsmart 14-B172TX Sleekbook|49990|out of stock|0|Free Door Delivery||156.6943359375|2013-06-17 21:22:13 +0530
+1868|laptops_lists|Acer Aspire E1 571G Laptop|36890|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|158.779296875|2013-06-17 21:22:13 +0530
+1869|laptops_lists|HP 4540s ProBook|33390|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|163.8173828125|2013-06-17 21:22:14 +0530
+1870|laptops_lists|Samsung NP300E5V-A03IN Laptop|22999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|178.4013671875|2013-06-17 21:22:15 +0530
+1871|laptops_lists|Samsung NP300E5V-A02IN Laptop|28590|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|180.3203125|2013-06-17 21:22:15 +0530
+1872|laptops_lists|Samsung NP300E5E-A04IN Laptop|24890|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|183.708984375|2013-06-17 21:22:16 +0530
+1873|laptops_lists|Sony VAIO T13125CN Ultrabook|50990|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|147.470703125|2013-06-17 21:22:17 +0530
+1874|laptops_lists|Asus X53TK-SX056D Laptop|28490|in stock|Dispatches in 5-8 business days.|Free Door Delivery|0|162.138671875|2013-06-17 21:22:17 +0530
+1875|laptops_lists|Toshiba Satellite C850-I2110 Laptop|34299|in stock|Dispatches in 5-8 business days.|Free Door Delivery|0|175.61328125|2013-06-17 21:22:18 +0530
+1876|laptops_lists|Samsung NP300E5X-S02IN Laptop|29699|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|165.427734375|2013-06-17 21:22:19 +0530
+1877|laptops_lists|Samsung NP300E5C-A0CIN Laptop|28550|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|176.9873046875|2013-06-17 21:22:20 +0530
+1878|laptops_lists|Acer Aspire E1 531 Laptop|24799|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|159.390625|2013-06-17 21:22:21 +0530
+1879|laptops_lists|Acer Aspire E1 571G Laptop|33899|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|158.1669921875|2013-06-17 21:22:21 +0530
+1880|laptops_lists|Acer Aspire E1 571G Laptop|31899|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|158.2080078125|2013-06-17 21:22:22 +0530
+1881|laptops_lists|Acer Aspire E1 571G Laptop|31499|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|158.20703125|2013-06-17 21:22:23 +0530
+1882|laptops_lists|Acer Aspire E1 571G Laptop|30790|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|158.513671875|2013-06-17 21:22:24 +0530
+1883|laptops_lists|Acer Aspire E1 571 Laptop|29799|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|157.3935546875|2013-06-17 21:22:24 +0530
+1884|laptops_lists|Lenovo Essential G585-59-348629 Laptop|24290|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|160.626953125|2013-06-17 21:22:25 +0530
+1885|laptops_lists|Lenovo Ideapad S400-59-358392 Laptop|27490|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|162.2607421875|2013-06-17 21:22:26 +0530
+1886|laptops_lists|HP Pavilion G6-2236TX Laptop|58790|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|166.638671875|2013-06-17 21:22:27 +0530
+1887|laptops_lists|Samsung NP350E5C-S03IN Laptop|35449|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|165.4052734375|2013-06-17 21:22:28 +0530
+1888|laptops_lists|Samsung NP350E5C-S02IN Laptop|35449|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|165.4560546875|2013-06-17 21:22:29 +0530
+1889|laptops_lists|Acer V5-571G Laptop|42490|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|160.421875|2013-06-17 21:22:30 +0530
+1890|laptops_lists|HP Pavilion G6-2309TU Laptop|37990|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|166.1943359375|2013-06-17 21:22:31 +0530
+1891|laptops_lists|Acer Aspire E1 571G Laptop|32499|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|160.6552734375|2013-06-17 21:22:32 +0530
+1892|laptops_lists|HP 2000-2314TU Laptop|29999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|168.10546875|2013-06-17 21:22:33 +0530
+1893|laptops_lists|Samsung NP355E5C-A01IN Laptop|23550|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|177.310546875|2013-06-17 21:22:33 +0530
+1894|laptops_lists|Lenovo Essential G580-59-361898 Laptop|27790|in stock|Dispatches in 5-8 business days.|Free Door Delivery|0|160.58203125|2013-06-17 21:22:34 +0530
+1895|laptops_lists|Acer Aspire One 725 Netbook|17999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|166.4375|2013-06-17 21:22:35 +0530
+1896|laptops_lists|Lenovo Ideapad Z580-59-347567 Laptop|34990|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|164.248046875|2013-06-17 21:22:36 +0530
+1897|laptops_lists|Acer Aspire E1 571G Laptop|34199|in stock|Dispatches in 5-8 business days.|Free Door Delivery|0|160.224609375|2013-06-17 21:22:37 +0530
+1898|laptops_lists|Acer Aspire E1 571G Laptop|42199|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|160.255859375|2013-06-17 21:22:37 +0530
+1899|laptops_lists|Acer Aspire V5 571 Laptop|32899|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|161.1669921875|2013-06-17 21:22:38 +0530
+1900|laptops_lists|Acer Aspire V5 571 Laptop|29999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|161.2080078125|2013-06-17 21:22:39 +0530
+1901|laptops_lists|Acer Aspire V5 571 Laptop|29999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|161.2265625|2013-06-17 21:22:39 +0530
+1902|laptops_lists|Acer Aspire V5 571 Laptop|29999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|161.1865234375|2013-06-17 21:22:40 +0530
+1903|laptops_lists|Samsung NP300E5C-S01IN Laptop|41150|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|159.345703125|2013-06-17 21:22:41 +0530
+1904|laptops_lists|Samsung NP300E4X-A02IN Laptop|21399|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|160.255859375|2013-06-17 21:22:41 +0530
+1905|laptops_lists|HP Pavilion G6-2226TU Laptop|32999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|157.658203125|2013-06-17 21:22:42 +0530
+1906|laptops_lists|Samsung NP370R5E-S06IN Laptop|34999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|159.4814453125|2013-06-17 21:22:43 +0530
+1907|laptops_lists|Toshiba Satellite M840-X4212 Laptop|35899|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|164.5673828125|2013-06-17 21:22:44 +0530
+1908|laptops_lists|Lenovo Essential G580-59-352560 Laptop|23790|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|161.798828125|2013-06-17 21:22:45 +0530
+1909|laptops_lists|Asus UX32VD-R4010H Ultrabook|99999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|159.8701171875|2013-06-17 21:22:45 +0530
+1910|laptops_lists|Lenovo Ideapad S400-59-355933 Laptop|28250|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|144.1640625|2013-06-17 21:22:46 +0530
+1911|laptops_lists|Dell Vostro 2520 Laptop|29799|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|144.541015625|2013-06-17 21:22:47 +0530
+1912|laptops_lists|Acer Aspire E1 571 Laptop|26490|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|163.9892578125|2013-06-17 21:22:47 +0530
+1913|laptops_lists|Acer Aspire E1 571 Laptop|29690|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|164.255859375|2013-06-17 21:22:48 +0530
+1914|laptops_lists|Acer Aspire E1 571 Laptop|28499|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|164.4072265625|2013-06-17 21:22:49 +0530
+1915|laptops_lists|Acer Aspire E1 571 Laptop|28499|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|163.7744140625|2013-06-17 21:22:49 +0530
+1916|laptops_lists|Acer Aspire V5 431 Laptop|23499|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|162.7724609375|2013-06-17 21:22:50 +0530
+1917|laptops_lists|Acer Aspire V5 431 Laptop|23499|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|164.541015625|2013-06-17 21:22:51 +0530
+1918|laptops_lists|Dell Vostro 2520 Laptop|36999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|166.6298828125|2013-06-17 21:22:51 +0530
+1919|laptops_lists|Dell Vostro 2420 Laptop|36799|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|166.6083984375|2013-06-17 21:22:52 +0530
+1920|laptops_lists|Acer Aspire V5 531 Laptop|23799|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|164.783203125|2013-06-17 21:22:53 +0530
+1921|laptops_lists|Sony VAIO E15125CN Laptop|33799|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|170.734375|2013-06-17 21:22:54 +0530
+1922|laptops_lists|Sony VAIO SVE14117GNB Laptop|48990|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|164.0615234375|2013-06-17 21:22:54 +0530
+1923|laptops_lists|Lenovo Essential G580-59-351466 Laptop|26199|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|159.1328125|2013-06-17 21:22:55 +0530
+1924|laptops_lists|Lenovo Essential G580-59-351473 Laptop|23750|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|162.7490234375|2013-06-17 21:22:56 +0530
+1925|laptops_lists|Lenovo Essential G580-59-351470 Laptop|23750|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|163.1591796875|2013-06-17 21:22:57 +0530
+1926|laptops_lists|Samsung NP300E5X-U01IN Laptop|29399|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|178.3349609375|2013-06-17 21:22:58 +0530
+1927|laptops_lists|Dell Vostro 2520 Laptop|26290|out of stock|0|Free Door Delivery|0|154.21484375|2013-06-17 21:22:58 +0530
+1928|laptops_lists|Samsung NP300E5C-U01IN Laptop|39499|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|180.2177734375|2013-06-17 21:22:59 +0530
+1929|laptops_lists|HP Pavilion 15-B001TU Sleekbook|40990|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|158.8017578125|2013-06-17 21:23:00 +0530
+1930|laptops_lists|HP Pavilion 15-B002TU Sleekbook|28999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|160.8623046875|2013-06-17 21:23:01 +0530
+1931|laptops_lists|HP Pavilion 15-B003TU Sleekbook|22990|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|162.5341796875|2013-06-17 21:23:01 +0530
+1932|laptops_lists|Acer Aspire V5-471P Laptop|38450|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|168.0380859375|2013-06-17 21:23:02 +0530
+1933|laptops_lists|Acer Aspire V5-471P Laptop|44890|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|167.998046875|2013-06-17 21:23:03 +0530
+1934|laptops_lists|Samsung NP540U3C-A01IN Ultrabook|59990|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|145.0947265625|2013-06-17 21:23:06 +0530
+1935|laptops_lists|HP Pavilion G6-2302AX Laptop|29555|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|164.3427734375|2013-06-17 21:23:07 +0530
+1936|laptops_lists|HP Pavilion G6-2232TX Laptop|36490|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|163.275390625|2013-06-17 21:23:08 +0530
+1937|laptops_lists|HP 4540s ProBook|40499|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|164.37109375|2013-06-17 21:23:09 +0530
+1938|laptops_lists|HP 4440s ProBook|42999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|161.9375|2013-06-17 21:23:09 +0530
+1939|laptops_lists|HP 4420s ProBook|44590|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|162.7998046875|2013-06-17 21:23:10 +0530
+1940|laptops_lists|Acer Aspire Timeline Ultra M5 481T Laptop|43999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|165.130859375|2013-06-17 21:23:11 +0530
+1941|laptops_lists|Lenovo Ideapad Z580-59-347604 Laptop|37599|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|162.8974609375|2013-06-17 21:23:11 +0530
+1942|laptops_lists|Lenovo Ideapad Z580-59-347570 Laptop|37599|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|161.4267578125|2013-06-17 21:23:12 +0530
+1943|laptops_lists|Lenovo Ideapad S405-59-348194 Laptop|32999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|162.212890625|2013-06-17 21:23:13 +0530
+1944|laptops_lists|HP Pavilion G6-2230TX Laptop|32550|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|179.705078125|2013-06-17 21:23:13 +0530
+1945|laptops_lists|Asus S56CA-XX056H Ultrabook|41499|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|166.7197265625|2013-06-17 21:23:14 +0530
+1946|laptops_lists|HP Pavilion 15-B002TX Sleekbook|33999|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|159.9560546875|2013-06-17 21:23:15 +0530
+1947|laptops_lists|Asus S56CA-XX030R Ultrabook|33790|in stock|Dispatches in 3-5 business days.|Free Door Delivery|0|164.849609375|2013-06-17 21:23:16 +0530
+1948|laptops_lists|Asus Eee PC 1015CX-BLK024W Netbook|14290|out of stock|0|Free Door Delivery|0|153.19140625|2013-06-17 21:23:16 +0530
+1949|laptops_lists|Toshiba Satellite C850-P5010 Laptop|20980|out of stock|0|Free Door Delivery|0|155.5244140625|2013-06-17 21:23:17 +0530
+1950|laptops_lists|Asus Eee PC 1015CX-BLK024W Netbook|14999|out of stock|0|Free Door Delivery|0|153.7490234375|2013-06-17 21:23:18 +0530
+1951|laptops_lists|Asus Eee PC 1015CX-BLK024W Netbook|13999|out of stock|0|Free Door Delivery|0|153.46484375|2013-06-17 21:23:19 +0530
+1952|laptops_lists|Asus S56CA-XX056R Ultrabook|36599|out of stock|0|Free Door Delivery|0|157.5302734375|2013-06-17 21:23:19 +0530
+1953|laptops_lists|HP Mini 110-4108TU Laptop|17090|out of stock|0|Free Door Delivery|0|155.0595703125|2013-06-17 21:23:20 +0530
+====Updated Patterns Table for 'online_mirchimart_products' ====
+====Starting online_tradus_products | product_id====
+349|laptops_lists|Asus R051CX Laptop|16450|in stock|5-7 Business days|Depends on your location|N.A|83.9072265625|2013-06-17 21:23:21 +0530
+350|laptops_lists|Asus X53U-SX181D Laptop|18300|in stock|5-7 Business days|Depends on your location|N.A|101.453125|2013-06-17 21:23:22 +0530
+351|laptops_lists|Acer AOD270 Netbook|17150|out of stock|5-7 Business days|Depends on your location|N.A|80.333984375|2013-06-17 21:23:23 +0530
+352|laptops_lists|Toshiba Satellite C850-P5010 Laptop|20700|in stock|5-7 Business days|Depends on your location|N.A|92.216796875|2013-06-17 21:23:24 +0530
+353|laptops_lists|Sony VAIO E15125CN Laptop|34790|in stock|5-7 Business days|Depends on your location|N.A|102.048828125|2013-06-17 21:23:25 +0530
+354|laptops_lists|Acer AOD270 Netbook|16999|out of stock|5-7 Business days|Depends on your location|N.A|67.9052734375|2013-06-17 21:23:26 +0530
+355|laptops_lists|Toshiba C850D M5010 Laptop|19500|in stock|5-7 Business days|Depends on your location|N.A|102.0849609375|2013-06-17 21:23:27 +0530
+356|laptops_lists|Lenovo Ideapad Z580-59-333630 Laptop|42269|in stock|5-7 Business days|Depends on your location|N.A|93.56640625|2013-06-17 21:23:28 +0530
+357|laptops_lists|Lenovo Essential G570-59-340549 Laptop|31134|in stock|5-7 Business days|Depends on your location|N.A|82.58984375|2013-06-17 21:23:29 +0530
+358|laptops_lists|HP Pavilion G6-2101TU Laptop|33920|in stock|5-7 Business days|Depends on your location|N.A|91.169921875|2013-06-17 21:23:30 +0530
+359|laptops_lists|Lenovo Ideapad Z580-59-338105 Laptop|35500|in stock|5-7 Business days|Depends on your location|N.A|91.072265625|2013-06-17 21:23:31 +0530
+360|laptops_lists|Lenovo Essential G580-59-337032 Laptop|32372|in stock|5-7 Business days|Depends on your location|N.A|82.8583984375|2013-06-17 21:23:32 +0530
+361|laptops_lists|Toshiba Satellite L850 Satellite L850-Y5310 Laptop|53850|in stock|5-7 Business days|Depends on your location|N.A|94.0986328125|2013-06-17 21:23:33 +0530
+362|laptops_lists|Asus K53SM-SX010D Laptop|40250|in stock|5-7 Business days|Depends on your location|N.A|84.1611328125|2013-06-17 21:23:34 +0530
+363|laptops_lists|Toshiba Satellite C640-I4019 Laptop|26215|in stock|5-7 Business days|Depends on your location|N.A|87.60546875|2013-06-17 21:23:35 +0530
+364|laptops_lists|Lenovo Ideapad Z580-59-333346 Laptop|48681|in stock|5-7 Business days|Depends on your location|N.A|83.5283203125|2013-06-17 21:23:36 +0530
+365|laptops_lists|Sony VAIO T Series SVT13113EN Ultrabook|39724|out of stock|5-7 Business days|Depends on your location|N.A|66.775390625|2013-06-17 21:23:37 +0530
+366|laptops_lists|Asus K55VM-SX086D Laptop|48999|in stock|5-7 Business days|Depends on your location|N.A|108.5224609375|2013-06-17 21:23:38 +0530
+367|laptops_lists|Lenovo Essential G580-59-337031 Laptop|35409|in stock|5-7 Business days|Depends on your location|N.A|83.587890625|2013-06-17 21:23:39 +0530
+368|laptops_lists|Toshiba Satellite C850-X0010 Laptop|33900|in stock|5-7 Business days|Depends on your location|N.A|97.1591796875|2013-06-17 21:23:40 +0530
+369|laptops_lists|Lenovo Ideapad Z580-59-333651 Laptop|42269|in stock|5-7 Business days|Depends on your location|N.A|83.6396484375|2013-06-17 21:23:41 +0530
+370|laptops_lists|Sony VAIO E14123CN Laptop|32500|in stock|5-7 Business days|Depends on your location|N.A|80.3017578125|2013-06-17 21:23:42 +0530
+371|laptops_lists|Samsung NP300E5C-A02IN Laptop|36990|in stock|5-7 Business days|Depends on your location|N.A|92.11328125|2013-06-17 21:23:44 +0530
+372|laptops_lists|Toshiba Satellite C640-I401A Laptop|25965|in stock|5-7 Business days|Depends on your location|N.A|89.525390625|2013-06-17 21:23:45 +0530
+373|laptops_lists|Toshiba Satellite C850-I5010 Laptop|29699|in stock|5-7 Business days|Depends on your location|N.A|87.8564453125|2013-06-17 21:23:46 +0530
+374|laptops_lists|Lenovo Ideapad S300-59-340450 Laptop|32400|in stock|5-7 Business days|Depends on your location|N.A|96.384765625|2013-06-17 21:23:47 +0530
+375|laptops_lists|Lenovo Ideapad Z570-59-321453 Laptop|50930|in stock|5-7 Business days|Depends on your location|N.A|83.3193359375|2013-06-17 21:23:48 +0530
+376|laptops_lists|Toshiba Satellite U840-X4310 Laptop|53306|in stock|5-7 Business days|Depends on your location|N.A|99.2763671875|2013-06-17 21:23:49 +0530
+377|laptops_lists|HP Pavilion DV4-5008TX Laptop 2nd Ci5-6GB-640GB-Win 7 HB-2GB Graphics with Beats Audio|49595|in stock|5-7 Business days|Depends on your location|N.A|94.4130859375|2013-06-17 21:23:50 +0530
+378|laptops_lists|HP Envy 6-1011TU Sleekbook|41690|in stock|5-7 Business days|Depends on your location|N.A|94.4638671875|2013-06-17 21:23:51 +0530
+379|laptops_lists|Lenovo Thinkpad E430-3254-AM4 Laptop|34499|in stock|5-7 Business days|Depends on your location|N.A|85.4169921875|2013-06-17 21:23:52 +0530
+380|laptops_lists|Dell Vostro 1550|27499|in stock|5-7 Business days|Depends on your location|N.A|99.0390625|2013-06-17 21:23:53 +0530
+381|laptops_lists|Dell Vostro 2420 Laptop|29400|in stock|5-7 Business days|Depends on your location|N.A|88.3125|2013-06-17 21:23:54 +0530
+382|laptops_lists|HP Envy 4-1002TX Ultrabook|49567|in stock|5-7 Business days|Depends on your location|N.A|80.7998046875|2013-06-17 21:23:55 +0530
+383|laptops_lists|Sony VAIO E14127CN Laptop|42299|in stock|5-7 Business days|Depends on your location|N.A|91.7783203125|2013-06-17 21:23:56 +0530
+384|laptops_lists|HP Envy Spectre XT 13-2001TU Ultrabook|64499|in stock|5-7 Business days|Depends on your location|N.A|87.826171875|2013-06-17 21:23:56 +0530
+385|laptops_lists|Lenovo Ideapad U310-59-332848 Ultrabook|55429|in stock|5-7 Business days|Depends on your location|N.A|81.2998046875|2013-06-17 21:23:58 +0530
+386|laptops_lists|Sony VAIO E15126CN Laptop|44444|in stock|5-7 Business days|Depends on your location|N.A|80.9755859375|2013-06-17 21:23:58 +0530
+387|laptops_lists|Dell Inspiron 15 3520 Laptop|29000|in stock|5-7 Business days|Depends on your location|N.A|88.69921875|2013-06-17 21:23:59 +0530
+388|laptops_lists|Sony VAIO E15126CN Laptop|40276|in stock|5-7 Business days|Depends on your location|N.A|80.951171875|2013-06-17 21:24:01 +0530
+389|laptops_lists|Toshiba Satellite L750-X531B Laptop|39800|in stock|5-7 Business days|Depends on your location|N.A|82.53125|2013-06-17 21:24:02 +0530
+390|laptops_lists|Dell Vostro 2520 Laptop|27600|in stock|5-7 Business days|Depends on your location|N.A|105.173828125|2013-06-17 21:24:03 +0530
+391|laptops_lists|Dell Vostro 2520 Laptop|27780|in stock|5-7 Business days|Depends on your location|N.A|106.0107421875|2013-06-17 21:24:04 +0530
+392|laptops_lists|HP 450 Laptop|21000|in stock|5-7 Business days|Depends on your location|N.A|78.2177734375|2013-06-17 21:24:05 +0530
+393|laptops_lists|Dell Vostro 2520 Laptop|27440|in stock|5-7 Business days|Depends on your location|N.A|100.388671875|2013-06-17 21:24:05 +0530
+394|laptops_lists|Sony VAIO E14A25CN-PI Laptop|49200|in stock|5-7 Business days|Depends on your location|N.A|89.4482421875|2013-06-17 21:24:06 +0530
+395|laptops_lists|Sony VAIO E14125CN Laptop|36990|in stock|5-7 Business days|Depends on your location|N.A|98.0625|2013-06-17 21:24:07 +0530
+396|laptops_lists|HP Pavilion 15-B003TU Sleekbook|23910|in stock|5-7 Business days|Depends on your location|N.A|114.3447265625|2013-06-17 21:24:08 +0530
+397|laptops_lists|Sony VAIO SVE15116EN Laptop|39990|in stock|5-7 Business days|Depends on your location|N.A|89.6552734375|2013-06-17 21:24:09 +0530
+398|laptops_lists|Acer Gateway NE56R Laptop|20400|in stock|5-7 Business days|Depends on your location|N.A|96.0068359375|2013-06-17 21:24:10 +0530
+399|laptops_lists|Sony VAIO S13125CN Laptop|66741|in stock|5-7 Business days|Depends on your location|N.A|80.2646484375|2013-06-17 21:24:11 +0530
+400|laptops_lists|HP 450 Laptop|23750|in stock|5-7 Business days|Depends on your location|N.A|85.6513671875|2013-06-17 21:24:12 +0530
+401|laptops_lists|HP Pavilion 15-B002TU Sleekbook|29900|in stock|5-7 Business days|Depends on your location|N.A|86.927734375|2013-06-17 21:24:13 +0530
+402|laptops_lists|HP Envy 4-1003TX Sleekbook|49011|in stock|5-7 Business days|Depends on your location|N.A|82.576171875|2013-06-17 21:24:14 +0530
+403|laptops_lists|Lenovo Essential G580-59-352561 Laptop|22500|in stock|5-7 Business days|Depends on your location|N.A|88.9716796875|2013-06-17 21:24:15 +0530
+404|laptops_lists|Lenovo Essential G580-59-352560 Laptop|23550|in stock|5-7 Business days|Depends on your location|N.A|106.205078125|2013-06-17 21:24:16 +0530
+405|laptops_lists|HP Pavilion 14-B012AU Sleekbook|23100|in stock|5-7 Business days|Depends on your location|N.A|106.8642578125|2013-06-17 21:24:17 +0530
+406|laptops_lists|HP Pavilion G6-2226TU Laptop|33000|in stock|5-7 Business days|Depends on your location|N.A|104.28515625|2013-06-17 21:24:18 +0530
+407|laptops_lists|Sony VAIO S15125CN Laptop|77990|in stock|5-7 Business days|Depends on your location|N.A|81.0068359375|2013-06-17 21:24:19 +0530
+408|laptops_lists|Lenovo Ideapad S206-59-338049 Laptop|23499|in stock|5-7 Business days|Depends on your location|N.A|85.8525390625|2013-06-17 21:24:20 +0530
+409|laptops_lists|Lenovo Essential G570-59-340549 Laptop|31000|in stock|5-7 Business days|Depends on your location|N.A|87.228515625|2013-06-17 21:24:21 +0530
+410|laptops_lists|Sony VAIO E15126CN Laptop|44444|in stock|5-7 Business days|Depends on your location|N.A|80.9755859375|2013-06-17 21:24:22 +0530
+411|laptops_lists|Samsung NP550P5C-S05IN Laptop|61359|in stock|5-7 Business days|Depends on your location|N.A|99.8212890625|2013-06-17 21:24:23 +0530
+412|laptops_lists|HP Folio 13 Laptop|82954|in stock|5-7 Business days|Depends on your location|N.A|73.6611328125|2013-06-17 21:24:24 +0530
+413|laptops_lists|Lenovo ThinkPad E430-3254-T3Q Laptop|42999|in stock|5-7 Business days|Depends on your location|N.A|86.1904296875|2013-06-17 21:24:26 +0530
+414|laptops_lists|Lenovo Essential G585-59-348619 Laptop|24900|in stock|5-7 Business days|Depends on your location|N.A|97.2958984375|2013-06-17 21:24:27 +0530
+415|laptops_lists|HP Pavilion G6-2320TX Laptop|41990|in stock|5-7 Business days|Depends on your location|N.A|99.01953125|2013-06-17 21:24:28 +0530
+416|laptops_lists|HP 4540s ProBook|35290|in stock|5-7 Business days|Depends on your location|N.A|89.1337890625|2013-06-17 21:24:29 +0530
+417|laptops_lists|Dell Inspiron 15 3521 Laptop|36750|in stock|5-7 Business days|Depends on your location|N.A|84.3291015625|2013-06-17 21:24:30 +0530
+418|laptops_lists|Acer E1-571 Laptop|33500|in stock|5-7 Business days|Depends on your location|N.A|74.3173828125|2013-06-17 21:24:31 +0530
+419|laptops_lists|HP Pavilion 1000-1B02AU Laptop|20990|in stock|5-7 Business days|Depends on your location|N.A|78.4462890625|2013-06-17 21:24:32 +0530
+420|laptops_lists|HP Pavilion G6-2202TX Laptop|42490|in stock|5-7 Business days|Depends on your location|N.A|100.4658203125|2013-06-17 21:24:33 +0530
+421|laptops_lists|Dell Inspiron 14R Laptop|41900|in stock|5-7 Business days|Depends on your location|N.A|77.1982421875|2013-06-17 21:24:34 +0530
+422|laptops_lists|Asus X53U-SX358D Laptop|18150|in stock|5-7 Business days|Depends on your location|N.A|105.2998046875|2013-06-17 21:24:35 +0530
+423|laptops_lists|Asus S56CA-XX056R Ultrabook|39100|in stock|5-7 Business days|Depends on your location|N.A|93.107421875|2013-06-17 21:24:36 +0530
+424|laptops_lists|Asus X54C-SX454D Laptop|24630|in stock|5-7 Business days|Depends on your location|N.A|102.65625|2013-06-17 21:24:37 +0530
+425|laptops_lists|HP 2000-2314TU Laptop|30625|in stock|5-7 Business days|Depends on your location|N.A|75.064453125|2013-06-17 21:24:38 +0530
+426|laptops_lists|Lenovo Essential G580-59-361898 Laptop|27600|in stock|5-7 Business days|Depends on your location|N.A|89.8876953125|2013-06-17 21:24:39 +0530
+427|laptops_lists|Dell Vostro 2420 Laptop|29400|in stock|5-7 Business days|Depends on your location|N.A|91.3916015625|2013-06-17 21:24:40 +0530
+428|laptops_lists|Samsung NP300E4V-A01IN Laptop|23400|in stock|5-7 Business days|Depends on your location|N.A|87.525390625|2013-06-17 21:24:41 +0530
+429|laptops_lists|HP 2000-2201TU Laptop|30000|in stock|5-7 Business days|Depends on your location|N.A|90.7236328125|2013-06-17 21:24:43 +0530
+430|laptops_lists|HP Pavilion 15-B001TU Sleekbook|43490|in stock|5-7 Business days|Depends on your location|N.A|87.2412109375|2013-06-17 21:24:44 +0530
+431|laptops_lists|Acer Gateway NE-56R Laptop|20990|in stock|5-7 Business days|Depends on your location|N.A|84.5126953125|2013-06-17 21:24:45 +0530
+432|laptops_lists|HP 2000-2106TU Laptop|22599|in stock|5-7 Business days|Depends on your location|N.A|105.3095703125|2013-06-17 21:24:46 +0530
+433|laptops_lists|Dell Inspiron 15R 5521 Laptop|46490|in stock|5-7 Business days|Depends on your location|N.A|96.6796875|2013-06-17 21:24:47 +0530
+434|laptops_lists|Dell Vostro 2520 Laptop|27600|in stock|5-7 Business days|Depends on your location|N.A|103.7060546875|2013-06-17 21:24:48 +0530
+435|laptops_lists|HP Pavilion G6-2231TX Laptop|36990|in stock|5-7 Business days|Depends on your location|N.A|80.21484375|2013-06-17 21:24:50 +0530
+436|laptops_lists|Sony VAIO E15138 Laptop|57339|in stock|5-7 Business days|Depends on your location|N.A|94.88671875|2013-06-17 21:24:51 +0530
+437|laptops_lists|Dell Inspiron 15R Laptop|37000|in stock|5-7 Business days|Depends on your location|N.A|73.5126953125|2013-06-17 21:24:52 +0530
+438|laptops_lists|Acer AOD 270 Laptop|17990|in stock|5-7 Business days|Depends on your location|N.A|78.80859375|2013-06-17 21:24:53 +0530
+439|laptops_lists|Samsung NP355E5X-A01IN Laptop|20800|in stock|5-7 Business days|Depends on your location|N.A|101.2216796875|2013-06-17 21:24:54 +0530
+440|laptops_lists|HP Pavilion M6-1103TX Laptop|56300|in stock|5-7 Business days|Depends on your location|N.A|91.7431640625|2013-06-17 21:24:55 +0530
+441|laptops_lists|Dell Inspiron 15 3521 Laptop|31800|in stock|5-7 Business days|Depends on your location|N.A|97.7685546875|2013-06-17 21:24:56 +0530
+442|laptops_lists|Dell Vostro 2520 Laptop|35300|in stock|5-7 Business days|Depends on your location|N.A|75.814453125|2013-06-17 21:24:57 +0530
+443|laptops_lists|HP Pavilion G6-2227TU Laptop|33750|in stock|5-7 Business days|Depends on your location|N.A|102.779296875|2013-06-17 21:24:58 +0530
+444|laptops_lists|Samsung NP355E5C-A01IN Laptop|24250|in stock|5-7 Business days|Depends on your location|N.A|93.7021484375|2013-06-17 21:24:59 +0530
+445|laptops_lists|HP 450 Laptop|26800|in stock|5-7 Business days|Depends on your location|N.A|90.59765625|2013-06-17 21:25:00 +0530
+446|laptops_lists|Asus K55A-SX464D Laptop|20580|in stock|5-7 Business days|Depends on your location|N.A|105.5380859375|2013-06-17 21:25:01 +0530
+447|laptops_lists|Sony VAIO E14133 Laptop|31450|in stock|5-7 Business days|Depends on your location|N.A|96.1884765625|2013-06-17 21:25:02 +0530
+448|laptops_lists|Asus S550CM-CJ054H Ultrabook|57900|in stock|5-7 Business days|Depends on your location|N.A|92.7958984375|2013-06-17 21:25:03 +0530
+449|laptops_lists|HP Pavilion 14-B104AU Sleekbook|22990|in stock|5-7 Business days|Depends on your location|N.A|79.349609375|2013-06-17 21:25:04 +0530
+450|laptops_lists|HP Pavilion G6-2228TU Laptop|32500|in stock|5-7 Business days|Depends on your location|N.A|93.787109375|2013-06-17 21:25:05 +0530
+451|laptops_lists|Asus K55VD-SX313D Laptop|31999|in stock|5-7 Business days|Depends on your location|N.A|96.5615234375|2013-06-17 21:25:06 +0530
+452|laptops_lists|Asus K55VD-SX314D Laptop|31999|in stock|5-7 Business days|Depends on your location|N.A|83.6748046875|2013-06-17 21:25:08 +0530
+453|laptops_lists|Toshiba Satellite L850 Satellite L850-Y5310 Laptop|54000|in stock|5-7 Business days|Depends on your location|N.A|75.921875|2013-06-17 21:25:09 +0530
+454|laptops_lists|Samsung NP350V5X-S01IN Laptop|38990|in stock|5-7 Business days|Depends on your location|N.A|78.2080078125|2013-06-17 21:25:09 +0530
+455|laptops_lists|Asus F202E-CT148H VivoBook|39500|in stock|5-7 Business days|Depends on your location|N.A|78.0810546875|2013-06-17 21:25:10 +0530
+456|laptops_lists|HP Pavilion G6-2230TX Laptop|32900|in stock|5-7 Business days|Depends on your location|N.A|96.921875|2013-06-17 21:25:11 +0530
+457|laptops_lists|Samsung NP300E5V-A02IN Laptop|29600|out of stock|5-7 Business days|Depends on your location|N.A|75.8662109375|2013-06-17 21:25:12 +0530
+458|laptops_lists|Samsung NP355E5C-A01IN Laptop|24485|out of stock|5-7 Business days|Depends on your location|N.A|72.1767578125|2013-06-17 21:25:13 +0530
+459|laptops_lists|Lenovo Essential G580-59-356383 Laptop|32990|in stock|5-7 Business days|Depends on your location|N.A|84.7890625|2013-06-17 21:25:14 +0530
+460|laptops_lists|HP Pavilion 14-B003TX Sleekbook|42330|in stock|5-7 Business days|Depends on your location|N.A|102.5546875|2013-06-17 21:25:15 +0530
+461|laptops_lists|Asus X55C-SX161D Laptop|22999|in stock|5-7 Business days|Depends on your location|N.A|90.4345703125|2013-06-17 21:25:17 +0530
+462|laptops_lists|Lenovo Essential G580-59-324015 Laptop|29700|in stock|5-7 Business days|Depends on your location|N.A|78.1318359375|2013-06-17 21:25:18 +0530
+463|laptops_lists|HP 431 Laptop|28900|in stock|5-7 Business days|Depends on your location|N.A|80.4072265625|2013-06-17 21:25:19 +0530
+464|laptops_lists|Samsung NP370R5E-S06IN Laptop|42999|out of stock|5-7 Business days|Depends on your location|N.A|70.3779296875|2013-06-17 21:25:20 +0530
+465|laptops_lists|HP Pavilion G6-2312AX Laptop|40250|in stock|5-7 Business days|Depends on your location|N.A|76.740234375|2013-06-17 21:25:21 +0530
+466|laptops_lists|Dell Vostro 2520 Laptop|31400|in stock|5-7 Business days|Depends on your location|N.A|76.6181640625|2013-06-17 21:25:22 +0530
+467|laptops_lists|Sony VAIO T13126CN Ultrabook|63171|in stock|5-7 Business days|Depends on your location|N.A|89.6943359375|2013-06-17 21:25:23 +0530
+468|laptops_lists|HP Pavilion 15-B002TX Sleekbook|33750|in stock|5-7 Business days|Depends on your location|N.A|98.0595703125|2013-06-17 21:25:24 +0530
+469|laptops_lists|HP Pavilion G6-2309TU Laptop|38145|in stock|5-7 Business days|Depends on your location|N.A|76.736328125|2013-06-17 21:25:25 +0530
+470|laptops_lists|HP 2000-2202TU Laptop|29900|in stock|5-7 Business days|Depends on your location|N.A|100.49609375|2013-06-17 21:25:26 +0530
+471|laptops_lists|Asus R051CX Laptop|17999|in stock|5-7 Business days|Depends on your location|N.A|114.1552734375|2013-06-17 21:25:29 +0530
+472|laptops_lists|HP Pavilion G6-2302AX Laptop|29990|in stock|5-7 Business days|Depends on your location|N.A|78.271484375|2013-06-17 21:25:30 +0530
+473|laptops_lists|Acer Gateway NE-56R Laptop|20990|in stock|5-7 Business days|Depends on your location|N.A|84.74609375|2013-06-17 21:25:31 +0530
+474|laptops_lists|HP 4540s ProBook|39500|in stock|5-7 Business days|Depends on your location|N.A|83.935546875|2013-06-17 21:25:32 +0530
+475|laptops_lists|HP Pavilion G6-2231TX Laptop|35750|in stock|5-7 Business days|Depends on your location|N.A|102.271484375|2013-06-17 21:25:34 +0530
+476|laptops_lists|Samsung NP305E5Z-S01IN Laptop|24399|in stock|5-7 Business days|Depends on your location|N.A|87.919921875|2013-06-17 21:25:35 +0530
+477|laptops_lists|Asus K55VD-SX313D Laptop|31999|in stock|5-7 Business days|Depends on your location|N.A|86.4248046875|2013-06-17 21:25:36 +0530
+478|laptops_lists|Samsung NP300E5E-A03IN Laptop|31699|in stock|5-7 Business days|Depends on your location|N.A|75.4990234375|2013-06-17 21:25:37 +0530
+479|laptops_lists|HP Pavilion G6-2222TU Laptop|33550|in stock|5-7 Business days|Depends on your location|N.A|76.8134765625|2013-06-17 21:25:38 +0530
+480|laptops_lists|Samsung NP300E4V-A01IN Laptop|23490|in stock|5-7 Business days|Depends on your location|N.A|76.5009765625|2013-06-17 21:25:39 +0530
+481|laptops_lists|Toshiba Satellite C850-E0010 Laptop|22200|in stock|5-7 Business days|Depends on your location|N.A|89.91796875|2013-06-17 21:25:40 +0530
+482|laptops_lists|Lenovo Ideapad Z580-59-339356 Laptop|59000|in stock|5-7 Business days|Depends on your location|N.A|77.001953125|2013-06-17 21:25:41 +0530
+483|laptops_lists|Lenovo Ideapad Z580-59-347567 Laptop|35262|in stock|5-7 Business days|Depends on your location|N.A|77.5478515625|2013-06-17 21:25:42 +0530
+484|laptops_lists|HP Envy 4-1023TU Sleekbook|44201|out of stock|5-7 Business days|Depends on your location|N.A|71.8564453125|2013-06-17 21:25:43 +0530
+485|laptops_lists|Samsung NP540U3C-A01IN Ultrabook|63499|out of stock|5-7 Business days|Depends on your location|N.A|77.4697265625|2013-06-17 21:25:44 +0530
+486|laptops_lists|HP Pavilion G6-2301AX Laptop|34590|in stock|5-7 Business days|Depends on your location|N.A|78.26171875|2013-06-17 21:25:45 +0530
+487|laptops_lists|Samsung NP300E5X-S01IN Laptop|36425|in stock|5-7 Business days|Depends on your location|N.A|76.7353515625|2013-06-17 21:25:46 +0530
+488|laptops_lists|Samsung NP300E5E-A04IN Laptop|28700|out of stock|5-7 Business days|Depends on your location|N.A|77.02734375|2013-06-17 21:25:47 +0530
+489|laptops_lists|HP Pavilion G6-2202TX Laptop|43990|in stock|5-7 Business days|Depends on your location|N.A|84.234375|2013-06-17 21:25:49 +0530
+490|laptops_lists|Dell Inspiron 15 3521 Laptop|34400|in stock|5-7 Business days|Depends on your location|N.A|79.552734375|2013-06-17 21:25:50 +0530
+491|laptops_lists|Toshiba Satellite L850-Y3110 Laptop|59950|in stock|5-7 Business days|Depends on your location|N.A|76.91796875|2013-06-17 21:25:51 +0530
+492|laptops_lists|HP Pavilion M6-1102TX Laptop|59000|in stock|5-7 Business days|Depends on your location|N.A|96.87890625|2013-06-17 21:25:52 +0530
+493|laptops_lists|Dell Vostro 2420 Laptop|28960|in stock|5-7 Business days|Depends on your location|N.A|103.1044921875|2013-06-17 21:25:53 +0530
+494|laptops_lists|HP 2000-2125TU Laptop|30750|in stock|5-7 Business days|Depends on your location|N.A|75.8984375|2013-06-17 21:25:55 +0530
+495|laptops_lists|Acer Aspire V5 571G Laptop|49990|in stock|5-7 Business days|Depends on your location|N.A|76.939453125|2013-06-17 21:25:56 +0530
+496|laptops_lists|Asus F501A-XX187H Laptop|30999|in stock|5-7 Business days|Depends on your location|N.A|91.8037109375|2013-06-17 21:25:57 +0530
+497|laptops_lists|Toshiba Satellite C850-P5011 Laptop|21300|in stock|5-7 Business days|Depends on your location|N.A|92.5205078125|2013-06-17 21:25:58 +0530
+498|laptops_lists|Samsung NP305E5Z-S01IN Laptop|24399|in stock|5-7 Business days|Depends on your location|N.A|102.298828125|2013-06-17 21:25:59 +0530
+499|laptops_lists|HP Pavilion G4-2049TX Laptop|36975|in stock|5-7 Business days|Depends on your location|N.A|91.603515625|2013-06-17 21:26:00 +0530
+500|laptops_lists|Dell Vostro 2420 Laptop|38300|in stock|5-7 Business days|Depends on your location|N.A|76.74609375|2013-06-17 21:26:01 +0530
+501|laptops_lists|Dell Vostro 2420 Laptop|35300|in stock|5-7 Business days|Depends on your location|N.A|76.5966796875|2013-06-17 21:26:02 +0530
+502|laptops_lists|HP Envy 4-1103TU Ultrabook|55840|in stock|5-7 Business days|Depends on your location|N.A|87.2626953125|2013-06-17 21:26:03 +0530
+503|laptops_lists|HP 2000 2116TU Laptop|34500|in stock|5-7 Business days|Depends on your location|N.A|103.447265625|2013-06-17 21:26:04 +0530
+504|laptops_lists|Acer Aspire E1 531 Laptop|22700|in stock|5-7 Business days|Depends on your location|N.A|87.2763671875|2013-06-17 21:26:05 +0530
+505|laptops_lists|Asus Eee PC 1015CX-BLK024W Netbook|15350|in stock|5-7 Business days|Depends on your location|N.A|98.5732421875|2013-06-17 21:26:07 +0530
+506|laptops_lists|Lenovo Essential G580-59-363678 Laptop|31550|in stock|5-7 Business days|Depends on your location|N.A|75.3271484375|2013-06-17 21:26:07 +0530
+507|laptops_lists|Toshiba Satellite C850-I5213 Laptop|29700|in stock|5-7 Business days|Depends on your location|N.A|79.1416015625|2013-06-17 21:26:09 +0530
+508|laptops_lists|Acer Aspire V5 571 Laptop|31490|in stock|5-7 Business days|Depends on your location|N.A|76.5849609375|2013-06-17 21:26:09 +0530
+509|laptops_lists|HP Envy 4-1002TX Ultrabook|49567|in stock|5-7 Business days|Depends on your location|N.A|84.7939453125|2013-06-17 21:26:12 +0530
+510|laptops_lists|Dell Inspiron 14z Laptop|38900|in stock|5-7 Business days|Depends on your location|N.A|72.9326171875|2013-06-17 21:26:13 +0530
+511|laptops_lists|Acer Aspire V5 571 Laptop|31799|in stock|5-7 Business days|Depends on your location|N.A|77.1025390625|2013-06-17 21:26:14 +0530
+512|laptops_lists|HP Pavilion 1000-1B02AU Laptop|20990|in stock|5-7 Business days|Depends on your location|N.A|80.435546875|2013-06-17 21:26:15 +0530
+513|laptops_lists|Asus F202E-CT148H VivoBook|38990|in stock|5-7 Business days|Depends on your location|N.A|96.048828125|2013-06-17 21:26:16 +0530
+514|laptops_lists|HP Pavilion G6-2304TX Laptop|46750|in stock|5-7 Business days|Depends on your location|N.A|76.7841796875|2013-06-17 21:26:17 +0530
+515|laptops_lists|Asus X53TK-SX056D Laptop|30500|in stock|5-7 Business days|Depends on your location|N.A|94.21484375|2013-06-17 21:26:19 +0530
+516|laptops_lists|Samsung NP300E5V-A03IN Laptop|24500|in stock|5-7 Business days|Depends on your location|N.A|85.5146484375|2013-06-17 21:26:20 +0530
+517|laptops_lists|Dell Vostro 2520 Laptop|28999|in stock|5-7 Business days|Depends on your location|N.A|87.1865234375|2013-06-17 21:26:21 +0530
+518|laptops_lists|HP 4540s ProBook|44500|in stock|5-7 Business days|Depends on your location|N.A|86.9208984375|2013-06-17 21:26:22 +0530
+519|laptops_lists|HP Pavilion G6-2103TU Laptop|40300|in stock|5-7 Business days|Depends on your location|N.A|78.9267578125|2013-06-17 21:26:23 +0530
+520|laptops_lists|HP Pavilion 15-B002TU Sleekbook|30100|in stock|5-7 Business days|Depends on your location|N.A|87.5087890625|2013-06-17 21:26:24 +0530
+521|laptops_lists|Dell Vostro 2520 Laptop|23300|in stock|5-7 Business days|Depends on your location|N.A|75.7255859375|2013-06-17 21:26:25 +0530
+522|laptops_lists|Dell Inspiron 15R 5521 Laptop|37800|in stock|5-7 Business days|Depends on your location|N.A|106.794921875|2013-06-17 21:26:26 +0530
+523|laptops_lists|Samsung NP370R5E-S05IN Laptop|50990|in stock|5-7 Business days|Depends on your location|N.A|78.7529296875|2013-06-17 21:26:27 +0530
+524|laptops_lists|Dell Vostro 2520 Laptop|35750|in stock|5-7 Business days|Depends on your location|N.A|89.072265625|2013-06-17 21:26:29 +0530
+525|laptops_lists|Samsung NP350E5C-S02IN Laptop|35600|in stock|5-7 Business days|Depends on your location|N.A|85.2060546875|2013-06-17 21:26:30 +0530
+526|laptops_lists|Acer Aspire V5-471P Laptop|45400|in stock|5-7 Business days|Depends on your location|N.A|76.009765625|2013-06-17 21:26:31 +0530
+527|laptops_lists|Samsung NP350V5C-A03IN Laptop|39990|in stock|5-7 Business days|Depends on your location|N.A|77.8740234375|2013-06-17 21:26:32 +0530
+528|laptops_lists|Lenovo Ideapad S300-59-340450 Laptop|30500|in stock|5-7 Business days|Depends on your location|N.A|75.4619140625|2013-06-17 21:26:34 +0530
+529|laptops_lists|Lenovo Ideapad Z580-59-347586 Laptop|46130|in stock|5-7 Business days|Depends on your location|N.A|78.3583984375|2013-06-17 21:26:35 +0530
+530|laptops_lists|HP Pavilion G6-2301AX Laptop|33400|in stock|5-7 Business days|Depends on your location|N.A|95.2568359375|2013-06-17 21:26:36 +0530
+531|laptops_lists|Samsung NP300V5A-S0CIN Laptop|44990|in stock|5-7 Business days|Depends on your location|N.A|80.771484375|2013-06-17 21:26:37 +0530
+532|laptops_lists|Dell Inspiron 15 3520 Laptop|31490|in stock|5-7 Business days|Depends on your location|N.A|91.0751953125|2013-06-17 21:26:38 +0530
+533|laptops_lists|Dell Inspiron 15 3521 Laptop|23290|in stock|5-7 Business days|Depends on your location|N.A|105.919921875|2013-06-17 21:26:39 +0530
+534|laptops_lists|HP Pavilion 15-B001TU Sleekbook|43290|in stock|5-7 Business days|Depends on your location|N.A|94.4697265625|2013-06-17 21:26:40 +0530
+535|laptops_lists|Lenovo Essential G580-59-351467 Laptop|22900|in stock|5-7 Business days|Depends on your location|N.A|88.75|2013-06-17 21:26:42 +0530
+536|laptops_lists|Lenovo Ideapad Z580-59-338097 Laptop|36825|in stock|5-7 Business days|Depends on your location|N.A|76.3388671875|2013-06-17 21:26:43 +0530
+537|laptops_lists|HP Pavilion G6-2229TU Laptop|35799|in stock|5-7 Business days|Depends on your location|N.A|74.8662109375|2013-06-17 21:26:45 +0530
+538|laptops_lists|Samsung NP350V5C-S0CIN Laptop|44063|out of stock|5-7 Business days|Depends on your location|N.A|72.7041015625|2013-06-17 21:26:46 +0530
+539|laptops_lists|Dell Inspiron 15R N5520 Laptop|38410|in stock|5-7 Business days|Depends on your location|N.A|75.271484375|2013-06-17 21:26:47 +0530
+540|laptops_lists|Acer Aspire One 725 Laptop|19990|in stock|5-7 Business days|Depends on your location|N.A|82.6044921875|2013-06-17 21:26:48 +0530
+541|laptops_lists|Samsung NP530U4C-S04IN Ultrabook|44934|out of stock|5-7 Business days|Depends on your location|N.A|77.8037109375|2013-06-17 21:26:49 +0530
+542|laptops_lists|HP 2000-2202TU Laptop|33325|in stock|5-7 Business days|Depends on your location|N.A|86.1181640625|2013-06-17 21:26:50 +0530
+543|laptops_lists|Dell Inspiron 15R N5520 Laptop|41000|in stock|5-7 Business days|Depends on your location|N.A|91.5458984375|2013-06-17 21:26:51 +0530
+544|laptops_lists|Toshiba Satellite C840-I4010 Laptop|25980|in stock|5-7 Business days|Depends on your location|N.A|87.34765625|2013-06-17 21:26:51 +0530
+545|laptops_lists|Lenovo Ideapad U310-59-341068 Ultrabook|38000|in stock|5-7 Business days|Depends on your location|N.A|93.8193359375|2013-06-17 21:26:53 +0530
+546|laptops_lists|Samsung NP300E5E-A03IN Laptop|32490|in stock|5-7 Business days|Depends on your location|N.A|92.755859375|2013-06-17 21:26:54 +0530
+547|laptops_lists|Asus S400CA-CA028H Ultrabook|63790|in stock|5-7 Business days|Depends on your location|N.A|82.845703125|2013-06-17 21:26:55 +0530
+548|laptops_lists|HP 4540s ProBook|38490|in stock|5-7 Business days|Depends on your location|N.A|88.2333984375|2013-06-17 21:26:56 +0530
+549|laptops_lists|Dell Vostro 2520 Laptop|30600|in stock|5-7 Business days|Depends on your location|N.A|75.802734375|2013-06-17 21:26:56 +0530
+550|laptops_lists|Lenovo Essential G585-59-348629 Laptop|25499|in stock|5-7 Business days|Depends on your location|N.A|94.40625|2013-06-17 21:26:58 +0530
+551|laptops_lists|Acer Aspire V5-471 Laptop|31499|in stock|5-7 Business days|Depends on your location|N.A|76.6064453125|2013-06-17 21:26:59 +0530
+552|laptops_lists|Samsung NP900X3C-A02IN Laptop|98999|out of stock|5-7 Business days|Depends on your location|N.A|73.7236328125|2013-06-17 21:27:00 +0530
+553|laptops_lists|Asus K55A-SX464D Laptop|20990|in stock|5-7 Business days|Depends on your location|N.A|92.7197265625|2013-06-17 21:27:01 +0530
+554|laptops_lists|HP Pavilion 14-B003TX Sleekbook|45990|in stock|5-7 Business days|Depends on your location|N.A|75.8974609375|2013-06-17 21:27:02 +0530
+555|laptops_lists|Dell Inspiron 15R 5521 Laptop|47990|in stock|5-7 Business days|Depends on your location|N.A|84.150390625|2013-06-17 21:27:03 +0530
+556|laptops_lists|Dell Vostro 2520 Laptop|27700|in stock|5-7 Business days|Depends on your location|N.A|90.0283203125|2013-06-17 21:27:05 +0530
+557|laptops_lists|Asus X53U-SX358D Laptop|18240|in stock|5-7 Business days|Depends on your location|N.A|101.6435546875|2013-06-17 21:27:06 +0530
+558|laptops_lists|HP Pavilion DV4-5008TX Laptop 2nd Ci5-6GB-640GB-Win 7 HB-2GB Graphics with Beats Audio|49595|in stock|5-7 Business days|Depends on your location|N.A|90.9931640625|2013-06-17 21:27:07 +0530
+559|laptops_lists|HP Pavilion 14-B012AU Sleekbook|25750|in stock|5-7 Business days|Depends on your location|N.A|85.5302734375|2013-06-17 21:27:08 +0530
+560|laptops_lists|Samsung NP350E5C-S01IN Laptop|34990|in stock|5-7 Business days|Depends on your location|N.A|79.5068359375|2013-06-17 21:27:09 +0530
+561|laptops_lists|HP Pavilion G6-2005AX Laptop|32980|in stock|5-7 Business days|Depends on your location|N.A|80.5322265625|2013-06-17 21:27:11 +0530
+562|laptops_lists|Lenovo Essential G580-59-324064 Laptop|34500|in stock|5-7 Business days|Depends on your location|N.A|92.7421875|2013-06-17 21:27:11 +0530
+563|laptops_lists|Samsung NP300E5X-A0BIN Laptop|25300|in stock|5-7 Business days|Depends on your location|N.A|101.94921875|2013-06-17 21:27:13 +0530
+564|laptops_lists|Lenovo Essential G580-59-356384 Laptop|32250|in stock|5-7 Business days|Depends on your location|N.A|94.0791015625|2013-06-17 21:27:15 +0530
+565|laptops_lists|Toshiba Satellite C840-I4211 Laptop|32430|in stock|5-7 Business days|Depends on your location|N.A|76.6240234375|2013-06-17 21:27:16 +0530
+566|laptops_lists|Lenovo Ideapad S300-59-348107 Laptop|35987|in stock|5-7 Business days|Depends on your location|N.A|75.0712890625|2013-06-17 21:27:17 +0530
+567|laptops_lists|HP 4540s ProBook|41590|in stock|5-7 Business days|Depends on your location|N.A|89.4033203125|2013-06-17 21:27:18 +0530
+568|laptops_lists|Toshiba Satellite C850-X0010 Laptop|33499|in stock|5-7 Business days|Depends on your location|N.A|77.9169921875|2013-06-17 21:27:19 +0530
+569|laptops_lists|Sony VAIO T14113CN Ultrabook|50257|in stock|5-7 Business days|Depends on your location|N.A|79.333984375|2013-06-17 21:27:20 +0530
+570|laptops_lists|Dell Inspiron 15 3521 Laptop|43950|in stock|5-7 Business days|Depends on your location|N.A|85.2763671875|2013-06-17 21:27:21 +0530
+571|laptops_lists|HP Pavilion 14-B004TU Sleekbook|32500|in stock|5-7 Business days|Depends on your location|N.A|91.7451171875|2013-06-17 21:27:22 +0530
+572|laptops_lists|HP Pavilion G6-2320TX Laptop|43690|in stock|5-7 Business days|Depends on your location|N.A|77.69140625|2013-06-17 21:27:23 +0530
+573|laptops_lists|Dell Inspiron 15 3521 Laptop|40470|in stock|5-7 Business days|Depends on your location|N.A|85.328125|2013-06-17 21:27:24 +0530
+574|laptops_lists|Dell Inspiron 15 3520 Laptop|26600|in stock|5-7 Business days|Depends on your location|N.A|79.302734375|2013-06-17 21:27:25 +0530
+575|laptops_lists|Toshiba Satellite C850-X0110 Laptop|36150|in stock|5-7 Business days|Depends on your location|N.A|76.4404296875|2013-06-17 21:27:26 +0530
+576|laptops_lists|HP 2000-2209TU Laptop|28660|in stock|5-7 Business days|Depends on your location|N.A|86.796875|2013-06-17 21:27:27 +0530
+577|laptops_lists|Toshiba Satellite C850-I0110 Laptop|32100|in stock|5-7 Business days|Depends on your location|N.A|76.5361328125|2013-06-17 21:27:28 +0530
+578|laptops_lists|Asus X55C-SX078D Laptop|21790|in stock|5-7 Business days|Depends on your location|N.A|87.0205078125|2013-06-17 21:27:29 +0530
+579|laptops_lists|Acer Aspire E1-571G-BT Laptop|32499|in stock|5-7 Business days|Depends on your location|N.A|77.5263671875|2013-06-17 21:27:30 +0530
+580|laptops_lists|Dell Inspiron 15 3521 Laptop|35630|in stock|5-7 Business days|Depends on your location|N.A|73.5283203125|2013-06-17 21:27:31 +0530
+581|laptops_lists|Acer Aspire E1 571 Laptop|27000|in stock|5-7 Business days|Depends on your location|N.A|75.89453125|2013-06-17 21:27:33 +0530
+582|laptops_lists|HP 1000-1204TU Laptop|25999|in stock|5-7 Business days|Depends on your location|N.A|97.283203125|2013-06-17 21:27:34 +0530
+583|laptops_lists|Acer Aspire V5-121 Netbook|22190|in stock|5-7 Business days|Depends on your location|N.A|81.9306640625|2013-06-17 21:27:35 +0530
+584|laptops_lists|Samsung NP370R5E-S06IN Laptop|44990|in stock|5-7 Business days|Depends on your location|N.A|78.8037109375|2013-06-17 21:27:36 +0530
+585|laptops_lists|Samsung NP350E5C-S02IN Laptop|35650|in stock|5-7 Business days|Depends on your location|N.A|75.8564453125|2013-06-17 21:27:37 +0530
+586|laptops_lists|Asus F501A-XX187H Laptop|30350|in stock|5-7 Business days|Depends on your location|N.A|74.62890625|2013-06-17 21:27:38 +0530
+587|laptops_lists|Lenovo Ideapad Yoga 11-59-345700 Netbook|58800|in stock|5-7 Business days|Depends on your location|N.A|76.462890625|2013-06-17 21:27:39 +0530
+588|laptops_lists|Toshiba Satellite L750-X531B Laptop|39990|in stock|5-7 Business days|Depends on your location|N.A|80.1240234375|2013-06-17 21:27:40 +0530
+589|laptops_lists|Samsung ATIV Smart Laptop|78250|in stock|5-7 Business days|Depends on your location|N.A|89.419921875|2013-06-17 21:27:41 +0530
+590|laptops_lists|Lenovo Ideapad Z585-59-347937 Laptop|37199|in stock|5-7 Business days|Depends on your location|N.A|89.7880859375|2013-06-17 21:27:42 +0530
+591|laptops_lists|Lenovo Essential G580-59-352561 Laptop|23499|in stock|5-7 Business days|Depends on your location|N.A|84.556640625|2013-06-17 21:27:43 +0530
+592|laptops_lists|Lenovo Ideapad S400-59-340453 Laptop|31000|in stock|5-7 Business days|Depends on your location|N.A|83.6962890625|2013-06-17 21:27:43 +0530
+593|laptops_lists|Lenovo Ideapad S400-59-340452 Laptop|31800|in stock|5-7 Business days|Depends on your location|N.A|76.5361328125|2013-06-17 21:27:44 +0530
+594|laptops_lists|Toshiba Satellite M840-X4212 Laptop|38500|in stock|5-7 Business days|Depends on your location|N.A|76.4775390625|2013-06-17 21:27:45 +0530
+595|laptops_lists|Toshiba Satellite C850-X5211 Laptop|37189|in stock|5-7 Business days|Depends on your location|N.A|85.849609375|2013-06-17 21:27:47 +0530
+596|laptops_lists|Acer Aspire E1 571 Laptop|28990|in stock|5-7 Business days|Depends on your location|N.A|87.5244140625|2013-06-17 21:27:48 +0530
+597|laptops_lists|HP Pavilion G6-2102TX Laptop|35300|in stock|5-7 Business days|Depends on your location|N.A|82.6669921875|2013-06-17 21:27:49 +0530
+598|laptops_lists|Sony VAIO SVE15118FN Laptop|57990|out of stock|5-7 Business days|Depends on your location|N.A|71.4365234375|2013-06-17 21:27:50 +0530
+599|laptops_lists|Dell Inspiron 15R Laptop|40470|in stock|5-7 Business days|Depends on your location|N.A|78.1640625|2013-06-17 21:27:51 +0530
+600|laptops_lists|HP Envy 4-1104TX Ultrabook|60300|in stock|5-7 Business days|Depends on your location|N.A|87.873046875|2013-06-17 21:27:52 +0530
+601|laptops_lists|Lenovo Ideapad Z580-59-333651 Laptop|38350|in stock|5-7 Business days|Depends on your location|N.A|76.5029296875|2013-06-17 21:27:53 +0530
+602|laptops_lists|Samsung NP350E5C-S03IN Laptop|35700|in stock|5-7 Business days|Depends on your location|N.A|83.6572265625|2013-06-17 21:27:54 +0530
+603|laptops_lists|HP Envy 4-1103TX Ultrabook|57300|in stock|5-7 Business days|Depends on your location|N.A|95.9931640625|2013-06-17 21:27:55 +0530
+604|laptops_lists|Samsung NP300E5V-A03IN Laptop|24499|in stock|5-7 Business days|Depends on your location|N.A|86.6650390625|2013-06-17 21:27:56 +0530
+605|laptops_lists|HP Pavilion 15-B001TU Sleekbook|41999|in stock|5-7 Business days|Depends on your location|N.A|88.13671875|2013-06-17 21:27:57 +0530
+606|laptops_lists|Samsung NP350V5X-S01IN Laptop|38899|in stock|5-7 Business days|Depends on your location|N.A|76.6806640625|2013-06-17 21:27:58 +0530
+607|laptops_lists|Asus S56CA-XX030R Ultrabook|35990|in stock|5-7 Business days|Depends on your location|N.A|83.6748046875|2013-06-17 21:27:59 +0530
+608|laptops_lists|HP Pavilion G6-2226TU Laptop|33000|in stock|5-7 Business days|Depends on your location|N.A|87.5556640625|2013-06-17 21:28:00 +0530
+609|laptops_lists|Lenovo Essential G580-59-361898 Laptop|27600|in stock|5-7 Business days|Depends on your location|N.A|73.3095703125|2013-06-17 21:28:01 +0530
+610|laptops_lists|HP Envy 4-1104TU Ultrabook|55840|in stock|5-7 Business days|Depends on your location|N.A|85.67578125|2013-06-17 21:28:02 +0530
+611|laptops_lists|Lenovo Essential G580-59-355398 Laptop|35350|in stock|5-7 Business days|Depends on your location|N.A|77.38671875|2013-06-17 21:28:03 +0530
+612|laptops_lists|Lenovo Ideapad U410-59-342788 Ultrabook|57599|in stock|5-7 Business days|Depends on your location|N.A|90.52734375|2013-06-17 21:28:04 +0530
+613|laptops_lists|Lenovo Essential G580-59-349281 Laptop|36000|in stock|5-7 Business days|Depends on your location|N.A|77.0966796875|2013-06-17 21:28:05 +0530
+614|laptops_lists|Samsung NP350V5C-S07IN Laptop|49790|in stock|5-7 Business days|Depends on your location|N.A|83.79296875|2013-06-17 21:28:06 +0530
+615|laptops_lists|HP Pavilion DV4-5008TX Laptop|51490|out of stock|5-7 Business days|Depends on your location|N.A|73.6650390625|2013-06-17 21:28:07 +0530
+616|laptops_lists|Samsung NP350V5X-S01IN Laptop|38369|out of stock|5-7 Business days|Depends on your location|N.A|72.490234375|2013-06-17 21:28:08 +0530
+617|laptops_lists|Samsung NP300E5X-A0BIN Laptop|26290|in stock|5-7 Business days|Depends on your location|N.A|77.4111328125|2013-06-17 21:28:10 +0530
+618|laptops_lists|HP Pavilion G6-2232TX Laptop|37300|in stock|5-7 Business days|Depends on your location|N.A|103.1279296875|2013-06-17 21:28:10 +0530
+619|laptops_lists|HP Pavilion G6-2201AX Laptop|33930|in stock|5-7 Business days|Depends on your location|N.A|77.0107421875|2013-06-17 21:28:11 +0530
+620|laptops_lists|Toshiba Satellite C850-X5212 Laptop|43350|in stock|5-7 Business days|Depends on your location|N.A|86.259765625|2013-06-17 21:28:13 +0530
+621|laptops_lists|Samsung NP350V5C-S08IN Laptop|58999|out of stock|5-7 Business days|Depends on your location|N.A|73.31640625|2013-06-17 21:28:13 +0530
+622|laptops_lists|Acer E1-571 Laptop|0|out of stock|5-7 Business days|Depends on your location|N.A|68.9775390625|2013-06-17 21:28:14 +0530
+623|laptops_lists|HP Envy 4-1105TX Ultrabook|57980|in stock|5-7 Business days|Depends on your location|N.A|96.2587890625|2013-06-17 21:28:16 +0530
+624|laptops_lists|Samsung NP550P5C-S04IN Laptop|54800|in stock|5-7 Business days|Depends on your location|N.A|77.552734375|2013-06-17 21:28:17 +0530
+625|laptops_lists|Lenovo Ideapad Z580-59-347589 Laptop|44060|in stock|5-7 Business days|Depends on your location|N.A|76.43359375|2013-06-17 21:28:18 +0530
+626|laptops_lists|Acer Aspire One 725 Laptop|20000|in stock|5-7 Business days|Depends on your location|N.A|76.9853515625|2013-06-17 21:28:18 +0530
+627|laptops_lists|Toshiba Satellite C665-P5211 Laptop|25300|in stock|5-7 Business days|Depends on your location|N.A|79.130859375|2013-06-17 21:28:19 +0530
+628|laptops_lists|Asus X55C-SX161D Laptop|21999|in stock|5-7 Business days|Depends on your location|N.A|81.40234375|2013-06-17 21:28:20 +0530
+629|laptops_lists|Samsung NP300E5X-U01IN Laptop|31490|in stock|5-7 Business days|Depends on your location|N.A|101.4248046875|2013-06-17 21:28:21 +0530
+630|laptops_lists|Dell Vostro 3560 Laptop|40200|in stock|5-7 Business days|Depends on your location|N.A|89.3408203125|2013-06-17 21:28:22 +0530
+631|laptops_lists|Samsung NP300E4V-A01IN Laptop|22200|in stock|5-7 Business days|Depends on your location|N.A|101.9345703125|2013-06-17 21:28:23 +0530
+632|laptops_lists|Samsung NP350E5C-S03IN Laptop|37199|in stock|5-7 Business days|Depends on your location|N.A|76.50390625|2013-06-17 21:28:24 +0530
+633|laptops_lists|HP Pavilion 15-B001TU Sleekbook|47990|in stock|5-7 Business days|Depends on your location|N.A|76.46484375|2013-06-17 21:28:25 +0530
+634|laptops_lists|Acer Aspire V3 571 Laptop|26990|in stock|5-7 Business days|Depends on your location|N.A|87.7001953125|2013-06-17 21:28:27 +0530
+635|laptops_lists|Lenovo Ideapad Z580-59-339354 Laptop|63500|in stock|5-7 Business days|Depends on your location|N.A|78.314453125|2013-06-17 21:28:28 +0530
+636|laptops_lists|HP 4540s ProBook|36300|out of stock|5-7 Business days|Depends on your location|N.A|79.173828125|2013-06-17 21:28:29 +0530
+637|laptops_lists|Lenovo ThinkPad X102-3460-24Q Laptop|155000|in stock|5-7 Business days|Depends on your location|N.A|76.2333984375|2013-06-17 21:28:30 +0530
+638|laptops_lists|HP Pavilion G6-2007TX Laptop|34440|in stock|5-7 Business days|Depends on your location|N.A|84.19140625|2013-06-17 21:28:31 +0530
+639|laptops_lists|Acer Aspire E1-571-BT Laptop|32899|in stock|5-7 Business days|Depends on your location|N.A|76.611328125|2013-06-17 21:28:32 +0530
+640|laptops_lists|Dell Inspiron 15 3520 Laptop|31600|in stock|5-7 Business days|Depends on your location|N.A|78.9658203125|2013-06-17 21:28:33 +0530
+641|laptops_lists|Acer Aspire E1 531 Laptop|23800|in stock|5-7 Business days|Depends on your location|N.A|115.1591796875|2013-06-17 21:28:34 +0530
+642|laptops_lists|Samsung NP535U4C-S02IN Ultrabook|42999|out of stock|5-7 Business days|Depends on your location|N.A|78.779296875|2013-06-17 21:28:35 +0530
+643|laptops_lists|Lenovo Ideapad Z580-59-338097 Laptop|39700|in stock|5-7 Business days|Depends on your location|N.A|90.2099609375|2013-06-17 21:28:36 +0530
+644|laptops_lists|Dell Inspiron 14 4050 Laptop|37450|in stock|5-7 Business days|Depends on your location|N.A|75.056640625|2013-06-17 21:28:37 +0530
+645|laptops_lists|Dell Inspiron 15R N5520 Laptop|38415|in stock|5-7 Business days|Depends on your location|N.A|82.37109375|2013-06-17 21:28:38 +0530
+646|laptops_lists|Samsung NP370R5E-S05IN Laptop|49590|out of stock|5-7 Business days|Depends on your location|N.A|69.146484375|2013-06-17 21:28:39 +0530
+647|laptops_lists|Asus K55VD-SX314R Laptop|33899|in stock|5-7 Business days|Depends on your location|N.A|78.458984375|2013-06-17 21:28:40 +0530
+648|laptops_lists|Asus S56CM-XO177H Ultrabook|46500|in stock|5-7 Business days|Depends on your location|N.A|75.216796875|2013-06-17 21:28:41 +0530
+649|laptops_lists|Dell Vostro 2520 Laptop|27500|in stock|5-7 Business days|Depends on your location|N.A|79.017578125|2013-06-17 21:28:42 +0530
+650|laptops_lists|Acer Aspire V5-121 Netbook|0|out of stock|5-7 Business days|Depends on your location|N.A|64.865234375|2013-06-17 21:28:43 +0530
+651|laptops_lists|Samsung NP300E5E-A03IN Laptop|34990|in stock|5-7 Business days|Depends on your location|N.A|76.9296875|2013-06-17 21:28:44 +0530
+652|laptops_lists|Lenovo Essential G580-59-324008 Laptop|31099|in stock|5-7 Business days|Depends on your location|N.A|76.3681640625|2013-06-17 21:28:45 +0530
+653|laptops_lists|HP Pavilion M6-1104TX Laptop|63600|in stock|5-7 Business days|Depends on your location|N.A|83.982421875|2013-06-17 21:28:46 +0530
+====Updated Patterns Table for 'online_tradus_products' ====
+====Starting online_themobilestore_products | product_id====
+====Updated Patterns Table for 'online_themobilestore_products' ====
+====Starting online_croma_products | product_id====
+====Updated Patterns Table for 'online_croma_products' ====
+====Starting online_infibeam_products | product_id====
+====Updated Patterns Table for 'online_infibeam_products' ====
+====Starting online_poorvika_products | product_id====
+====Updated Patterns Table for 'online_poorvika_products' ====
+====Starting online_landmark_products | product_id====
+====Updated Patterns Table for 'online_landmark_products' ====
+====Starting online_greendust_products | product_id====
+42|laptops_lists|Lenovo Ideapad U410-59-332849 Laptop|40800|In Stock|10-12 business days|Free Door Delivery|N.A.|105.55859375|2013-06-17 21:29:59 +0530
+43|laptops_lists|Lenovo Thinkpad E430-3254-AM4 Laptop|26000|Out of Stock|10-12 business days|Free Door Delivery|N.A.|104.693359375|2013-06-17 21:30:01 +0530
+44|laptops_lists|Lenovo Ideapad S110-59-328520 Laptop|13840|In Stock|10-12 business days|Free Door Delivery|N.A.|103.6435546875|2013-06-17 21:30:03 +0530
+45|laptops_lists|Lenovo Ideapad U410-59-342779 Ultrabook|44720|In Stock|10-12 business days|Free Door Delivery|N.A.|105.548828125|2013-06-17 21:30:05 +0530
+46|laptops_lists|Lenovo Ideapad Z370-59-342158 Laptop|26400|In Stock|10-12 business days|Free Door Delivery|N.A.|102.658203125|2013-06-17 21:30:13 +0530
+47|laptops_lists|Lenovo Ideapad U410-59-342778 Ultrabook|42900|In Stock|10-12 business days|Free Door Delivery|N.A.|105.2373046875|2013-06-17 21:30:15 +0530
+48|laptops_lists|Lenovo Essential G585-59-348619 Laptop|19680|In Stock|10-12 business days|Free Door Delivery|N.A.|105.5966796875|2013-06-17 21:30:18 +0530
+49|laptops_lists|Lenovo Essential B490-59-356128 Laptop|19600|Out of Stock|10-12 business days|Free Door Delivery|N.A.|103.6455078125|2013-06-17 21:30:20 +0530
+50|laptops_lists|Lenovo ThinkPad Edge E430-3254-D9Q Laptop|55000|In Stock|10-12 business days|Free Door Delivery|N.A.|98.5947265625|2013-06-17 21:30:21 +0530
+51|laptops_lists|Lenovo ThinkPad E430-3254-T2Q Laptop|28000|Out of Stock|10-12 business days|Free Door Delivery|N.A.|102.904296875|2013-06-17 21:30:23 +0530
+52|laptops_lists|Lenovo ThinkPad Edge E430-3254-D9Q Laptop|38800|In Stock|10-12 business days|Free Door Delivery|N.A.|103.2119140625|2013-06-17 21:30:25 +0530
+53|laptops_lists|Lenovo Ideapad S400-59-340453 Laptop|26290|In Stock|10-12 business days|Free Door Delivery|N.A.|102.361328125|2013-06-17 21:30:27 +0530
+54|laptops_lists|Lenovo Ideapad S405-59-348194 Laptop|28795|Out of Stock|10-12 business days|Free Door Delivery|N.A.|101.7392578125|2013-06-17 21:30:29 +0530
+55|laptops_lists|Lenovo Ideapad U310-59-342830 Ultrabook|39635|In Stock|10-12 business days|Free Door Delivery|N.A.|103.005859375|2013-06-17 21:30:32 +0530
+56|laptops_lists|Lenovo Ideapad U410-59-341061 Ultrabook|34410|In Stock|10-12 business days|Free Door Delivery|N.A.|103.0751953125|2013-06-17 21:30:34 +0530
+====Updated Patterns Table for 'online_greendust_products' ====
+====Starting online_univercell_products | product_id====
+====Updated Patterns Table for 'online_univercell_products' ====
+====Starting online_homeshop18_products | product_id====
+1861|laptops_lists|Lenovo Ideapad S400-59-356394 Laptop|23560|in stock|Delivered in 8 - 9 Working Days|Free Shipping|0|162.7421875|2013-06-17 21:30:35 +0530
+1862|laptops_lists|Dell Inspiron 15 3521 Laptop|24500|in stock|Delivered in 5 - 6 Working Days|Free Shipping||162.9833984375|2013-06-17 21:30:36 +0530
+1863|laptops_lists|Dell Inspiron 15 3521 Laptop|25600|in stock|Delivered in 5 - 6 Working Days|Free Shipping||177.076171875|2013-06-17 21:30:36 +0530
+1864|laptops_lists|Dell Inspiron 15 3521 Laptop|26750|in stock|Delivered in 5 - 6 Working Days|Free Shipping||163.736328125|2013-06-17 21:30:37 +0530
+1865|laptops_lists|HP Pavilion 15-B003TU Sleekbook|27582|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|153.4365234375|2013-06-17 21:30:38 +0530
+1866|laptops_lists|Dell Inspiron 15 3520 Laptop|31750|in stock|Delivered in 5 - 6 Working Days|Free Shipping||163.5146484375|2013-06-17 21:30:39 +0530
+1867|laptops_lists|Acer Aspire E1 571 Laptop|32550|in stock|Delivered in 5 - 6 Working Days|Free Shipping||160.33984375|2013-06-17 21:30:40 +0530
+1868|laptops_lists|HP 4431s ProBook|33035|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|185.2841796875|2013-06-17 21:30:41 +0530
+1869|laptops_lists|Dell Inspiron 15 3521 Laptop|33250|in stock|Delivered in 5 - 6 Working Days|Free Shipping||177.6240234375|2013-06-17 21:30:42 +0530
+1870|laptops_lists|HP 4540s ProBook|34239|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|154.6240234375|2013-06-17 21:30:42 +0530
+1871|laptops_lists|Dell Inspiron 15 3521 Laptop|34500|out of stock|0|Free Shipping||161.9228515625|2013-06-17 21:30:43 +0530
+1872|laptops_lists|Dell Inspiron 15 3521 Laptop|35000|in stock|Delivered in 5 - 6 Working Days|Free Shipping||164.38671875|2013-06-17 21:30:44 +0530
+1873|laptops_lists|HP Pavilion 15-B002TU Sleekbook|37832|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|166.3037109375|2013-06-17 21:30:45 +0530
+1874|laptops_lists|HP Pavilion G4-2049TX Laptop|40516|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|153.3173828125|2013-06-17 21:30:46 +0530
+1875|laptops_lists|HP Pavilion 15-B004TU Sleekbook|42042|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|154.486328125|2013-06-17 21:30:47 +0530
+1876|laptops_lists|HP Pavilion G6-2221TU Laptop|43095|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|154.509765625|2013-06-17 21:30:48 +0530
+1877|laptops_lists|Dell Inspiron 15 3521 Laptop|43750|in stock|Delivered in 5 - 6 Working Days|Free Shipping||164.443359375|2013-06-17 21:30:49 +0530
+1878|laptops_lists|HP Pavilion 15-B002TX Sleekbook|44147|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|166.5224609375|2013-06-17 21:30:50 +0530
+1879|laptops_lists|HP Pavilion 15-B001TU Sleekbook|47305|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|154.46484375|2013-06-17 21:30:51 +0530
+1880|laptops_lists|HP Pavilion M6-1102TX Laptop|59384|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|154.5087890625|2013-06-17 21:30:52 +0530
+1881|laptops_lists|Asus Eee PC 1015CX-BLK024W Netbook|15000|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|169.02734375|2013-06-17 21:30:52 +0530
+1882|laptops_lists|Asus Eee PC 1015CX-BLK024W Netbook|15150|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|157.580078125|2013-06-17 21:30:54 +0530
+1883|laptops_lists|Asus X53U-SX358D Laptop|18450|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|155.392578125|2013-06-17 21:30:55 +0530
+1884|laptops_lists|Asus X53U-SX358D Laptop|20900|out of stock|0|Free Shipping|0|155.1728515625|2013-06-17 21:30:55 +0530
+1885|laptops_lists|Toshiba Satellite C850-P5010 Laptop|20900|in stock|Delivered in 5 - 6 Working Days|Free Shipping||166.9453125|2013-06-17 21:30:56 +0530
+1886|laptops_lists|Asus K55A-SX464D Laptop|23150|out of stock|0|Free Shipping|0|176.7939453125|2013-06-17 21:30:57 +0530
+1887|laptops_lists|Toshiba Satellite C850-P5011 Laptop|24000|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|167.1611328125|2013-06-17 21:30:58 +0530
+1888|laptops_lists|Asus X54C-SX454D Laptop|25630|out of stock|0|Free Shipping|0|160.5234375|2013-06-17 21:30:59 +0530
+1889|laptops_lists|Acer E1-571 Laptop|27600|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|181.5478515625|2013-06-17 21:31:00 +0530
+1890|laptops_lists|HP 450 Laptop|30415|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|160.08984375|2013-06-17 21:31:01 +0530
+1891|laptops_lists|HP 430 - QG623PA Laptop|31050|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|164.935546875|2013-06-17 21:31:02 +0530
+1892|laptops_lists|Asus F501A-XX187R Laptop|33978|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|181.1728515625|2013-06-17 21:31:02 +0530
+1893|laptops_lists|Toshiba Satellite C850-X0010 Laptop|35485|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|166.8154296875|2013-06-17 21:31:05 +0530
+1894|laptops_lists|Asus K55VD-SX313D Laptop|35595|out of stock|0|Free Shipping|0|162.369140625|2013-06-17 21:31:06 +0530
+1895|laptops_lists|Asus K55VD-SX314D Laptop|35600|out of stock|0|Free Shipping|0|173.634765625|2013-06-17 21:31:07 +0530
+1896|laptops_lists|HP 4530s ProBook|37050|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|153.2578125|2013-06-17 21:31:08 +0530
+1897|laptops_lists|Asus F202E-CT148H VivoBook|40825|out of stock|0|Free Shipping|0|155.572265625|2013-06-17 21:31:08 +0530
+1898|laptops_lists|Lenovo Ideapad U310-59-342830 Ultrabook|44500|in stock|Delivered in 8 - 9 Working Days|Free Shipping|0|167.3056640625|2013-06-17 21:31:09 +0530
+1899|laptops_lists|Asus S550CM-CJ054H Ultrabook|58450|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|160.587890625|2013-06-17 21:31:10 +0530
+1900|laptops_lists|HP 4431s ProBook|65490|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|153.7216796875|2013-06-17 21:31:11 +0530
+1901|laptops_lists|Toshiba Satellite C850-P0011 Laptop|21000|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|166.9091796875|2013-06-17 21:31:12 +0530
+1902|laptops_lists|Asus X55C-SX078D Laptop|21915|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|154.4248046875|2013-06-17 21:31:13 +0530
+1903|laptops_lists|Toshiba Satellite C850-P5010 Laptop|22330|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|155.0|2013-06-17 21:31:13 +0530
+1904|laptops_lists|Toshiba Satellite C850-P5011 Laptop|22700|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|154.0361328125|2013-06-17 21:31:14 +0530
+1905|laptops_lists|Lenovo Essential B490-59-356128 Laptop|23560|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|162.6962890625|2013-06-17 21:31:16 +0530
+1906|laptops_lists|Lenovo Essential B490-59-356128 Laptop|23740|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|153.9365234375|2013-06-17 21:31:17 +0530
+1907|laptops_lists|Toshiba Satellite C840-I4010 Laptop|26750|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|157.6484375|2013-06-17 21:31:18 +0530
+1908|laptops_lists|HP 430 - QG623PA Laptop|27000|in stock|Delivered in 5 - 6 Working Days|Free Shipping||161.2802734375|2013-06-17 21:31:19 +0530
+1909|laptops_lists|Asus X54C-SX454D Laptop|27130|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|168.029296875|2013-06-17 21:31:21 +0530
+1910|laptops_lists|Lenovo Essential B480-59-343762-1924 Laptop|28775|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|161.916015625|2013-06-17 21:31:22 +0530
+1911|laptops_lists|Dell Inspiron 15 3520 Laptop|28900|out of stock|0|Free Shipping||159.9345703125|2013-06-17 21:31:23 +0530
+1912|laptops_lists|Lenovo Essential B480-59-343762-1924 Laptop|29220|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|168.5244140625|2013-06-17 21:31:24 +0530
+1913|laptops_lists|Toshiba Satellite C850-I5010 Laptop|29480|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|157.6025390625|2013-06-17 21:31:25 +0530
+1914|laptops_lists|Asus X53TK-SX056D Laptop|30265|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|153.5537109375|2013-06-17 21:31:26 +0530
+1915|laptops_lists|Acer Aspire V5 571 Laptop|31160|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|164.087890625|2013-06-17 21:31:28 +0530
+1916|laptops_lists|HP 430 - QG623PA Laptop|31570|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|161.3505859375|2013-06-17 21:31:28 +0530
+1917|laptops_lists|HP Pavilion DV4-5008TX Laptop 2nd Ci5-6GB-640GB-Win 7 HB-2GB Graphics with Beats Audio|31570|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|155.1396484375|2013-06-17 21:31:29 +0530
+1918|laptops_lists|Toshiba Satellite L750-I5010 Laptop|31830|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|154.91015625|2013-06-17 21:31:30 +0530
+1919|laptops_lists|Asus K55VD-SX313D Laptop|32200|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|168.59375|2013-06-17 21:31:31 +0530
+1920|laptops_lists|Asus K55VD-SX314D Laptop|32200|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|154.826171875|2013-06-17 21:31:32 +0530
+1921|laptops_lists|HP 431 Laptop|32350|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|159.5888671875|2013-06-17 21:31:33 +0530
+1922|laptops_lists|Toshiba Satellite L750-I5011 Laptop|33000|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|154.9189453125|2013-06-17 21:31:34 +0530
+1923|laptops_lists|Lenovo Essential B480-59-343761 Laptop|33560|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|169.0498046875|2013-06-17 21:31:35 +0530
+1924|laptops_lists|HP 4430s ProBook|33660|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|159.7119140625|2013-06-17 21:31:36 +0530
+1925|laptops_lists|Toshiba Satellite L740-X4010 Laptop|34335|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|154.8642578125|2013-06-17 21:31:37 +0530
+1926|laptops_lists|Samsung NP300E5A-A09IN Laptop|34450|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|177.447265625|2013-06-17 21:31:37 +0530
+1927|laptops_lists|HP 450 Laptop|35220|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|158.9462890625|2013-06-17 21:31:38 +0530
+1928|laptops_lists|Toshiba Satellite C850-X0010 Laptop|35480|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|157.6083984375|2013-06-17 21:31:40 +0530
+1929|laptops_lists|Asus A55DR-SX102D Laptop|35800|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|153.236328125|2013-06-17 21:31:41 +0530
+1930|laptops_lists|Dell Inspiron 15 3520 Laptop|36010|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|167.388671875|2013-06-17 21:31:42 +0530
+1931|laptops_lists|Samsung NP300V5A-S0GIN Laptop|36545|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|166.4482421875|2013-06-17 21:31:43 +0530
+1932|laptops_lists|Asus F202E-CT148H VivoBook|37300|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|170.439453125|2013-06-17 21:31:44 +0530
+1933|laptops_lists|Toshiba Satellite L740-X4211 Laptop|38330|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|176.1533203125|2013-06-17 21:31:45 +0530
+1934|laptops_lists|Sony VAIO E15135 Laptop|38525|out of stock|0|Free Shipping|0|167.9267578125|2013-06-17 21:31:46 +0530
+1935|laptops_lists|Sony VAIO E15135 Laptop|38525|out of stock|0|Free Shipping|0|154.85546875|2013-06-17 21:31:47 +0530
+1936|laptops_lists|Lenovo Essential B480-59-343080 Laptop|38700|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|154.33984375|2013-06-17 21:31:48 +0530
+1937|laptops_lists|HP 4440s ProBook|39750|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|172.1904296875|2013-06-17 21:31:48 +0530
+1938|laptops_lists|HP 4540s ProBook|40180|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|159.3662109375|2013-06-17 21:31:49 +0530
+1939|laptops_lists|Asus S56CA-XX030R Ultrabook|40700|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|155.693359375|2013-06-17 21:31:50 +0530
+1940|laptops_lists|Dell Inspiron 15R Laptop|41000|in stock|Delivered in 5 - 6 Working Days|Free Shipping||180.1025390625|2013-06-17 21:31:51 +0530
+1941|laptops_lists|Lenovo Essential B480-59-343079 Laptop|41750|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|154.22265625|2013-06-17 21:31:52 +0530
+1942|laptops_lists|Asus S56CA-XX030R Ultrabook|43529|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|160.216796875|2013-06-17 21:31:52 +0530
+1943|laptops_lists|Sony VAIO E14127CN Laptop|44400|out of stock|0|Free Shipping|0|156.9091796875|2013-06-17 21:31:53 +0530
+1944|laptops_lists|Asus S56CA-XX056R Ultrabook|45882|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|159.98046875|2013-06-17 21:31:54 +0530
+1945|laptops_lists|Dell Inspiron 15R Laptop|46800|in stock|Delivered in 5 - 6 Working Days|Free Shipping||172.60546875|2013-06-17 21:31:55 +0530
+1946|laptops_lists|Asus S56CA-XX056R Ultrabook|48010|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|155.8828125|2013-06-17 21:31:56 +0530
+1947|laptops_lists|Asus K55VM-SX086D Laptop|51250|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|154.21875|2013-06-17 21:31:57 +0530
+1948|laptops_lists|Toshiba Satellite U840-X4310 Laptop|52300|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|158.482421875|2013-06-17 21:31:57 +0530
+1949|laptops_lists|Toshiba Satellite L850 Satellite L850-Y5310 Laptop|57660|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|155.4228515625|2013-06-17 21:31:58 +0530
+1950|laptops_lists|Sony VAIO T14116PN Ultrabook|57785|out of stock|0|Free Shipping|0|154.5458984375|2013-06-17 21:31:59 +0530
+1951|laptops_lists|Asus S400CA-CA028H Ultrabook|61575|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|163.9833984375|2013-06-17 21:32:00 +0530
+1952|laptops_lists|Toshiba Satellite U840W-X0110 Ultrabook|64900|in stock|Delivered in 5 - 6 Working Days|Free Shipping|0|167.470703125|2013-06-17 21:32:01 +0530
+1953|laptops_lists|Sony VAIO E14A27CN Laptop|72225|out of stock|0|Free Shipping|0|154.291015625|2013-06-17 21:32:02 +0530
+1954|laptops_lists|HP Pavilion 14-B012AU Sleekbook|25477|out of stock|0|Free Shipping|0|156.7021484375|2013-06-17 21:32:03 +0530
+1955|laptops_lists|HP 1000-1204TU Laptop|26528|out of stock|0|Free Shipping|0|156.9619140625|2013-06-17 21:32:04 +0530
+1956|laptops_lists|Acer Aspire E1 571 Laptop|28935|out of stock|0|Free Shipping|0|161.8369140625|2013-06-17 21:32:05 +0530
+1957|laptops_lists|Acer Aspire E1 571 Laptop|28935|out of stock|0|Free Shipping|0|161.802734375|2013-06-17 21:32:05 +0530
+1958|laptops_lists|Acer Aspire E1 571 Laptop|31080|out of stock|0|Free Shipping|0|161.986328125|2013-06-17 21:32:06 +0530
+1959|laptops_lists|Acer Aspire E1 571 Laptop|31080|out of stock|0|Free Shipping|0|162.421875|2013-06-17 21:32:06 +0530
+1960|laptops_lists|Acer Aspire E1 571 Laptop|31615|out of stock|0|Free Shipping|0|162.421875|2013-06-17 21:32:07 +0530
+1961|laptops_lists|HP 2000-2125TU Laptop|31792|out of stock|0|Free Shipping|0|156.6044921875|2013-06-17 21:32:08 +0530
+1962|laptops_lists|Acer Aspire E1 571 Laptop|33760|out of stock|0|Free Shipping|0|162.2783203125|2013-06-17 21:32:09 +0530
+1963|laptops_lists|Acer Aspire E1 571 Laptop|34020|out of stock|0|Free Shipping|0|162.5810546875|2013-06-17 21:32:10 +0530
+1964|laptops_lists|Acer Aspire E1 571 Laptop|34880|out of stock|0|Free Shipping|0|161.912109375|2013-06-17 21:32:11 +0530
+1965|laptops_lists|Acer Aspire E1 571 Laptop|35600|out of stock|0|Free Shipping|0|161.8330078125|2013-06-17 21:32:12 +0530
+1966|laptops_lists|HP Pavilion G6-2222TU Laptop|35726|out of stock|0|Free Shipping|0|157.5146484375|2013-06-17 21:32:14 +0530
+1967|laptops_lists|HP 2000 2116TU Laptop|36003|out of stock|0|Free Shipping|0|168.607421875|2013-06-17 21:32:15 +0530
+1968|laptops_lists|HP Pavilion G6-2201AX Laptop|36779|out of stock|0|Free Shipping|0|168.79296875|2013-06-17 21:32:15 +0530
+1969|laptops_lists|Acer Aspire E1 571 Laptop|37500|out of stock|0|Free Shipping|0|162.2353515625|2013-06-17 21:32:17 +0530
+1970|laptops_lists|Acer Aspire V3 571G Laptop|40720|out of stock|0|Free Shipping|0|162.88671875|2013-06-17 21:32:18 +0530
+1971|laptops_lists|HP Envy 6-1011TU Sleekbook|45001|out of stock|0|Free Shipping|0|169.9482421875|2013-06-17 21:32:19 +0530
+1972|laptops_lists|HP Pavilion G6-2202TX Laptop|47305|out of stock|0|Free Shipping|0|157.505859375|2013-06-17 21:32:20 +0530
+1973|laptops_lists|HP Envy 4-1003TX Sleekbook|48186|out of stock|0|Free Shipping|0|157.8681640625|2013-06-17 21:32:21 +0530
+1974|laptops_lists|HP 431 Laptop|28250|out of stock|0|Free Shipping||155.3115234375|2013-06-17 21:32:21 +0530
+1975|laptops_lists|HP 430 - QG623PA Laptop|38350|out of stock|0|Free Shipping|0|156.44921875|2013-06-17 21:32:22 +0530
+1976|laptops_lists|HP Pavilion 14-B157TU Sleekbook|39990|out of stock|0|Free Shipping|0|166.58984375|2013-06-17 21:32:24 +0530
+1977|laptops_lists|HP 4430s ProBook|41225|out of stock|0|Free Shipping|0|169.1337890625|2013-06-17 21:32:25 +0530
+1978|laptops_lists|HP 4430s ProBook|42000|out of stock|0|Free Shipping|0|157.130859375|2013-06-17 21:32:26 +0530
+1979|laptops_lists|HP Pavilion 14-B003TX Sleekbook|49411|out of stock|0|Free Shipping|0|157.443359375|2013-06-17 21:32:27 +0530
+1980|laptops_lists|HP Pavilion DV4-5008TX Laptop|52542|out of stock|0|Free Shipping|0|170.171875|2013-06-17 21:32:28 +0530
+1981|laptops_lists|HP Envy 4-1103TU Ultrabook|54121|out of stock|0|Free Shipping|0|157.083984375|2013-06-17 21:32:28 +0530
+1982|laptops_lists|HP Envy 4-1104TU Ultrabook|54121|out of stock|0|Free Shipping|0|169.0869140625|2013-06-17 21:32:29 +0530
+1983|laptops_lists|HP Envy 4-1104TX Ultrabook|56226|out of stock|0|Free Shipping|0|157.083984375|2013-06-17 21:32:30 +0530
+1984|laptops_lists|HP Envy 4-1105TX Ultrabook|56226|out of stock|0|Free Shipping|0|156.11328125|2013-06-17 21:32:31 +0530
+1985|laptops_lists|HP Pavilion M6-1103TX Laptop|59384|out of stock|0|Free Shipping|0|157.505859375|2013-06-17 21:32:31 +0530
+1986|laptops_lists|HP Envy 4-1002TX Ultrabook|60542|out of stock|0|Free Shipping|0|169.890625|2013-06-17 21:32:32 +0530
+1987|laptops_lists|HP Envy 4-1102TX Ultrabook|61489|out of stock|0|Free Shipping|0|157.103515625|2013-06-17 21:32:33 +0530
+1988|laptops_lists|HP Envy 4-1103TX Ultrabook|61489|out of stock|0|Free Shipping|0|157.103515625|2013-06-17 21:32:33 +0530
+1989|laptops_lists|HP Pavilion M6-1104TX Laptop|62542|out of stock|0|Free Shipping|0|157.361328125|2013-06-17 21:32:34 +0530
+1990|laptops_lists|HP Pavilion DV6-7040TX Laptop|65805|out of stock|0|Free Shipping|0|158.5283203125|2013-06-17 21:32:35 +0530
+1991|laptops_lists|HP Envy Spectre XT 13-2001TU Ultrabook|66305|out of stock|0|Free Shipping|0|158.6689453125|2013-06-17 21:32:35 +0530
+1992|laptops_lists|HP Pavilion DV6-7207TX Laptop|66753|out of stock|0|Free Shipping|0|157.5986328125|2013-06-17 21:32:36 +0530
+1993|laptops_lists|HP Pavilion DV6-7206TX Laptop|70963|out of stock|0|Free Shipping|0|157.4560546875|2013-06-17 21:32:37 +0530
+1994|laptops_lists|Asus Eee PC 1015CX-BLK024W Netbook|15650|out of stock|0|Free Shipping|0|157.9072265625|2013-06-17 21:32:38 +0530
+1995|laptops_lists|Asus R051CX Laptop|17220|out of stock|0|Free Shipping|0|156.728515625|2013-06-17 21:32:38 +0530
+1996|laptops_lists|Toshiba C850D M5010 Laptop|19500|out of stock|0|Free Shipping|0|156.2578125|2013-06-17 21:32:39 +0530
+1997|laptops_lists|Toshiba Satellite C850-P5010 Laptop|20920|out of stock|0|Free Shipping|0|166.54296875|2013-06-17 21:32:40 +0530
+1998|laptops_lists|Acer Aspire E1 531 Laptop|24360|out of stock|0|Free Shipping|0|162.6572265625|2013-06-17 21:32:40 +0530
+1999|laptops_lists|Toshiba Satellite C640-I401A Laptop|25575|out of stock|0|Free Shipping|0|171.19140625|2013-06-17 21:32:41 +0530
+2000|laptops_lists|Acer Aspire V5 431 Laptop|25720|out of stock|0|Free Shipping|0|162.4208984375|2013-06-17 21:32:42 +0530
+2001|laptops_lists|Acer Aspire V5 431 Laptop|25720|out of stock|0|Free Shipping|0|162.625|2013-06-17 21:32:42 +0530
+2002|laptops_lists|Acer Aspire V5 531 Laptop|26040|out of stock|0|Free Shipping|0|162.9091796875|2013-06-17 21:32:43 +0530
+2003|laptops_lists|Acer Aspire E1 531 Laptop|26610|out of stock|0|Free Shipping|0|163.248046875|2013-06-17 21:32:44 +0530
+2004|laptops_lists|Acer Aspire V5 431 Laptop|27320|out of stock|0|Free Shipping|0|163.0810546875|2013-06-17 21:32:44 +0530
+2005|laptops_lists|HP 4530s ProBook|43570|out of stock|0|Free Shipping|0|157.05078125|2013-06-17 21:32:45 +0530
+2006|laptops_lists|HP 4530s ProBook|44095|out of stock|0|Free Shipping|0|157.203125|2013-06-17 21:32:46 +0530
+2007|laptops_lists|HP 4430s ProBook|44620|out of stock|0|Free Shipping|0|157.111328125|2013-06-17 21:32:46 +0530
+2008|laptops_lists|Acer V3-571G Laptop|44620|out of stock|0|Free Shipping|0|171.6396484375|2013-06-17 21:32:48 +0530
+2009|laptops_lists|HP 4530s ProBook|47225|out of stock|0|Free Shipping|0|157.1943359375|2013-06-17 21:32:48 +0530
+2010|laptops_lists|HP Elite Book 2560p Laptop|90275|out of stock|0|Free Shipping|0|157.3310546875|2013-06-17 21:32:49 +0530
+2011|laptops_lists|Acer Aspire V5 431 Laptop|27860|out of stock|0|Free Shipping|0|162.974609375|2013-06-17 21:32:50 +0530
+2012|laptops_lists|Acer Aspire V5 531 Laptop|28085|out of stock|0|Free Shipping|0|163.0068359375|2013-06-17 21:32:50 +0530
+2013|laptops_lists|Acer Aspire E1 571 Laptop|28935|out of stock|0|Free Shipping|0|161.8515625|2013-06-17 21:32:51 +0530
+2014|laptops_lists|Dell Vostro 2520 Laptop|29660|out of stock|0|Free Shipping|0|164.669921875|2013-06-17 21:32:52 +0530
+2015|laptops_lists|Dell Vostro 2420 Laptop|31999|out of stock|0|Free Shipping|0|181.0283203125|2013-06-17 21:32:52 +0530
+2016|laptops_lists|Lenovo Ideapad S405-59-348194 Laptop|32370|out of stock|0|Free Shipping|0|163.0703125|2013-06-17 21:32:53 +0530
+2017|laptops_lists|Acer Aspire V5 431 Laptop|34280|out of stock|0|Free Shipping|0|164.7001953125|2013-06-17 21:32:54 +0530
+2018|laptops_lists|Dell Vostro 1450 Laptop|34768|out of stock|0|Free Shipping|0|168.1796875|2013-06-17 21:32:54 +0530
+2019|laptops_lists|Acer Aspire V5 571 Laptop|35900|out of stock|0|Free Shipping|0|163.8291015625|2013-06-17 21:32:55 +0530
+2020|laptops_lists|Acer Aspire V5 571 Laptop|35900|out of stock|0|Free Shipping|0|163.896484375|2013-06-17 21:32:56 +0530
+2021|laptops_lists|Acer Aspire V5 571 Laptop|36060|out of stock|0|Free Shipping|0|164.12109375|2013-06-17 21:32:57 +0530
+2022|laptops_lists|Acer Aspire V5 571 Laptop|36060|out of stock|0|Free Shipping|0|163.69921875|2013-06-17 21:32:57 +0530
+2023|laptops_lists|Dell Inspiron 15R Laptop|36800|out of stock|0|Free Shipping||168.8408203125|2013-06-17 21:32:58 +0530
+2024|laptops_lists|Dell Vostro 2520 Laptop|36888|out of stock|0|Free Shipping|0|168.1708984375|2013-06-17 21:32:59 +0530
+2025|laptops_lists|Acer Aspire V5 431 Laptop|37500|out of stock|0|Free Shipping|0|164.6162109375|2013-06-17 21:32:59 +0530
+2026|laptops_lists|Sony VAIO T Series SVT13113EN Ultrabook|38625|out of stock|0|Free Shipping|0|168.6171875|2013-06-17 21:33:00 +0530
+2027|laptops_lists|Acer Aspire V5-471P Laptop|40720|out of stock|0|Free Shipping|0|163.7880859375|2013-06-17 21:33:01 +0530
+2028|laptops_lists|Dell Inspiron 15R Laptop|42140|out of stock|0|Free Shipping|0|157.75|2013-06-17 21:33:01 +0530
+2029|laptops_lists|HP 4430s ProBook|43310|out of stock|0|Free Shipping|0|165.763671875|2013-06-17 21:33:02 +0530
+2030|laptops_lists|Acer Aspire V3 571G Laptop|45000|out of stock|0|Free Shipping|0|162.6298828125|2013-06-17 21:33:03 +0530
+2031|laptops_lists|Acer Aspire V5-471P Laptop|47155|out of stock|0|Free Shipping|0|163.94921875|2013-06-17 21:33:09 +0530
+2032|laptops_lists|Sony VAIO T14113CN Ultrabook|48100|out of stock|0|Free Shipping|0|166.7138671875|2013-06-17 21:33:09 +0530
+2033|laptops_lists|Sony VAIO T11125CN Ultrabook|50995|out of stock|0|Free Shipping|0|165.8486328125|2013-06-17 21:33:10 +0530
+2034|laptops_lists|Dell Inspiron 15 3520 Laptop|51200|out of stock|0|Free Shipping||170.8271484375|2013-06-17 21:33:11 +0530
+2035|laptops_lists|Acer Aspire Timeline Ultra M5 481T Laptop|52500|out of stock|0|Free Shipping|0|163.267578125|2013-06-17 21:33:11 +0530
+2036|laptops_lists|Acer Aspire M3 Laptop|53585|out of stock|0|Free Shipping|0|163.615234375|2013-06-17 21:33:12 +0530
+2037|laptops_lists|Dell Inspiron 15 3520 Laptop|55575|out of stock|0|Free Shipping|0|157.71484375|2013-06-17 21:33:13 +0530
+2038|laptops_lists|Dell Inspiron 15R Laptop|56200|out of stock|0|Free Shipping||181.35546875|2013-06-17 21:33:13 +0530
+2039|laptops_lists|HP 4530s ProBook|60530|out of stock|0|Free Shipping|0|164.68359375|2013-06-17 21:33:14 +0530
+2040|laptops_lists|Sony VAIO T13126CN Ultrabook|62575|out of stock|0|Free Shipping|0|166.275390625|2013-06-17 21:33:14 +0530
+====Updated Patterns Table for 'online_homeshop18_products' ====
+====Starting online_futurebazaar_products | product_id====
+373|laptops_lists|Lenovo Essential G570-59-340549 Laptop|29287|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|135.3974609375|2013-06-17 21:33:16 +0530
+377|laptops_lists|Lenovo Essential G580-59-324058 Laptop|39691|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|131.34375|2013-06-17 21:33:22 +0530
+379|laptops_lists|Lenovo Essential G580-59-324064 Laptop|36050|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|131.888671875|2013-06-17 21:33:25 +0530
+381|laptops_lists|Lenovo Essential G580-59-341688 Laptop|33390|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|130.349609375|2013-06-17 21:33:28 +0530
+382|laptops_lists|Lenovo Essential G580-59-351466 Laptop|28767|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|128.611328125|2013-06-17 21:33:29 +0530
+383|laptops_lists|Lenovo Essential G580-59-351467 Laptop|24814|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|128.78515625|2013-06-17 21:33:30 +0530
+384|laptops_lists|Lenovo Essential G580-59-351474 Laptop|25334|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|130.9677734375|2013-06-17 21:33:31 +0530
+385|laptops_lists|Lenovo Essential G580-59-352560 Laptop|24490|out of stock||Free Door Delivery|N.A|136.0390625|2013-06-17 21:33:33 +0530
+387|laptops_lists|Lenovo Essential G580-59-355398 Laptop|37090|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|129.0673828125|2013-06-17 21:33:36 +0530
+388|laptops_lists|Lenovo Essential G580-59-356384 Laptop|31990|out of stock||Free Door Delivery|N.A|136.1240234375|2013-06-17 21:33:37 +0530
+389|laptops_lists|Lenovo Essential G585-59-348619 Laptop|23990|out of stock||Free Door Delivery|N.A|135.5234375|2013-06-17 21:33:39 +0530
+390|laptops_lists|Lenovo Ideapad S300-59-340450 Laptop|32408|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|133.3046875|2013-06-17 21:33:40 +0530
+392|laptops_lists|Lenovo Ideapad S400-59-340453 Laptop|34489|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|138.798828125|2013-06-17 21:33:43 +0530
+394|laptops_lists|Lenovo Ideapad S400-59-356394 Laptop|25906|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|133.1845703125|2013-06-17 21:33:46 +0530
+395|laptops_lists|Lenovo Ideapad S405-59-348194 Laptop|30990|out of stock||Free Door Delivery|N.A|140.7197265625|2013-06-17 21:33:47 +0530
+396|laptops_lists|Lenovo Ideapad U310-59-341069 Ultrabook|44890|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|132.2412109375|2013-06-17 21:33:49 +0530
+398|laptops_lists|Lenovo Ideapad U410-59-341061 Ultrabook|41990|out of stock||Free Door Delivery|N.A|137.91015625|2013-06-17 21:33:51 +0530
+400|laptops_lists|Lenovo Ideapad U410-59-342788 Ultrabook|54990|out of stock||Free Door Delivery|N.A|137.8955078125|2013-06-17 21:33:54 +0530
+402|laptops_lists|Lenovo Ideapad Z580-59-333347 Laptop|45674|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|129.0263671875|2013-06-17 21:33:56 +0530
+403|laptops_lists|Lenovo Ideapad Z580-59-333620 Laptop|40472|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|135.5498046875|2013-06-17 21:33:58 +0530
+404|laptops_lists|Lenovo Ideapad Z580-59-333642 Laptop|40472|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|128.8759765625|2013-06-17 21:33:59 +0530
+405|laptops_lists|Lenovo Ideapad Z580-59-333648 Laptop|40472|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|128.9267578125|2013-06-17 21:34:00 +0530
+407|laptops_lists|Lenovo Ideapad Z580-59-339351 Laptop|61540|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|131.365234375|2013-06-17 21:34:03 +0530
+408|laptops_lists|Lenovo Ideapad Z580-59-339356 Laptop|61540|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|131.33984375|2013-06-17 21:34:04 +0530
+410|laptops_lists|Lenovo Ideapad Z580-59-347587 Laptop|37990|out of stock||Free Door Delivery|N.A|135.7548828125|2013-06-17 21:34:07 +0530
+411|laptops_lists|Lenovo Ideapad Z580-59-347604 Laptop|36999|out of stock||Free Door Delivery|N.A|136.234375|2013-06-17 21:34:08 +0530
+448|laptops_lists|Lenovo Essential G580-59-351467 Laptop|24814|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|128.796875|2013-06-17 21:34:11 +0530
+449|laptops_lists|Lenovo Essential G580-59-351474 Laptop|25334|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|130.9794921875|2013-06-17 21:34:12 +0530
+450|laptops_lists|Lenovo Ideapad S400-59-356394 Laptop|25906|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|133.1962890625|2013-06-17 21:34:13 +0530
+451|laptops_lists|Lenovo Essential G580-59-351466 Laptop|28767|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|128.623046875|2013-06-17 21:34:15 +0530
+452|laptops_lists|Lenovo Essential G570-59-340549 Laptop|29287|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|135.4091796875|2013-06-17 21:34:16 +0530
+453|laptops_lists|Lenovo Essential G580-59-341688 Laptop|33390|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|130.361328125|2013-06-17 21:34:17 +0530
+454|laptops_lists|Lenovo Essential G580-59-355398 Laptop|37090|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|129.0791015625|2013-06-17 21:34:18 +0530
+455|laptops_lists|Lenovo Essential G580-59-324064 Laptop|36050|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|131.900390625|2013-06-17 21:34:19 +0530
+456|laptops_lists|Lenovo Essential G580-59-324058 Laptop|39691|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|131.35546875|2013-06-17 21:34:21 +0530
+457|laptops_lists|Lenovo Ideapad Z580-59-333620 Laptop|40472|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|135.5615234375|2013-06-17 21:34:22 +0530
+458|laptops_lists|Lenovo Ideapad Z580-59-333642 Laptop|40472|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|128.8876953125|2013-06-17 21:34:23 +0530
+459|laptops_lists|Lenovo Ideapad Z580-59-333648 Laptop|40472|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|128.9384765625|2013-06-17 21:34:24 +0530
+460|laptops_lists|Lenovo Ideapad U310-59-341069 Ultrabook|44890|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|132.2529296875|2013-06-17 21:34:25 +0530
+461|laptops_lists|Lenovo Ideapad Z580-59-333347 Laptop|45674|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|129.0380859375|2013-06-17 21:34:27 +0530
+462|laptops_lists|Lenovo Ideapad Z580-59-347586 Laptop|47754|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|135.9267578125|2013-06-17 21:34:28 +0530
+463|laptops_lists|Lenovo Ideapad Z580-59-339356 Laptop|61540|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|131.3515625|2013-06-17 21:34:29 +0530
+464|laptops_lists|Lenovo Ideapad Z580-59-339351 Laptop|61540|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|131.376953125|2013-06-17 21:34:30 +0530
+465|laptops_lists|Lenovo Ideapad S300-59-340450 Laptop|32408|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|133.31640625|2013-06-17 21:34:31 +0530
+466|laptops_lists|Lenovo Ideapad S400-59-340453 Laptop|34489|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|138.810546875|2013-06-17 21:34:33 +0530
+467|laptops_lists|Lenovo Ideapad Z580-59-347591 Laptop|41990|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|135.1171875|2013-06-17 21:34:34 +0530
+468|laptops_lists|Lenovo Essential G580-59-356381 Laptop|28490|out of stock||Free Door Delivery|N.A|136.18359375|2013-06-17 21:34:35 +0530
+469|laptops_lists|HP Pavilion G6-2201AX Laptop|34990|out of stock||Free Door Delivery|N.A|124.3720703125|2013-06-17 21:34:37 +0530
+470|laptops_lists|HP Pavilion G6-2231TX Laptop|37999|out of stock||Free Door Delivery|N.A|126.7021484375|2013-06-17 21:34:38 +0530
+471|laptops_lists|HP Pavilion G6-2302AX Laptop|29990|out of stock||Free Door Delivery|N.A|128.494140625|2013-06-17 21:34:40 +0530
+472|laptops_lists|Lenovo Essential G585-59-348629 Laptop|23990|out of stock||Free Door Delivery|N.A|126.0791015625|2013-06-17 21:34:41 +0530
+473|laptops_lists|Lenovo Ideapad Z585-59-347937 Laptop|33990|out of stock||Free Door Delivery|N.A|125.0625|2013-06-17 21:34:43 +0530
+474|laptops_lists|HP Pavilion Touchsmart 14-B171TU Sleekbook|39990|in stock|Delivery In 10 Days|Free Door Delivery|N.A|120.1865234375|2013-06-17 21:34:44 +0530
+====Updated Patterns Table for 'online_futurebazaar_products' ====
+====Starting online_saholic_products | product_id====
+====Updated Patterns Table for 'online_saholic_products' ====
+====Starting online_sangeetha_products | product_id====
+====Updated Patterns Table for 'online_sangeetha_products' ====
+====Starting online_edabba_products | product_id====
+====Updated Patterns Table for 'online_edabba_products' ====
+====Starting online_zoomin_products | product_id====
+====Updated Patterns Table for 'online_zoomin_products' ====

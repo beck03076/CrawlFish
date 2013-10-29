@@ -1,0 +1,184 @@
+<div id="cf-andgo-vendor-grid">
+
+<table class="cf-andgo-vendor-grid-table" border=0 cellpadding=0 cellspacing=0>
+
+	<tr class="cf-andgo-vendor-grid-table-header">
+		<td id="grid-vendor-details">
+			<%if !@vendor_details.nil? %>
+				<%= link_to "Vendor Details",{:action => 'get_vendor_details',:controller => 'and_go_dashboard'},:data => { :order => "ASC" } %></td>
+			<%else%>
+				Vendor Details
+			<%end%>
+     		<td id="grid-coupon-code-leads">			
+			<%if !@vendor_details.nil? %>
+				<%= link_to "Leads",{:action => 'get_vendor_details',:controller => 'and_go_dashboard'},:data => { :order => "ASC" } %></td>
+			<%else%>
+				Leads
+			<%end%>
+		</td>
+		<td id="grid-payment-details">
+			<%if !@vendor_details.nil? %>		
+				<%= link_to "Payment Details",{:action => 'get_vendor_details',:controller => 'and_go_dashboard'},:data => { :order => "ASC" } %></td>
+			<%else%>
+				Payment Details
+			<%end%>
+		<td id="grid-price">
+			<%if @no_price_flag == 1 %>
+				Price in Rs
+			<% else %>
+				<%if !@vendor_details.nil? %>
+					<%= link_to "Price in Rs",{:action => 'get_vendor_details',:controller => 'and_go_dashboard'},:data => { :order => "ASC" } %>
+				<%else%>
+					Price in Rs
+				<%end%>
+			<% end %>
+		</td>
+		<td class="grid-button"></td>
+	</tr>
+</table>
+
+<table class="cf-andgo-vendor-grid-table" id="andgo-content-row" style="display:none" border=0 cellpadding=0 cellspacing=0>
+
+<% if !@vendor_details.nil? %>
+
+	<% @vendor_details.each do |i| %>
+
+		<% get_vendor_coupons_details(i.vendor_id) %>
+
+		<% get_vendor_payment_details(i.vendor_id) %>
+
+		<% if i.attributes.has_key?("price") %>
+			<% id_name,phone_id_name,link_id_name,label_id_name = get_vendor_price(i.price,i.vendor_id) %>
+		<% else %>
+			<% id_name,phone_id_name,link_id_name,label_id_name = get_vendor_price(0,i.vendor_id) %>
+		<% end %>
+
+		<tr class="cf-andgo-vendor-grid-table-content-row">
+
+
+		<td class="grid-vendor-row-vendor-details">
+			<div class="grid-vendor-name"><%=i.vendor_alias_name.titlecase%>, <%=i.branch_alias_name.titlecase%></div>
+			<div class="grid-vendor-address"><b>Address : </b> <%=i.vendor_address%></div>
+			<div class="grid-vendor-email"><b>E Mail : </b><%=i.vendor_email%></div>
+			<div class="grid-vendor-phone"><b>Phone : </b><%=i.vendor_phone%></div>
+			<div class="grid-vendor-time"><b>Working Time : </b><%=i.working_time%></div>
+			<div class="grid-vendor-offers">
+				<%if i.miscellaneous == "na"%>
+					<b>No offers</b>
+				<%else%>
+					<b>Offers : </b>
+				<% @arr_offers = i.miscellaneous.split("|") %>
+					<% @arr_offers.each_with_index do |value,index| %>
+						<% if index == 0 %>
+						<b><%=index+1 %>.</b>&nbsp;<%=value%>
+						<% else %>
+							, <b><%=index+1 %>.</b>&nbsp;<%=value%>
+						<% end %>
+				<%end%>
+				<%end%>
+			</div>
+		</td>
+
+     		<td class="grid-coupon-code-leads-row">
+			<table cellpadding=0 cellspacing=0 border=0 class="cf-andgo-coupon-code-leads-table">
+			<tr style="background:none repeat scroll 0 0 #F5F5F5">
+				<th style="border-right:1px solid #CCC;"></th>
+				<th style="border-bottom:1px solid #CCC;border-right:1px solid #CCC">Leads Worth</th>
+				<th style="border-bottom:1px solid #CCC;"># of Leads</th>
+			</tr>
+			<tr>
+				<td style="border-right:1px solid #CCC;background:none repeat scroll 0 0 #F5F5F5;color:#C42525;font-size:14px;font-weight:bold"><b><%=Date.today.month%> , <%=Date.today.year%></b></td>
+				<td style="border-right:1px solid #CCC;color:#C42525;font-size:14px;font-weight:bold">Rs.<%=number_with_delimiter(@this_month_leads_value)%></td>
+				<td style="color:#C42525;font-size:14px;font-weight:bold"><%=@this_month_leads_count %></td>
+			</tr>
+			<tr>
+				<td style="border-right:1px solid #CCC;background:none repeat scroll 0 0 #F5F5F5;"><b><%=Date.today.ago(1.month).beginning_of_month.month%> , <%=Date.today.ago(1.month).beginning_of_month.year%></b></td>
+				<td style="border-right:1px solid #CCC;">Rs.<%=number_with_delimiter(@last_month_leads_value)%></td>
+				<td><%=@last_month_leads_count%></td>
+			</tr>
+			<tr>
+				<td style="border-right:1px solid #CCC;background:none repeat scroll 0 0 #F5F5F5"><b><%=Date.today.ago(2.month).beginning_of_month.month%> , <%=Date.today.ago(2.month).beginning_of_month.year%></b></td>
+				<td style="border-right:1px solid #CCC;">Rs.<%=number_with_delimiter(@last_before_month_leads_value)%></td>
+				<td><%=@last_before_month_leads_count%></td>
+			</tr>
+			<tr>
+				<td style="border-right:1px solid #CCC;background:none repeat scroll 0 0 #F5F5F5"><b>All Time</b></td>
+				<td style="border-right:1px solid #CCC;">Rs.<%=number_with_delimiter(@all_time_leads_value)%></td>
+				<td><%=@all_time_leads_count%></td>
+			</tr>
+			</table>
+		</td>
+		<td class="grid-payment-details-row">
+		<% if !@payment_details.nil? %>
+		<table cellpadding=0 cellspacing=0 border=0 class="cf-andgo-payment-table">
+			<tr>
+				<td style="border-right:1px solid #CCC;background:none repeat scroll 0 0 #F5F5F5"><b>Amount</b></td>
+				<td style="border-right:1px solid #CCC;">Rs.<%=number_with_delimiter(@payment_details.amount.to_i)%></td>
+			</tr>
+			<tr>
+				<td style="border-right:1px solid #CCC;background:none repeat scroll 0 0 #F5F5F5"><b>Period</b></td>
+				<td style="border-right:1px solid #CCC;"><%=@payment_details.period%> days</td>
+			</tr>
+			<tr>
+				<td style="border-right:1px solid #CCC;background:none repeat scroll 0 0 #F5F5F5"><b>Start Date</b></td>
+				<td style="border-right:1px solid #CCC;"><%=@payment_details.listing_start_date.strftime("%d-%m-%Y")%></td>
+			</tr>
+			<tr>
+				<td style="border-right:1px solid #CCC;background:none repeat scroll 0 0 #F5F5F5"><b>End Date</b></td>
+				<td style="border-right:1px solid #CCC;"><%=@payment_details.listing_end_date.strftime("%d-%m-%Y")%></td>
+			</tr>
+			</table>
+		<%else%>
+			No payment details available
+		<% end %>
+		</td>
+		
+		<td class="grid-price-row">
+				<div>
+				<% if i.attributes.has_key?("price") %>
+					Rs. <%= number_with_delimiter(i.price.to_i) %>
+				<% else %>
+					Price Not Available	
+				<% end %>
+				</div>
+
+				<div style="padding-top:10px">
+				<%= text_field_tag "actual-price",nil,{:id=>id_name,:class=>"cf-andgo-middle-content-product-price",:title => "Enter a price",:placeholder => "Enter actual price"} %>
+				</div>
+		</td>
+		<td id="grid-button-row">
+			<div style="padding-bottom:5px">
+				<%= text_field_tag "vendor-phone-number",nil,{:id=>phone_id_name,:class=>"cf-andgo-middle-content-product-vendorphone-no",:title => "Enter a price",:placeholder => "Enter vendor phone no"} %>
+			</div>
+
+			<%= link_to "SEND",{:action => 'submit_vendor_request',:controller => 'and_go_dashboard'},:id => link_id_name,:target => "_blank",:data => { :mobile_number => @mobile_number,:vendor_id => i.vendor_id, :product_id => @product_id, :sub_category_id => @sub_category_id,:product_name => @product_name } %>
+
+			<%= label_tag 'DONE', nil, :id => label_id_name,:class=> "cf-andgo-middle-content-label-none" %>
+		</td>
+		</tr>
+	<%end%>	
+
+<% else %>
+	<tr>
+	<td colspan=4>
+		<div class="cf-andgo-vendor-grid-table-nocontent-row">No Data Found</td>
+	</td>
+	</tr>
+
+<% end %>
+
+</table>
+
+<table class="cf-andgo-vendor-grid-table" id="andgo-loading-bar-grid" style="display:none" border=0 cellpadding=0 cellspacing=0>
+
+<tr class="cf-andgo-vendor-grid-table-content-row">
+		<td colspan=4>
+			<div class="cf-andgo-vendor-grid-table-nocontent-row">
+				<%= image_tag "/Images/131.gif", :size => "50x50" %>
+			</div>
+		</td>
+</tr>
+
+</table>
+
+</div>

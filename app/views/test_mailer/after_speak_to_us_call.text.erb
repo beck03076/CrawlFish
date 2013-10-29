@@ -1,0 +1,58 @@
+crawlfish.in
+===============================================
+You have an entry for SPEAK TO US in CrawlFish.in at <%= Time.new.to_s %>
+User name :
+<%if !@after_speaktous.name.nil?%>
+	<%if @after_speaktous.name.size>1%>
+		<%=@after_speaktous.name.to_s.titlecase%> 
+	<%end%>
+<%end%>
+
+Email :
+<%if !@after_speaktous.email.nil?%>
+	<%if @after_speaktous.email.size>1%>
+		<%=@after_speaktous.email.to_s%> 
+	<% end %>
+<%end%>
+
+Contact Number :
+<%if !@after_speaktous.contact_number.nil?%>
+	<%if @after_speaktous.contact_number.size>1%>	
+		<%=@after_speaktous.contact_number.to_s%> 
+	<%end%>
+<%end%>
+
+Message :
+<%if !@after_speaktous.message.nil?%>
+	<%if @after_speaktous.message.size>1%>
+		<%=@after_speaktous.message.to_s%>
+	<%end%>
+<%end%>
+
+Advertisement Flag :
+<%if !@after_speaktous.advertisement_flag.nil?%>
+	<%if @after_speaktous.advertisement_flag.size>0%>
+		<%=@after_speaktous.advertisement_flag.to_s%> 
+	<%end%>
+<%end%>
+
+Query Flag :
+<%if !@after_speaktous.query_flag.nil?%>
+	<%if @after_speaktous.query_flag.size>0%>
+		<%=@after_speaktous.query_flag.to_s%> 
+	<%end%>
+<%end%>
+
+Suggestion Flag :
+<%if !@after_speaktous.suggestion_flag.nil?%>
+	<%if @after_speaktous.suggestion_flag.size>0%>
+		<%=@after_speaktous.suggestion_flag.to_s%> 
+	<%end%>
+<%end%>
+
+Defect Flag :
+<%if !@after_speaktous.defect_flag.nil?%>
+	<%if @after_speaktous.defect_flag.size>0%>
+		<%=@after_speaktous.defect_flag.to_s%> 
+	<%end%>
+<%end%>

@@ -1,0 +1,89 @@
+<script>
+$(function () {
+
+$("a#hide-viewed-temp, a#hide-viewed-days").click(function(){
+
+   $("#right-panel > #viewed").fadeOut(1000);
+   dur = $(this).data("dur");
+
+   if (dur == "temp"){
+       d = set_date(30);
+          
+   }
+   else if (dur == "days"){
+      d = 1;
+   }
+   
+   $.cookie("flag_recently_viewed","yes", {expires: d, path: '/'});
+});
+
+});
+</script>
+<!--viewed products layout - STARTS -->     
+            <div class="border-gray-b padT10" style="background-color:F0F0F0;">
+                <!-- viewed products header - STARTS -->
+                <span class="header-text ">
+                    Your History at CrawlFish
+                </span>
+                <div class="text-n14 gray-text padL5 padB5 border-gray-b">
+                    <span class="g-text">
+                    You were viewing 
+                    </span>the following products, have you bought anyone of them, yet?
+                </div>
+                
+                
+                <div class="padL20 padT10 padB10" align="left">
+                <% @res.keys.each do |cat| %>
+                <% @res[cat].each do |i| %>
+                   <% c = cat.split("|") %>
+                <table>
+                  <td class="img-50">
+                       <%= form_generic_to_specific_page_links("image",
+                                                     i.send(c[2]).split(",")[0],
+                                                     "online",
+                                                     c[0],
+                                                     i.name_slug,
+                                                     i.identifier_slug,
+                                                     @country) %>
+                  </td>
+                  <% disp = truncate(i.send(c[1]),:length=> 30) %>
+                  <td valign="center">
+                        <%= form_generic_to_specific_page_links("link",
+                                                     disp,
+                                                     "online",
+                                                     c[0],
+                                                     i.name_slug,
+                                                     i.identifier_slug,
+                                                     @country) %>
+                                                     
+                  </td>
+                </table>
+                <% end %>
+                <% end %>
+                </div>
+                <div class="text-n12 darkgray-text padL5 padB5">
+                    <span class="g-text text-b14">
+                        Yep, I bought one!
+                    </span>Share your experience with us by 
+                    <span class="g-text">
+                    writing a review! about the shop you bought from. 
+                    </span>
+                    Trust us, it greatly helps other people. Get started by clicking on the product! 
+                    
+                </div>
+                <div class="gray-button padB10 padR10" align="right">
+                <a id="hide-viewed-temp" data-dur="temp"> Alright! </a>
+                <div class="darkgray-text padT5 text-n9 padB10 padT5"> (will be hid for a while!)</div>
+                <a id="hide-viewed-days" data-dur="days"> Stop talking! </a>
+                <div class="darkgray-text padT5 text-n9"> (will be hid for the whole day!)</div>
+                </div>
+                
+           </div>
+
+<!-- viewed LAYOUT - ENDS -->                
+                <div style="clear:both"></div>
+  
+  
+  
+
+

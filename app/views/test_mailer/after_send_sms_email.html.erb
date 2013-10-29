@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+  </head>
+  <body>
+    <span style="font-size:14px;font-weight:bold;color:#C42525"><u>CrawlFish</u></span>
+    <br/>
+    <br/>
+    <span style="font-size:13px;font-weight:normal">
+    	You have an entry for <b>SEND SMS</b> in <b>crawlfish.in</b> at <i><b><%= Time.new.to_s %></b></i>
+    </span>
+	<br/>
+	<br/>
+	<table border=0 cellpadding=7 cellspacing=0>
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">User phone number</span>
+	</td>
+	<td style="border:1px solid #CCC">
+		<%if !@sms_phone_number.nil?%>
+			<%if @sms_phone_number.size>1%>
+				<%=@sms_phone_number.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+	
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Product name</span>
+	</td>
+	<td style="border:1px solid #CCC">
+		<%if !@sms_product_name.nil?%>
+			<%if @sms_product_name.size>1%>
+				<%=@sms_product_name.to_s.titlecase%> 
+			<% end %>
+		<%end%>
+	</td>
+	</tr>
+	
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Product identifier</span>
+	</td>
+	
+	<td style="border:1px solid #CCC">
+		<%if !@sms_product_identifier.nil?%>
+			<%if @sms_product_identifier.size>1%>	
+				<%=@sms_product_identifier.to_s.titlecase%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Vendor name</span>
+	</td>
+
+	<td style="border:1px solid #CCC"> 
+		<%if !@sms_vendor_name.nil?%>
+			<%if @sms_vendor_name.size>1%>
+				<%=@sms_vendor_name.to_s.titlecase%>
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+	
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Branch name</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@sms_vendor_branch_name.nil?%>
+			<%if @sms_vendor_branch_name.size>1%>
+				<%=@sms_vendor_branch_name.to_s.titlecase%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+		
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Vendor phone</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@sms_vendor_phone.nil?%>
+			<%if @sms_vendor_phone.size>1%>
+				<%=@sms_vendor_phone.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Customer SMS</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@sms_customer_message.nil?%>
+			<%if @sms_customer_message.size>0%>
+				<%=@sms_customer_message.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Customer SMS Response</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@sms_customer_message_response.nil?%>
+			<%if @sms_customer_message_response.size>0%>
+				<%=@sms_customer_message_response.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Customer SMS Response Code</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@sms_customer_message_response_code.nil?%>
+			<%if @sms_customer_message_response_code.size>0%>
+				<%=@sms_customer_message_response_code.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Vendor SMS</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@sms_vendor_message.nil?%>
+			<%if @sms_vendor_message.size>0%>
+				<%=@sms_vendor_message.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Vendor SMS Response</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@sms_vendor_message_response.nil?%>
+			<%if @sms_vendor_message_response.size>0%>
+				<%=@sms_vendor_message_response.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Vendor SMS Response Code</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@sms_vendor_message_response_code.nil?%>
+			<%if @sms_vendor_message_response_code.size>0%>
+				<%=@sms_vendor_message_response_code.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	</table>
+  </body>
+</html>

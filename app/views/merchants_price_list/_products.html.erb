@@ -1,0 +1,143 @@
+<div id="selected_brand_listing_id">
+
+<div id="price_list_table_brand_logo">
+	<% if !@price_list_details.nil? %>
+	<% if @price_list_details.count > 0 %>
+		
+		<div class="price_list_table_brand_logo_image">
+			<% @price_list_details.each do |i| %>
+				<%= image_tag(i.brand_logo)%>
+			<% end %>
+		</div>
+	
+		
+		<div class="price_list_table_distributor_name">
+			<div style="font-weight:bold;padding-bottom:5px;text-align:center;font-size:13px;color:#C42525">SOURCE</div>
+			<table border=0 cellpadding=0 cellspacing=0>
+			<% @price_list_details.each do |i| %>
+				<tr>
+				<td><span style="font-size:13px;color:#06C;font-weight:bold"><%= i.brand_name.upcase %>&nbsp;&nbsp;</span></td>
+				<td>-&nbsp;&nbsp;<span style="color:#111;font-weight:normal"><%= i.distributor_name %></span></td>
+				</tr>
+			<% end %>
+			</table>
+		</div>
+		
+		<div style="clear:both"></div>
+	<% end %>
+	<% end %>
+</div>
+
+<div style="padding-bottom:15px"></div>
+
+<% if !@uniq_products.nil? %>
+
+<% if @uniq_products.count >=0 %>
+
+<% if @uniq_products.count <= 20 %>
+
+<table class="cf_pricelist_listing_table" cellpadding=0 cellspacing=0 border=0>
+
+<tr>
+	<td class="cf_pricelist_listing_table-tr">Action</td>
+	<td class="cf_pricelist_listing_table-tr">Product Name</td>
+	<td class="cf_pricelist_listing_table-tr">Price in Rs</td>
+</tr>
+
+<% @uniq_products.each do |product| %>
+
+<tr class="cf_pricelist_listing_table_tr_prd">
+
+	<td class="td-action">
+		<div id="edit-link">
+			<%= link_to "Edit /", {:controller => 'merchants_price_list',:action => 'edit',:part1_product_name => product.product_name, :merchant_action => "update"}, :remote => true %>
+		</div>
+
+		<div id="delete-link">
+			<%= link_to "Delete", {:controller => 'merchants_price_list',:action => 'delete',:part1_product_name => product.product_name, :merchant_action => "delete"}, :remote => true %>
+		</div>
+
+	</td>
+	<td class="cf_pricelist_listing_table_name-td"><%= product.product_name %></td>
+	<td class="cf_pricelist_listing_table_price-td"><%= product.product_price.to_i %></td>
+</tr>
+
+<% end %>
+
+</table>
+
+<% else %>
+
+	<div class="cf_pricelist_listing_left">
+		<table class="cf_pricelist_listing_table_left" cellpadding=0 cellspacing=0 border=0>
+		<tr>
+			<td class="cf_pricelist_listing_table-tr">Action</td>
+			<td class="cf_pricelist_listing_table-tr">Product Name</td>
+			<td class="cf_pricelist_listing_table-tr">Price in Rs</td>
+		</tr>
+
+		<% @uniq_products_first_half.each do |product| %>
+
+		<tr class="cf_pricelist_listing_table_tr_prd">
+
+			<td class="td-action">
+				<div id="edit-link">
+					<%= link_to "Edit /", {:controller => 'merchants_price_list',:action => 'edit',:part1_product_name => product.product_name, :merchant_action => "update"}, :remote => true %>
+				</div>
+
+				<div id="delete-link">
+					<%= link_to "Delete", {:controller => 'merchants_price_list',:action => 'delete',:part1_product_name => product.product_name, :merchant_action => "delete"}, :remote => true %>
+				</div>
+
+			</td>
+			
+			<td class="cf_pricelist_listing_table_name-td"><%= product.product_name %></td>
+			<td class="cf_pricelist_listing_table_price-td"><%= product.product_price.to_i %></td>
+		</tr>
+
+		<% end %>
+		</table>
+
+	</div>
+
+	<div class="cf_pricelist_listing_right">
+		<table class="cf_pricelist_listing_table_right" cellpadding=0 cellspacing=0 border=0>
+		<tr>
+			<td class="cf_pricelist_listing_table-tr">Action</td>
+			<td class="cf_pricelist_listing_table-tr">Product Name</td>
+			<td class="cf_pricelist_listing_table-tr">Price in Rs</td>
+		</tr>
+
+		<% @uniq_products_second_half.each do |product| %>
+
+		<tr class="cf_pricelist_listing_table_tr_prd">
+
+			<td class="td-action">
+				<div id="edit-link">
+					<%= link_to "Edit /", {:controller => 'merchants_price_list',:action => 'edit',:part1_product_name => product.product_name, :merchant_action => "update"}, :remote => true %>
+				</div>
+
+				<div id="delete-link">
+					<%= link_to "Delete", {:controller => 'merchants_price_list',:action => 'delete',:part1_product_name => product.product_name, :merchant_action => "delete"}, :remote => true %>
+				</div>
+
+			</td>
+			
+			<td class="cf_pricelist_listing_table_name-td"><%= product.product_name %></td>
+			<td class="cf_pricelist_listing_table_price-td"><%= product.product_price.to_i %></td>
+		</tr>
+
+		<% end %>
+		</table>
+
+	</div>
+	<div style="clear:both"></div>
+<% end %>
+
+<% end %>
+
+<% end %>
+
+</div>
+
+<div style="padding-top:15px"></div>	

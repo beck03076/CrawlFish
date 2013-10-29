@@ -1,0 +1,65 @@
+<div id="cf-merchants_coupon_code_leads_id">
+
+	<div class="cf-merchants_leads_total">
+		<% if(@chosen_year.nil?) %>
+			Number of coupon code generated during <span class="cf-merchants_leads_date"><%=Date::MONTHNAMES[Date.today.month]%>, <%=Date.today.year%></span> : <span class="cf-merchants_leads_money"> <%=@current_count.to_i%></span>
+			<div style="padding-top:15px"></div>			
+			Total worth of leads during <span class="cf-merchants_leads_date"><%=Date::MONTHNAMES[Date.today.month]%>, <%=Date.today.year%></span> : <span class="cf-merchants_leads_money">Rs.<%=number_with_delimiter(@total_price)%></span>
+
+		<% elsif !@chosen_year.nil? && @chosen_month.to_i!=0%>
+			Number of coupon code generated during <span class="cf-merchants_leads_date"><%=Date::MONTHNAMES[@chosen_month.to_i]%>, <%=@chosen_year%></span> : <span class="cf-merchants_leads_money"> <%=@current_count.to_i%></span>
+			<div style="padding-top:15px"></div>			
+			Total worth of leads during <span class="cf-merchants_leads_date"><%=Date::MONTHNAMES[@chosen_month.to_i]%>, <%=@chosen_year%></span> : <span class="cf-merchants_leads_money">Rs.<%=number_with_delimiter(@total_price)%></span>
+
+		<% elsif !@chosen_year.nil?%>
+			Number of coupon code generated during <span class="cf-merchants_leads_date"><%=@chosen_year%></span> : <span class="cf-merchants_leads_money"> <%=@current_count.to_i%></span>
+			<div style="padding-top:15px"></div>
+			Total worth of leads during <span class="cf-merchants_leads_date"><%=@chosen_year%></span> : <span class="cf-merchants_leads_money">Rs.<%=number_with_delimiter(@total_price)%></span>
+
+		<% else %>
+			Number of coupon code generated : <span class="cf-merchants_leads_money"> <%=@current_count.to_i%></span>
+			<div style="padding-top:15px"></div>
+			Total worth of leads : <span class="cf-merchants_leads_money">Rs.<%=number_with_delimiter(@total_price)%></span>
+		<% end %>
+	</div>
+	
+	<div style="padding-top:10px;padding-bottom:10px"></div>
+<% if !@leads.nil? %>
+
+<div id="cf-merchants_coupon_code_leads_paginate">
+	<%= will_paginate @leads %>
+</div>
+
+<table class="cf-merchant-leads-table" cellpadding=0 cellspacing=0 border=0>
+<tr>
+		<td class="cf-merchant-leads-table-tr">Product Name</td>
+		<td class="cf-merchant-leads-table-tr">Price in Rs</td>
+		<td class="cf-merchant-leads-table-tr">Customer Phone Number</td>
+		<td class="cf-merchant-leads-table-tr">Coupon Code</td>
+		<td class="cf-merchant-leads-table-tr">Enquiry Date</td>
+</tr>
+
+	<% if @leads.count > 0 %>
+	<% @leads.each do |i| %>
+
+	<tr>
+		<td class="cf-merchant-leads-table-td"><%=i.mobile_name%></td>
+		<td class="cf-merchant-leads-table-td-price"><%=number_with_delimiter(i.price.to_i)%></td>
+		<td class="cf-merchant-leads-table-td-phone"><%=i.customer_phone_number%></td>
+		<td class="cf-merchant-leads-table-td-cc"><%=i.coupon_code.upcase%></td>
+		<td class="cf-merchant-leads-table-td-date"><%=i.created_at.strftime("%d-%m-%Y") %></td>
+	</tr>		
+	
+	<% end %>
+
+	<% else %>
+
+		<tr><td colspan=5 class="cf-merchant-leads-table-td-notfound">No data found</td></tr>
+	
+	<% end %>
+
+<% end %>
+
+</table>
+</div>
+<div style="padding-top:10px;padding-bottom:20px"></div>

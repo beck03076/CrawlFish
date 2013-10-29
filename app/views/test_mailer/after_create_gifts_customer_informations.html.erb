@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+  </head>
+  <body>
+    <span style="font-size:14px;font-weight:bold;color:#C42525"><u>CrawlFish</u></span>
+    <br/>
+    <br/>
+    <span style="font-size:13px;font-weight:normal">
+    	You have an entry for <b>GIFTS</b> in <b>crawlfish.in</b> at <i><b><%= Time.new.to_s %></b></i>
+    </span>
+	<br/>
+	<br/>
+	<table border=0 cellpadding=7 cellspacing=0>
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Gift name</span>
+	</td>
+	<td style="border:1px solid #CCC">
+		<%if !@nt_gift_name.nil?%>
+			<%if @nt_gift_name.size>1%>
+				<%=@nt_gift_name.to_s.titlecase%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+	
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Coupon Number</span>
+	</td>
+	<td style="border:1px solid #CCC">
+		<%if !@nt_coupon_number.nil?%>
+			<%if @nt_coupon_number.size>1%>
+				<%= @nt_coupon_number.to_s%> 
+			<% end %>
+		<%end%>
+	</td>
+	</tr>
+	
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Customer Name</span>
+	</td>
+	
+	<td style="border:1px solid #CCC">
+		<%if !@nt_customer_name.nil?%>
+			<%if @nt_customer_name.size>1%>	
+				<%=@nt_customer_name.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Customer Address</span>
+	</td>
+
+	<td style="border:1px solid #CCC"> 
+		<%if !@nt_customer_address.nil?%>
+			<%if @nt_customer_address.size>1%>
+				<%=@nt_customer_address.to_s%>
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+	
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Mobile Number</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@nt_mobile_number.nil?%>
+			<%if @nt_mobile_number.size>0%>
+				<%=@nt_mobile_number.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+		
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Invoice Number</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@nt_invoice_number.nil?%>
+			<%if @nt_invoice_number.size>0%>
+				<%=@nt_invoice_number.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	
+	</table>
+  </body>
+</html>

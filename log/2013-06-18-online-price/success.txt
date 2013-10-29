@@ -1,0 +1,4 @@
+====Starting online_edabba_products | product_id====
+====Updated Patterns Table for 'online_edabba_products' ====
+====Starting online_futurebazaar_products | product_id====
+373|laptops_lists|Lenovo Essential G570-59-340549 Laptop|29287|in stock|Delivered within 7-10 Working days|Free Door Delivery|N.A|135.3974609375|2013-06-18 00:29:42 +0530

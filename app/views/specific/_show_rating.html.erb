@@ -1,0 +1,31 @@
+<% rating = @ratings[@id] %>
+<div id="#show-rating" data-ratingValue=<%=rating%> > </div>
+<!-- checking if there are ratings -->
+<% if !(rating.nil?) %>  
+
+      <% s = rating[0] %>
+
+      <!-- Doing a math to round off the ratings to the nearest multiple of 5 -->      <% s = s*10; s = s - (s % 5); %>
+        
+       <% cl = ('"rating-static ' + 'rating-' + s.to_i.to_s + '"').html_safe %>
+    
+    <!-- This span class decides what star to display --> 
+    <span class=<%= cl %>></span>
+    <b><%= rating[0] %></b> stars. Based on 
+    
+    <b><%= rating[1] %></b> ratings.
+    
+<% else %>
+
+  No stars. No ratings.
+
+    
+                                              
+<% end %>
+
+<%= link_to "View Reviews", params.merge({:controller => 'specific',
+                                                  :action => 'vendor_rating',
+                                                  :vendor_id => @id,
+                                                  :shop => @v_name}),
+                                                  
+                                                  :remote => :true %>                                              

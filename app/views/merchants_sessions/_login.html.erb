@@ -1,0 +1,26 @@
+<%= form_for @merchant,:url => {:controller => 'merchants', :action => 'create'} do |f| %>
+ 
+<div class="cf-merchant-content-signin-form">
+<table class="cf-merchant-content-signin-form-table" border=0 cellspacing=0 cellpadding=10>
+	<tr>
+		<td class="signin-td"><%= f.label :login_name %></td>
+		<td class="signin-other"><%= f.text_field :login_name,:class=>'signin-txtfield'%></td>
+	</tr>
+	<tr>
+		<td class="signin-td"><%= f.label :password %></td>
+		<td class="signin-other"><%= f.password_field :password,:class=>'signin-txtfield' %></td>
+	</tr>
+	<tr>
+		<td colspan=2 class="signin-button">
+			<div class="forgot-password-div"><%= link_to "Forgot Password" ,{:controller => 'merchants_sessions',:action => 'index'},:class=>'forgot-password-link'%></div>
+			<div class="login-div"><%= submit_tag "LOG IN",:class=>'login'%></div>
+			<div style="clear:both"></div>
+		</td>
+	</tr>
+</table>
+</div>
+<div class="cf-signin-form-error">
+	<div class="cf-signin-form-error-message"><%= @message %></div>
+</div>
+<% end %>
+

@@ -1,0 +1,61 @@
+<table class="cf-specific-product-header-table" cellspacing=0 cellpadding=0>
+
+<tr>
+
+<td class="cf-specific-product-header-table-image">
+
+	<%= image_tag(@product_image_url, :alt => @product_name, :title => @product_name) %>
+
+</td>
+
+<td class="cf-specific-product-header-table-details">
+
+	<div class="cf-specific-product-header-table-details-text"><%= @product_name.titlecase %></div>
+
+	<div class="cf-specific-product-header-table-details-author">by <b><i><%= @feature_array[0].titlecase %></i></b></div>
+
+	<div class="cf-specific-product-header-table-details-avl">
+
+		<span class="green">In stock:</span>
+		<span class="count">
+			<% if @online_grids_count <= 1 %>
+				<%= @online_grids_count %> shop online</span><span>&nbsp;and&nbsp;
+			<%else%>
+				<%= @online_grids_count %> shops online</span><span>&nbsp;and&nbsp;
+			<%end%>
+		</span>
+		<span class="count">
+			<% if @local_grids_count <= 1 %>
+				<%=  @local_grids_count %> shop near you
+			<%else%>
+				<%=  @local_grids_count %> shops near you
+			<%end%>
+		</span>
+
+	</div>
+
+	       <% if !(@price_range.nil?) %>
+
+             <%= form_specific_page_price.html_safe %>
+
+         <% else %>
+
+            <% price_range_final_books,price_type = form_price_range_final_text(@price_range_final,1,@product_id) %>
+
+            <div class="cf-specific-product-header-table-details-startsat">
+
+            <%= decide_price_range_starts_at(price_range_final_books,price_type).html_safe %>
+
+            </div>
+
+         <% end %>
+
+	<div style="clear:both"></div>
+	<div class="cf-specific-product-header-table-details-atodetails">To know more details about this book, <a href="#details">Click Here</a></div>
+	<% if (!@online_deal.empty?) || (!@local_deal.empty?)%>
+	<div class="cf-specific-product-header-table-details-atodeal"><a href="#deal">Click here</a> to find about today's deal</div>
+	<% end %>
+</td>
+</tr>
+</table>
+

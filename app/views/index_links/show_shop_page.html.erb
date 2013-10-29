@@ -1,0 +1,48 @@
+<% if @message.nil? %>
+
+          <% @shop.each do |i| %>
+
+            <li><%= i.vendor_alias_name %></li>
+
+            <li><%= i.vendor_phone %></li>
+
+
+          <% end %>
+
+          <% @products.keys.each do |category| %>
+          
+          <% category_name = Subcategories.find_by_sub_category_name(category+"_lists").category_name %>
+          
+
+             <ul>##################<%= category %>################# </ul>            
+
+                     <% @products[category].keys.each do |brand| %>
+                     
+                       <ul>======<%= brand %>=========</ul>
+                     
+                       <% @products[category][brand].each do |product| %>
+                       
+                         
+                       
+                         <li><%= form_specific_to_local_link(product.product_name,
+                                                    nil,
+                                                    nil,
+                                                    @country,
+                                                    category_name,
+                                                    product.product_name,
+                                                    product.product_identifier2,
+                                                    @city,
+                                                    @area,
+                                                    @shop.map{|i| i.vendor_alias_name}[0]) %> - <%= product.product_identifier2 %> </li>
+                     <% end %>
+                     
+                <% end %>
+
+          <% end %>
+
+<% else %>
+
+  <%= @message %>
+
+<% end %>
+

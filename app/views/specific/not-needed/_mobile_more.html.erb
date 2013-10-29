@@ -1,0 +1,18 @@
+
+<% @more[:mobile_brand].each do |i| %>
+    <%= form_more_links("mobile_brand",i[:id],i[:name],i[:count]).html_safe %>
+<% end %>
+
+<% @more[:mobile_type].each do |i| %>
+    <%= form_more_links("mobile_type",i[:id],i[:name],i[:count]).html_safe %>
+<% end %>
+
+<% @more[:mobile_design].each do |i| %>
+    <%= form_more_links("mobile_design",i[:id],i[:name],i[:count]).html_safe %>
+<% end %>
+
+<% @more[:mobile_os_version].each do |i| %>
+    <%= form_more_links("mobile_os_version",i[:id],i[:name],i[:count]).html_safe %>
+<% end %>
+
+

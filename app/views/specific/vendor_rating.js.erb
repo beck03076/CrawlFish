@@ -1,0 +1,25 @@
+$("#vendor-rating-form").dialog({
+  autoOpen: true,
+  width: 650,
+  height: 800,
+  modal: true,
+  draggable:true,
+  resizable:false,
+  <% v = @shop.nil? ? @vendor_name : @shop %>
+  <% v.titleize %>
+  title: 'User Reviews For <%= truncate(v.titleize,:length => 18) %> - Please contribute to help people!',
+  buttons: [
+       {
+            text: "CLOSE",
+            className: 'close-button-class',
+            click: function() {
+                $(this).dialog("close");
+                location.reload();
+            }
+        }
+    ],
+  open: function() {
+    $("#vendor-rating-form").html("<%= escape_javascript(render('specific/vendor_rating')) %>");
+    }
+});
+

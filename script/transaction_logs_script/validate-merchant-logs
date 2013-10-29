@@ -1,0 +1,50 @@
+#! /bin/sh
+
+# Master script that validates and collates all the log files to prepare the final log file, which will be inserted into inserted into vendor_product_transactions_log table
+
+merchant_log_folder="/var/www/CrawlFish/public/merchants_logs/$1"
+script_path="/var/www/CrawlFish/script/transaction_logs_script"
+
+
+if test -e $merchant_log_folder
+then
+cd $merchant_log_folder
+
+if test -e $merchant_log_folder/final_logs
+then
+rm -r $merchant_log_folder/final_logs/*
+else
+mkdir final_logs
+fi
+
+for file in `ls *.dat`
+do
+
+count=`awk '{print NR}' $file | tail -1`
+if test $count -eq 2
+then 
+awk -F\| '{ if (NR == 1) printf "|"$2"|"$3"|"$4"|"$1; if (NR == 2) printf "|"$1"\n"; }' $file >> $merchant_log_folder/final_logs/final_merchant_logs.dat
+elif test $count -eq 1
+then
+awk -F\| '{ if ($5 == "login") print "|"$2"|"$3"|"$4"|"$1"|"; else if ($5 == "logout") print "|"$2"|"$3"|"$4"|""|"$1; }' $file >> $merchant_log_folder/final_logs/final_merchant_logs.dat
+fi
+
+done
+
+log_date=$1;
+
+cd $merchant_log_folder/final_logs
+
+if test -e final_merchant_logs.dat -a -s final_merchant_logs.dat
+then
+	mysql -u root -p'Sector@123' -e "LOAD DATA LOCAL INFILE '$merchant_log_folder/final_logs/final_merchant_logs.dat' INTO TABLE temp_merchant_logs FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' SET log_date='$log_date',created_at=CURRENT_TIMESTAMP" crawlfishdevdb
+echo "merchant actions successfully logged into table"
+else
+echo "merchant logs absent"
+exit 1
+fi
+
+cd
+else
+echo "no merchant transactions present today"
+fi

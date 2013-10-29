@@ -1,0 +1,183 @@
+<%= form_data(["product_id",
+               "sub_category_id",
+               "excludable_availability_ids",
+               "country",
+               "product_name",
+               "category_name"],"data-sort") %>
+<div id="final-online-grid" data-unique_ids_array="<%= @online_grids.map{|i| i.unique_id } %>" data-query="<%=@query%>">
+
+<div class="item-price-details">
+
+<table cellspacing="0" cellpadding="0" border="0" width="100%" class="priceTable">
+
+
+<% if @online_grids_count == 0 %>
+
+        <tr align="center">
+        <td>
+            
+                <%= image_tag("/Images/wrong.png",:size => "75x75") %>
+            
+        </td>
+        <td class="red-text">
+    
+                This product has currently no shops to list,<br/> but we promise to work hard and show more shops when you come next time!
+          
+        </td>
+      </tr>  
+
+<% else %>
+
+<% @online_grids.each_with_index do |grid,index_value| %>
+
+  <% @id = grid.vendor_id %>
+  
+  <% @v_name = grid.vendor_name.titleize %>
+
+  <% click = @click[@id] %>
+  
+  <% name = [] %>
+  
+  <% out = price_color(grid.c_at,grid.u_at) %>
+  
+  <% var = grid.vars.to_s + " variants available" %>
+  
+  <% [@v_name,"Go to "+@v_name,"Offers",var].each do |n| %> 
+  
+  <% name.push(link_to n,{:controller => "specific", 
+                          :action => "redirect",
+                          :vendor_id => @id,
+                          :product_id => @product_id,
+                          :sub_category_id => @sub_category_id,
+                          :product_name => @product_name,
+                          :vendor_name => grid.vendor_name},{:target => "_blank",
+               :rel => "nofollow",
+               :data => {:unique_id => grid.unique_id, 
+                         :update => out[1],
+                         :vendor_id => @id }})%>
+                                                    
+   <% end %>                                                 
+                                                    
+   <tr class="<%= cycle("even", "odd") %>" >
+          <td align="center" valign="top" data-unique_id="<%= grid.unique_id %>" data-query="<%=@query%>">
+            
+                <span class="red-link-15-b online-visit-shop">
+                        <%= name[0] %>
+                </span> 
+                <div class="g-link">
+                <%= name[3] %>
+                </div>
+                
+                <div class="red-text padT10">
+                
+                (<b><%= click %></b> clicks<img src="/Images/help.png" width="8" height="8" class="tooltip" title="Number of times, people have clicked and viewed this particular shops page!">)
+                                        
+                </div>
+                <br/>
+                Address :  
+                <div class="comments-text padB5">
+                <%= truncate(grid.vendor_address,:length => 30)%>
+                </div>  
+                
+                Support :  
+                <div class="comments-text padB5">
+                <%= grid.vendor_phone %>
+                </div>  
+               
+            
+            </td>
+            
+            <td align="center" valign="top">
+            
+              <div id=<%= grid.unique_id.to_s %> <%= out[0] %> >
+             
+                     <span class="b-text text-b16">
+                        <% i_p = grid.price.to_i %>
+                        <%= i_p == 0 ? "N.A" : "Rs."+ i_p.to_s %> 
+                     </span>
+                
+              </div>
+                    
+              <div id=<%= "updated-ago-" + grid.unique_id.to_s %> class="text-n10 gray-text">
+                    
+                ... <%= out[2] %>
+                     
+              </div>
+              <br/>
+
+              <div>
+                <%= image_tag "/Images/vendor-logos/"+grid.vendor_name.downcase + ".jpg",{:border => 5}  %>
+              </div>
+              <span class="text-n12 gray-text padT5">
+                  Estd. <%=grid.established_year %>
+              </span>
+              <br/>
+              <br/>
+                                    
+              <div class="text-n10 grayl-box g-text g-link w120">
+                  
+                  <b class="g-link-b online-visit-shop"><%= name[2] %> :</b>
+                  
+                  <% s_o = grid.special_offers.to_s %>
+                  
+                  <%= s_o == "0" ? "N.A" : truncate(s_o.gsub(/\|/,", "),:length => 75)  %>
+                  
+              </div>
+              
+              
+              
+            </td>
+            
+            <td align="center" valign="top">
+            
+                <%= form_rating %>
+                            
+            </td>
+            
+            <td align="center" valign="top" class="online-visit-shop">
+               <span class="g-text text-n12">
+                     Door delivery : <br/>
+                     <span class="lightblack-text">
+                     <% s_d = grid.shipping_time.to_s %>
+                     <%= s_d == "0" ? "N.A" : truncate((s_d).to_s, :length => 30) %> 
+                     </span>
+                     <br/>
+                     <br/>
+                     Cost :
+                     <span class="lightblack-text">
+                     <% c = grid.shipping_cost.to_i %>
+                     <%= c == 0 ? "Free" : c %>
+                     </span>
+              </span>
+                    
+                <br/>
+                <br/>
+                <span class="red-text text-n15 padT10">
+                        <%= (grid.availability).to_s.titlecase %> 
+                </span>                
+                <br/>
+               <p>
+                <span class="green-button padB5 online-visit-shop">
+                   <%= name[1] %>
+                </span> 
+                <br/>
+                <span class="lightblack-text">
+                (<b><%= grid.vars %></b> variants<img src="/Images/help.png" width="8" height="8" class="tooltip" title="Same product sold in different specifications or colors">)
+                </span>
+               </p>
+            </td>
+            
+       </tr>  
+
+                    
+
+<% end %>
+
+<% end %>
+
+</table>
+</div>
+<!-- ITEM PRICE DETAILS FROM ALL SHOPS - ENDS -->
+</div>
+
+

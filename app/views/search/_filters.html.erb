@@ -1,0 +1,26 @@
+<div class="cf-generic-left-sidebar-filter">
+
+              <div class="cf-generic-left-sidebar-filter-wrapper">
+
+              <div class="cf-generic-left-sidebar-filter-h2">
+                    <h2>Refine by</h2>
+                </div>
+
+              <div class="cf-generic-left-sidebar-filter-content">
+
+                  <% create_filters_hash(@sub_category_flag) %>         
+
+                  <% @filters_hash.keys.sort.each do |feature| %>
+                  
+                     <%= iterate_filters_hash(feature,
+                                              @filters_hash[feature][0],
+                                              @filters_hash[feature][1],
+                                              @filters_hash[feature][2],
+                                              @filters_hash[feature][3],
+                                              @filters_hash[feature][4]) %>
+                  
+                  <% end %>
+              </div>
+              </div>
+<!--end cf-generic-left-sidebar-filter--> </div>
+

@@ -1,0 +1,23 @@
+$("#add-your-shop").dialog({
+  autoOpen: true,
+  width: 650,
+  height: 500,
+  modal: true,
+  draggable:true,
+  resizable:false,
+  title: 'Adding your shop to CrawlFish and making you awesome!',
+  position: [280,200],
+  create: function (event) { $(event.target).parent().css('position', 'fixed');},
+  buttons: [
+       {
+            text: "CLOSE",
+            className: 'close-button-class',
+            click: function() {
+                $(this).dialog("close");
+            }
+        }
+    ],
+  open: function() {
+    $("#add-your-shop").html("<%= escape_javascript(render('shared/add_your_shop')) %>");    
+    }
+});

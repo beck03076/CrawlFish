@@ -1,0 +1,24 @@
+<div id='hub-nearby' class='hub-nearby'>
+
+    <% if @no_area_results == 1 %>
+               
+      <%= form_hub_links %>
+
+    <% else %>
+
+       <% if @area_ids == 0 %>
+              
+           <%= form_hub_links %>
+                
+      <% else %>
+              
+           <%= form_nearby_links %>
+                
+      <% end %> 
+
+    <% end %>
+
+</div>
+
+
+    

@@ -1,0 +1,20 @@
+<div id="sort-grid" class="fr">
+    <span class="darkgray-text text-b12">
+    sort by:
+    </span>
+    <% arr =   [["ratings", "rate"],
+                ["clicks", "click"],
+                ["card payments", "cards"]] %>
+    <% l_arr = [["premium shops", "premium"],
+                ["authorised sellers", "authorised"]] %>
+    <% o_arr = [["price(low-high)", "price_asc"],
+                ["price(high-low)", "price_desc"]] %>
+    <% arr = @type == "local" ? arr.push(*l_arr) : arr.unshift(*o_arr)  %>
+    
+    <% arr.each do |i| %>
+        
+    <%= (link_to i[0],"/",{:class => "sort red-link text-n12", :type => @type,:val => i[1]}) + ("<b> &middot; </b>").html_safe %>
+    
+    <% end %>
+
+</div>

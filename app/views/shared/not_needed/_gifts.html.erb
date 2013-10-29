@@ -1,0 +1,84 @@
+
+
+<div class="cf-home-gift-header">
+	List of amazing gifts you can choose from
+</div>
+
+<div class="cf-home-gift-outer-container">
+
+<%= form_tag url_for(:controller => 'shared', :action => 'submit_gift'),:id =>"submit-gift-form",:remote => true do %>
+
+<% if !@gifts.nil? %>
+<% @gifts.each do |f| %>
+<% if f.active_flag.downcase == 'y'%>
+	<div class="cf-home-gift-inner-container">
+		<div class="cf-home-inner-container-div">	  
+			<div class="cf-home-icd-image"><%= link_to image_tag(f.gift_image_url),f.gift_external_url,:target => "_blank" %></div>
+			<div class="cf-home-icd-name"><%= radio_button_tag :gift_id,f.id %><%= link_to f.gift_name.humanize.titlecase,f.gift_external_url,:target => "_blank" %></div>
+		</div>
+	</div>
+<% end %>
+<% end %>
+	<div style="clear:both"></div>
+
+<% end %>
+
+<div class="cf-home-gift-middle-container">
+
+<div class="cf-home-gift-name"><%= label_tag "Name : " %>&nbsp;&nbsp;</div>
+<div class="cf-home-gift-text-name"><%= text_field_tag "customer_name",nil,{:id => "customer-name",:title => "Enter your name"}%></div>
+
+<div style="clear:both;padding-top:5px;"></div>
+
+<div class="cf-home-gift-address"><%= label_tag "Address :" %>&nbsp; </div>
+<div class="cf-home-gift-text-address"><%= text_area_tag "customer_address",nil,{:id => "customer-address",:rows => 5,:title=>"Enter your address here",:placeholder=>"Enter your address here"}%></div>
+
+<div style="clear:both;padding-bottom:5px;"></div>
+
+<div class="cf-home-gift-mobile-number"><%= label_tag "Mobile : (+91) -" %>&nbsp; </div>
+<div class="cf-home-gift-text-mobile-number"><%= text_field_tag "mobile_number",nil,{:id => "mobile-number",:maxlength => 10,:size => 10,:title=>"Enter your mobile number"}%></div>
+
+<div style="clear:both;padding-bottom:5px;"></div>
+
+<div class="cf-home-gift-invoice-number"><%= label_tag "Invoice Number :" %>&nbsp;</div>
+<div class="cf-home-gift-text-invoice-number"><%= text_field_tag "invoice_number",nil,{:id => "invoice-number",:title=>"Enter your invoice number"}%></div>
+
+<div style="clear:both;padding-bottom:5px;"></div>
+
+<div class="cf-home-gift-coupon-number"><%= label_tag "Coupon Code :" %>&nbsp; </div>
+<div class="cf-home-gift-text-coupon-number"><%= text_field_tag "coupon_number",nil,{:id => "coupon-number",:maxlength => 10,:size => 10,:title => "Enter your coupon code"}%></div>
+
+<div style="clear:both;padding-bottom:10px;"></div>
+
+<div class="cf-home-gift-generate">
+	<%= submit_tag "Submit and Claim your gift",{:onClick=>"return validate_gift_form();"} %>
+
+	<div id="loading-bar-gift" style="display:none;">
+			<%= image_tag "/Images/156.gif", :size => "20x20" %>
+	</div>
+	<div style="clear:both"></div>
+</div>
+
+</div>
+
+<div class="cf-home-gift-right-container">
+	<div class="cf-home-gift-right-inner-container">
+		<div class="cf-home-gift-right-container-header">
+			Follow the steps and Claim your gift!
+		</div>
+		<div class="cf-home-gift-footer-list">
+			<ul>
+				<li>Search for a mobile phone</li>
+				<li>Choose your favourite phone & click "Find Shops"</li>
+				<li>Select a shop in your area from where you are going to buy from & click "Visit Shop"</li>
+				<li>Generate Coupon Code by entering your "Mobile Number"</li>
+				<li>Buy your mobile phone from the shop</li>
+				<li>Visit CrawlFish, Submit your "Invoice Number and CrawlFish Coupon Code" and Claim your gift!</li>
+			<ul>
+		</div>
+	</div>
+</div>
+<div style="clear:both;"></div>
+<% end %>
+</div>
+

@@ -1,0 +1,108 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Description" content="CrawlFish - Evaluate Coupon Code" />
+<meta name="robots" content="noindex" />
+<meta name="alexaVerifyID" content="agt3D-roIDhC4m8ZSkYS7nPfiqw" />
+<meta name="keywords" content="price comparison,online price comparison,price comparison website in india,price of mobiles in india,price of mobiles in chennai,price of books in india,price of books in chennai,crawlfish,location based price search engine,price search engine,Online Shopping,Books,Mobile Phones" />
+
+<title>CrawlFish - Evaluate Coupon Code</title>
+<link rel="shortcut icon" type="image/x-icon" href="/Images/favicon.ico">
+<%= stylesheet_link_tag    "application" %>
+<%= csrf_meta_tags %>
+<%= javascript_include_tag "application" %>
+<link href="/Stylesheets/merchantdashboard.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+
+function validate()
+{
+    var searchkey = document.getElementById('exclusive-coupon-code').value.replace(/\s/g, "");
+    if (searchkey == "")
+    {
+        document.getElementById('exclusive-coupon-code').value = "";
+        setFocus_textbox('exclusive-coupon-code');
+	return false;
+    }
+
+    var couponCode = document.getElementById('exclusive-coupon-code').value;
+    var couponCodeLength = document.getElementById('exclusive-coupon-code').value.length;
+
+    if (couponCodeLength < 10){
+      setFocus_textbox('exclusive-coupon-code');
+      return false;
+    }
+
+   var select = document.getElementById('exclusive_coupon_vendor_id').value;
+
+   if (select == 0) {
+        alert("Please select a name");
+	return false;
+   }
+  
+}
+
+function setFocus_textbox(elementId)
+{
+	if (!document.getElementById)
+    {
+        return;
+    }
+
+    var searchkey = document.getElementById(elementId).value.replace(/\s/g, "");
+    if (searchkey == "")
+    {
+        document.getElementById(elementId).value = "";
+    }
+
+    var txtBox = document.getElementById(elementId);
+    var txtLength = document.getElementById(elementId).value.length;
+
+    if (txtBox != null)
+    {
+        txtBox.focus();
+        txtBox.setSelectionRange(txtLength,txtLength);
+        txtBox.value = "";
+	txtBox.style.border='1px solid #06C';
+
+    }
+}
+</script>
+
+</head>
+
+<body>
+<div class="cf-merchant-content">
+
+	<div class="cf-merchant-header">
+		<%=render 'merchants/header'%>
+	<!-- end cf-merchant-header --></div>
+
+	<div class="cf-merchant-content-wrapper">
+
+		<div class="cf-merchant-forgot-pwd-complete">
+			<div class="cf-merchant-forgot-pwd-header">
+				Evaluate Coupon Code
+			</div>
+			
+			<%= render("evaluate_coupon_code/evaluate_coupon_code_form")%>
+			<%= render("evaluate_coupon_code/evaluate_coupon_code_result")%>
+			
+			</div>
+		</div>
+
+
+
+	<!-- end cf-merchant-content-wrapper --></div>
+	<div class="clear-footer"></div>
+	<div class="cf-merchant-footer">
+    		<div class="cf-merchant-footer-content">
+			<%= render 'shared/footer' %>
+        	</div>
+     	<!-- end cf-merchant-footer --></div>
+
+<!-- end cf-merchant-content --></div>
+</body>
+</html>
+

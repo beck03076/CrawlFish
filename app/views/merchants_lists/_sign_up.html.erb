@@ -1,0 +1,73 @@
+<div id="field-set" class="cf-merchant-content-signup-form-inner">
+
+<%= form_tag url_for(:controller => 'merchants_lists', :action => 'show_sign_up'),:id => "merchant_sign_up_form"  do  %>
+
+	<div id="loading-bar-business-type" style="display:none;float:right;padding-right:10px;">
+		<%= image_tag "/Images/156.gif", :size => "20x20" %>
+	</div>
+
+	<div id="business-types">
+		<span class="cf-label"><%= label_tag :business_type%></span>
+		<%= select("business_type", "id",options_for_select([["Retail",1],["Online",2]]),{ :prompt => "Pick a type" },:class=>"cf-label-select") %>
+	</div>
+
+	<div class="cf-pad"></div>
+
+	<div id="city-area-view" style="display:none">
+
+		<div id="loading-bar-city" style="display:none;float:right;padding-right:10px">
+			<%= image_tag "/Images/156.gif", :size => "20x20" %>
+		</div>
+
+		<%if false %>
+
+		<% this is commented out to change the city and area drop down to text boxes %>
+
+
+
+		<div id="merchant-cities">
+			<span class="cf-label-city"><%= label_tag :city %></span>
+			<%= select("merchant_city", "id",options_for_select(Cities.all.collect {|p| [ p.city_name.titlecase, p.city_id ] }),{ :prompt => "Pick a city" },:class=>"cf-label-select") %>
+		</div>
+
+		<div class="cf-pad"></div>
+
+		<div id="merchant-areas">
+			<span class="cf-label-area"><%= label_tag :area %> </span>
+			<%= select("merchant_area", "id", @areas.collect {|p| [ p.branch_name, p.branch_id ] },  { :prompt => "Pick an area"},:class=>"cf-label-select") %>
+		</div>
+
+		<% end %>
+		<div id="merchant_city_name">
+			<span class="cf-label-city"><%= label_tag :city_name %></span>
+			<%= text_field_tag :city_name%>
+		</div>
+		<div style="padding-top:8px"></div>
+		<div id="merchant_area_name">
+			<span class="cf-label-area"><%= label_tag :area_name %></span>
+			<%= text_field_tag :area_name%>
+		</div>
+
+
+
+	</div>
+
+   	<div class="cf-pad"></div>
+
+	<div id="sign-up-form-button" style="display:none">
+
+		<div id="loading-bar-form" style="display:none;float:right;padding-right:10px;padding-top:5px;">
+			<%= image_tag "/Images/156.gif", :size => "20x20" %>
+		</div>
+
+		<div id="button" class="proceed-button" >
+			<%= submit_tag "PROCEED",:class=>'signup-proceed' %>
+		</div>
+
+	</div>
+
+
+<% end %>
+
+</div>
+

@@ -1,0 +1,107 @@
+crawlfish.in
+===============================================
+You have an entry for GENERATE COUPON CODE in CrawlFish.in at <%= Time.new.to_s %>
+
+Product Name:
+		<%if !@gcc_product_name.nil?%>
+			<%if @gcc_product_name.size>1%>
+				<%=@gcc_product_name.to_s.titlecase%> 
+			<%end%>
+		<%end%>
+
+Product Identifier:
+		<%if !@gcc_product_identifier.nil?%>
+			<%if @gcc_product_identifier.size>1%>
+				<%= @gcc_product_identifier.to_s%> 
+			<% end %>
+		<%end%>
+
+Product Price:
+	<%if !@gcc_product_price.nil?%>
+				Rs.<%= @gcc_product_price.to_i%> 
+		<%end%>
+
+Customer Phone Number:
+<%if !@gcc_customer_phone_no.nil?%>
+			<%if @gcc_customer_phone_no.size>1%>	
+				<%=@gcc_customer_phone_no.to_s%> 
+			<%end%>
+		<%end%>
+
+Coupon Code:
+		<%if !@gcc_coupon_code.nil?%>
+			<%if @gcc_coupon_code.size>1%>	
+				<%=@gcc_coupon_code.to_s.upcase%> 
+			<%end%>
+		<%end%>
+
+Vendor Name:
+		<%if !@gcc_vendor_name.nil?%>
+			<%if @gcc_vendor_name.size>1%>
+				<%=@gcc_vendor_name.to_s%>
+			<%end%>
+		<%end%>
+
+Vendor Phone Number:
+		<%if !@gcc_vendor_phone_no.nil?%>
+			<%if @gcc_vendor_phone_no.size>0%>
+				<%=@gcc_vendor_phone_no.to_s%> 
+			<%end%>
+		<%end%>
+
+Vendor City:
+		<%if !@gcc_vendor_city.nil?%>
+			<%if @gcc_vendor_city.size>0%>
+				<%=@gcc_vendor_city.to_s%> 
+			<%end%>
+		<%end%>
+
+Vendor Branch:
+<%if !@gcc_vendor_branch.nil?%>
+			<%if @gcc_vendor_branch.size>0%>
+				<%=@gcc_vendor_branch.to_s%> 
+			<%end%>
+		<%end%>
+
+Customer SMS:
+
+<%if !@gcc_customer_message.nil?%>
+			<%if @gcc_customer_message.size>0%>
+				<%=@gcc_customer_message.to_s%> 
+			<%end%>
+		<%end%>
+
+Customer SMS Response:
+
+<%if !@gcc_customer_message_response.nil?%>
+			<%if @gcc_customer_message_response.size>0%>
+				<%=@gcc_customer_message_response.to_s%> 
+			<%end%>
+		<%end%>
+
+Customer SMS Response Code:
+<%if !@gcc_customer_message_response_code.nil?%>
+			<%if @gcc_customer_message_response_code.size>0%>
+				<%=@gcc_customer_message_response_code.to_s%> 
+			<%end%>
+		<%end%>
+Vendor SMS:
+<%if !@gcc_vendor_message.nil?%>
+			<%if @gcc_vendor_message.size>0%>
+				<%=@gcc_vendor_message.to_s%> 
+			<%end%>
+		<%end%>
+
+Vendor SMS Response:
+<%if !@gcc_vendor_message_response.nil?%>
+			<%if @gcc_vendor_message_response.size>0%>
+				<%=@gcc_vendor_message_response.to_s%> 
+			<%end%>
+		<%end%>
+
+Vendor SMS Response Code:
+<%if !@gcc_vendor_message_response_code.nil?%>
+			<%if @gcc_vendor_message_response_code.size>0%>
+				<%=@gcc_vendor_message_response_code.to_s%> 
+			<%end%>
+		<%end%>

@@ -1,0 +1,87 @@
+<div id="user_nav" class="cf-merchant-content-logout">
+
+			<% if @current_merchant && @last_login_date && @logged_in_merchant.login_type == "admin"%>
+				<span style="font-size:14px;color:#FFF;font-weight:normal">ADMIN</span>&nbsp;<span style="color:#F5F5F5">|</span>
+				User Name:<b><%= @current_merchant.login_name %></b>&nbsp;<span style="color:#F5F5F5">|</span>
+				Last Login Date:<b> <%= @last_login_date.log_date.strftime("%d-%m-%Y") %></b>&nbsp;<span style="color:#F5F5F5">|</span>
+				<b><%= link_to "Log out", log_out_path,:class=>'logout-a' %></b>
+			<% elsif @current_merchant && @last_login_date%>
+				User Name:<b><%= @current_merchant.login_name %></b>&nbsp;<span style="color:#F5F5F5">|</span>
+				Last Login Date:<b> <%= @last_login_date.log_date.strftime("%d-%m-%Y") %></b>&nbsp;<span style="color:#F5F5F5">|</span>
+				<b><%= link_to "Log out", log_out_path,:class=>'logout-a' %></b>
+			<% elsif @current_merchant && @logged_in_merchant.login_type == "admin" %>
+				<span style="font-size:14px;color:#FFF;font-weight:normal">ADMIN</span>&nbsp;<span style="color:#F5F5F5">|</span>
+				User Name: <b><%= @current_merchant.login_name %></b>&nbsp;<span style="color:#F5F5F5">|</span>
+				<b><%= link_to "Log out", log_out_path,:class=>'logout-a' %></b>
+			<% elsif @current_merchant %>
+				User Name: <b><%= @current_merchant.login_name %></b>&nbsp;<span style="color:#F5F5F5">|</span>
+				<b><%= link_to "Log out", log_out_path,:class=>'logout-a' %></b>
+			<% else %>
+				<%= link_to "Sign up", merchant_sign_up_form_path %> or
+				<%= link_to "log in", log_in_path %>
+			<% end %>
+</div>
+<% if @from == "dashboard" %>
+<% if !@notifications_count.nil? %>
+<% if @notifications_count.count.to_i !=0 %>
+<div style="float:right;">&nbsp;&nbsp;</div>
+<div style="float:right">
+	<%= link_to @notifications_count.count.to_s,{:action => 'index',:controller => 'merchants_coupon_code',:vendor_id => @vendor_id},:class=>"cf-merchant-content-logout-notifications",:title => "Number of leads generated since your last login" %>
+</div>
+<% end %>
+<% end %>
+<% end %>
+<div style="clear:both;padding-top:2px;"></div>
+
+<div class="cf-merchant-content-vendor">
+		<% @vendor.each do |vendor| %>
+			<% @last_login_date = get_last_login_date(vendor.vendor_id) %>
+			<span class="span-vendor">Greetings, <span class="span-vendor-name"><%= vendor.vendor_alias_name.titlecase %>!</span> </span>
+			<br/>
+			<span class="span-vendor"><b>Branch:&nbsp;</b>
+			<%if vendor.branch_name.gsub(".","")=="na" || vendor.city_name.gsub(".","")=="na"%>
+				N.A.
+			<%else%>
+				<span class="span-vendor-color"><%= vendor.branch_alias_name.titlecase %>, <%= vendor.city_name.titlecase %></span>
+			<%end%>
+			</span>
+			<br/>
+			<span class="span-vendor"><b>Type:&nbsp;</b><span class="span-vendor-color"><%= vendor.monetization_type.titlecase %></span></span>
+			<br/>
+			<% if ! @logged_in_merchant.login_type == "admin" %>
+				<span class="span-vendor"><b>Level:&nbsp;</b><span class="span-vendor-color">USER</span></span>
+				<br/>
+			<% end %>
+			
+		<% end %>
+</div>
+
+
+<div style="clear:both;padding-top:2px;"></div>
+
+<% if @logged_in_merchant.login_type == "admin" %>
+<div>
+
+<% @vendor.each do |vendor| %>
+		
+		<div style="clear:both;padding-top:2px;padding-bottom:2px;"></div>
+<div class="admin-header-section">
+
+				
+	<%= form_tag url_for(:controller => 'merchants_dashboard', :action => 'index'),:id => "change_branch_form"  do %>
+		     	 
+			      	<span class="admin-header-section-text">Choose your branch location&nbsp;</span>
+				
+				<%= select_tag("vendor_id", options_for_select(@branches.map{|i| [i.branch_name.titlecase,i.vendor_id]},vendor.vendor_id.to_i)) %>
+
+			      	<%= submit_tag "CHANGE",{:id => "change-branch-button" , :title => "Click here to change branch" ,:name => ""}%>
+				
+	<% end %>
+				
+
+</div>
+<% end %>
+<div style="clear:both"></div>
+</div>
+<% end %>
+

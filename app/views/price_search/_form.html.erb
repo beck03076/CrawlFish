@@ -1,0 +1,75 @@
+
+<%= form_tag '/price_search/start_search/price',:method => 'get',:id => "price_search_form" do  %>
+<% @price_query = number_with_precision(params[:price_query], :precision => 2)   %>
+
+ <p>
+    <%= hidden_field_tag 'type' %>
+    <%= hidden_field_tag 'city',@current_city.city_name  %>
+    <%= hidden_field_tag 'country', "india" %>
+
+
+    <div id="city_name" data-city_name= <%= @current_city.city_name %>> </div>
+
+    </p>
+<br/>
+<br/>
+<br/>
+<table>
+  <tr>
+  
+    <%= render "shared/lists" %>
+  
+  </tr>
+
+  <th>
+    <% if @current_city == "0" %>
+      City : <b>Outside Chennai.</b>(No shops outside chennai, yet! Please bear with us, we are growing!)<br/>
+    <% else %>
+      City : <b>Chennai.</b>
+    <% end %>
+  </th>
+  </tr>
+  <tr>
+   <div id="areas-text-box">
+  <%= label_tag :area_names, "Areas :" %>
+  <%= text_field_tag :multiple_area_ids %>
+  </div>
+  </tr>
+
+
+
+
+
+        <table>
+
+
+
+              <th scope="col">
+                    <%= text_field_tag "price_query",@price_query,{:id => "cf-price-search-form-searchText", :title => "Enter a price to find a book or a mobile phone in the price range!",:placeholder => "Enter a price",:onFocus => "setFocus_textbox('cf-price-search-form-searchText')", :onBlur => "setNoFocus_textbox('cf-price-search-form-searchText')"} %>
+              </th>
+
+              <th scope="col">
+                <%= submit_tag "FIND",{:id => "cf-price-search-form-searchCompare" , :title => "Click here to search" ,:name => "",:onClick=>"return validate('cf-price-search-form-searchText')"} %>
+            </th>
+        </tr>
+        </table>
+
+
+<% end %>
+
+    <div id="numbers">
+
+ <%= render 'shared/numbers' %>
+
+</div>
+  <p>
+
+  <div class="cf-home-interactive-text">
+            <div id="flash_notice" class="messages_notice">
+                  <%= flash[:notice] %>
+        </div>
+
+        </div>
+
+        </p>
+

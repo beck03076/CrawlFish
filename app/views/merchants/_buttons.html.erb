@@ -1,0 +1,127 @@
+<% case @from  when "dashboard" then %>
+
+      <div class="complete-dashboard-div"><%= link_to "DASHBOARD",{:controller => "merchants_dashboard", :action => "index",:vendor_id => @vendor_id},:class=>'complete-dashboard-a',:id => "active" %></div>
+	<div class="complete-dashboard-div"><%= link_to "PRICE LIST",{:controller => "merchants_price_list", :action => "index",:vendor_id => @vendor_id},:class=>'complete-pricelist-a'%></div>
+      <div class="complete-dashboard-div"><%= link_to "CATALOGUE",{:controller => "merchants_products", :action => "index",:vendor_id => @vendor_id},:class=>'complete-products-a'%></div>
+	<% if !@notifications_count.nil? %>
+		<% if @notifications_count.count.to_i == 0 %>
+			<div class="complete-dashboard-div"><%= link_to "COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a'%></div>	
+		<% else %>
+			<div class="complete-dashboard-div"><%= link_to "(" + @notifications_count.count.to_s + ") COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a'%></div>	
+		<% end %>
+	<% else %>
+		<div class="complete-dashboard-div"><%= link_to "COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a'%></div>
+	<% end %>
+
+	<div class="complete-dashboard-div"><%= link_to "EXPRESS INTEREST LEADS",{:controller => "merchants_express_interest", :action => "index",:vendor_id => @vendor_id},:class=>'complete-expressinterest-a'%></div>
+	<div class="complete-dashboard-div"><%= link_to "FINANCIALS",{:controller => "merchants_financials", :action => "index",:vendor_id => @vendor_id},:class=>'complete-financials-a' %></div>
+
+
+      <% when "catalogue" then %>
+
+      <div class="complete-dashboard-div"><%= link_to "DASHBOARD",{:controller => "merchants_dashboard", :action => "index",:vendor_id => @vendor_id},:class=>'complete-dashboard-a' %></div>
+	<div class="complete-dashboard-div"><%= link_to "PRICE LIST",{:controller => "merchants_price_list", :action => "index",:vendor_id => @vendor_id},:class=>'complete-pricelist-a'%></div>
+      <div class="complete-dashboard-div"><%= link_to "CATALOGUE",{:controller => "merchants_products", :action => "index",:vendor_id => @vendor_id},:class=>'complete-products-a',:id => "active"%></div>
+	<% if !@notifications_count.nil? %>
+		<% if @notifications_count.count.to_i == 0 %>
+			<div class="complete-dashboard-div"><%= link_to "COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a'%></div>	
+		<% else %>
+			<div class="complete-dashboard-div"><%= link_to "(" + @notifications_count.count.to_s + ") COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a'%></div>	
+		<% end %>
+	<% else %>
+		<div class="complete-dashboard-div"><%= link_to "COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a'%></div>
+	<% end %>		
+	<div class="complete-dashboard-div"><%= link_to "EXPRESS INTEREST LEADS",{:controller => "merchants_express_interest", :action => "index",:vendor_id => @vendor_id},:class=>'complete-expressinterest-a'%></div>
+	<div class="complete-dashboard-div"><%= link_to "FINANCIALS",{:controller => "merchants_financials", :action => "index",:vendor_id => @vendor_id},:class=>'complete-financials-a' %></div>
+
+	<% when "pricelist" then %>
+
+      <div class="complete-dashboard-div"><%= link_to "DASHBOARD",{:controller => "merchants_dashboard", :action => "index",:vendor_id => @vendor_id},:class=>'complete-dashboard-a' %></div>
+	<div class="complete-dashboard-div"><%= link_to "PRICE LIST",{:controller => "merchants_price_list", :action => "index",:vendor_id => @vendor_id},:class=>'complete-pricelist-a',:id => "active"%></div>
+      <div class="complete-dashboard-div"><%= link_to "CATALOGUE",{:controller => "merchants_products", :action => "index",:vendor_id => @vendor_id},:class=>'complete-products-a'%></div>
+	<% if !@notifications_count.nil? %>
+		<% if @notifications_count.count.to_i == 0 %>
+			<div class="complete-dashboard-div"><%= link_to "COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a'%></div>	
+		<% else %>
+			<div class="complete-dashboard-div"><%= link_to "(" + @notifications_count.count.to_s + ") COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a'%></div>	
+		<% end %>
+	<% else %>
+		<div class="complete-dashboard-div"><%= link_to "COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a'%></div>
+	<% end %>			
+	<div class="complete-dashboard-div"><%= link_to "EXPRESS INTEREST LEADS",{:controller => "merchants_express_interest", :action => "index",:vendor_id => @vendor_id},:class=>'complete-expressinterest-a'%></div>
+	<div class="complete-dashboard-div"><%= link_to "FINANCIALS",{:controller => "merchants_financials", :action => "index",:vendor_id => @vendor_id},:class=>'complete-financials-a'%></div>
+
+
+			<% when "datafeed" then %>
+
+      <div class="complete-dashboard-div"><%= link_to "DASHBOARD",{:controller => "merchants_dashboard", :action => "index",:vendor_id => @vendor_id},:class=>'complete-dashboard-a' %></div>
+	<div class="complete-dashboard-div"><%= link_to "PRICE LIST",{:controller => "merchants_price_list", :action => "index",:vendor_id => @vendor_id},:class=>'complete-pricelist-a'%></div>
+      <div class="complete-dashboard-div"><%= link_to "CATALOGUE",{:controller => "merchants_products", :action => "index",:vendor_id => @vendor_id},:class=>'complete-products-a'%></div>
+	<% if !@notifications_count.nil? %>
+		<% if @notifications_count.count.to_i == 0 %>
+			<div class="complete-dashboard-div"><%= link_to "COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a'%></div>	
+		<% else %>
+			<div class="complete-dashboard-div"><%= link_to "(" + @notifications_count.count.to_s + ") COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a'%></div>	
+		<% end %>
+	<% else %>
+		<div class="complete-dashboard-div"><%= link_to "COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a'%></div>
+	<% end %>
+	<div class="complete-dashboard-div"><%= link_to "EXPRESS INTEREST LEADS",{:controller => "merchants_express_interest", :action => "index",:vendor_id => @vendor_id},:class=>'complete-expressinterest-a'%></div>
+	<div class="complete-dashboard-div"><%= link_to "FINANCIALS",{:controller => "merchants_financials", :action => "index",:vendor_id => @vendor_id},:class=>'complete-financials-a' %></div>
+			
+
+			<% when "financials" then %>
+
+      <div class="complete-dashboard-div"><%= link_to "DASHBOARD",{:controller => "merchants_dashboard", :action => "index",:vendor_id => @vendor_id},:class=>'complete-dashboard-a' %></div>
+	<div class="complete-dashboard-div"><%= link_to "PRICE LIST",{:controller => "merchants_price_list", :action => "index",:vendor_id => @vendor_id},:class=>'complete-pricelist-a'%></div>
+      <div class="complete-dashboard-div"><%= link_to "CATALOGUE",{:controller => "merchants_products", :action => "index",:vendor_id => @vendor_id},:class=>'complete-products-a'%></div>
+	<% if !@notifications_count.nil? %>
+		<% if @notifications_count.count.to_i == 0 %>
+			<div class="complete-dashboard-div"><%= link_to "COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a'%></div>	
+		<% else %>
+			<div class="complete-dashboard-div"><%= link_to "(" + @notifications_count.count.to_s + ") COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a'%></div>	
+		<% end %>
+	<% else %>
+		<div class="complete-dashboard-div"><%= link_to "COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a'%></div>
+	<% end %>		
+	<div class="complete-dashboard-div"><%= link_to "EXPRESS INTEREST LEADS",{:controller => "merchants_express_interest", :action => "index",:vendor_id => @vendor_id},:class=>'complete-expressinterest-a'%></div>
+	<div class="complete-dashboard-div"><%= link_to "FINANCIALS",{:controller => "merchants_financials", :action => "index",:vendor_id => @vendor_id},:class=>'complete-financials-a' ,:id => "active"%></div>
+
+
+      <% when "couponcode" then %>
+
+      <div class="complete-dashboard-div"><%= link_to "DASHBOARD",{:controller => "merchants_dashboard", :action => "index",:vendor_id => @vendor_id},:class=>'complete-dashboard-a' %></div>
+	<div class="complete-dashboard-div"><%= link_to "PRICE LIST",{:controller => "merchants_price_list", :action => "index",:vendor_id => @vendor_id},:class=>'complete-pricelist-a'%></div>
+      <div class="complete-dashboard-div"><%= link_to "CATALOGUE",{:controller => "merchants_products", :action => "index",:vendor_id => @vendor_id},:class=>'complete-products-a'%></div>
+	<% if !@notifications_count.nil? %>
+		<% if @notifications_count.count.to_i == 0 %>
+			<div class="complete-dashboard-div"><%= link_to "COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a',:id => "active"%></div>	
+		<% else %>
+			<div class="complete-dashboard-div"><%= link_to "(" + @notifications_count.count.to_s + ") COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a',:id => "active"%></div>	
+		<% end %>
+	<% else %>
+		<div class="complete-dashboard-div"><%= link_to "COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a',:id => "active"%></div>
+	<% end %>		
+	<div class="complete-dashboard-div"><%= link_to "EXPRESS INTEREST LEADS",{:controller => "merchants_express_interest", :action => "index",:vendor_id => @vendor_id},:class=>'complete-expressinterest-a'%></div>
+	<div class="complete-dashboard-div"><%= link_to "FINANCIALS",{:controller => "merchants_financials", :action => "index",:vendor_id => @vendor_id},:class=>'complete-financials-a' %></div>
+
+
+      <% when "expressinterest" then %>
+
+      <div class="complete-dashboard-div"><%= link_to "DASHBOARD",{:controller => "merchants_dashboard", :action => "index",:vendor_id => @vendor_id},:class=>'complete-dashboard-a' %></div>
+	<div class="complete-dashboard-div"><%= link_to "PRICE LIST",{:controller => "merchants_price_list", :action => "index",:vendor_id => @vendor_id},:class=>'complete-pricelist-a'%></div>
+      <div class="complete-dashboard-div"><%= link_to "CATALOGUE",{:controller => "merchants_products", :action => "index",:vendor_id => @vendor_id},:class=>'complete-products-a'%></div>
+	<% if !@notifications_count.nil? %>
+		<% if @notifications_count.count.to_i == 0 %>
+			<div class="complete-dashboard-div"><%= link_to "COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a'%></div>	
+		<% else %>
+			<div class="complete-dashboard-div"><%= link_to "(" + @notifications_count.count.to_s + ") COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a'%></div>	
+		<% end %>
+	<% else %>
+		<div class="complete-dashboard-div"><%= link_to "COUPON CODE LEADS",{:controller => "merchants_coupon_code", :action => "index",:vendor_id => @vendor_id},:class=>'complete-couponcode-a'%></div>
+	<% end %>		
+	<div class="complete-dashboard-div"><%= link_to "EXPRESS INTEREST LEADS",{:controller => "merchants_express_interest", :action => "index",:vendor_id => @vendor_id},:class=>'complete-expressinterest-a',:id => "active"%></div>
+	<div class="complete-dashboard-div"><%= link_to "FINANCIALS",{:controller => "merchants_financials", :action => "index",:vendor_id => @vendor_id},:class=>'complete-financials-a' %></div>
+
+<% end %>
+

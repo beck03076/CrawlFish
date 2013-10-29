@@ -1,0 +1,14 @@
+
+c=`mysql -u sector1 -p'sector1' -e "SELECT COUNT(TABLE_NAME) FROM TABLES WHERE TABLE_NAME LIKE 'generic%'" information_schema`
+count=`echo $c | awk '{ gsub(/[COUNT(TABLE_NAME)]/,""); gsub(/[[:blank:]]/,""); print}'`
+echo $count
+
+
+for((i=1;i<=$count;i++))
+do
+	view_name=`mysql -u sector1 -p'sector1' -e "SELECT TABLE_NAME FROM TABLES WHERE TABLE_NAME LIKE 'generic%'" information_schema`
+	view1=`echo $view_name | awk -F\  '{print $2}'`
+
+
+	`mysql -u sector1 -p'sector1' -e "DROP VIEW $view1" crawlfishdevdb`
+done

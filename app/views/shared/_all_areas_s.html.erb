@@ -1,0 +1,31 @@
+<div class='hub-nearby-details'>
+    <div class='header-tab darkgray-text text-b14'>
+        All Areas<br/>
+       <span class="darkgray-text text-n9">
+       (Alarm: All areas might not have shops selling this product) 
+       </span>
+         
+    </div>
+    
+    
+    <% @a_areas.each do |chunk| %>
+        <% chunk.each do |i| %>
+            <div class='padL10 padT5 padTB5 border-graydot-b border-gray-l border-gray-r'>
+            <%= form_generic_to_specific_page_links("link",
+                                          i.titleize,
+                                          "local",
+                                          @category_name,
+                                          @product_name,
+                                          @product_identifier,
+                                          @country,
+                                          @city,
+                                          i,
+                                          kind.to_s) %>
+            <br/>
+            </div>
+        <% end %>                  
+    <% end %>
+    
+</div>
+
+

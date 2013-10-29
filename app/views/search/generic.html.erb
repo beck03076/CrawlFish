@@ -1,0 +1,123 @@
+<link href="/Stylesheets/genericsearchpage.css" rel="stylesheet" type="text/css">
+
+
+<!-- MAIN PANEL - STARTS -->
+<div id="main-panel">
+
+<div id="left-panel">
+<div class="cf-generic-content">
+
+    <!-- called from search_helper.rb -->
+    <% set_counts_sub_category_flag %>
+
+    <div class="cf-generic-content-wrapper">
+
+        <div class="cf-generic-left-sidebar">
+
+                <div class="cf-generic-left-sidebar-category-wrapper">
+
+                    <div class="cf-generic-left-sidebar-category">
+
+                                <div class="cf-generic-left-sidebar-category-h2">
+                        <h2>Category</h2>
+                            <!--end cf-generic-left-sidebar-category-h2--></div>
+
+                                <div id="categories">
+                                 <ul class="cf-generic-left-sidebar-links-ul">
+                                           <%= render 'search/category' %>
+                                       </ul>
+                               <!--end categories--></div>
+
+                <!--end cf-generic-left-sidebar-category--></div>
+
+            <!--end cf-generic-left-sidebar-category-wrapper--></div>
+
+                  <% if @category_counts[1].to_i == 1 %>
+                <% current_counts = get_current_counts(@sub_category_flag) %>
+                <% if current_counts[0] == 0 %>
+                <% else %>
+                    <%=  render 'search/filters' %>
+                <% end %>
+
+            <% end %>
+
+        <!--end cf-generic-left-sidebar--></div>
+
+        
+        <div class="cf-generic-main-content">
+
+            <div class="cf-generic-main-content-header">
+
+                <div class="cf-result-messages">
+                    <%= render 'search/result_messages' %>
+                <!-- end cf-result-messages --></div>
+
+                        <div class="tree-view">
+    
+                            <% if @category_counts[1] == 1 %>
+
+                                    <%= render 'search/tree' %>
+
+                            <% end %>
+
+                        <!-- end tree-view --></div>
+
+                    <!-- end cf-generic-main-content-header --></div>
+
+
+                    <div class="cf-generic-main-content-details">
+                
+               <!-- if there are results found only in 1 category or many categories-->
+               <% if @category_counts[1] == 1 %><!--results found in 1 category -->
+                
+                <% if @final_counts.keys[0] == @sub_category_flag %><!--if those results are requested by the user -->
+
+                    <!-- called from search_helper, this creates all the main-content-details of the generic page and its same across all categories -->
+                    <%= create_products_results(@sub_category_flag) %>
+                        
+                <% else %>
+                   
+                    <%= create_category_tabs(@final_counts) %>
+                        
+                <% end %>
+   
+               <% else %>
+    
+                            <!-- called from category_helper, this creates category tabs if there are results found in multiple categories -->
+                            <%= create_category_tabs(@final_counts) %>
+                        
+                       <% end %>
+
+            <!-- end cf-generic-main-content-details --></div>
+                
+
+            <div id="toTop"><span></span></div>
+
+
+            <!-- end cf-generic-main-content --></div>
+               
+
+    <!-- end cf-generic-content-wrapper--></div>
+
+<!-- end cf-generic-content --></div>
+</div>
+
+<!-- RIGHT PANEL - STARTS -->
+        <div id="right-panel" class="border-gray-l">
+        
+            <%= render "shared/hub"%>
+            
+            <%= render "shared/top"%>
+            
+            <%= render "shared/p_p_range"%>
+            
+            <%= render "shared/o_shops"%>
+            
+            <%= render "shared/a_wise"%>
+            
+        </div>
+        <div class="clear"></div>
+</div>
+<!-- MAIN PANEL - ENDS -->
+
+

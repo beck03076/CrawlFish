@@ -1,0 +1,2 @@
+class LocalChennaiBesantnagarMmrcommunicationProducts < ActiveRecord::Base
+end

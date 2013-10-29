@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Description" content="CrawlFish - CrawlFish Phone Service" />
+<meta name="robots" content="noindex" />
+<meta name="alexaVerifyID" content="agt3D-roIDhC4m8ZSkYS7nPfiqw" />
+<title>CrawlFish - CrawlFish Phone Service</title>
+<link rel="shortcut icon" type="image/x-icon" href="/Images/favicon.ico">
+<%= stylesheet_link_tag    "application" %>
+<%= csrf_meta_tags %>
+<%= javascript_include_tag "application" %>
+<link href="/Stylesheets/andgoindexpage.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div class="cf-andgo-content">
+
+	<div class="cf-andgo-header">
+		<div class="cf-andgo-header-logo">
+			<%= link_to image_tag("/Images/fcd-bold.png") ,{:controller => 'main',:action => 'index'},:class => 'imgLogo'%>
+	 	<!-- end cf-andgo-header-logo --></div>
+		<div class="cf-header-links">
+		<ul class="cf-general-header-links-ul">
+	  			<li><%= link_to "Price Finder",{:controller => 'price_search',:action => 'index'},:id=>'cf-a-general-buy'%></li>
+				<li><%= link_to "Home",{:controller => 'main',:action => 'index'},:id=>'cf-a-general-home'%></li>
+        	</ul>
+	 	<!--end cf-header-links --></div>
+		<div style="clear:both"></div>	
+	<!-- end cf-andgo-header --></div>
+
+	<div class="cf-andgo-dashboard-content-wrapper">
+		
+		<div class="cf-andgo-content-header">
+			<%= render 'and_go/header' %>
+		</div>
+
+		<div style="clear:both"></div>
+
+		<div class="cf-andgo-content-header-button">
+			<%= render 'and_go/buttons' %>
+		</div>
+		
+		<div style="clear:both"></div>
+
+		<div class="cf-andgo-middle-content">
+
+			<div class="cf-andgo-phone-service-wrapper">
+				<div class="cf-andgo-ps-list-customers-wrapper">
+					<%= link_to "List Customers",{:controller => 'list_customers'},:class => 'list-customers-button'%>
+				</div>
+				<div class="cf-andgo-ps-new-customer-wrapper">
+					<%= link_to 'New Customer', {:controller => 'crawlfish_customer_care',:action => 'new'},:class=>'new-customers-button' %>
+				</div>
+				<div style="clear:both"></div>
+				
+			</div>			
+		</div>
+
+	<!-- end cf-andgo-content-wrapper --></div>
+	<div style="padding-top:50px;clear:both"></div>
+	<div class="cf-andgo-footer">
+    		<div class="cf-andgo-footer-content">
+			<%= render 'shared/footer' %>
+        	</div>
+     	<!-- end cf-andgo-footer --></div>
+
+<!-- end cf-andgo-content --></div>
+</body>
+</html>
+

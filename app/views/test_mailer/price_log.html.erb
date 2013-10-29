@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+  </head>
+  <body>
+  <b>Dear Human</b>
+  
+  <p>
+  1. Important details given below. <br/>
+  2. Scraped List given below below.<br/>
+  3. Logs attached.<br/>
+  </p>
+  <p>===================================</p>
+  
+  <p>  
+   Number tables planned to update :    <%= @out.keys.size%> table(s)
+  </p> 
+  
+<% j = 0 %>
+<% @out.keys.each do |i| %>
+  <% if @out[i].values.inject(:+) > 0 %>
+    <% j += 1 %>
+  <% end %>
+<% end %>
+
+  <p>  
+   Number tables actually touched :    <%= j %> table(s)
+  </p> 
+  
+  <p>  
+   Number of links scraped SUCCESSFULLY :    
+   <%= @out.values.map{|i| if i[:s] > 0; i[:s];end; }.compact.sum %> link(s)
+  </p>
+  
+  <p>  
+   Number of links FAILED to scrape :    
+   <%= @out.values.map{|i| if i[:e] > 0; i[:e];end; }.compact.sum %> link(s)
+  </p>
+  
+  <p>  
+   Number of KiloBytes(KB) received as HTML : <%= @out.values.map{|i| i[:kb] }.compact.sum.round(2) %> KB
+   <h5>(This might not be accurate, it is just the bytesize of the variable that stores the scraped pages) 
+   </h5>   
+  </p>
+  
+  <p>===================================</p>
+  
+  List of tables processed with SUCCESS, ERROR and KB numbers
+   <h4> <%= "TABLE NAME" + " | " + "SUCCESS" + " | " + "ERROR" + " | " + "KB" %> </h4>
+  <% @out.keys.each do |i| %>
+    <% if @out[i].values.inject(:+) > 0 %>
+    
+    <ul>
+    <li> <%= i.to_s.titleize + " | " + @out[i][:s].to_s + " | " + @out[i][:e].to_s + " | " + @out[i][:kb].round(2).to_s %>
+    </ul>
+  
+    <% end %>
+  <% end %>  
+  
+  <p>===================================</p>
+  
+  P.S: The log files attached has the details of every link scraped for today. Not for this session. Please be informed!
+  <p>
+  <b>Happy Being!</b>
+  </p> 
+  </body>
+</html>

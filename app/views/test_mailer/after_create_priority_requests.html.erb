@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+  </head>
+  <body>
+    <span style="font-size:14px;font-weight:bold;color:#C42525"><u>CrawlFish</u></span>
+    <br/>
+    <br/>
+    <span style="font-size:13px;font-weight:normal">
+    	You have an entry for CREATE MERCHANT in <b>priority_requests</b> in <b>crawlfish.in</b> at <i><b><%= Time.new.to_s %></b></i>
+    </span>
+	<br/>
+	<br/>
+	<% if !@after_business_type.nil? %>
+		<span style="font-size:13px;font-weight:bold">BUSINESS TYPE:</span>&nbsp; <span style="font-size:12px;font-weight:normal;color:#06C"><%= @after_business_type.titlecase%></span>
+	<% end %>
+  </body>
+</html>

@@ -1,0 +1,80 @@
+crawlfish.in
+===============================================
+You have an entry for CRAWLFISH CUSTOMER CARE in CrawlFish.in at <%= Time.new.to_s %>
+
+Customer Name:
+		<%if !@ccc_customer_name.nil?%>
+			<%if @ccc_customer_name.size>1%>
+				<%=@ccc_customer_name.to_s.titlecase%> 
+			<%end%>
+		<%end%>
+
+Customer Phone Number:
+		<%if !@ccc_customer_phone_no.nil?%>
+			<%if @ccc_customer_phone_no.size>1%>
+				<%= @ccc_customer_phone_no.to_s%> 
+			<% end %>
+		<%end%>
+
+Customer Email:
+		<%if !@ccc_customer_email.nil?%>
+			<%if @ccc_customer_email.size>1%>
+				<%= @ccc_customer_email.to_s%> 
+			<% end %>
+		<%end%>
+
+Customer City:
+<%if !@ccc_customer_city.nil?%>
+			<%if @ccc_customer_city.size>1%>	
+				<%=@ccc_customer_city.to_s%> 
+			<%end%>
+		<%end%>
+
+Customer Area:
+		<%if !@ccc_customer_area.nil?%>
+			<%if @ccc_customer_area.size>1%>
+				<%=@ccc_customer_area.to_s%>
+			<%end%>
+		<%end%>
+
+Enquiry Type:
+		<%if !@ccc_enquiry_type.nil?%>
+			<%if @ccc_enquiry_type.size>0%>
+				<%=@ccc_enquiry_type.to_s%> 
+			<%end%>
+		<%end%>
+
+Category Enquired:
+		<%if !@ccc_category_enquired.nil?%>
+			<%if @ccc_category_enquired.size>0%>
+				<%=@ccc_category_enquired.to_s%> 
+			<%end%>
+		<%end%>
+
+Product Enquired:
+<%if !@ccc_product_enquired.nil?%>
+			<%if @ccc_product_enquired.size>0%>
+				<%=@ccc_product_enquired.to_s%> 
+			<%end%>
+		<%end%>
+
+Shops Referred:
+	<%if !@ccc_shops_referred.nil?%>
+			<%if @ccc_shops_referred.size>0%>
+				<%=@ccc_shops_referred.to_s%> 
+			<%end%>
+		<%end%>
+
+Source:
+<%if !@ccc_how_source.nil?%>
+			<%if @ccc_how_source.size>0%>
+				<%=@ccc_how_source.to_s%> 
+			<%end%>
+		<%end%>
+
+Misc:
+<%if !@ccc_misc.nil?%>
+			<%if @ccc_misc.size>0%>
+				<%=@ccc_misc.to_s%> 
+			<%end%>
+		<%end%>

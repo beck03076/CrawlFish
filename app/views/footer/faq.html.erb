@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Description" content="CrawlFish - A unique price comparison website which compares prices from online portals and retailers from all cities in India. It is also 'first of its kind' location based price search engine in India." />
+<meta name="alexaVerifyID" content="agt3D-roIDhC4m8ZSkYS7nPfiqw" />
+<meta name="keywords" content="price comparison,online price comparison,price comparison website in india,price of mobiles in india,price of mobiles in chennai,price of books in india,price of books in chennai,crawlfish,location based price search engine,price search engine,Online Shopping,Books,Mobile Phones,crawlfish faq,crawlfish 101" />
+<title>CrawlFish - FAQ</title>
+<link rel="canonical" href="http://www.crawlfish.in/footer/faq" />
+<link rel="shortcut icon" type="image/x-icon" href="/Images/favicon.ico">
+<link href="/Stylesheets/faq.css" rel="stylesheet" type="text/css">
+<%= stylesheet_link_tag    "application" %>
+<%= csrf_meta_tags %>
+<%= javascript_include_tag "application" %>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32882383-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+<div class="cf-faq-content">
+
+	<div class="cf-faq-header">
+		<div class="cf-faq-header-logo">
+			<!--<%= link_to image_tag("/Images/final_side_title_2.png") ,{:controller => 'main',:action => 'index'},:class => 'imgLogo'%>-->
+			<%= link_to image_tag("/Images/fcd-bold.png",:alt=> 'CrawlFish_Logo',:title=>'CrawlFish : Find. Compare. Decide') ,{:controller => 'main',:action => 'index'},:class => 'imgLogo'%>
+		</div>
+		<div class="cf-header-links">
+		<ul class="cf-general-header-links-ul">
+	  			<li><%= link_to "Price Finder",{:controller => 'price_search',:action => 'index'},:id=>'cf-a-general-buy'%></li>
+				<li><%= link_to "Home",{:controller => 'main',:action => 'index'},:id=>'cf-a-general-home'%></li>
+        	</ul>
+	 	<!--end cf-header-links --></div>
+		<div style="clear:both"></div>	
+    	 <!-- end .cf-faq-header --></div>
+
+	<div class="cf-faq-content-wrapper">
+		<div class="cf-faq-left-sidebar">
+			<ul class="cf-faq-left-sidebar-ul">
+			<li id="cf-c101"><%= link_to "CrawlFish 101"%></li>
+			<li id="cf-faq"><%= link_to "FAQ"%></li>
+			</ul>
+		</div>
+        
+		<div class="cf-faq-main-content" id="cf-faq-main-content-id">
+			<%= render 'footer/faq_c101' %>  
+		</div>
+               
+		<div class="clear"></div>
+        
+	</div>
+
+        <div class="cf-faq-footer">
+    		<div class="cf-faq-footer-content">
+
+			<%= render 'shared/footer' %>    	
+
+        	</div>
+     <!-- end .cf-faq-footer --></div>
+ <!-- end .cf-faq-content --></div>
+</body>
+</html>
+

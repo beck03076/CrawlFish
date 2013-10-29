@@ -1,0 +1,142 @@
+====Starting online_sangeetha_products | product_id====
+====Starting online_mirchimart_products | product_id====
+1622|routers_lists|Netgear DGN2200 ADSL2+ Wireless N300 Router With Modem|http://www.mirchimart.com/Netgear-N300-ADSL2&;jsessionid=95ECE62E77ACE4A20F19FCAE6F540DBB.jvm1#43;-Wireless-Router-with-Modem-DGN2200/Routers/p/79WFE3X5DG0|0|0|0|0|0|0.0|2013-07-25 03:13:36 +0530
+1624|routers_lists|Netgear DGN2200 ADSL2+ Wireless N300 Router With Modem|http://www.mirchimart.com/Netgear-N600-ADSL2&;jsessionid=95ECE62E77ACE4A20F19FCAE6F540DBB.jvm1#43;-Wireless-Router-with-Modem-DGND3700/Routers/p/GB9ECLJM6MW|0|0|0|0|0|0.0|2013-07-25 03:13:38 +0530
+1636|desktops_lists|HP Pavilion 20-B086IN All-in-One (2nd Gen PDC|0|0|0|0|0|0|0.0|2013-07-25 03:13:43 +0530
+1640|desktops_lists|HP Omni 120-1120IN All-in-One (2nd Gen PDC|0|0|0|0|0|0|0.0|2013-07-25 03:13:45 +0530
+1647|desktops_lists|HP Pavilion 20-B083IN All-in-One (2nd Gen Ci3|in stock|0|0|0|0|0|0.0|2013-07-25 03:13:49 +0530
+1649|desktops_lists|HP Omni 120-1232IL All-in-One (Celeron Dual Core|0|0|0|0|0|0|0.0|2013-07-25 03:13:49 +0530
+1731|tablets_lists|Micromax Funbook Infinity P275 Tablet|http://www.mirchimart.com/Micromax-Funbook-Infinity-P275-Tablet--WiFi-4GB/Tablet/p/S9Z9Q3FA191CK3|0|0|0|0|0|0.0|2013-07-25 03:15:25 +0530
+1772|mobiles_lists|Karbonn A9|http://www.mirchimart.com/Karbonn-A9&;jsessionid=F2FC7B86943E191DD3C3E806D498B7F1.jvm1#43;-Black-Mobile/Mobiles/p/5PG1MD1WCT1CUT1|0|0|0|0|0|0.0|2013-07-25 03:16:38 +0530
+2011|mobiles_lists|Micromax X274|http://www.mirchimart.com/Micromax-X274-Black--Red/Mobiles/p/1K0Q6IJYM7CWN24N|0|0|0|0|0|0.0|2013-07-25 03:20:24 +0530
+2013|mobiles_lists|Micromax X274|http://www.mirchimart.com/Micromax-X274-Black--Blue/Mobiles/p/5YGGHRPWW2GWDNJF|0|0|0|0|0|0.0|2013-07-25 03:20:25 +0530
+2309|printers_lists|HP Officejet 4500 - G510h Multifunction Inkjet Printer|http://www.mirchimart.com/HP-Officejet-4500-AllinOne-G510h-Printer/Printers/p/W4QG5S3OMARK9B|0|0|0|0|0|0.0|2013-07-25 03:21:35 +0530
+
+====Starting online_sangeetha_products | product_id====
+====Starting online_univercell_products | product_id====
+====Starting online_bigbuy_products | product_id====
+17|desktops_lists|HP Omni 105-5510IX All-in-One (2nd Gen Ci3|http://www.bigbuy.in/product.php?id_product=1621|0|0|0|0|0|0.0|2013-07-25 04:24:18 +0530
+18|desktops_lists|HP Brazo 18-1106IN All-in-One (APU Dual Core|http://www.bigbuy.in/product.php?id_product=1531|0|0|0|0|0|0.0|2013-07-25 04:24:19 +0530
+32|desktops_lists|HP Omni 120-1160IN|http://www.bigbuy.in/product.php?id_product=1159|0|0|0|0|0|0.0|2013-07-25 04:24:52 +0530
+33|desktops_lists|HP Omni 120-1120IN All-in-One (2nd Gen PDC|http://www.bigbuy.in/product.php?id_product=1156|0|0|0|0|0|0.0|2013-07-25 04:24:54 +0530
+34|desktops_lists|HP Omni 120-2111IN All-in-One (2nd PDC|http://www.bigbuy.in/product.php?id_product=1154|0|0|0|0|0|0.0|2013-07-25 04:24:55 +0530
+35|desktops_lists|HP DreamScreen 400|http://www.bigbuy.in/product.php?id_product=1152|0|0|0|0|0|0.0|2013-07-25 04:24:57 +0530
+36|desktops_lists|HP Omni 120-1111IN|http://www.bigbuy.in/product.php?id_product=1150|0|0|0|0|0|0.0|2013-07-25 04:24:59 +0530
+38|desktops_lists|HP Omni 120-1020IN|http://www.bigbuy.in/product.php?id_product=567|0|0|0|0|0|0.0|2013-07-25 04:25:02 +0530
+47|tablets_lists|iBall Slide 6309r Tablet|http://www.bigbuy.in/product.php?id_product=1633|0|0|0|0|0|0.0|2013-07-25 04:25:05 +0530
+54|tablets_lists|Acer Iconia W500|http://www.bigbuy.in/product.php?id_product=1420|0|0|0|0|0|0.0|2013-07-25 04:25:19 +0530
+====Starting online_infibeam_products | product_id====
+1996|headphones_lists|Sony MDR-ZX100-B On-the-ear Headphone|http://www.infibeam.com/Headphone/i-Sony-MDR-ZX100-Headphone/P-E-H-Sony-SO-MDR-ZX100-BLACK.html?id=0-Black#variantId=P-E-H-Sony-SO-MDR-ZX100-BLACK-0-Black|0|0|0|0|0|0.0|2013-07-25 04:30:02 +0530
+====Starting online_poorvika_products | product_id====
+652|mobiles_lists|Micromax A110Q Canvas 2 Plus|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=696&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:33 +0530
+653|mobiles_lists|Nokia Asha 200|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=674&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:33 +0530
+654|mobiles_lists|Nokia Lumia 505|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=620&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:34 +0530
+655|mobiles_lists|Nokia Lumia 822|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=621&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:34 +0530
+656|mobiles_lists|Nokia Lumia 925|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=693&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:34 +0530
+657|mobiles_lists|Samsung Galaxy Premier I9260|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=622&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:34 +0530
+658|mobiles_lists|Samsung Galaxy Ace Duos S6802|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=387&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:34 +0530
+659|mobiles_lists|Nokia 1280|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=213&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:34 +0530
+660|mobiles_lists|Samsung E1200 Pusha|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=349&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:34 +0530
+661|mobiles_lists|Celkon C355|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=644&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:35 +0530
+662|mobiles_lists|Micromax A100|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=420&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:35 +0530
+663|mobiles_lists|Nokia 105|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=648&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:35 +0530
+664|mobiles_lists|Micromax X099|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=712&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:35 +0530
+665|mobiles_lists|Nokia 100|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=3&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:35 +0530
+666|mobiles_lists|Nokia 101|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=4&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:35 +0530
+667|mobiles_lists|Celkon C54|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=681&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:35 +0530
+668|mobiles_lists|Karbonn K9 Jumbo|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=109&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:36 +0530
+669|mobiles_lists|Celkon C52|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=481&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:36 +0530
+670|mobiles_lists|Karbonn K440|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=631&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:36 +0530
+671|mobiles_lists|Samsung Metro E2202|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=654&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:36 +0530
+672|mobiles_lists|Nokia 114|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=561&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:36 +0530
+673|mobiles_lists|Micromax X335C|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=327&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:36 +0530
+674|mobiles_lists|Samsung E2252|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=363&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:36 +0530
+675|mobiles_lists|Nokia 112|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=428&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:37 +0530
+676|mobiles_lists|LG A290|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=564&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:37 +0530
+677|mobiles_lists|Samsung Champ Neo Duos C3262|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=465&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:37 +0530
+678|mobiles_lists|Nokia X2-02|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=10&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:37 +0530
+679|mobiles_lists|Samsung C3322|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=132&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:37 +0530
+680|mobiles_lists|Nokia Asha 205|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=560&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:37 +0530
+681|mobiles_lists|Celkon A75|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=626&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:37 +0530
+682|mobiles_lists|Micromax Bolt A27|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=602&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:38 +0530
+683|mobiles_lists|Nokia 206|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=583&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:38 +0530
+684|mobiles_lists|Samsung Rex 60 C3312R|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=624&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:38 +0530
+685|mobiles_lists|Karbonn A3|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=652&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:38 +0530
+686|mobiles_lists|Nokia Asha 306|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=709&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:38 +0530
+687|mobiles_lists|Celkon A85|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=514&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:38 +0530
+688|mobiles_lists|Nokia Asha 202|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=346&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:38 +0530
+689|mobiles_lists|Samsung Rex 70 S3802|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=724&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:39 +0530
+690|mobiles_lists|Nokia C2-01|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=11&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:39 +0530
+691|mobiles_lists|Nokia Asha 200|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=5&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:39 +0530
+692|mobiles_lists|Celkon A59|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=645&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:39 +0530
+693|mobiles_lists|Micromax Bolt A35|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=668&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:39 +0530
+694|mobiles_lists|Nokia Asha 305|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=413&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:39 +0530
+695|mobiles_lists|Micromax Bolt A51|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=691&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:39 +0530
+696|mobiles_lists|LG T375 Cookie Smart|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=394&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:40 +0530
+697|mobiles_lists|Celkon A67|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=679&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:40 +0530
+698|mobiles_lists|Karbonn A2|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=664&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:40 +0530
+699|mobiles_lists|Samsung Rex 80 S5222R|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=623&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:40 +0530
+700|mobiles_lists|Nokia Asha 308|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=495&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:40 +0530
+701|mobiles_lists|Nokia Asha 310|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=630&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:40 +0530
+702|mobiles_lists|Karbonn A4|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=702&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:40 +0530
+703|mobiles_lists|Karbonn A6|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=646&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:41 +0530
+704|mobiles_lists|Samsung Galaxy Y S5360|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=309&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:41 +0530
+705|mobiles_lists|Samsung Rex 90 S5292|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=649&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:41 +0530
+706|mobiles_lists|Celkon A98|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=616&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:41 +0530
+707|mobiles_lists|Nokia Asha 311|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=438&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:41 +0530
+708|mobiles_lists|Samsung Galaxy Y Plus S5303|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=660&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:41 +0530
+709|mobiles_lists|LG Optimus L3 E400|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=351&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:41 +0530
+710|mobiles_lists|LG Optimus L3 E405|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=437&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:42 +0530
+711|mobiles_lists|Celkon A107|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=706&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:42 +0530
+712|mobiles_lists|Samsung Galaxy Music Duos S6012|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=554&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:42 +0530
+713|mobiles_lists|Samsung Galaxy Y Duos S6102|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=148&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:42 +0530
+714|mobiles_lists|Celkon A225|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=680&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:42 +0530
+715|mobiles_lists|Samsung Galaxy Ace S5830|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=151&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:42 +0530
+716|mobiles_lists|BlackBerry Curve 9220|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=336&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:42 +0530
+717|mobiles_lists|HTC Desire C|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=375&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:43 +0530
+718|mobiles_lists|Nokia Lumia 520|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=643&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:43 +0530
+719|mobiles_lists|Micromax A110 Canvas 2|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=499&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:43 +0530
+720|mobiles_lists|Micromax A111 Canvas Doodle|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=684&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:43 +0530
+721|mobiles_lists|Micromax A115 Canvas 3D|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=688&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:43 +0530
+722|mobiles_lists|Karbonn S1 Titanium|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=655&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:43 +0530
+723|mobiles_lists|Samsung Galaxy S Duos S7562|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=466&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:43 +0530
+724|mobiles_lists|Karbonn S5 Titanium|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=657&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:44 +0530
+725|mobiles_lists|Celkon A119 Signature HD|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=658&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:44 +0530
+726|mobiles_lists|Sony Xperia neo L|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=422&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:44 +0530
+727|mobiles_lists|HTC Desire U|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=719&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:44 +0530
+728|mobiles_lists|Micromax A116 Canvas HD|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=587&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:44 +0530
+729|mobiles_lists|Nokia Lumia 620|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=617&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:44 +0530
+730|mobiles_lists|Sony Xperia J|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=456&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:44 +0530
+731|mobiles_lists|BlackBerry Curve 9320|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=402&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:45 +0530
+732|mobiles_lists|Samsung I9070 Galaxy S Advance|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=366&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:45 +0530
+733|mobiles_lists|Sony Xperia L|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=671&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:45 +0530
+734|mobiles_lists|Nokia Lumia 720|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=653&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:45 +0530
+735|mobiles_lists|Samsung Galaxy Grand I9082|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=586&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:45 +0530
+736|mobiles_lists|Nokia Lumia 820|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=580&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:45 +0530
+737|mobiles_lists|Sony Xperia SP|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=670&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:45 +0530
+738|mobiles_lists|Samsung Galaxy Note 8.0 N5100|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=682&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:46 +0530
+739|mobiles_lists|Samsung Galaxy Mega 6.3 I9200|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=722&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:46 +0530
+740|mobiles_lists|Nokia Lumia 920|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=574&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:46 +0530
+741|mobiles_lists|Sony Xperia Z|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=597&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:46 +0530
+742|mobiles_lists|HTC Butterfly|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=598&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:46 +0530
+743|mobiles_lists|Samsung I9500 Galaxy S4|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=638&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:46 +0530
+744|mobiles_lists|BlackBerry Z10|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=603&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:46 +0530
+745|mobiles_lists|HTC One|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=628&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:47 +0530
+746|mobiles_lists|BlackBerry Q10|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=700&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:47 +0530
+779|mobiles_lists|Samsung I8190 Galaxy S III(S3) mini|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=596&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:47 +0530
+780|mobiles_lists|Karbonn K101+(K101 Plus) Media Champ|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=433&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:47 +0530
+781|mobiles_lists|Sony Xperia tipo|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=450&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:47 +0530
+782|mobiles_lists|Sony Xperia tipo|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=382&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:47 +0530
+783|mobiles_lists|Sony Xperia E|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=640&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:48 +0530
+784|mobiles_lists|Sony Xperia E|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=611&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:48 +0530
+785|mobiles_lists|LG Optimus L5 II(L5 2) Dual E455|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=677&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:48 +0530
+786|mobiles_lists|HTC One X|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=663&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:48 +0530
+787|mobiles_lists|LG(Google) Nexus 4 E960|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=697&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:48 +0530
+788|mobiles_lists|Samsung I9300 Galaxy S III(S3)|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=342&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:48 +0530
+789|mobiles_lists|HTC One X|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=550&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:49 +0530
+790|mobiles_lists|HTC Windows Phone 8X|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=572&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:49 +0530
+791|mobiles_lists|Samsung Galaxy Note II(2) N7100|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=472&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-07-25 04:31:49 +0530
+====Starting online_themobilestore_products | product_id====
+====Starting online_grabmore_products | product_id====
+====Starting online_zoomin_products | product_id====
+====Starting online_gadgetsguru_products | product_id====

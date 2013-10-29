@@ -1,0 +1,21 @@
+<div class="cf-partial-edit-form">
+<%= form_for @price_list_product, :url => {:controller => 'merchants_price_list', :action => 'update'},:html => {:id => "price-list-edit-form"},:validate => false  do |f| %>
+<table class="cf-partial-edit-form-table" border=0 cellspacing=0 cellpadding=5>
+
+	<tr>
+		<td class="partial-edit-td-label"><%= f.label :product_name,'Name' %></td>
+		<td><%= f.text_field :product_name,:class=>'partial-edit-td-txt' %></td>
+	</tr>
+
+	<tr>
+		<td class="partial-edit-td-label"><%= f.label :product_price,'Price'%></td>
+		<td><%= f.text_field :product_price,:class=>'partial-edit-td-txt' %></td>
+	</tr>
+
+    <%= hidden_field_tag 'vendor_id', @price_list_product.vendor_id %>
+    <%= hidden_field_tag 'merchant_action', @price_list_product.action  %>
+</table>
+<% end %>
+
+</div>
+

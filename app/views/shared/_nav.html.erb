@@ -1,0 +1,38 @@
+<!-- PRIMARY MENU - STARTS -->
+    <div id="primary-menu">
+    
+    <ul id="nav" class="padL10">
+
+      <% @sub_categories.each do |i| %>
+          <li>
+          
+          <b><%= i.category_name.titleize %> 
+          &middot;
+          </b>
+              <ul>
+              <% @online_brands[i.category_name].each do |brand| %>
+             
+                  <li>
+                      <%= links(["/price-list",
+                                  i.category_name,
+                                  brand.downcase],brand.titleize,"nofollow") %> 
+                  </li>
+              <% end %>
+              </ul>
+         
+          </li>
+      <% end %>
+      
+      
+    </ul>
+        <div id="add-your-shop"></div>
+        <span class="fr padT5">
+            <%= link_to "Add your Shop!",
+                        "/main/open_add_shop",
+                        :class => "green-button-b",
+                        :remote =>true %>
+        <div class="text-b9 g-text padT5" align="center">(obviously, for free!)</div>
+                
+    </div>
+    
+<!-- PRIMARY MENU - ENDS -->

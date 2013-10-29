@@ -1,0 +1,26 @@
+
+
+<% if @show_filter_tree == 1 %>
+     <span>You have filtered the search results by applying these filters</span>
+		 <br/>
+    <div class="cf-tree-view-section">
+    
+        <% if  !(@sub_category_flag.nil?) %>
+          <%= create_sub_category_box(@sub_category_flag).html_safe %>
+        <% end %>
+
+        <% @filter_extended_params.each do |i| %>
+        
+          <%= create_tree_box(i[:feature_model_name],
+                            "get_display_name",
+                             i[:feature_type_id],
+                             i[:id],
+                             i[:order],
+                             i[:filter_id]).html_safe %>
+          
+        <% end %>
+
+    </div>
+
+<% end %>
+

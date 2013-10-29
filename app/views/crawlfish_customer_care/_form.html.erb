@@ -1,0 +1,109 @@
+<%= form_tag url_for(:controller => 'crawlfish_customer_care', :action => 'update', :method => :post),:id =>"crawlfish_customer_care_update_form" do %>
+<table border=0 cellspacing=0 cellpadding=10>
+        
+        <%= hidden_field_tag 'customer_id', @customer.id %>
+
+	<tr>
+	<td class="fgt-login-name-lbl">Customer Name</td>
+	<td><%= text_field_tag "customer_name",@customer.customer_name,{:id => "customer-name",:class=>'customer-care-txt',:title => "Enter customer name",:placeholder => "Customer Name"}%></td>
+	</tr>
+
+	<tr>
+	<td class="fgt-login-name-lbl">Customer Phone No</td>
+	<td>
+		<%= text_field_tag "customer_phone_no",@customer.customer_phone_no,{:id => "customer-phone-no",:class=>'customer-care-txt',:title => "Enter customer phone no",:placeholder => "Customer Phone No"}%>
+	</td>
+	</tr>
+
+	<tr>
+	<td class="fgt-login-name-lbl">Customer Email</td>
+	<td>
+		<%= text_field_tag "customer_email",@customer.customer_email,{:id => "customer-email",:class=>'customer-care-txt',:title => "Enter customer email",:placeholder => "e.g.abc@gmail.com or na"}%>
+	</td>
+	</tr>
+
+	<tr>
+	<td class="fgt-login-name-lbl">Customer City</td>
+	<td>
+		<%= text_field_tag "customer_city",@customer.customer_city,{:id => "customer-city",:class=>'customer-care-txt',:title => "Enter city",:placeholder => "e.g.Chennai"}%>
+	</td>
+	</tr>
+
+	<tr>
+	<td class="fgt-login-name-lbl">Customer Area</td>
+	<td>
+		<%= text_field_tag "customer_area",@customer.customer_area,{:id => "customer-area",:class=>'customer-care-txt',:title => "Enter area",:placeholder => "e.g.Adyar"}%>
+	</td>
+	</tr>
+
+	<tr>
+	<td class="fgt-login-name-lbl">Type of Enquiry</td>
+	<td>
+		<%= text_field_tag "enquiry_type",@customer.enquiry_type,{:id => "enquiry-type",:class=>'customer-care-txt',:title => "Enter type of enquiry",:placeholder => "General/Online Shops Price/Local Shops Price enquiry"}%>
+	</td>
+	</tr>
+
+	<tr>
+	<td class="fgt-login-name-lbl">Category enquired</td>
+	<td>
+		<%= text_field_tag "category_enquired",@customer.category_enquired,{:id => "category-enquired",:class=>'customer-care-txt',:title => "Enter category enquired",:placeholder => "Mobiles/Books/Tablets"}%>
+	</td>
+	</tr>
+
+	<tr>
+	<td class="fgt-login-name-lbl">Product enquired</td>
+	<td>
+		<%= text_field_tag "product_enquired",@customer.product_enquired,{:id => "product-enquired",:class=>'customer-care-txt',:title => "Enter product enquired",:placeholder => "e.g. Apple iPhone 5 16B"}%>
+	</td>
+	</tr>
+
+	<tr>
+	<td class="fgt-login-name-lbl">Shops Referred</td>
+	<td>
+		<%= text_area_tag "shops_referred",@customer.shops_referred,{:id => "shops-referred",:class=>'customer-care-txt-area',:title => "Enter shops referred",:placeholder => "e.g. Rs.12,800 at G.K Mobile Park,Alwarpet, Rs.13,000 at Sayar Systems,Mambalam"}%>
+	</td>
+	</tr>
+
+	<tr>
+	<td class="fgt-login-name-lbl">Follow Up</td>
+	<td>
+		<%= text_field_tag "followup",@customer.followup,{:id => "followup",:class=>'customer-care-txt',:title => "Enter Follow up status",:placeholder => "Y/N"}%>
+	</td>
+	</tr>
+
+	<tr>
+	<td class="fgt-login-name-lbl">How did customer find about CrawlFish?</td>
+	<td>
+		<%= text_field_tag "source",@customer.source,{:id => "how_source",:class=>'customer-care-txt',:title => "Enter source",:placeholder => "e.g. Auto Poster, Bus Poster"}%>
+	</td>
+	</tr>
+
+	<tr>
+	<td class="fgt-login-name-lbl">Old Comments</td>
+	<td>
+		<%= text_area_tag "misc",@comments_to_display,{:id => "existing_comments",:class=>'customer-care-txt-area',:title => "Enter comments",:placeholder => "e.g.2012Dec26-Missed Call etc"}%>
+	</td>
+	</tr>
+
+	<tr>
+	<td class="fgt-login-name-lbl">New Comments</td>
+	<td>
+		<%= text_area_tag "comments",nil,{:id => "comments",:class=>'customer-care-txt-area',:title => "Enter comments",:placeholder => "e.g.2012Dec26-Missed Call etc"}%>
+	</td>
+	</tr>
+
+	<tr>
+	<td>&nbsp;</td>
+	<td>
+		<div id="ccc-submit">
+			<%= submit_tag "Submit",{:class=>'fgt-submit',:title => "Click here to submit",:name => "",:onClick=>"return all_validate();"}%>
+		</div>
+
+		<div id="loading-bar-ccc" style="display:none;">
+			<%= image_tag "/Images/156.gif", :size => "30x30" %>
+		</div>
+	</td>
+	</tr>
+</table>
+<% end %>
+

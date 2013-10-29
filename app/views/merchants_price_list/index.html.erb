@@ -1,0 +1,134 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Description" content="CrawlFish - Merchant Login, An unique tool for merchants to view their performance in dashboard,view,add,edit and delete items from product catalogue,upload data feeds and review their financials" />
+<meta name="alexaVerifyID" content="agt3D-roIDhC4m8ZSkYS7nPfiqw" />
+<meta name="keywords" content="price comparison,online price comparison,price comparison website in india,price of mobiles in india,price of mobiles in chennai,price of books in india,price of books in chennai,crawlfish,location based price search engine,price search engine,Online Shopping,Books,Mobile Phones" />
+
+<% if !@meta_merchant_login_title.empty? %>
+	<title><%= @meta_merchant_login_title %></title>
+<% else %>
+	<title>CrawlFish - Merchant Login - Price List</title>
+<% end %>
+<link rel="shortcut icon" type="image/x-icon" href="/Images/favicon.ico">
+<link href="/Stylesheets/merchantdashboard.css" rel="stylesheet" type="text/css">
+<%= stylesheet_link_tag    "application" %>
+<%= csrf_meta_tags %>
+<%= javascript_include_tag "application" %>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32882383-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+<!--
+
+function validate()
+{
+  return false;
+}
+
+//-->
+</script>
+
+</head>
+
+<body>
+<div class="cf-merchant-content">
+
+	<div class="cf-merchant-header">
+		<%=render 'merchants/header'%>
+	<!-- end cf-merchant-header --></div>
+
+	<div class="cf-merchant-content-wrapper">
+
+		<%=render 'merchants/vendor_header_details'%>
+
+		<div class="clear"></div>
+
+		<div id="container" style="display:none">
+			<div id="basic-template">
+        			<a class="ui-notify-close" href="#">x</a>
+        			<h1>#{title}</h1>
+        			<p>#{text}</p>
+    			</div>
+		</div>
+
+		<div id="edit-form" title="Edit" style="display:none"></div>
+
+		<div id="delete-dialog" title="Delete" style="display:none"></div>
+
+		<% if @flash.nil? %>
+			<div id="delete-notification" style="display:none"></div>
+			<div id="delete-close-notification" style="display:none"></div>
+			<div id="edit-notification" style="display:none"></div>
+			<div id="edit-close-notification" style="display:none"></div>
+		<%else%>
+			<%if(@flash.chomp.downcase=="edit_success")%>
+			<div id="edit-notification" style="display:inline"></div>
+			<%end%>
+			<%if(@flash.chomp.downcase=="edit_close")%>
+			<div id="edit-close-notification" style="display:inline"></div>
+			<%end%>
+			<%if(@flash.chomp.downcase=="delete_success")%>
+			<div id="delete-notification" style="display:inline"></div>
+			<%end%>
+			<%if (@flash.chomp.downcase=="delete_close")%>
+			<div id="delete-close-notification" style="display:inline"></div>
+			<%end%>
+		<%end%>
+
+
+		<div class="cf-merchant-content-complete">
+			<div class="cf-merchant-content-divider"></div>
+			<%= render ("merchants/buttons") %>
+			<div style="padding-top:28px"></div>
+			<div class="cf-merchant-content-center">
+				
+				<div class="cf-merchant-price-list-container">
+				
+				<div class="price_list_table_categorize-select">
+					<%= select("price_list_table_categorize", "id",options_for_select(@price_list_options).titlecase) %>
+				</div>
+
+				<div class="price_list_table_categorize-select-text">
+					Select Your Brand
+				</div>
+
+				<div id="loading-bar-dashboard-pricelist" style="display:none;">					
+					<%= image_tag "/Images/156.gif", :size => "20x20" %>
+				</div>
+
+				</div>
+		
+
+				<div style="clear:both;padding-top:15px"></div>
+
+				<div id="fixed-selected-brand"></div>
+
+				<div><%= render ('merchants_price_list/products') %></div>
+
+			</div>
+		</div>
+		
+		<div class="clear"></div>
+	<!-- end cf-merchant-content-wrapper --></div>
+	<div class="clear-footer"></div>
+	<div class="cf-merchant-footer">
+    		<div class="cf-merchant-footer-content">
+			<%= render 'shared/footer' %>
+        	</div>
+     	<!-- end cf-merchant-footer --></div>
+
+<!-- end cf-merchant-content --></div>
+</body>
+</html>

@@ -1,0 +1,63 @@
+<div id="main-panel">
+    <div id="left-panel">
+    
+        <div class="padT15 padL15" >
+           <% @products.keys.each do |i| %>
+            <div class="padB10">
+            <span class="red-text text-b16 ">
+                <%= i.titleize %> <%=@category_name.titleize %> - Product listing 
+                <% if @range == 1 %>
+                - <%= @position.titleize + " - " + @price %> 
+                <% end %>
+            </span>
+            <div class="comments-text padB5 border-gray-b">
+                    Click on any product below, to start comparing prices!
+            </div>
+            </div>
+         
+               <% @products[i].each do |j| %>
+                  <% prod = j[0].titleize %>
+                  <div class="prod-img-box">
+                      <div class="prod-img">
+                          <%= link_to image_tag(j[1].split(",")[1]),
+                                      ["/price",
+                                        @category_name,
+                                        j[0]].join("/"),
+                                        {:rel => "nofollow"} %>
+
+                      </div>
+                      <div class="prod-name">
+                          <%= links(["/price",
+                                        @category_name,
+                                        j[0]],prod) %>
+                        
+                      </div>
+                  </div>
+                  
+              <% end %>
+              
+              <div style="clear:both">&nbsp;</div>
+            <% end %>
+            
+            <%= render "shared/online_bran"%>
+
+        </div>
+    </div>
+    
+    <div id="right-panel" class="border-gray-l padT15">
+
+                <%= render "shared/hub"%>
+                
+                <%= render "shared/top"%>
+                
+                <%= render "shared/p_p_range"%>
+                
+                <%= render "shared/o_shops"%>
+    </div>
+    <div style="clear:both">&nbsp;</div>
+
+    <%= render "shared/p_range" %> 
+    
+</div>
+
+</html>

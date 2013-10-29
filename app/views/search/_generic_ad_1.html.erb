@@ -1,0 +1,43 @@
+<%if !@ad_list_details_record.nil? and @ad_list_details_record.active_flag=='y' %>
+
+	<div class="cf-generic-right-sidebar-deal-header">
+						    BEST DEAL
+	    	<!-- end cf-generic-right-sidebar-deal-header --></div>
+
+<% ad_list_details_count_function("generic",@ad_list_details_record.ad_list_details_id) %>
+
+<div class="cf-grs-ad1-container">
+
+<% if @ad_list_details_record.product_id == 0 && @ad_list_details_record.sub_category_id == 0 %>
+
+	<div class="cf-grs-ad1-container-img">
+		<%= link_to image_tag(@ad_list_details_prd_img),@ad_list_details_external_url,:target => "blank" %>
+	</div>
+
+	<div class="cf-grs-ad1-container-text">
+		<%= @ad_list_details_record.ad_text.html_safe %> from <span style="color:#000;font-weight:bold"><%= @ad_list_details_vendor_name %>, <%= @ad_list_details_branch_name%></span>
+	</div>
+
+	<div class="cf-grs-ad1-container-phone">
+		Call: <span style="font-weight:bold"><%= @ad_list_details_phone_no %>&nbsp;</span>
+	</div>
+
+<%else%>
+
+	<div class="cf-grs-ad1-container-img">
+		<%= link_to image_tag(@ad_list_details_prd_img) ,{:action => 'show_local_shop',:controller => 'local', :vendor_id => @ad_list_details_record.vendor_id, :product_id => @ad_list_details_record.product_id, :sub_category_id => @ad_list_details_record.sub_category_id,:unique_id=>@ad_list_details_unique_id,:search_case => "products",:view_name => @view_name},:target => "blank" %>
+	</div>
+
+	<div class="cf-grs-ad1-container-text">
+		<%= @ad_list_details_record.ad_text.html_safe %> from <span style="color:#000;font-weight:bold"><%= @ad_list_details_vendor_name %>, <%= @ad_list_details_branch_name%></span>
+	</div>
+
+	<div class="cf-grs-ad1-container-phone">
+		Call: <span style="font-weight:bold"><%= @ad_list_details_phone_no %>&nbsp;</span>
+	</div>
+
+<%end%>
+
+</div>
+
+<%end%>

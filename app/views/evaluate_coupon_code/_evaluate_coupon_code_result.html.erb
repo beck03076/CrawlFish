@@ -1,0 +1,14 @@
+<div id="cf-evaluate-coupon-code-message" style="display:">
+				<div class="cf-merchant-forgot-pwd-message">
+				<% @message = flash.to_s %>
+				
+				<% if @message.nil? %>
+					
+				<%else%>
+					<% if @message.to_s.chomp.downcase=="yes" %>
+						<div style="color:#008800;font-weight:bold;font-size:14px;margin-left:50px;">It is a valid coupon code!</div>
+					<% elsif @message.chomp.downcase=="no" %>
+						<div style="color:#B00;font-weight:bold;font-size:14px;margin-left:50px;">It is not a valid coupon code!</div>
+					<% end %>
+				<% end %>
+			</div>

@@ -1,0 +1,63 @@
+#! /bin/sh
+
+# Master script that validates and collates all the log files to prepare the final log file, which will be inserted into vendor_product_transactions_log table
+
+transaction_log_folder="/var/www/CrawlFish/public/transactions_logs/$1"
+script_path="/var/www/CrawlFish/script/transaction_logs_script"
+
+if test -e $transaction_log_folder
+then
+cd $transaction_log_folder
+
+if test -e $transaction_log_folder/final_logs
+then
+rm -r $transaction_log_folder/final_logs/final_clicks.dat
+echo "final_logs folder exists\n"
+else
+mkdir final_logs
+fi
+
+for file in `ls *.dat`
+do
+
+file_name=`echo $file`
+
+awk -F\| '{ if ($2 ~ /clicks/) print $1"|"$3;  }' $file > $transaction_log_folder/final_logs/clicks1.dat
+if test -e $transaction_log_folder/final_logs/clicks1.dat
+then
+awk -f $script_path/remove_duplicates.awk $transaction_log_folder/final_logs/clicks1.dat > $transaction_log_folder/final_logs/clicks2.dat
+awk -F\| '{ if ($1 ~ /,/) {sub(/,/,"|",$1);} print $1"|"$2; }' $transaction_log_folder/final_logs/clicks2.dat > $transaction_log_folder/final_logs/clicks2-1.dat
+awk -F\| '{ for(i=1;i<NF;i++) print "|"$i"|"$NF; }' $transaction_log_folder/final_logs/clicks2-1.dat > $transaction_log_folder/final_logs/clicks3.dat
+awk -f $script_path/remove_duplicates.awk $transaction_log_folder/final_logs/clicks3.dat >> $transaction_log_folder/final_logs/clicks4.dat
+cat $transaction_log_folder/final_logs/clicks4.dat >> $transaction_log_folder/final_logs/final_clicks.dat
+rm -r $transaction_log_folder/final_logs/clicks*
+fi
+
+awk -F\| '{ if(NR > 1) { print $1"|'$file_name'" } }' $file >> $transaction_log_folder/final_logs/unique_keys.dat
+awk -f $script_path/remove_duplicates.awk $transaction_log_folder/final_logs/unique_keys.dat > $transaction_log_folder/final_logs/final_unique_keys.dat
+
+rm -r $transaction_log_folder/final_logs/unique_keys.dat
+
+awk -F\| '{ if(NR > 1) {if(length($0) == 0) next; print $3} }' $file >> $transaction_log_folder/final_logs/keywords.dat
+
+log_date=`awk -F\  '{ if (NR == 1) print $1 }' $file`
+
+done
+
+awk -f $script_path/remove_duplicates.awk $transaction_log_folder/final_logs/keywords.dat >> $transaction_log_folder/final_logs/final_keywords.dat
+rm -r $transaction_log_folder/final_logs/keywords.dat
+
+cd $transaction_log_folder/final_logs
+
+if test -e final_clicks.dat -a -s final_clicks.dat
+then
+	mysql -u root -p'Sector@123' -e "LOAD DATA LOCAL INFILE '$transaction_log_folder/final_logs/final_clicks.dat' INTO TABLE temp_transactions_logs FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' SET type='clicks',log_date='$log_date',created_at=CURRENT_TIMESTAMP" crawlfishdevdb
+echo "clicks logged successfully into table"
+else
+echo "no clicks present"
+fi
+
+cd
+else
+echo "no transactions present today"
+fi

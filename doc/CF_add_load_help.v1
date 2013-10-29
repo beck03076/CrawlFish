@@ -1,0 +1,1465 @@
+Books
+------
+
+LOAD DATA LOCAL INFILE '/var/www/data/Books/part2_books.dat' INTO TABLE books_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+Book Reviews
+-------------
+
+LOAD DATA LOCAL INFILE '/var/www/data/Books/reviews_1.dat' INTO TABLE books_reviews FIELDS TERMINATED BY '|' LINES TERMINATED BY '||||\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Books/reviews_2.dat' INTO TABLE books_reviews FIELDS TERMINATED BY '|' LINES TERMINATED BY '||||\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Books/reviews_3.dat' INTO TABLE books_reviews FIELDS TERMINATED BY '|' LINES TERMINATED BY '||||\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Books/reviews_4.dat' INTO TABLE books_reviews FIELDS TERMINATED BY '|' LINES TERMINATED BY '||||\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Books/reviews_5.dat' INTO TABLE books_reviews FIELDS TERMINATED BY '|' LINES TERMINATED BY '||||\n' set created_at=CURRENT_TIMESTAMP;
+
+
+Mobiles
+--------
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Acer/part2-mobiles-acer.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Alcatel/part2-mobiles-alcatel.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Apple/part2-mobiles-apple.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/BlackBerry/part2-mobiles-blackberry.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/BlackBerry/part2-mobiles-blackberry-2.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Celkon/part2-mobiles-celkon.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Dell/part2-mobiles-dell.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/HTC/part2-mobiles-htc.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Huawei/part2-mobiles-huawei.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Micromax/part2-mobiles-micromax.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Motorola/part2-mobiles-motorola.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Nokia/part2-mobiles-nokia.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/LG/P1/part2-mobiles-lg-p1.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/LG/P2/part2-mobiles-v1.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Samsung/part2-mobiles-samsung-1&2.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Samsung/part2-mobiles-samsung-3.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Samsung/part2-mobiles-samsung-4.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Samsung/part2-mobiles-samsung-5.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Samsung/part2-mobiles-samsung-6.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/SonyEricsson/part2-mobiles-sonyericsson.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Sony/part2-mobiles-sony.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Sony/part2-mobiles-sony-oct8.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Spice/part2-mobiles-spice.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Vodafone/part2-mobiles-vodafone.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Nokia/part2-mobiles-nokia-2.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Micromax/part2_mobiles_micromax_aug24.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/part2-mobiles-v1.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part2/Lenovo/part2_lenovo.dat' INTO TABLE mobiles_lists FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+Mobile Reviews
+----------------
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/mobile_reviews_set1.dat' INTO TABLE mobile_reviews FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/mobile_reviews_set2.dat' INTO TABLE mobile_reviews FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+Vendor Deals
+-------------
+LOAD DATA LOCAL INFILE '/var/www/data/vendor_deals.dat' INTO TABLE vendor_deals FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+
+Flipkart
+---------
+
+rake vendor:addonline APP_PATH=/var/www/CrawlFish VENDOR_NAME=Flipkart VENDOR_LOGO="/Images/Vendor_Logos/flipkart.png" VENDOR_WEBSITE=www.flipkart.com EMAIL=business@flipkart.com PHONE=18001023547 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=2012-07-07 VENDOR_FAX=na ADDRESS="No. 447/B, 1st A Cross,12th Main, 4th Block,Opp. BSNL Telephone Exchange,Koramangala,Bangalore - 560034,Karnataka, India" LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="Good online shop" WORKING_TIME=na MISCELLANEOUS="Online wallet, COD, 30 days replacement guarentee, EMI" TRIAL_FLAG=n
+
+Flipkart - Part 1 - Books 
+-------------------------
+
+rake vendor:loadonline VENDOR_NAME=Flipkart APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Books/Online_flipkart_books_1.dat
+
+LOAD DATA LOCAL INFILE '/var/www/data/Books/Online_flipkart_books_1.dat' INTO TABLE online_flipkart_products FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+rake vendor:loadonline VENDOR_NAME=Flipkart APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Books/Online_flipkart_books_2.dat
+
+LOAD DATA LOCAL INFILE '/var/www/data/Books/Online_flipkart_books_2.dat' INTO TABLE online_flipkart_products FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+rake vendor:loadonline VENDOR_NAME=Flipkart APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Books/Online_flipkart_books_3.dat
+
+LOAD DATA LOCAL INFILE '/var/www/data/Books/Online_flipkart_books_3.dat' INTO TABLE online_flipkart_products FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+rake vendor:loadonline VENDOR_NAME=Flipkart APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Books/Online_flipkart_books_4.dat
+
+LOAD DATA LOCAL INFILE '/var/www/data/Books/Online_flipkart_books_4.dat' INTO TABLE online_flipkart_products FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+rake vendor:loadonline VENDOR_NAME=Flipkart APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Books/Online_flipkart_books_5.dat
+
+LOAD DATA LOCAL INFILE '/var/www/data/Books/Online_flipkart_books_5.dat' INTO TABLE online_flipkart_products FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part1/Online_Flipkart_mobiles.dat' INTO TABLE online_flipkart_products FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+rake vendor:loadonline VENDOR_NAME=Flipkart APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/Online_Flipkart_mobiles_jul16_nokia.dat
+
+rake vendor:loadonline VENDOR_NAME=Flipkart APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Online/Flipkart/Online_Flipkart_mobiles_nokia_jul19.dat
+
+rake vendor:loadonline VENDOR_NAME=Flipkart APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Online/Flipkart/Online_Flipkart_mobiles_aug8.dat
+
+IndiaPlaza
+------------
+
+rake vendor:addonline APP_PATH=/var/www/CrawlFish VENDOR_NAME=Indiaplaza VENDOR_LOGO="/Images/Vendor_Logos/indiaplaza.png" VENDOR_WEBSITE=www.indiaplaza.com EMAIL=feedback@indiaplaza.in PHONE=08049091234  SUB_CATEGORIES="books_lists,mobiles_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=2012-07-07 VENDOR_FAX=na ADDRESS="2nd Floor, No: 21,Brigade Square,Cambridge Road, Halasuru,Bangalore - 560008" LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="An Online Shop" WORKING_TIME=na MISCELLANEOUS="COD" TRIAL_FLAG=n
+
+rake vendor:loadonline VENDOR_NAME=Indiaplaza APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Online_indiaplaza_mobiles.dat
+
+rake vendor:loadonline VENDOR_NAME=Indiaplaza APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/apple/Online_indiaplaza_apple.dat
+
+rake vendor:loadonline VENDOR_NAME=Indiaplaza APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Books/Online_Indiaplaza_books.dat
+
+rake vendor:loadonline VENDOR_NAME=Indiaplaza APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Books/jul13_indiaplaza_books/Online_Indiaplaza_books_diff.dat
+
+rake vendor:loadonline VENDOR_NAME=Indiaplaza APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/Online_IndiaPlaza_mobiles_jul16_nokia.dat
+
+rake vendor:loadonline VENDOR_NAME=Indiaplaza APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Online/IndiaPlaza/Online_IndiaPlaza_mobiles_nokia_jul19.dat
+
+rake vendor:loadonline VENDOR_NAME=Indiaplaza APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Online/IndiaPlaza/Online_Indiaplaza_mobiles_aug8.dat
+
+rake vendor:loadonline VENDOR_NAME=Indiaplaza APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Online_Indiaplaza_apple.dat
+
+Saholic
+-------
+
+rake vendor:addonline APP_PATH=/var/www/CrawlFish VENDOR_NAME=Saholic VENDOR_LOGO="/Images/Vendor_Logos/saholic.jpg" VENDOR_WEBSITE=www.saholic.com EMAIL=help@saholic.com PHONE=01204071401 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=2012-07-07 VENDOR_FAX=na ADDRESS="Spice Online Retail Pvt. Ltd.,19A-20A, Sector 125,Noida - 201301 (UP)" LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="An Online Shop" WORKING_TIME=na MISCELLANEOUS="COD" TRIAL_FLAG=n
+
+rake vendor:loadonline VENDOR_NAME=Saholic APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Online_Saholic_mobiles.dat
+
+rake vendor:loadonline VENDOR_NAME=Saholic APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/apple/Online_Saholic_apple.dat
+
+rake vendor:loadonline VENDOR_NAME=Saholic APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/Online_Saholic_mobiles_jul16_nokia.dat
+
+rake vendor:loadonline VENDOR_NAME=Saholic APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Online/Saholic/Online_Saholic_mobiles_playbook_jul19.dat
+
+rake vendor:loadonline VENDOR_NAME=Saholic APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Online/Saholic/Online_Saholic_mobiles_nokia_jul19.dat
+
+rake vendor:loadonline VENDOR_NAME=Saholic APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Online/Saholic/Online_Saholic_mobiles_aug8.dat
+
+rake vendor:loadonline VENDOR_NAME=Saholic APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Online_Saholic_apple.dat
+
+
+BuyThePrice
+------------
+
+rake vendor:addonline APP_PATH=/var/www/CrawlFish VENDOR_NAME=BuyThePrice VENDOR_LOGO="/Images/Vendor_Logos/buytheprice.jpg" VENDOR_WEBSITE=www.buytheprice.com EMAIL=care@buytheprice.com PHONE=04049496969 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=2012-07-07 VENDOR_FAX=na ADDRESS="MyZingo eCommerce Services Pvt. Ltd.,402, Sri Durga Towers,Road #10, Banjara Hills,Hyderabad 500034" LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="An Online Shop" WORKING_TIME=na MISCELLANEOUS="COD" TRIAL_FLAG=n
+
+rake vendor:loadonline VENDOR_NAME=BuyThePrice APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Online_BuyThePrice_mobiles.dat
+
+rake vendor:loadonline VENDOR_NAME=BuyThePrice APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/apple/Online_BuyThePrice_apple.dat
+
+rake vendor:loadonline VENDOR_NAME=BuyThePrice APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Online/BuyThePrice/Online_BuyThePrice_mobiles_nokia_jul19.dat
+
+rake vendor:loadonline VENDOR_NAME=BuyThePrice APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Online/BuyThePrice/Online_BuyThePrice_mobiles_aug8.dat
+
+rake vendor:loadonline VENDOR_NAME=BuyThePrice APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Online_BuyThePrice_apple.dat
+
+
+CSM world
+---------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="CSMWorld" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="csmworld@gmail.com" PHONE=9840489607 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-09 VENDOR_FAX=na ADDRESS="36-B, Tambaram Main Road, Vijaya Nagar,Velachery, Chennai- 600042, Tamil Nadu" LATITUDE=12.9760385 LONGITUDE=80.2209448 CITY_NAME=chennai BRANCH_NAME=velachery DESCRIPTION="Good local shop" WORKING_TIME="9.30AM to 9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/CSM World/Offline_CSMWorld_mobiles.dat CITY_NAME=chennai BRANCH_NAME=velachery VENDOR_NAME=CSMWorld
+
+rake merchant:approve_local[CSMWorld,chennai,velachery,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/Offline_CSMWorld_mobiles_jul16_nokia.dat CITY_NAME=chennai BRANCH_NAME=velachery VENDOR_NAME=CSMWorld
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/Offline_CSMWorld_mobiles_jul14.dat CITY_NAME=chennai BRANCH_NAME=velachery VENDOR_NAME=CSMWorld
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_1.dat CITY_NAME=chennai BRANCH_NAME=velachery VENDOR_NAME=CSMWorld
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/CSM_World/Offline_csmworld_velachery_oct31.dat CITY_NAME=chennai BRANCH_NAME=velachery VENDOR_NAME=CSMWorld
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="CSMWorld" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="csmworld@gmail.com" PHONE=na SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-09 VENDOR_FAX=na ADDRESS="First Floor, Navaloor, Rajiv Gandhi Salai, Sholinganallur, Chennai - 600119" LATITUDE=13.0592151 LONGITUDE=80.2015999 CITY_NAME=chennai BRANCH_NAME=navalur DESCRIPTION="Good local shop" WORKING_TIME="9.30AM to 9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/CSM World/Offline_CSMWorld_mobiles.dat CITY_NAME=chennai BRANCH_NAME=navalur VENDOR_NAME=CSMWorld
+
+rake merchant:approve_local[CSMWorld,chennai,navalur]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/Offline_CSMWorld_mobiles_jul16_nokia.dat CITY_NAME=chennai BRANCH_NAME=navalur VENDOR_NAME=CSMWorld
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/Offline_CSMWorld_mobiles_jul14.dat CITY_NAME=chennai BRANCH_NAME=navalur VENDOR_NAME=CSMWorld
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part1/Offline/CSM World/Offline_CSMWorld_mobiles_priority_fix.dat' INTO TABLE local_chennai_navalur_csmworld_products FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n' set created_at=CURRENT_TIMESTAMP;
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_1.dat CITY_NAME=chennai BRANCH_NAME=navalur VENDOR_NAME=CSMWorld
+
+UniqueCellCare
+--------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="UniqueCellCare" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE=9841361136 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-09 VENDOR_FAX=na ADDRESS="No 1/1, Anna Street, Thiruvanmiyur, Chennai - 600041" LATITUDE=12.9883692 LONGITUDE=80.2622805 CITY_NAME=chennai BRANCH_NAME=thiruvanmiyur DESCRIPTION="Good local shop" WORKING_TIME="10AM to 9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline_UniqueCellCare_mobiles.dat CITY_NAME=chennai BRANCH_NAME=thiruvanmiyur VENDOR_NAME=UniqueCellCare
+
+rake merchant:approve_local[UniqueCellCare,chennai,thiruvanmiyur,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/Offline_UniqueCellCare_mobiles_jul16_nokia.dat CITY_NAME=chennai BRANCH_NAME=thiruvanmiyur VENDOR_NAME=UniqueCellCare
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/Offline_UniqueCellCare_mobiles_jul14.dat CITY_NAME=chennai BRANCH_NAME=thiruvanmiyur VENDOR_NAME=UniqueCellCare
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Unique\ Cell\ Care/Offline_UniqueCellCare_mobiles_priority_fix.dat CITY_NAME=chennai BRANCH_NAME=thiruvanmiyur VENDOR_NAME=UniqueCellCare
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Unique_Cell_Care/Offline_UniqueCellCare_mobiles_jul19.dat CITY_NAME=chennai BRANCH_NAME=thiruvanmiyur VENDOR_NAME=UniqueCellCare
+
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="UniqueCellCare" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE=9841361137 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-09 VENDOR_FAX=na ADDRESS="Taramani, Chennai" LATITUDE=12.9812809 LONGITUDE=80.2379318 CITY_NAME=chennai BRANCH_NAME=taramani DESCRIPTION="Good local shop" WORKING_TIME="10AM to 9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline_UniqueCellCare_mobiles.dat CITY_NAME=chennai BRANCH_NAME=taramani VENDOR_NAME=UniqueCellCare
+
+rake merchant:approve_local[UniqueCellCare,chennai,taramani]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/Offline_UniqueCellCare_mobiles_jul16_nokia.dat CITY_NAME=chennai BRANCH_NAME=taramani VENDOR_NAME=UniqueCellCare
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/Offline_UniqueCellCare_mobiles_jul14.dat CITY_NAME=chennai BRANCH_NAME=taramani VENDOR_NAME=UniqueCellCare
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Unique\ Cell\ Care/Offline_UniqueCellCare_mobiles_priority_fix.dat CITY_NAME=chennai BRANCH_NAME=taramani VENDOR_NAME=UniqueCellCare
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Unique_Cell_Care/Offline_UniqueCellCare_mobiles_jul19.dat CITY_NAME=chennai BRANCH_NAME=taramani VENDOR_NAME=UniqueCellCare
+
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="UniqueCellCare" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE=9841361138 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-09 VENDOR_FAX=na ADDRESS="Medavakkam, Chennai" LATITUDE=12.9149216 LONGITUDE=80.1857629 CITY_NAME=chennai BRANCH_NAME=medavakkam DESCRIPTION="Good local shop" WORKING_TIME="10AM to 9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline_UniqueCellCare_mobiles.dat CITY_NAME=chennai BRANCH_NAME=medavakkam VENDOR_NAME=UniqueCellCare
+
+rake merchant:approve_local[UniqueCellCare,chennai,medavakkam]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/Offline_UniqueCellCare_mobiles_jul16_nokia.dat CITY_NAME=chennai BRANCH_NAME=medavakkam VENDOR_NAME=UniqueCellCare
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/Offline_UniqueCellCare_mobiles_jul14.dat CITY_NAME=chennai BRANCH_NAME=medavakkam VENDOR_NAME=UniqueCellCare
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Unique\ Cell\ Care/Offline_UniqueCellCare_mobiles_priority_fix.dat CITY_NAME=chennai BRANCH_NAME=medavakkam VENDOR_NAME=UniqueCellCare
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Unique_Cell_Care/Offline_UniqueCellCare_mobiles_jul19.dat CITY_NAME=chennai BRANCH_NAME=medavakkam VENDOR_NAME=UniqueCellCare
+
+
+Jeevas Mobiles
+--------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="JeevasMobiles" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="jeevas.mobiles@gmail.com" PHONE=04442031533 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-09 VENDOR_FAX=na ADDRESS="G3 Sai Krupa Apartments,Taramani Link Road,Velachery,Chennai 600042" LATITUDE=12.981673618604521 LONGITUDE=80.23027896881104 CITY_NAME=chennai BRANCH_NAME=velachery DESCRIPTION="Jeevas Mobiles, Velachery sells all popular models of Nokia, Samsung and Micromax" WORKING_TIME="9.30AM to 9.00PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/Offline_JeevasMobiles_mobiles.dat CITY_NAME=chennai BRANCH_NAME=velachery VENDOR_NAME=JeevasMobiles
+
+rake merchant:approve_local[JeevasMobiles,chennai,velachery,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Jeevas_Mobiles/Offline_jeevas_velachery.dat CITY_NAME=chennai BRANCH_NAME=velachery VENDOR_NAME=JeevasMobiles
+
+Sayar Systems
+-------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SayarSystems" VENDOR_LOGO=na VENDOR_WEBSITE="http://www.nokiastorechennai.com/" EMAIL="sayarsystems.nokia@gmail.com" PHONE=04442614433 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-09 VENDOR_FAX=na ADDRESS="Shop No 3, Door No 1,Balakrishna Mudali Street,Arya Gowda Road,West Mambalam,Chennai 600033" LATITUDE=13.040494838975388 LONGITUDE=80.22153496742249 CITY_NAME=chennai BRANCH_NAME=mambalam DESCRIPTION="Jeevas Mobiles, Velachery sells all popular models of Nokia, Samsung and Micromax" WORKING_TIME="9.30AM to 9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/Offline_SayarSystems_mobiles.dat CITY_NAME=chennai BRANCH_NAME=mambalam VENDOR_NAME=SayarSystems
+
+rake merchant:approve_local[SayarSystems,chennai,mambalam,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Sayar_Systems/Offline_SayarSystems_mobiles_priority_fix.dat CITY_NAME=chennai BRANCH_NAME=mambalam VENDOR_NAME=SayarSystems
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SayarSystems" VENDOR_LOGO=na VENDOR_WEBSITE="http://www.nokiastorechennai.com/" EMAIL="sayarsystems.nokia@gmail.com" PHONE=9841455712 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-09-05 VENDOR_FAX=na ADDRESS="13-a, Ground Floor,Ampa Skywalk Mall,Nelson Manickam Road,Aminjikarai,Chennai 600 029" LATITUDE=13.0721157 LONGITUDE=80.2218637 CITY_NAME=chennai BRANCH_NAME=aminjikarai DESCRIPTION="Jeevas Mobiles, Velachery sells all popular models of Nokia, Samsung and Micromax" WORKING_TIME="9.30AM to 9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Misc/Offline_SayarSystems_mobiles.dat CITY_NAME=chennai BRANCH_NAME=aminjikarai VENDOR_NAME=SayarSystems
+
+rake merchant:approve_local[SayarSystems,chennai,aminjikarai]
+
+VinodCellWorld
+-------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="VinodCellWorld" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE=04442115144 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-09 VENDOR_FAX=na ADDRESS="70 L.B.Road,2nd Avenue,Opposite to Adyar Depot Signal,Indira nagar,Adyar,Chennai 600020" LATITUDE=12.997177348325405 LONGITUDE=80.25555610656738 CITY_NAME=chennai BRANCH_NAME=adyar DESCRIPTION="Vinod Cell Care sells all popular models of Nokia, Samsung and HTC" WORKING_TIME="9.30AM to 9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Vinod_Cell_World/Offline_VinodCellWorld_mobiles.dat CITY_NAME=chennai BRANCH_NAME=adyar VENDOR_NAME=VinodCellWorld
+
+rake merchant:approve_local[VinodCellWorld,chennai,adyar,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Vinod_Cell_World/Offline_VinodCellWorld_mobiles_jul19.dat CITY_NAME=chennai BRANCH_NAME=adyar VENDOR_NAME=VinodCellWorld
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_1.dat CITY_NAME=chennai BRANCH_NAME=adyar VENDOR_NAME=VinodCellWorld
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Vinod_Cell_World/Offline_vinodcellworld_adyar_oct31.dat CITY_NAME=chennai BRANCH_NAME=adyar VENDOR_NAME=VinodCellWorld
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="VinodCellWorld" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE=04442079666 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-09 VENDOR_FAX=na ADDRESS="62,MG Road,Opp To Ponnuswamy Hotel,Vannandurai Junction,Besant Nagar,Chennai 600090" LATITUDE=13.000533051799902 LONGITUDE=80.25673627853394 CITY_NAME=chennai BRANCH_NAME=besantnagar DESCRIPTION="Vinod Cell Care sells all popular models of Nokia, Samsung and HTC" WORKING_TIME="9.30AM to 9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Vinod_Cell_World/Offline_VinodCellWorld_mobiles.dat CITY_NAME=chennai BRANCH_NAME="besantnagar" VENDOR_NAME=VinodCellWorld
+
+rake merchant:approve_local[VinodCellWorld,chennai,besantnagar]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Vinod_Cell_World/Offline_VinodCellWorld_mobiles_jul19.dat CITY_NAME=chennai BRANCH_NAME=besantnagar VENDOR_NAME=VinodCellWorld
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_1.dat CITY_NAME=chennai BRANCH_NAME=besantnagar VENDOR_NAME=VinodCellWorld
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Vinod_Cell_World/Offline_vinodcellworld_adyar_oct31.dat CITY_NAME=chennai BRANCH_NAME=besantnagar VENDOR_NAME=VinodCellWorld
+
+MMR Communication
+------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="MMRCommunication" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="mmr.mobileking@gmail.com" PHONE=04424466834 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-17 VENDOR_FAX=na ADDRESS="61,Annai Towers,Vannanthurai,Besant Nagar,Chennai 600090" LATITUDE=12.9994791 LONGITUDE=80.2683718 CITY_NAME=chennai BRANCH_NAME=besantnagar DESCRIPTION="MMR Communication, Besant nagar has been around for 12 years selling phone models of HTC, Samsung, Nokia, Blackberry, LG, Sony. They also sell original mobile accessories and provide mobile phone service." WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/MMRCommunication/Offline_MMRCommunications_mobiles.dat CITY_NAME=chennai BRANCH_NAME="besantnagar" VENDOR_NAME=MMRCommunication
+
+rake merchant:approve_local[MMRCommunication,chennai,besantnagar,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/MMRCommunication/Offline_MMRCommunications_mobiles_priority_fix.dat CITY_NAME=chennai BRANCH_NAME="besantnagar" VENDOR_NAME=MMRCommunication
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/MMRCommunication/Offline_MMRCommunications_mobiles_jul19.dat CITY_NAME=chennai BRANCH_NAME="besantnagar" VENDOR_NAME=MMRCommunication
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_1.dat CITY_NAME=chennai BRANCH_NAME="besantnagar" VENDOR_NAME=MMRCommunication
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/MMRCommunication/Offline_MMRCommunication_mobiles_apple.dat CITY_NAME=chennai BRANCH_NAME="besantnagar" VENDOR_NAME=MMRCommunication
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/MMRCommunication/Offline_mmrcommunication_besantnagar_oct31.dat CITY_NAME=chennai BRANCH_NAME="besantnagar" VENDOR_NAME=MMRCommunication
+
+
+Sathya Agencies
+------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SathyaAgencies" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE=04442113555 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-18 VENDOR_FAX=na ADDRESS="140 L.B. Road,Opposite to Thyagaraja theatre,Thiruvanmiyur,Chennai 600041" LATITUDE=12.982672 LONGITUDE=80.263381 CITY_NAME=chennai BRANCH_NAME=thiruvanmiyur DESCRIPTION="Sathya Agencies,in operation for last 20 years, sells mobile phones of Nokia, Samsung, Karbonn, Lava. Apart from mobile phones, they are dealers in DVD players, camera, Two-in-one VCD, DVD, Audio Cassettes. All prepaid cards and postpaid connections are available with them." WORKING_TIME="9AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Sathya_Agencies/Offline_SathyaAgencies_mobiles.dat CITY_NAME=chennai BRANCH_NAME="thiruvanmiyur" VENDOR_NAME=SathyaAgencies
+
+rake merchant:approve_local[SathyaAgencies,chennai,thiruvanmiyur,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Sathya_Agencies/Offline_SathyaAgencies_mobiles_nokia_jul19.dat CITY_NAME=chennai BRANCH_NAME="thiruvanmiyur" VENDOR_NAME=SathyaAgencies
+
+
+Jai Sai Mobiles
+------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="JaiSaiMobiles" VENDOR_LOGO=na VENDOR_WEBSITE="www.jaisaimobiles.weebly.com" EMAIL="jaai_kamal@yahoo.co.in" PHONE=04422432259 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-18 VENDOR_FAX=na ADDRESS="#57/23, 1st main road,New colony Near TCS,Velachery,Chennai 600042" LATITUDE=13.060422 LONGITUDE=80.249583 CITY_NAME=chennai BRANCH_NAME=velachery DESCRIPTION="Jai Sai mobiles,since 2008, has been selling all popular mobiles and mobile accessories of leading brands." WORKING_TIME="9.30AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Jai_Sai/Offline_JaiSai_mobiles.dat CITY_NAME=chennai BRANCH_NAME="velachery" VENDOR_NAME=JaiSaiMobiles
+
+rake merchant:approve_local[JaiSaiMobiles,chennai,velachery,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Jai_Sai/Offline_JaiSai_mobiles_priority_fix.dat CITY_NAME=chennai BRANCH_NAME="velachery" VENDOR_NAME=JaiSaiMobiles
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Jai_Sai/Offline_JaiSai_mobiles_nokia_jul19.dat CITY_NAME=chennai BRANCH_NAME="velachery" VENDOR_NAME=JaiSaiMobiles
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_1.dat CITY_NAME=chennai BRANCH_NAME="velachery" VENDOR_NAME=JaiSaiMobiles
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Jai_Sai/Offline_jaisai_mobiles_oct31.dat CITY_NAME=chennai BRANCH_NAME="velachery" VENDOR_NAME=JaiSaiMobiles
+
+Bismi Cell World Collection
+----------------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="BismiCellWorld" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="aybaiyub@yahoo.com" PHONE=9841111150 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-19 VENDOR_FAX=na ADDRESS="A Mohamed Hanifa,#35/14 Venkatakrishna Road,R.A.Puram,Mandavelli,Chennai 600028" LATITUDE=13.026728976773347 LONGITUDE=80.2641499042511 CITY_NAME=chennai BRANCH_NAME=mandavelli DESCRIPTION="Bismi Cell World Collection, Mandavelli has been around for 9 years with 2+ employees selling popular phone models of HTC, Samsung, Nokia, Blackberry, Apple, Micromax, Karbonn. They also sell original mobile accessories and provide mobile phone service." WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Bismi_CellWorld_Collection/Offline_BismiCellWorldCollections_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="mandavelli" VENDOR_NAME=BismiCellWorld
+
+rake merchant:approve_local[BismiCellWorld,chennai,mandavelli,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Comon_micromax_mobiles_2.dat CITY_NAME=chennai BRANCH_NAME="mandavelli" VENDOR_NAME=BismiCellWorld
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="mandavelli" VENDOR_NAME=BismiCellWorld
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_2.dat CITY_NAME=chennai BRANCH_NAME="mandavelli" VENDOR_NAME=BismiCellWorld
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Bismi_CellWorld_Collection/Offline_bismicellworld_mandavelli_oct31.dat CITY_NAME=chennai BRANCH_NAME="mandavelli" VENDOR_NAME=BismiCellWorld
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Bismi_CellWorld_Collection/Offline_bismicellworld_mandavelli_nov15.dat CITY_NAME=chennai BRANCH_NAME="mandavelli" VENDOR_NAME=BismiCellWorld
+
+
+City Mobile Care
+----------------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="CityMobileCare" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="rafeeque2992@gmail.com" PHONE=9043273767 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-19 VENDOR_FAX=na ADDRESS="M Saleem,55/1 Shop No 3,Bridge Road(Opp Aavin),Adyar,Chennai 600020" LATITUDE=13.026728976773347 LONGITUDE=80.2641499042511 CITY_NAME=chennai BRANCH_NAME=adyar DESCRIPTION="City Mobile Care, Adyar has been around for more than 1 year with 2+ employees selling popular phone models of Nokia, Samsung, Micromax. They also sell original mobile accessories such as mobile batteries,chargers, cases and covers. Apart from sales, they also provide best mobile phone service." WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/City_Mobile_Care/Offline_CityMobileCare_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="adyar" VENDOR_NAME=CityMobileCare
+
+rake merchant:approve_local[CityMobileCare,chennai,adyar,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/City_Mobile_Care/Offline_CityMobileCare_mobiles_aug24.dat CITY_NAME=chennai BRANCH_NAME="adyar" VENDOR_NAME=CityMobileCare
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Comon_micromax_mobiles_1.dat CITY_NAME=chennai BRANCH_NAME="adyar" VENDOR_NAME=CityMobileCare
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_1.dat CITY_NAME=chennai BRANCH_NAME="adyar" VENDOR_NAME=CityMobileCare
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/City_Mobile_Care/Offline_citymobile_care_adyar_oct31.dat CITY_NAME=chennai BRANCH_NAME="adyar" VENDOR_NAME=CityMobileCare
+
+Romus Telecom
+----------------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="RomusTelecom" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="rafeeqromus@gmail.com" PHONE=04442337775 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-19 VENDOR_FAX=na ADDRESS="M Rafeeq,54 LB Road,Mosque Complex(Shop No 25),Adyar,Chennai 600020" LATITUDE=12.9958296 LONGITUDE=80.2559198 CITY_NAME=chennai BRANCH_NAME=adyar DESCRIPTION="Romus Telecome has been around for 12 years with 4+ employees selling popular phone models of HTC, Samsung, Nokia, Blackberry, Apple, Sony. They also sell original mobile accessories such as mobile batteries,chargers, cases and covers. Apart from sales, they also provide best mobile phone service." WORKING_TIME="9.30AM-9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Romus_Telecom/Offline_RomusTelecom_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="adyar" VENDOR_NAME=RomusTelecom
+
+rake merchant:approve_local[RomusTelecom,chennai,adyar,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_2.dat CITY_NAME=chennai BRANCH_NAME="adyar" VENDOR_NAME=RomusTelecom
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Romus_Telecom/Offline_romustelecom_adyar_oct31.dat CITY_NAME=chennai BRANCH_NAME="adyar" VENDOR_NAME=RomusTelecom
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Romus_Telecom/Offline_romustelecom_adyar_nov15.dat CITY_NAME=chennai BRANCH_NAME="adyar" VENDOR_NAME=RomusTelecom
+
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="RomusTelecom" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="rafeeqromus@gmail.com" PHONE=04442337775 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-19 VENDOR_FAX=na ADDRESS="M Rafeeq,116/107, Pattinapakkam, Santhome High Road, Raja Annamalai Puram, Chennai 600028" LATITUDE=13.026007737377421 LONGITUDE=80.27486801147461 CITY_NAME=chennai BRANCH_NAME=rapuram DESCRIPTION="Romus Telecom has been around for 12 years with 4+ employees selling popular phone models of HTC, Samsung, Nokia, Blackberry, Apple, Sony. They also sell original mobile accessories such as mobile batteries,chargers, cases and covers. Apart from sales, they also provide best mobile phone service." WORKING_TIME="9.30AM-9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Romus_Telecom/Offline_RomusTelecom_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="rapuram" VENDOR_NAME=RomusTelecom
+
+rake merchant:approve_local[RomusTelecom,chennai,rapuram]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="rapuram" VENDOR_NAME=RomusTelecom
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_2.dat CITY_NAME=chennai BRANCH_NAME="rapuram" VENDOR_NAME=RomusTelecom
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Romus_Telecom/Offline_romustelecom_adyar_oct31.dat CITY_NAME=chennai BRANCH_NAME="rapuram" VENDOR_NAME=RomusTelecom
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Romus_Telecom/Offline_romustelecom_adyar_nov15.dat CITY_NAME=chennai BRANCH_NAME="rapuram" VENDOR_NAME=RomusTelecom
+
+Hello World
+-------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="HelloWorld" VENDOR_LOGO=na VENDOR_WEBSITE="www.helloworldchennai.com" EMAIL="helloworldchennai@gmail.com" PHONE=04424425573 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-20 VENDOR_FAX=na ADDRESS="P Vikram,Basement Shop No 2, Gokul Arcade,#2, Sardar Patel Road,Adyar,Chennai 600020" LATITUDE=13.0066331 LONGITUDE=80.2559238 CITY_NAME=chennai BRANCH_NAME=adyar DESCRIPTION="Hello World, The Complete Mobile Store, in existence for last 12 years with 7+ employees, are specialists in all high end mobiles, tablets and iPads.Their spectrum of services include sale of the very latest handsets from across the world, snazzy accessories, servicing of instruments, providing of connections, corporate mobile solutions and more." WORKING_TIME="10AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Hello_World/Offline_HelloWorld_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="adyar" VENDOR_NAME=HelloWorld
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Hello_World/Offline_HelloWorld_mobiles_final-2.dat CITY_NAME=chennai BRANCH_NAME="adyar" VENDOR_NAME=HelloWorld
+
+rake merchant:approve_local[HelloWorld,chennai,adyar,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="adyar" VENDOR_NAME=HelloWorld
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Hello_World/Offline_helloworld_adyar_nov15.dat CITY_NAME=chennai BRANCH_NAME="adyar" VENDOR_NAME=HelloWorld
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="HelloWorld" VENDOR_LOGO=na VENDOR_WEBSITE="www.helloworldchennai.com" EMAIL="helloworldchennai@gmail.com" PHONE=04424425573 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-20 VENDOR_FAX=na ADDRESS="P Vikram,5/319, Old Mahabalipuram Road,Near CTS, Okkiyampet,Thuraipakkam,Chennai 600097" LATITUDE=13.060422 LONGITUDE=80.249583 CITY_NAME=chennai BRANCH_NAME=thuraipakkam DESCRIPTION="Hello World, The Complete Mobile Store, in existence for last 12 years with 7+ employees, are specialists in all high end mobiles, tablets and iPads.Their spectrum of services include sale of the very latest handsets from across the world, snazzy accessories, servicing of instruments, providing of connections, corporate mobile solutions and more." WORKING_TIME="10AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Hello_World/Offline_HelloWorld_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="thuraipakkam" VENDOR_NAME=HelloWorld
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Hello_World/Offline_HelloWorld_mobiles_final-2.dat CITY_NAME=chennai BRANCH_NAME="thuraipakkam" VENDOR_NAME=HelloWorld
+
+rake merchant:approve_local[HelloWorld,chennai,thuraipakkam]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="thuraipakkam" VENDOR_NAME=HelloWorld
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Hello_World/Offline_helloworld_adyar_nov15.dat CITY_NAME=chennai BRANCH_NAME="thuraipakkam" VENDOR_NAME=HelloWorld
+
+
+Sim City
+--------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SimCity" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="customercare@simcity.in" PHONE=04443009999 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-20 VENDOR_FAX=na ADDRESS="196/446 TTK Road,Alwarpet,Chennai 600018" LATITUDE=13.0336433 LONGITUDE=80.2505179 CITY_NAME=chennai BRANCH_NAME=alwarpet DESCRIPTION="Sim City in existence of last 4 years is an authorised dealer of Nokia, Blackberry, Samsung, Apple and HTC phones in Chennai, India.They sell all branded mobile accessories." WORKING_TIME="10AM-11PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Sim_City/Offline_SimCity_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="alwarpet" VENDOR_NAME=SimCity
+
+rake merchant:approve_local[SimCity,chennai,alwarpet,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="alwarpet" VENDOR_NAME=SimCity
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_2.dat CITY_NAME=chennai BRANCH_NAME="alwarpet" VENDOR_NAME=SimCity
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Sim_City/Offline_simcity_alwarpet_oct31.dat CITY_NAME=chennai BRANCH_NAME="alwarpet" VENDOR_NAME=SimCity
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Sim_City/Offline_simcity_alwarpet_nov15.dat CITY_NAME=chennai BRANCH_NAME="alwarpet" VENDOR_NAME=SimCity
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SimCity" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="customercare@simcity.in" PHONE=917299228888 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-20 VENDOR_FAX=na ADDRESS="30 ECR Road,Neelankarai,Chennai 600041" LATITUDE=12.949282 LONGITUDE=80.255012 CITY_NAME=chennai BRANCH_NAME=neelankarai DESCRIPTION="Sim City in existence of last 4 years is an authorised dealer of Nokia, Blackberry, Samsung, Apple and HTC phones in Chennai, India.They sell all branded mobile accessories." WORKING_TIME="10AM-11PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Sim_City/Offline_SimCity_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="neelankarai" VENDOR_NAME=SimCity
+
+rake merchant:approve_local[SimCity,chennai,neelankarai]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="neelankarai" VENDOR_NAME=SimCity
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_2.dat CITY_NAME=chennai BRANCH_NAME="neelankarai" VENDOR_NAME=SimCity
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Sim_City/Offline_simcity_alwarpet_oct31.dat CITY_NAME=chennai BRANCH_NAME="neelankarai" VENDOR_NAME=SimCity
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Sim_City/Offline_simcity_alwarpet_nov15.dat CITY_NAME=chennai BRANCH_NAME="neelankarai" VENDOR_NAME=SimCity
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SimCity" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="customercare@simcity.in" PHONE=917299227777 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-20 VENDOR_FAX=na ADDRESS="2/10 New Colony,Behind TCS 1st Main Road,Velachery,Chennai 600042" LATITUDE=12.982279986295296 LONGITUDE=80.23294508457184 CITY_NAME=chennai BRANCH_NAME=velachery DESCRIPTION="Sim City in existence of last 4 years is an authorised dealer of Nokia, Blackberry, Samsung, Apple and HTC phones in Chennai, India.They sell all branded mobile accessories." WORKING_TIME="10AM-11PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Sim_City/Offline_SimCity_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="velachery" VENDOR_NAME=SimCity
+
+rake merchant:approve_local[SimCity,chennai,velachery]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="velachery" VENDOR_NAME=SimCity
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_2.dat CITY_NAME=chennai BRANCH_NAME="velachery" VENDOR_NAME=SimCity
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Sim_City/Offline_simcity_alwarpet_oct31.dat CITY_NAME=chennai BRANCH_NAME="velachery" VENDOR_NAME=SimCity
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Sim_City/Offline_simcity_alwarpet_nov15.dat CITY_NAME=chennai BRANCH_NAME="velachery" VENDOR_NAME=SimCity
+
+
+GKMobilePark
+-------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="GKMobilePark" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="gkmobilepark@yahoo.com" PHONE=04442331551 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-20 VENDOR_FAX=na ADDRESS="101/223 TTK Road, Alwarpet,Chennai 600018" LATITUDE=13.0329924 LONGITUDE=80.2489555 CITY_NAME=chennai BRANCH_NAME=alwarpet DESCRIPTION="GK Mobile park in operation for last 10 years with 12+ employees, sells all models of Nokia, Samsung, Blackberry, HTC and Apple. They also sell all branded mobile accessories and also provide mobile service." WORKING_TIME="11AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/GKMobile_Park/Offline_GKMobilePark_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="alwarpet" VENDOR_NAME=GKMobilePark
+
+rake merchant:approve_local[GKMobilePark,chennai,alwarpet,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="alwarpet" VENDOR_NAME=GKMobilePark
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_2.dat CITY_NAME=chennai BRANCH_NAME="alwarpet" VENDOR_NAME=GKMobilePark
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/GKMobile_Park/Offline_gkmobilepark_alwarpet_oct31.dat CITY_NAME=chennai BRANCH_NAME="alwarpet" VENDOR_NAME=GKMobilePark
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/GKMobile_Park/Offline_gkmobilepark_alwarpet_nov15.dat CITY_NAME=chennai BRANCH_NAME="alwarpet" VENDOR_NAME=GKMobilePark
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/GKMobile_Park/Offline_gkmobilepark_alwarpet_dec13.dat CITY_NAME=chennai BRANCH_NAME="alwarpet" VENDOR_NAME=GKMobilePark
+
+
+StudioCell
+-------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="StudioCell" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="pavangalada@yahoo.com" PHONE=04424993505 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-20 VENDOR_FAX=na ADDRESS="Pavan Galada,279,TTK Road,Alwarpet,Chennai 600018" LATITUDE=13.033324561335109 LONGITUDE=80.25313138961792 CITY_NAME=chennai BRANCH_NAME=alwarpet DESCRIPTION="Studio Cell in operation for last 13 years with 14+ employees, sells all models of Nokia, Samsung, HTC, Blackberry, LG, Apple and Sony Ericsson. They sell mobile accessories from CAPDASE, KINGCOM,PHONECASE, ROCK and other brands as well. They also sell iPods, music players, DTH and video games." WORKING_TIME="10AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/TheStudio_Cell/Offline_TheStudioCell_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="alwarpet" VENDOR_NAME=StudioCell
+
+rake merchant:approve_local[StudioCell,chennai,alwarpet,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="alwarpet" VENDOR_NAME=StudioCell
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_2.dat CITY_NAME=chennai BRANCH_NAME="alwarpet" VENDOR_NAME=StudioCell
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/TheStudio_Cell/Offline_studiocell_alwarpet_oct31.dat CITY_NAME=chennai BRANCH_NAME="alwarpet" VENDOR_NAME=StudioCell
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/TheStudio_Cell/Offline_studiocell_alwarpet_nov15.dat CITY_NAME=chennai BRANCH_NAME="alwarpet" VENDOR_NAME=StudioCell
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="StudioCell" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="pavangalada@yahoo.com" PHONE=04424330201 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-20 VENDOR_FAX=na ADDRESS="Pavan Galada,7 Venkatanarayana road,T Nagar,Chennai 600017" LATITUDE=13.040630716866186 LONGITUDE=80.23759603500366 CITY_NAME=chennai BRANCH_NAME=tnagar DESCRIPTION="Studio Cell in operation for last 13 years with 14+ employees, sells all models of Nokia, Samsung, HTC, Blackberry, LG, Apple and Sony Ericsson. They sell mobile accessories from CAPDASE, KINGCOM,PHONECASE, ROCK and other brands as well. They also sell iPods, music players, DTH and video games." WORKING_TIME="10AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/TheStudio_Cell/Offline_TheStudioCell_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=StudioCell
+
+rake merchant:approve_local[StudioCell,chennai,tnagar]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=StudioCell
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_2.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=StudioCell
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/TheStudio_Cell/Offline_studiocell_alwarpet_oct31.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=StudioCell
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/TheStudio_Cell/Offline_studiocell_alwarpet_nov15.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=StudioCell
+
+Matrix
+-------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="Matrix" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="matrixmobiles@rediffmail.com" PHONE=04442604560 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-20 VENDOR_FAX=na ADDRESS="L Senthil Kumar,Shop No.3 and 4, Door No 5,Venkatnarayana road,T Nagar,Chennai 600017" LATITUDE=13.0405026 LONGITUDE=80.2336924 CITY_NAME=chennai BRANCH_NAME=tnagar DESCRIPTION="Matrix has been in operation for last 9 years with over 3+ employees sells all branded mobiles of Nokia, Samsung, Blackberry and Apple. They also sell branded mobile accessories." WORKING_TIME="10AM-9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Matrix/Offline_Matrix_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=Matrix
+
+rake merchant:approve_local[Matrix,chennai,tnagar,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_3.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=Matrix
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_old.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=Matrix
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Matrix/Offline_matrix_tnagar_oct31.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=Matrix
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Matrix/Offline_matrix_tnagar_nov15.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=Matrix
+
+
+Samsung Smartphone Cafe
+-----------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SamsungSmartPhoneCafe" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="tnagarcafe@gmail.com" PHONE=04442071179 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-20 VENDOR_FAX=na ADDRESS="Suresh L Mahboobani,138 South Usman Road, T Nagar, Chennai 600017" LATITUDE=13.0350318 LONGITUDE=80.2303106 CITY_NAME=chennai BRANCH_NAME=tnagar DESCRIPTION="Samsung SmartPhone Cafe has been in operation for last 4 years with 4+ employees sells all samsung products such as mobile phones, cameras, mobile accessories." WORKING_TIME="10AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Samsung_Smartphone_Cafe/Offline_SamsungSmartphoneCafe_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=SamsungSmartPhoneCafe
+
+rake merchant:approve_local[SamsungSmartPhoneCafe,chennai,tnagar,admin]
+
+BBCElectronics
+-----------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="BBCElectronics" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="thameemnew@gmail.com" PHONE=04423652653 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-25 VENDOR_FAX=na ADDRESS="Feroz Khan,108 Ground Floor,Raahat Plaza, 172 Arcot Road (opposite to Vijaya Hospital), Vadapalani, Chennai 600026" LATITUDE=13.060422 LONGITUDE=80.249583 CITY_NAME=chennai BRANCH_NAME=vadapalani DESCRIPTION="BBC Electronics has been in operation for last 10 years with 3+ employees sells all popular models of Nokia, Samsung, Karbonn and Micromax" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/BBC_Electronics/Offline_BBCElectronics_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="vadapalani" VENDOR_NAME=BBCElectronics
+
+rake merchant:approve_local[BBCElectronics,chennai,vadapalani,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/BBC_Electronics/Offline_BBCElectronics_mobiles_aug24.dat CITY_NAME=chennai BRANCH_NAME="vadapalani" VENDOR_NAME=BBCElectronics
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Comon_micromax_mobiles_2.dat CITY_NAME=chennai BRANCH_NAME="vadapalani" VENDOR_NAME=BBCElectronics
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="vadapalani" VENDOR_NAME=BBCElectronics
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/BBC_Electronics/Offline_bbc_mobiles_oct31.dat CITY_NAME=chennai BRANCH_NAME="vadapalani" VENDOR_NAME=BBCElectronics
+
+
+Cell King
+----------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="CellKing" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="gmv143@gmail.com" PHONE=04443565828 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-25 VENDOR_FAX=na ADDRESS="Nathir Shah,49 Arcot Road,Opposite to Meenachi College, Kodambakkam, Chennai 600024" LATITUDE=13.0480729 LONGITUDE=80.2266598 CITY_NAME=chennai BRANCH_NAME=kodambakkam DESCRIPTION="Cell King has been in operation for last 3 years with 4+ employees sells all mobiles of Nokia, Samsung, Sony, HTC, Blackberry, Apple, Micromax and Karbonn. They also sell mobile phone accessories." WORKING_TIME="10AM-10.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Cell_King/Offline_CellKing_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="kodambakkam" VENDOR_NAME=CellKing
+
+rake merchant:approve_local[CellKing,chennai,kodambakkam,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Comon_micromax_mobiles_1.dat CITY_NAME=chennai BRANCH_NAME="kodambakkam" VENDOR_NAME=CellKing
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_1.dat CITY_NAME=chennai BRANCH_NAME="kodambakkam" VENDOR_NAME=CellKing
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_1.dat CITY_NAME=chennai BRANCH_NAME="kodambakkam" VENDOR_NAME=CellKing
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Cell_King/Offline_cellking_kodambakkam_oct31.dat CITY_NAME=chennai BRANCH_NAME="kodambakkam" VENDOR_NAME=CellKing
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Cell_King/Offline_cellking_kodambakkam_nov15.dat CITY_NAME=chennai BRANCH_NAME="kodambakkam" VENDOR_NAME=CellKing
+
+Like Mobiles
+----------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="LikeMobiles" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE=04428340222 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-25 VENDOR_FAX=na ADDRESS="Maideen S, 49 North Usman Road, T Nagar, Chennai 600017" LATITUDE=13.0486089 LONGITUDE=80.2333694 CITY_NAME=chennai BRANCH_NAME=tnagar DESCRIPTION="Like Mobiles has been in operation for last 2 years with 3+ employees sells all mobiles of Nokia, Samsung, Sony, HTC, Blackberry, Apple, Micromax, Lava and Karbonn. They also sell popular mobile phone accessories brands such as Capcase, Fonokase, Kingcom etc." WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Like_mobiles/Offline_LikeMobiles_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=LikeMobiles
+
+rake merchant:approve_local[LikeMobiles,chennai,tnagar,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Comon_micromax_mobiles_3.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=LikeMobiles
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_3.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=LikeMobiles
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Like_mobiles/Offline_like_mobiles_oct31.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=LikeMobiles
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Like_mobiles/Offline_likemobile_adyar_nov15.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=LikeMobiles
+
+
+Milky Way Cell Tech
+----------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="MilkyWayCellTech" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="milkywaycelltech2012@gmail.com" PHONE=04428342020 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-25 VENDOR_FAX=na ADDRESS="Ganesh Kulanthai, 94 Habibullah Road, T Nagar, Chennai 600017" LATITUDE=13.0515472 LONGITUDE=80.2314234 CITY_NAME=chennai BRANCH_NAME=tnagar DESCRIPTION="Milky Way Cell Tech has been in operation for last 12 years with 12+ employees sells all mobiles of Samsung, HTC, Blackberry and Apple. They also sell popular mobile phone accessories and DTH of Airtel, Dish TV, Tata Sky, Videocon." WORKING_TIME="9.30AM-8.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/MilkyWay_CellTech/Offline_MilkyWayCellTech_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=MilkyWayCellTech
+
+rake merchant:approve_local[MilkyWayCellTech,chennai,tnagar,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_old.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=MilkyWayCellTech
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/MilkyWay_CellTech/Offline_milkywaycelltech_tnagar_oct31.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=MilkyWayCellTech
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/MilkyWay_CellTech/Offline_milkywaycelltech_tnagar_nov15.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=MilkyWayCellTech
+
+
+Mobile Paradise
+-------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="MobileParadise" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="mobile_paradise@rocketmail.com" PHONE=04439124477 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-25 VENDOR_FAX=na ADDRESS="T M Mohammed Hanifa, 24 Ground Floor, Parson Manere,62 Anna Salai,Thousand Lights, Chennai 600006" LATITUDE=13.0424923 LONGITUDE=80.2475335 CITY_NAME=chennai BRANCH_NAME=thousandlights DESCRIPTION="Mobile Paradise has been in operation for last 8 years with 2+ employees sells all mobiles of Nokia, Samsung, Sony, HTC, Blackberry, Motorola, Micromax and Apple. They also sell popular mobile phone accessories brands such as Capdase, Moshi, Sennheiser, iFace, iGlaze, SkullCandy etc." WORKING_TIME="10AM-11PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Mobile_Paradise/Offline_MobileParadise_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="thousandlights" VENDOR_NAME=MobileParadise
+
+rake merchant:approve_local[MobileParadise,chennai,thousandlights,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Comon_micromax_mobiles_2.dat CITY_NAME=chennai BRANCH_NAME="thousandlights" VENDOR_NAME=MobileParadise
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="thousandlights" VENDOR_NAME=MobileParadise
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_2.dat CITY_NAME=chennai BRANCH_NAME="thousandlights" VENDOR_NAME=MobileParadise
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Mobile_Paradise/Offline_mobileparadise_thousandlights_oct31.dat CITY_NAME=chennai BRANCH_NAME="thousandlights" VENDOR_NAME=MobileParadise
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Mobile_Paradise/Offline_mobileparadise_thousandlights_nov15.dat CITY_NAME=chennai BRANCH_NAME="thousandlights" VENDOR_NAME=MobileParadise
+
+
+Pujas
+-------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="Pujas" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="pujasstore@gmail.com" PHONE=04428155595 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-25 VENDOR_FAX=na ADDRESS="Jayesh Jain,Mayas plaza, Shop No. G30 & 31,71 Sir Theyagaraya Road, T Nagar, Chennai 600017" LATITUDE=13.109814 LONGITUDE=80.245277 CITY_NAME=chennai BRANCH_NAME=tnagar DESCRIPTION="Pujas,The gadget store has been in operation for last 15 years with 6+ employees sells all mobiles of Nokia, Samsung, Sony, HTC, Blackberry and Apple. They also sell popular mobile phone accessories brands such as casemate,griffin,belkin,capdase,skullcandy,seagate,sennheiser,ihome, Apple and what not. Apart from mobiles, they also sell laptops, iPods, cameras and speakers." WORKING_TIME="10AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Pujas/Offline_Pujas_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=Pujas
+
+rake merchant:approve_local[Pujas,chennai,tnagar,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=Pujas
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_2.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=Pujas
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Pujas/Offline_pujas_tnagar_oct31.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=Pujas
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Pujas/Offline_pujas_tnagar_nov15.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=Pujas
+
+
+QueensZone
+-------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="QueensZone" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="ganasha@gmail.com" PHONE=04442025281 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-25 VENDOR_FAX=na ADDRESS="Nimi,30 Jain Plaza,Ground Floor (opposite saravana bhavan),Sri Theyagaraya Road,Pondy Bazaar,T Nagar,Chennai 600017" LATITUDE=13.0403131 LONGITUDE=80.2404763 CITY_NAME=chennai BRANCH_NAME=tnagar DESCRIPTION="Queens Zone has been in operation for last 9 years with 2+ employees sells all mobiles of Nokia, Micromax, Karbonn and lava. They also sell popular mobile phone accessories." WORKING_TIME="9AM-8PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Queens_Zone/Offline_QueensZone_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=QueensZone
+
+rake merchant:approve_local[QueensZone,chennai,tnagar,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Queens_Zone/Offline_QueensZone_mobiles_aug24.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=QueensZone
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Queens_Zone/Offline_Comon_micromax_mobiles_2.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=QueensZone
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_3.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=QueensZone
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Queens_Zone/Offline_QueensZone_mobiles_samsung.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=QueensZone
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Queens_Zone/Offline_queenszone_mobiles.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=QueensZone
+
+
+Smart Cell
+-------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SmartCell" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="mysmartcell@yahoo.in" PHONE=04442075208 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-25 VENDOR_FAX=na ADDRESS="Dinesh R,#2 R K Mutt Road,Shop A1 Picnic Plaza,Mylapore,Chennai 600004" LATITUDE=13.0336111 LONGITUDE=80.2686111 CITY_NAME=chennai BRANCH_NAME=mylapore DESCRIPTION="Smart Cell has been in operation for last 10 years with 2+ employees sells all mobiles of Nokia, Samsung, Sony, HTC, Blackberry and Apple. They sell popular mobile phone accessories from brands such as capdase,casemate,kingcom,skullcandy etc. Apart from mobile phones, they also sell data cards (Airtel, Aircel, Idea, Reliance and MTS) and Digicams." WORKING_TIME="10AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/SmartCell/Offline_SmartCell_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="mylapore" VENDOR_NAME=SmartCell
+
+rake merchant:approve_local[SmartCell,chennai,mylapore,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="mylapore" VENDOR_NAME=SmartCell
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_2.dat CITY_NAME=chennai BRANCH_NAME="mylapore" VENDOR_NAME=SmartCell
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/SmartCell/Offline_smartcell_mylapore_oct31.dat CITY_NAME=chennai BRANCH_NAME="mylapore" VENDOR_NAME=SmartCell
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/SmartCell/Offline_smartcell_mylapore_nov15.dat CITY_NAME=chennai BRANCH_NAME="mylapore" VENDOR_NAME=SmartCell
+
+Thanuja Mobile World
+------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="ThanujaMobileWorld" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="thanujamobileworld@gmail.com" PHONE=04442775677 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-25 VENDOR_FAX=na ADDRESS="Mahendiran K, 62/82 Arcot Road, Saligramam, Chennai 600093" LATITUDE=13.0473347 LONGITUDE=80.19877881 CITY_NAME=chennai BRANCH_NAME=saligramam DESCRIPTION="Thanuja Mobile World has been in operation for last 3 years with 4+ employees sells all mobiles of Nokia, Samsung, Sony, HTC, Lava and Micromax. They sell popular mobile phone accessories." WORKING_TIME="10AM-9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Thanuja_MobileWorld/Offline_Thanuja_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="saligramam" VENDOR_NAME=ThanujaMobileWorld
+
+rake merchant:approve_local[ThanujaMobileWorld,chennai,saligramam,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Comon_micromax_mobiles_2.dat CITY_NAME=chennai BRANCH_NAME="saligramam" VENDOR_NAME=ThanujaMobileWorld
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="saligramam" VENDOR_NAME=ThanujaMobileWorld
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Thanuja_MobileWorld/Offline_thanujamobileworld_saligramam_oct31.dat CITY_NAME=chennai BRANCH_NAME="saligramam" VENDOR_NAME=ThanujaMobileWorld
+
+
+AdyarNetHutsElectronics
+--------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="AdyarNetHuts" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="adyarnethuts@gmail.com" PHONE=04442120685 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-27 VENDOR_FAX=na ADDRESS="G Sasikumar, 66 L.B. Road,Opposite to S.S.Annamalai and IOB, Thiruvanmiyur, Chennai 600041" LATITUDE=12.9881083588933 LONGITUDE=80.25598526000977 CITY_NAME=chennai BRANCH_NAME=thiruvanmiyur DESCRIPTION="Adyar Net Huts Electronics has been in operation for last 10 years with 12+ employees sells all mobiles of Nokia, Samsung, LG, Micromax and Karbonn. They also sell popular mobile phone accessories." WORKING_TIME="9.30AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Adyar_NetHutsElectronics/Offline_AdyarNetHuts_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="thiruvanmiyur" VENDOR_NAME=AdyarNetHuts
+
+rake merchant:approve_local[AdyarNetHuts,chennai,thiruvanmiyur,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Comon_micromax_mobiles_2.dat CITY_NAME=chennai BRANCH_NAME="thiruvanmiyur" VENDOR_NAME=AdyarNetHuts
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="thiruvanmiyur" VENDOR_NAME=AdyarNetHuts
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Adyar_NetHutsElectronics/Offline_adyarnethuts_adyar_oct31.dat CITY_NAME=chennai BRANCH_NAME="thiruvanmiyur" VENDOR_NAME=AdyarNetHuts
+
+Cell Zone
+--------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="CellZone" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="p.cellzone@gmail.com" PHONE=04442175767 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-27 VENDOR_FAX=na ADDRESS="City Centre Basement 15,232 Purasawakkam High Road, Kellys, Kilpauk, Chennai 600010" LATITUDE=13.060422 LONGITUDE=80.249583 CITY_NAME=chennai BRANCH_NAME=kilpauk DESCRIPTION="Located in City centre, Purasawakkam, Cell Zone has been in operation for last 12 years with 8+ employees sells all mobiles of Nokia, Samsung, Blackberry, HTC, Sony, LG, Apple and Intel. They also sell popular mobile phone accessories from brands such as capdase,rock etc." WORKING_TIME="11AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Cell_Zone/Offline_CellZone_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="kilpauk" VENDOR_NAME=CellZone
+
+rake merchant:approve_local[CellZone,chennai,kilpauk,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="kilpauk" VENDOR_NAME=CellZone
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_2.dat CITY_NAME=chennai BRANCH_NAME="kilpauk" VENDOR_NAME=CellZone
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Cell_Zone/Offline_cellzone_kilpauk_oct31.dat CITY_NAME=chennai BRANCH_NAME="kilpauk" VENDOR_NAME=CellZone
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Cell_Zone/Offline_cellzone_kilpauk_nov15.dat CITY_NAME=chennai BRANCH_NAME="kilpauk" VENDOR_NAME=CellZone
+
+
+Chennai CellPoint
+--------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="ChennaiCellPoint" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="ccp247@yahoo.com" PHONE=04426613681 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-27 VENDOR_FAX=na ADDRESS="Lalit Sharma, B-19 Prince Tower Basement, 94-113 Purasawakkam High Road,Opposite to Abirami Theatre, Chennai 600010" LATITUDE=13.060422 LONGITUDE=80.249583 CITY_NAME=chennai BRANCH_NAME=kilpauk DESCRIPTION="Located in City centre, Purasawakkam, Cell Zone has been in operation for last 12 years with 8+ employees sells all mobiles of Nokia, Samsung, Blackberry, HTC, Sony, LG, Apple and Intel. They also sell popular mobile phone accessories from brands such as capdase,rock etc." WORKING_TIME="11AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Chennai_CellPoint/Offline_ChennaiCellPoint_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="kilpauk" VENDOR_NAME=ChennaiCellPoint
+
+rake merchant:approve_local[ChennaiCellPoint,chennai,kilpauk,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_3.dat CITY_NAME=chennai BRANCH_NAME="kilpauk" VENDOR_NAME=ChennaiCellPoint
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_old.dat CITY_NAME=chennai BRANCH_NAME="kilpauk" VENDOR_NAME=ChennaiCellPoint
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Chennai_CellPoint/Offline_ChennaiCellPoint_mobiles_oct31.dat CITY_NAME=chennai BRANCH_NAME="kilpauk" VENDOR_NAME=ChennaiCellPoint
+
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Chennai_CellPoint/Offline_chennaicellpoint_kilpauk_nov15.dat CITY_NAME=chennai BRANCH_NAME="kilpauk" VENDOR_NAME=ChennaiCellPoint
+
+
+Easy Cell City
+--------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="EasyCellCity" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="easycellcity@gmail.com" PHONE=04428364477 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-27 VENDOR_FAX=na ADDRESS="Meghraj Jain,#103-105 P.H Road, Next to Hotel Dasaprakash, Chennai 600 084" LATITUDE=13.0899732 LONGITUDE=80.2516473 CITY_NAME=chennai BRANCH_NAME=purasawakkam DESCRIPTION="Easy Cell City has been in operation for last 12 years with 10+ employees sells all mobiles of Nokia, Samsung, Blackberry, HTC, Sony and Apple. They also sell popular mobile phone accessories and provide mobile phone service." WORKING_TIME="9AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/EasyCellCity/Offline_EasyCellCity_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="purasawakkam" VENDOR_NAME=EasyCellCity
+
+rake merchant:approve_local[EasyCellCity,chennai,purasawakkam,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="purasawakkam" VENDOR_NAME=EasyCellCity
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_2.dat CITY_NAME=chennai BRANCH_NAME="purasawakkam" VENDOR_NAME=EasyCellCity
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/EasyCellCity/Offline_easycellcity_purasawakkam_oct31.dat CITY_NAME=chennai BRANCH_NAME="purasawakkam" VENDOR_NAME=EasyCellCity
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/EasyCellCity/Offline_easycellcity_purasawakkam_nov15.dat CITY_NAME=chennai BRANCH_NAME="purasawakkam" VENDOR_NAME=EasyCellCity
+
+
+Kwality Shop	
+--------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="KwalityShop" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="kwalityadyar@yahoo.com" PHONE=04442777401 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-27 VENDOR_FAX=na ADDRESS="#163, S.M.S Building, L.B. Road, Thiruvanmiyur, Chennai 600 041" LATITUDE=12.982672 LONGITUDE=80.263381 CITY_NAME=chennai BRANCH_NAME=thiruvanmiyur DESCRIPTION="Kwality Shop has been in operation for last 33 years with 15+ employees sells all popular models Sony. They sell all mobile phone accessories from brand SONY." WORKING_TIME="10.30AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/kwality_shop/Offline_Kwality_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="thiruvanmiyur" VENDOR_NAME=KwalityShop
+
+rake merchant:approve_local[KwalityShop,chennai,thiruvanmiyur,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/kwality_shop/Offline_KwalityShop_mobiles_oct8.dat CITY_NAME=chennai BRANCH_NAME="thiruvanmiyur" VENDOR_NAME=KwalityShop
+
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="KwalityShop" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="kwalitypurasai@yahoo.com" PHONE=04442174099 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-27 VENDOR_FAX=na ADDRESS="#141 A, Purasawakkam High Road, Kilpauk, Chennai 600 010" LATITUDE=13.0855677 LONGITUDE=80.253161 CITY_NAME=chennai BRANCH_NAME=kilpauk DESCRIPTION="Kwality Shop has been in operation for last 33 years with 15+ employees sells all popular models Sony. They sell all mobile phone accessories from brand SONY." WORKING_TIME="10.30AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/kwality_shop/Offline_Kwality_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="kilpauk" VENDOR_NAME=KwalityShop
+
+rake merchant:approve_local[KwalityShop,chennai,kilpauk]
+
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/kwality_shop/Offline_KwalityShop_mobiles_oct8.dat CITY_NAME=chennai BRANCH_NAME="kilpauk" VENDOR_NAME=KwalityShop
+
+
+Pritam Communications	
+--------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="PritamCommunications" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="ganpathsirvee@gmail.com" PHONE=919941336994 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-27 VENDOR_FAX=na ADDRESS="#126, Fountain Plaza, Egmore, Chennai 600 008" LATITUDE=13.0737229 LONGITUDE=80.2616167 CITY_NAME=chennai BRANCH_NAME=egmore DESCRIPTION="Pritam Communications has been in operation for last 5 years with 3+ employees sells all mobiles of Nokia, Samsung, Blackberry, HTC, Sony and Apple. They sell popular mobile phone accessories." WORKING_TIME="10.30AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Pritam_Communications/Offline_PritamCommunication_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="egmore" VENDOR_NAME=PritamCommunications
+
+rake merchant:approve_local[PritamCommunications,chennai,egmore,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="egmore" VENDOR_NAME=PritamCommunications
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_old.dat CITY_NAME=chennai BRANCH_NAME="egmore" VENDOR_NAME=PritamCommunications
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Pritam_Communications/Offline_pritamcommunications_egmore_oct31.dat CITY_NAME=chennai BRANCH_NAME="egmore" VENDOR_NAME=PritamCommunications
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Pritam_Communications/Offline_pritamcommunications_egmore_nov15.dat CITY_NAME=chennai BRANCH_NAME="egmore" VENDOR_NAME=PritamCommunications
+
+
+Rose Mobiles	
+--------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="RoseMobiles" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="rosemobiles2012@gmail.com" PHONE=04443800240 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-27 VENDOR_FAX=na ADDRESS="S E Nagoor Meeran, New No 6, West Periyar Pathai,100 Feet Road, Oppsoite Hotel Ambica Empire, Choolaimedu, Chennai 600 094" LATITUDE=13.0737229 LONGITUDE=80.2616167 CITY_NAME=chennai BRANCH_NAME=choolaimedu DESCRIPTION="Rose Mobiles has been in operation for last 5 years with 4+ employees sells all models of Nokia, Samsung, HTC, Sony and Apple. They sell popular mobile phone accessories from brands such as capdase,skullcandy etc." WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Rose_Mobiles/Offline_RoseMobiles_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="choolaimedu" VENDOR_NAME=RoseMobiles
+
+rake merchant:approve_local[RoseMobiles,chennai,choolaimedu,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="choolaimedu" VENDOR_NAME=RoseMobiles
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_2.dat CITY_NAME=chennai BRANCH_NAME="choolaimedu" VENDOR_NAME=RoseMobiles
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Rose_Mobiles/Offline_rosemobiles_nov15.dat CITY_NAME=chennai BRANCH_NAME="choolaimedu" VENDOR_NAME=RoseMobiles
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="RoseMobiles" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="rosemobiles2012@gmail.com" PHONE=04443302313 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-27 VENDOR_FAX=na ADDRESS="S E Nagoor Meeran, #74/2 Paper Mills Road, Near Venus Theatre, Perambur, Chennai 600 011" LATITUDE=13.1207829 LONGITUDE=80.2377078 CITY_NAME=chennai BRANCH_NAME=perambur DESCRIPTION="Rose Mobiles has been in operation for last 5 years with 4+ employees sells all models of Nokia, Samsung, HTC, Sony and Apple. They sell popular mobile phone accessories from brands such as capdase,skullcandy etc." WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Rose_Mobiles/Offline_RoseMobiles_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="perambur" VENDOR_NAME=RoseMobiles
+
+rake merchant:approve_local[RoseMobiles,chennai,perambur]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="perambur" VENDOR_NAME=RoseMobiles
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_2.dat CITY_NAME=chennai BRANCH_NAME="perambur" VENDOR_NAME=RoseMobiles
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Rose_Mobiles/Offline_rosemobiles_adambakkam_oct31.dat CITY_NAME=chennai BRANCH_NAME="perambur" VENDOR_NAME=RoseMobiles
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Rose_Mobiles/Offline_rosemobiles_nov15.dat CITY_NAME=chennai BRANCH_NAME="perambur" VENDOR_NAME=RoseMobiles
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="RoseMobiles" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="rosemobiles2012@gmail.com" PHONE=919840219335 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-27 VENDOR_FAX=na ADDRESS="S E Nagoor Meeran, #19/22 Amman Koil Street,Near St.Thomas Mount Railway Station, Adambakkam, Chennai 600 088" LATITUDE=12.9855711 LONGITUDE=80.2014543 CITY_NAME=chennai BRANCH_NAME=adambakkam DESCRIPTION="Samsung SmartPhone Cafe has been in operation for last 4 years with 4+ employees sells all samsung products such as mobile phones, cameras, mobile accessories." WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Rose_Mobiles/Offline_RoseMobiles_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="adambakkam" VENDOR_NAME=RoseMobiles
+
+rake merchant:approve_local[RoseMobiles,chennai,adambakkam]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="adambakkam" VENDOR_NAME=RoseMobiles
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_2.dat CITY_NAME=chennai BRANCH_NAME="adambakkam" VENDOR_NAME=RoseMobiles
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Rose_Mobiles/Offline_rosemobiles_adambakkam_oct31.dat CITY_NAME=chennai BRANCH_NAME="adambakkam" VENDOR_NAME=RoseMobiles
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Rose_Mobiles/Offline_rosemobiles_nov15.dat CITY_NAME=chennai BRANCH_NAME="adambakkam" VENDOR_NAME=RoseMobiles
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="RoseMobiles" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="rosemobiles2012@gmail.com" PHONE=919840219335 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-27 VENDOR_FAX=na ADDRESS="S E Nagoor Meeran, #74/57 Medavakkam Main Road, Opposite TVS showroom, Kilkattalai, Chennai 600 117" LATITUDE=12.9562727 LONGITUDE=80.1791368 CITY_NAME=chennai BRANCH_NAME=kilkattalai DESCRIPTION="Samsung SmartPhone Cafe has been in operation for last 4 years with 4+ employees sells all samsung products such as mobile phones, cameras, mobile accessories." WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Rose_Mobiles/Offline_RoseMobiles_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="kilkattalai" VENDOR_NAME=RoseMobiles
+
+rake merchant:approve_local[RoseMobiles,chennai,kilkattalai]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_2.dat CITY_NAME=chennai BRANCH_NAME="kilkattalai" VENDOR_NAME=RoseMobiles
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Apple_2.dat CITY_NAME=chennai BRANCH_NAME="kilkattalai" VENDOR_NAME=RoseMobiles
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Rose_Mobiles/Offline_rosemobiles_adambakkam_oct31.dat CITY_NAME=chennai BRANCH_NAME="kilkattalai" VENDOR_NAME=RoseMobiles
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Rose_Mobiles/Offline_rosemobiles_nov15.dat CITY_NAME=chennai BRANCH_NAME="kilkattalai" VENDOR_NAME=RoseMobiles
+
+
+Samsung Plaza Srees
+-----------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SamsungPlazaSrees" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="sreescompany@gmail.com" PHONE=04426470037 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-27 VENDOR_FAX=na ADDRESS="Vinay Doshi, #2 Balfour Road, Kellys, Kilpauk, Chennai 600 010" LATITUDE=12.9562727 LONGITUDE=80.1791368 CITY_NAME=chennai BRANCH_NAME=kilpauk DESCRIPTION="Samsung Plaza Srees has been in operation for last 3 years with 6+ employees sells all mobiles of Samsung. They sell all samsung mobile phone accessories." WORKING_TIME="10AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/SamsungPlaza_srees/Offline_SamsungPlazaSrees_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="kilpauk" VENDOR_NAME=SamsungPlazaSrees
+
+rake merchant:approve_local[SamsungPlazaSrees,chennai,kilpauk,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/SamsungPlaza_srees/Offline_samsungplazasrees_kilpauk_oct31.dat CITY_NAME=chennai BRANCH_NAME="kilpauk" VENDOR_NAME=SamsungPlazaSrees
+
+Seashore Showroom
+-----------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SeashoreShowroom" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="seashoreshowroom@gmail.com" PHONE=04424985378 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-27 VENDOR_FAX=na ADDRESS="#189 Kamarajar Salai, Opposite to All India Radio, Near Light House, Mylapore, Chennai 600 004" LATITUDE=13.045285 LONGITUDE=80.276886 CITY_NAME=chennai BRANCH_NAME=mylapore DESCRIPTION="Seashore showroom has been in operation for last 9 years with 4+ employees sells all popular models of Nokia, Samsung, Micromax, HTC and Sony. They sell all branded mobile phone accessories." WORKING_TIME="9.30AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/SeaShoreShowroom/Offline_SeaShoreMobiles_mobiles.dat CITY_NAME=chennai BRANCH_NAME="mylapore" VENDOR_NAME=SeashoreShowroom
+
+rake merchant:approve_local[SeashoreShowroom,chennai,mylapore,admin]
+
+
+TwentyTwentyMobiles
+-----------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="TwentyMobiles" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="9841247777@mail.com" PHONE=04428490490 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-30 VENDOR_FAX=na ADDRESS="Harish, G -109 Second Phase, Ground Floor, Spencer Plaza, Anna Salai, Thousand Lights, Chennai 600 002" LATITUDE=13.0610638 LONGITUDE=80.2610922 CITY_NAME=chennai BRANCH_NAME=thousandlights DESCRIPTION="20-20 Mobiles situated in Spencer Plaza has been in operation for last 5 years with 2+ employees. They sell popular mobile phones of Nokia, Samsung, Blackberry, HTC and Apple. They also sell Nokia moible phone accessories, MP3 Players and Laptops." WORKING_TIME="10AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Twenty_Twenty_Mobiles/Offline_TwentyTwenty_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="thousandlights" VENDOR_NAME=TwentyMobiles
+
+LOAD DATA LOCAL INFILE '/var/www/data/Mobiles/Part1/Offline/Twenty_Twenty_Mobiles/Offline_TwentyTwenty_mobiles_final.dat' INTO TABLE local_chennai_thousandlights_twentymobiles_products FIELDS TERMINATED BY '|' LINES TERMINATED BY '
+' set created_at=CURRENT_TIMESTAMP;
+
+rake merchant:approve_local[TwentyMobiles,chennai,thousandlights,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Offline_Common_Nokia_3.dat CITY_NAME=chennai BRANCH_NAME="thousandlights" VENDOR_NAME=TwentyMobiles
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Twenty_Twenty_Mobiles/Offline_twentytwenty_thousandlights_oct31.dat CITY_NAME=chennai BRANCH_NAME="thousandlights" VENDOR_NAME=TwentyMobiles
+
+
+Sony World
+-----------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SonyWorld" VENDOR_LOGO=na VENDOR_WEBSITE="www.sonycenter.co.in" EMAIL="sonyworld4@airtelmail.in" PHONE=04442026646 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-07-30 VENDOR_FAX=na ADDRESS="Shanthi Lal, #137 (AC-8), Second Avenue, Anna Nagar (W), Chennai 600 040" LATITUDE=13.0847807 LONGITUDE=80.2115365 CITY_NAME=chennai BRANCH_NAME=annanagar DESCRIPTION="<b>Sony World,Anna Nagar</b> is a branded Sony Showroom, has been in operation for last 10 years with 10+ employees. They sell all popular mobile phones of Sony. They also sell TVs, Cameras, Laptops, Music Players, Playstation and mobile accessories" WORKING_TIME="10AM-9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/SonyWorld_AnnaNagar/Offline_SonyWorldAnnaNagar_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="annanagar" VENDOR_NAME=SonyWorld
+
+rake merchant:approve_local[SonyWorld,chennai,annanagar,admin]
+
+
+uRead
+---------
+
+rake vendor:addonline APP_PATH=/var/www/CrawlFish VENDOR_NAME=uRead VENDOR_LOGO="/Images/Vendor_Logos/uRead.gif" VENDOR_WEBSITE=www.uread.com EMAIL=customerservice@uread.com PHONE=01143501212 SUB_CATEGORIES="books_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=2012-08-29 VENDOR_FAX=na ADDRESS="113A, Darya Ganj, Bharat Scout Guide Building, New Delhi - 110002, India" LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="Good online book shop" WORKING_TIME=na MISCELLANEOUS="COD, Worldwide Shipping" TRIAL_FLAG=n
+
+uRead - Part 1 - Books 
+-------------------------
+
+rake vendor:loadonline VENDOR_NAME=uRead APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Books/Part1/uRead/Online_uRead_books.dat
+
+
+ST Mobiles
+-----------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="STMobiles" VENDOR_LOGO=na VENDOR_WEBSITE="www.stmobile.in" EMAIL="sakthiagency@live.com" PHONE=044-22411155 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-09-03 VENDOR_FAX=na ADDRESS="Sakthi Agency, New No:383, Old No:96B,GST Road, Kadaperi,Tambaram, Chennai - 600 045" LATITUDE=12.934450810428434 LONGITUDE=80.12530267238617 CITY_NAME=chennai BRANCH_NAME=tambaram DESCRIPTION="ST Mobiles,The Peoples Voice, Tambaram has been around for 2+ years selling phone models of Nokia, Samsung, HTC, MTS, Blackberry, Karbonn, Videocon, Celkon, Spice, Onida. They also sell original mobile accessories and provide mobile phone service." WORKING_TIME="9.30AM-9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/STMobiles/Offline_STMobiles_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="tambaram" VENDOR_NAME=STMobiles
+
+rake merchant:approve_local[STMobiles,chennai,tambaram,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/STMobiles/Offline_stmobiles_tambaram_oct31.dat CITY_NAME=chennai BRANCH_NAME="tambaram" VENDOR_NAME=STMobiles
+
+
+Ananda Cell City
+-----------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="AnandaCellCity" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="anandacellcity@yahoo.co.in" PHONE=04422234334 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-09-03 VENDOR_FAX=na ADDRESS="Prem Anand G, #42 Rajendra Prasad Road, Nehru nagar, Chrompet, Chennai - 600 044" LATITUDE=12.94230882978556 LONGITUDE=80.14106869697571 CITY_NAME=chennai BRANCH_NAME=chrompet DESCRIPTION="Ananda Cell City, Chrompet has been around for 8+ years selling phone models of Nokia, Samsung, HTC, Sony, Sony ericsson, Blackberry, Karbonn, Videocon, Lava. They also sell original mobile accessories, DTH and provide mobile phone service.
+Ananda Cell City provide two great offers for its customers" WORKING_TIME="9AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Ananda_Cell_City/Offline_anandacellcity_mobiles.dat CITY_NAME=chennai BRANCH_NAME="chrompet" VENDOR_NAME=AnandaCellCity
+
+rake merchant:approve_local[AnandaCellCity,chennai,chrompet,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Ananda_Cell_City/Offline_anandacellcity_chrompet_oct31.dat CITY_NAME=chennai BRANCH_NAME="chrompet" VENDOR_NAME=AnandaCellCity
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="AnandaCellCity" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="anandacellcity@yahoo.co.in" PHONE=04422295202 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-09-03 VENDOR_FAX=na ADDRESS="Prem Anand G, #84 Velachery Main Road, Mahalakshmi nagar, Selaiyur, Chennai - 600 073" LATITUDE=12.922529989215835 LONGITUDE=80.14826774597168 CITY_NAME=chennai BRANCH_NAME=selaiyur DESCRIPTION="Ananda Cell City, Selaiyur has been around for 8+ years selling phone models of Nokia, Samsung, HTC, Sony, Sony ericsson, Blackberry, Karbonn, Videocon, Lava. They also sell original mobile accessories, DTH and provide mobile phone service.Ananda Cell City provide two great offers for its customers" WORKING_TIME="9AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Ananda_Cell_City/Offline_anandacellcity_mobiles.dat CITY_NAME=chennai BRANCH_NAME="selaiyur" VENDOR_NAME=AnandaCellCity
+
+rake merchant:approve_local[AnandaCellCity,chennai,selaiyur]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Ananda_Cell_City/Offline_anandacellcity_chrompet_oct31.dat CITY_NAME=chennai BRANCH_NAME="selaiyur" VENDOR_NAME=AnandaCellCity
+
+Crossword
+---------
+
+rake vendor:addonline APP_PATH=/var/www/CrawlFish VENDOR_NAME=crossword VENDOR_LOGO="/Images/Vendor_Logos/crossword.gif" VENDOR_WEBSITE=www.crossword.in EMAIL=estore@crossword.in PHONE=02261696169 SUB_CATEGORIES="books_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=2012-09-11 VENDOR_FAX=na ADDRESS=na LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="Good online book shop" WORKING_TIME=na MISCELLANEOUS="COD" TRIAL_FLAG=n
+
+crossword - Part 1 - Books 
+-------------------------
+
+rake vendor:loadonline VENDOR_NAME=crossword APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Books/Part1/crossword/Online_Crossword_books.dat
+
+
+LandMark
+---------
+
+rake vendor:addonline APP_PATH=/var/www/CrawlFish VENDOR_NAME=Landmark VENDOR_LOGO="/Images/Vendor_Logos/landmark.jpeg" VENDOR_WEBSITE=www.landmarkonthenet.com EMAIL=customercare@landmarkonthenet.com PHONE=04449013666 SUB_CATEGORIES="books_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=2012-09-17 VENDOR_FAX=na ADDRESS=na LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="Good online book shop" WORKING_TIME=na MISCELLANEOUS="COD,Free Home Delivery" TRIAL_FLAG=n
+
+Landmark - Part 1 - Books 
+-------------------------
+
+rake vendor:loadonline VENDOR_NAME=Landmark APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Books/Part1/Landmark/Online_Landmark_books.dat
+
+rake vendor:loadonline VENDOR_NAME=Landmark APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Online/Landmark/Online_Landmark_mobiles.dat
+
+Mirchimart
+---------
+
+rake vendor:addonline APP_PATH=/var/www/CrawlFish VENDOR_NAME=Mirchimart VENDOR_LOGO="/Images/Vendor_Logos/Mirchimart.png" VENDOR_WEBSITE=www.mirchimart.com EMAIL=cs@mirchimart.com PHONE=18001022337 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=2012-09-17 VENDOR_FAX=na ADDRESS=na LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="Good online mobile shop" WORKING_TIME=na MISCELLANEOUS="COD,Free Home Delivery" TRIAL_FLAG=n
+
+Mirchimart - Part 1 - Books 
+-------------------------
+
+rake vendor:loadonline VENDOR_NAME=Mirchimart APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Online/Mirchimart/Online_Mirchimart_mobiles.dat
+
+rake vendor:loadonline VENDOR_NAME=Mirchimart APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Online_mirchimart_mobiles.dat
+
+
+LandmarksCommunication
+-----------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="LandmarksCommn" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="fakrudeenta@gmail.com" PHONE=04424500290 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-10-03 VENDOR_FAX=na ADDRESS="Fakrudeen,#5 Medavakkam Main Road,Sholinganallur,Chennai 600 119" LATITUDE=12.9002778 LONGITUDE=80.2277778 CITY_NAME=chennai BRANCH_NAME=sholinganallur DESCRIPTION="Landmarks Communication, Sholinganallur has been in operation for last 6 years with 5+ employees sells all mobiles of Nokia, Samsung, Blackberry, HTC, Apple,Micromax and Karbonn. They sell all popular mobile phone accessories and also provide mobile phone service." WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=n
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Landmarks_Communication/Offline_Landmarks_communication_mobiles_final.dat CITY_NAME=chennai BRANCH_NAME="sholinganallur" VENDOR_NAME=LandmarksCommn
+
+rake merchant:approve_local[LandmarksCommn,chennai,sholinganallur,admin]
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Landmarks_Communication/Offline_landmarks_mobiles_oct31.dat CITY_NAME=chennai BRANCH_NAME="sholinganallur" VENDOR_NAME=LandmarksCommn
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Landmarks_Communication/Offline_landmarkscommunication_nov15.dat CITY_NAME=chennai BRANCH_NAME="sholinganallur" VENDOR_NAME=LandmarksCommn
+
+
+
+Samsung Smartphone Cafe
+------------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SamsungSmartphoneCafe" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="techarena.omr@gmail.com" PHONE=04424580065 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-11-13 VENDOR_FAX=na ADDRESS="Antony Vino,TA TechArena, #429 Sri Vidya Avenue, OMR Road, Okkiyum, Thuraipakkam, Chennai 600 097" LATITUDE=12.938565 LONGITUDE=80.2377078 CITY_NAME=chennai BRANCH_NAME=thuraipakkam DESCRIPTION="Samsung Smartphone Cafe, Thuraipakkam has been in operation since 2012 with 5+ employees sells all mobiles of Samsung. They sell all samsung mobile phone accessories and also provide mobile phone service. They provide live demo of mobile phones, smart phones and tabs. They also provide mobiles phones at 0% EMI and delivered at home, anywhere in chennai, at no additional cost" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=n
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/SamsungSmartphoneCafe_Thuraipakkam/Offline_SamsungSmartphoneCafe_Thuraipakkam_mobiles.dat CITY_NAME=chennai BRANCH_NAME="thuraipakkam" VENDOR_NAME=SamsungSmartphoneCafe
+
+rake merchant:approve_local[SamsungSmartphoneCafe,chennai,thuraipakkam,admin]
+
+
+Sony Center, Porur
+------------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SonyCenter" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="navkarsony@gmail.com" PHONE=04442036333 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-11-22 VENDOR_FAX=na ADDRESS="Yogesh Kumar Lunkar D, Navkar Security Solutions, #3 Arcot Road, Porur, Chennai - 600 116" LATITUDE=13.0377695 LONGITUDE=80.1619174 CITY_NAME=chennai BRANCH_NAME=porur DESCRIPTION="Sony Center, Porur has been in operation since 2011 with 12+ employees sells all mobiles of Sony. They sell all branded sony products such as TV, LCD, LED, Handy cams etc and also provide excellent customer service. They also provide door delivery with in 5 KMs in porur, chennai, at no additional cost" WORKING_TIME="10AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=n
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Sony_Center_Porur/Offline_sony_center_porur.dat CITY_NAME=chennai BRANCH_NAME="porur" VENDOR_NAME=SonyCenter
+
+rake merchant:approve_local[SonyCenter,chennai,porur,admin]
+
+
+Skytel, Porur
+------------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="Skytel" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="mohammed.laffir@yahoo.com" PHONE=04424768386 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-11-23 VENDOR_FAX=na ADDRESS="Mohammed Laffir, 20/3 Arcot Road, Porur, Chennai - 600 116" LATITUDE=13.0377695 LONGITUDE=80.1619174 CITY_NAME=chennai BRANCH_NAME=porur DESCRIPTION="<b>SkyTel, Porur</b> has been in operation, since 2010, sells all mobiles of Nokia, Samsung. They sell all mobile accessories of Nokia, Samsung and also provide excellent mobile phone service. They also provide door delivery at no additional cost" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=n
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Skytel/Offline_Skytel_Porur.dat CITY_NAME=chennai BRANCH_NAME="porur" VENDOR_NAME=Skytel
+
+rake merchant:approve_local[Skytel,chennai,porur,admin]
+
+
+Nokia Priority Partner, valasaravakkam
+------------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="MobileShopping" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="nppmobileshopping@gmail.com" PHONE=9094455575 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-11-27 VENDOR_FAX=na ADDRESS="118 Arcot Road, Indra Nagar, Valasaravakkam, Chennai - 600 087" LATITUDE=13.0438889 LONGITUDE=80.1725 CITY_NAME=chennai BRANCH_NAME=valasaravakkam DESCRIPTION="<b>Mobile Shopping</b> is a Nokia priority partnet and has been in operation, since 2004, sells all mobiles of Nokia. They sell all original mobile accessories of Nokia. They also provide door delivery at no additional cost" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=n
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Nokia_Priority_Valasarawakkam/Offline_nokia_valasaravakkam_mobiles.dat CITY_NAME=chennai BRANCH_NAME="valasaravakkam" VENDOR_NAME=MobileShopping
+
+rake merchant:approve_local[MobileShopping,chennai,valasaravakkam,admin]
+
+
+Sony Center, Ashok Nagar
+------------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SonyCenter" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="ichibansony@yahoo.com" PHONE=04442319000 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-12-19 VENDOR_FAX=na ADDRESS="ICHIBAN,Shiyams Brindavan,Ground Floor,No.88 IV Avenue, Diagonally opposite to HDFC Bank, Ashok Nagar, Chennai - 600 083" LATITUDE=13.039324195594165 LONGITUDE=80.211181640625 CITY_NAME=chennai BRANCH_NAME=ashoknagar DESCRIPTION="<b>Sony Center</b> has been in operation, since 2004, sells all mobiles of Sony. They also sell all original mobile accessories of Sony and other products of Sony. They also provide door delivery at no additional cost" WORKING_TIME="10.30AM-8.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Sony_Center_AshokNagar/Offline_sonycenter_ashoknagar.dat CITY_NAME=chennai BRANCH_NAME="ashoknagar" VENDOR_NAME=SonyCenter
+
+rake merchant:approve_local[SonyCenter,chennai,ashoknagar,admin]
+
+Mobile Shoppe, Ashok Nagar
+------------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="MobileShoppe" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="mobileshoppe_nokia@yahoo.com" PHONE=04442151105 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-12-19 VENDOR_FAX=na ADDRESS="#60/2, 11th Avenue, Opposite to IOB, Ashok Nagar, Chennai - 600 083" LATITUDE=13.037076962866678 LONGITUDE=80.21000146865845 CITY_NAME=chennai BRANCH_NAME=ashoknagar DESCRIPTION="<b>Mobile Shoppe, AShok Nagar</b> has been in operation, since 2004, sells all mobiles of Nokia, Samsung. They also sell all original mobile accessories of Nokia, Samsung. They also provide door delivery with in 15 KMS from Ashok Nagar on the same day at no additional cost" WORKING_TIME="9.30AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Mobile_Shoppe/Offline_mobileshoppe_ashoknagar.dat CITY_NAME=chennai BRANCH_NAME="ashoknagar" VENDOR_NAME=MobileShoppe
+
+rake merchant:approve_local[MobileShoppe,chennai,ashoknagar,admin]
+
+
+Smart Cell, Porur
+------------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SmartCell" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="arunkm20005@gmail.com" PHONE=04424825036 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-12-19 VENDOR_FAX=na ADDRESS="K M Arun Kumar,#211, Near Anjappar, Poonamallee Road, Porur, Chennai - 600 116" LATITUDE=13.0424661 LONGITUDE=80.1570129 CITY_NAME=chennai BRANCH_NAME=porur DESCRIPTION="<b>Smart Cell, Porur</b> has been in operation, since 2012, sells all mobiles of Nokia, Samsung, Micromax, Sony, Larbonn, Lenovo, HTC, Apple, and Blackberry. They also sell all original mobile accessories. They also provide door delivery with in porur on the same day at no additional cost" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Smartcell_Porur/Offline_smartcell_porur.dat CITY_NAME=chennai BRANCH_NAME="porur" VENDOR_NAME=SmartCell
+
+rake merchant:approve_local[SmartCell,chennai,porur,admin]
+
+
+Fone City
+------------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="FoneCity" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="lakhiani99@gmail.com" PHONE=04443111687 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-12-19 VENDOR_FAX=na ADDRESS="Unit of Lakhiani Creations,#11/1, M.G. Road,Opposite to Adyar Ananda Bhavan,Besant Nagar,Adyar, Chennai - 600 020" LATITUDE=13.0011774 LONGITUDE=80.2564957 CITY_NAME=chennai BRANCH_NAME=adyar DESCRIPTION="<b>Fone City, Adyar</b> has been in operation, since 2006, sells all mobiles of Nokia, Sony, Blackberry, HTC, Apple, Micromax and Blackberry. They also sell all original mobile phone accessories. They also provide door delivery with in 1KM on the same day at no additional cost" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/FoneCity_Adyar/Offline_fonecity_adyar.dat CITY_NAME=chennai BRANCH_NAME="adyar" VENDOR_NAME=FoneCity
+
+rake merchant:approve_local[FoneCity,chennai,adyar]
+
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="FoneCity" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="lakhiani99@gmail.com" PHONE=04442057570 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-12-19 VENDOR_FAX=na ADDRESS="Unit of Lakhiani Creations,#339/2, Sunshine Apartments, 2nd Avenue, Opposite to Post Office, Anna Nagar, Chennai - 600 040" LATITUDE=13.0853169 LONGITUDE=80.2003662 CITY_NAME=chennai BRANCH_NAME=annanagar DESCRIPTION="<b>Fone City, Anna Nagar</b> has been in operation, since 2002, sells all mobiles of Nokia, Sony, Blackberry, HTC, Apple, Micromax and Blackberry. They also sell all original mobile phone accessories. They also provide door delivery with in 1KM on the same day at no additional cost" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/FoneCity_Annanagar/Offline_fonecity_annanagar.dat CITY_NAME=chennai BRANCH_NAME="annanagar" VENDOR_NAME=FoneCity
+
+rake merchant:approve_local[FoneCity,chennai,annanagar,admin]
+
+
+Samsung SmartPhone Cafe Adyar
+------------------------
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SamsungSmartphone" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="lakhiani99@gmail.com" PHONE=04443111687 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-12-19 VENDOR_FAX=na ADDRESS="Unit of Lakhiani Creations,#11/1, M.G. Road,Opposite to Adyar Ananda Bhavan,Besant Nagar,Adyar, Chennai - 600 020" LATITUDE=13.0011774 LONGITUDE=80.2564957 CITY_NAME=chennai BRANCH_NAME=adyar DESCRIPTION="<b>Samsung Smartphone Cafe, Adyar</b> has been in operation, since 2006, sells all mobiles of Samsung. They also sell all original mobile phone accessories of Samsung. They also provide door delivery with in 1KM on the same day at no additional cost" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/SSC_Adyar/Offline_ssc_adyar.dat CITY_NAME=chennai BRANCH_NAME="adyar" VENDOR_NAME=SamsungSmartphone
+
+rake merchant:approve_local[SamsungSmartphone,chennai,adyar,admin]
+
+
+Samsung SmartPhone Cafe Anna Nagar
+------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SamsungSmartphone" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="lakhiani99@gmail.com" PHONE=04442057570 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-12-19 VENDOR_FAX=na ADDRESS="Unit of Lakhiani Creations,#339/2, Sunshine Apartments, 2nd Avenue, Opposite to Post Office, Anna Nagar, Chennai - 600 040" LATITUDE=13.0853169 LONGITUDE=80.2003662 CITY_NAME=chennai BRANCH_NAME=annanagar DESCRIPTION="<b>Fone City, Anna Nagar</b> has been in operation, since 2002, sells all mobiles of Nokia, Sony, Blackberry, HTC, Apple, Micromax and Blackberry. They also sell all original mobile phone accessories. They also provide door delivery with in 1KM on the same day at no additional cost" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/SSC_Annanagar/Offline_ssc_annanagar.dat CITY_NAME=chennai BRANCH_NAME="annanagar" VENDOR_NAME=SamsungSmartphone
+
+rake merchant:approve_local[SamsungSmartphone,chennai,annanagar,admin]
+
+
+The Chennai Mobiles, Koyambedu
+------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="TheChennaiMobiles" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL="chi@chennaimobiles.com" PHONE=8428100000 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-12-19 VENDOR_FAX=na ADDRESS="#1, Kaliamman Koil Street,Near CMBT and Opposite to Krishna Sweets,Koyambedu,Chennai - 600 107" LATITUDE=13.07180749185241 LONGITUDE=80.20212650299072 CITY_NAME=chennai BRANCH_NAME=koyambedu DESCRIPTION="<b>The Chennai Mobiles, Koyambedu</b> has been in operation, since 2007, sells all mobiles of Nokia, Sony, Blackberry, HTC, Samsung. They also sell all original mobile phone accessories, Pen drive etc. They also provide door delivery with in Chennai on the same day" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/ChennaiMobiles/Offline_ChennaiMobiles_Koyambedu.dat CITY_NAME=chennai BRANCH_NAME="koyambedu" VENDOR_NAME=TheChennaiMobiles
+
+rake merchant:approve_local[SamsungSmartphone,chennai,annanagar,admin]
+
+
+Maximum Communication, Villivakkam
+------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="MaximumCommunication" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE=04426187096 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-12-23 VENDOR_FAX=na ADDRESS="I Sirajudev, 2/31, A NRN Street, Nadhamuni Theatre Backside, Thirumagalam Road, Villivakkam, Chennai - 600 049" LATITUDE=13.1067409 LONGITUDE=80.2056382 CITY_NAME=chennai BRANCH_NAME=villivakkam DESCRIPTION="<b>Maximum Communication, Villivakkam</b> has been in operation, since 2004, sells all mobiles of Nokia, Samsung, Micromax and Karbonn. They also sell all original mobile phone accessories, mobile phone service." WORKING_TIME="9.30AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Maximum_Communication/Offline_maximum_villivakkam.dat CITY_NAME=chennai BRANCH_NAME="villivakkam" VENDOR_NAME=MaximumCommunication
+
+rake merchant:approve_local[MaximumCommunication,chennai,villivakkam,admin]
+
+
+Sony Center, Nungambakkam
+------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SonyCenter" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE=04428211235 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-12-23 VENDOR_FAX=na ADDRESS="10-A,Haddows Road, Opposite to Shastri Bhavan, Nungambakkam, Chennai - 600 034" LATITUDE=13.065735488567046 LONGITUDE=80.24792790412903 CITY_NAME=chennai BRANCH_NAME=nungambakkam DESCRIPTION="<b>Sony Center, Nungambakkam</b> has been in operation, since 2008, sells all mobiles of Sony. They also sell all original mobile phone accessories of Sony" WORKING_TIME="10AM-8.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/SonyCenter_Nungambakkam/Offline_SonyCenter_nungambakkam.dat CITY_NAME=chennai BRANCH_NAME="nungambakkam" VENDOR_NAME=SonyCenter
+
+rake merchant:approve_local[SonyCenter,chennai,nungambakkam,admin]
+
+
+Sony Xperia Store, Anna Nagar
+------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SonyXperiaStore" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE=919790970038 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-12-23 VENDOR_FAX=na ADDRESS="103-105, Shanti Colony, 4th Avenue, Anna Nagar, Chennai - 600 040" LATITUDE=13.0826625 LONGITUDE=80.213831 CITY_NAME=chennai BRANCH_NAME=annanagar DESCRIPTION="<b>Sony Center, Anna Nagar</b> has been in operation, since 2008, sells all mobiles of Sony. They also sell all original mobile phone accessories of Sony" WORKING_TIME="10AM-8.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/SonyXperiaStore_Annnagar/Offline_SonyXperia_annanagar.dat CITY_NAME=chennai BRANCH_NAME="annanagar" VENDOR_NAME=SonyXperiaStore
+
+rake merchant:approve_local[SonyXperiaStore,chennai,annanagar,admin]
+
+
+Sony Xperia Store, Velachery
+------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SonyXperiaStore" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE=04422593227 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-12-23 VENDOR_FAX=na ADDRESS="Ground Floor, #19,New No.2A/3, Plot No.12, Sri Sakthi Vijayalakshmi Nagar, 1st Street, Velachery, Chennai - 600 042" LATITUDE=12.975971 LONGITUDE=80.2212092 CITY_NAME=chennai BRANCH_NAME=velachery DESCRIPTION="<b>Sony Center, Anna Nagar</b> has been in operation, since 2008, sells all mobiles of Sony. They also sell all original mobile phone accessories of Sony" WORKING_TIME="10AM-8.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/SonyXperiaStore_Velachery/Offline_SonyXperia_velachery.dat CITY_NAME=chennai BRANCH_NAME="velachery" VENDOR_NAME=SonyXperiaStore
+
+rake merchant:approve_local[SonyXperiaStore,chennai,velachery,admin]
+
+
+AIKON Communications, Nungambakkam
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="AikonCommunications" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE=04442070722 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-12-23 VENDOR_FAX=na ADDRESS="D C Jain, Gemini Parsn Commercial Complex, #A-10,No:1 Kodambakkam High Road, Nungambakkam, Chennai - 600 006" LATITUDE=12.975971 LONGITUDE=80.2212092 CITY_NAME=chennai BRANCH_NAME=nungambakkam DESCRIPTION="<b>Aikon Communications, Nungamballam</b> is a Nokia Priority Partner has been in operation, since 2003, sells all mobiles of Nokia. They also sell all original mobile phone accessories of NOkia and they offer 10% discount on them" WORKING_TIME="10.30AM-8.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/NPP_nungambakkam/Offline_NokiaPP_Nungambakkam.dat CITY_NAME=chennai BRANCH_NAME="nungambakkam" VENDOR_NAME=AikonCommunications
+
+rake merchant:approve_local[AikonCommunications,chennai,nungambakkam,admin]
+
+
+Samsung smartphone Cafe
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SamsungCafe" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE=04442016668 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2012-12-27 VENDOR_FAX=na ADDRESS="Narendra,#151/19, Arcot Road, Virugambakkam, Chennai - 600 092" LATITUDE=13.0578975 LONGITUDE=80.1944807 CITY_NAME=chennai BRANCH_NAME=virugambakkam DESCRIPTION="<b>Samsung Smartphone Cafe, Virugambakkam</b> is a Samsung exclusive store has been in operation, since 2009, sells all mobiles of Samsung. They also sell all original mobile phone accessories of Samsung and provide Live Demo for all mobile phones." WORKING_TIME="10.30AM-10.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/SSC_Virugambakkam/ssc_virugambakkam.dat CITY_NAME=chennai BRANCH_NAME="virugambakkam" VENDOR_NAME=SamsungCafe
+
+rake merchant:approve_local[SamsungCafe,chennai,virugambakkam,admin]
+
+
+Esquire Tradings, Kottivakkam
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="EsquireTradings" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE=04442615416 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-04 VENDOR_FAX=na ADDRESS="#11, Reebok Basement, AGS Colony, East Coast Road, Kottivakkam, Chennai - 600 041" LATITUDE=12.9692269 LONGITUDE=80.2586162 CITY_NAME=chennai BRANCH_NAME=kottivakkam DESCRIPTION="<b>Esquire Tradings, Kottivakkam has been in operation since 2012, selling mobile phones of Nokia, Samsung, HTC, Blackberry, Apple, Sony and BLU. They also sell mobile phone accessories and provide mobile phone service.<br/>Esquire tradings provides a free screen guard on every mobile phone purchase" WORKING_TIME="10AM-9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/esquire_tradings_kottivakkam/Offline_EsquireTradings_Kottivakkam.dat CITY_NAME=chennai BRANCH_NAME="kottivakkam" VENDOR_NAME=EsquireTradings
+
+rake merchant:approve_local[EsquireTradings,chennai,kottivakkam,admin]
+
+
+Singapore Cell Point, Ambattur
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SingaporeCellPoint" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE=919677190428 SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-04 VENDOR_FAX=na ADDRESS="Faisal, #130, Lucky Tower, M.T.H Road, Ambattur Ind. Estate, Ambattur, Chennai - 600 050" LATITUDE=13.0983894 LONGITUDE=80.1813703 CITY_NAME=chennai BRANCH_NAME=ambattur DESCRIPTION="<b>Singapore Cell Point, Ambattur has been in operation since 2009, selling mobile phones of Nokia, Samsung, Micromax, Karbonn, LAVA, Fly, Videocon and HTC . They also sell mobile phone accessories and provide mobile phone service." WORKING_TIME="10AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/singaporecellpoint_ambattur/Offline_NewSingaporeCellPoint_Ambattur.dat CITY_NAME=chennai BRANCH_NAME="ambattur" VENDOR_NAME=SingaporeCellPoint
+
+rake merchant:approve_local[SingaporeCellPoint,chennai,ambattur,admin]
+
+
+Samsung Smartphone Cafe, Triplicane
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SamsungSmartphoneCafe" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=prakash_kb86@yahoo.com PHONE="04445020304,919710013388" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-04 VENDOR_FAX=na ADDRESS="JayaPrakash N, New Mobile Sea Pvt Ltd, #270, Triplicane High Road, Triplicane, Chennai - 600 005" LATITUDE=13.0625424 LONGITUDE=80.2795195 CITY_NAME=chennai BRANCH_NAME=triplicane DESCRIPTION="<b>Samsung Smartphone Cafe, Triplicane</b> has been in operation for last 6 years selling Samsung mobile phones and original Samsung mobile phone accessories.<br/>Samsung Smartphone Cafe provides following offers<br/>a)Free Bluetooth headset on purchase of mobile phone that are worth Rs.15,000+<br/>b)Free special gift for students on every mobile phone purchase<br/>c)0% EMI with free processing.<br/>d)Free installation fo android application" WORKING_TIME="10.30AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/SSC_Triplicane/Offline_SSCafe_Triplicane.dat CITY_NAME=chennai BRANCH_NAME="triplicane" VENDOR_NAME=SamsungSmartphoneCafe
+
+rake merchant:approve_local[SamsungSmartphoneCafe,chennai,triplicane,admin]
+
+
+Samsung Smartphone Cafe, Kottivakkam
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SamsungSPhoneCafe" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=primereal@gmail.com PHONE="04445543616" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-04 VENDOR_FAX=na ADDRESS="Prime Real Ventures, #54, East Coast road, Thiruvanmiyur, Chennai - 600 041" LATITUDE=12.982672 LONGITUDE=80.263381 CITY_NAME=chennai BRANCH_NAME=kottivakkam DESCRIPTION="<b>Samsung Smartphone Cafe, Kottivakkam</b> has been in operation since 2012 selling Samsung mobile phones and original Samsung mobile phone accessories.<br/>Samsung Smartphone Cafe provides following offers<br/>a)Free Bluetooth headset and memory card on purchase of mobile phone that are worth Rs.15,000+" WORKING_TIME="10AM-9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/SSC_Kottivakkam/Offline_SSCafe_Kottivakkam.dat CITY_NAME=chennai BRANCH_NAME="kottivakkam" VENDOR_NAME=SamsungSPhoneCafe
+
+rake merchant:approve_local[SamsungSPhoneCafe,chennai,kottivakkam,admin]
+
+
+Samsung Smartphone Cafe, Royapettah
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SamsungSPhoneCafe" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=mail.teczone@gmail.com PHONE="918939999399" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-04 VENDOR_FAX=na ADDRESS="Teczone, #149, Lloyds Road, Roypettah, Chennai - 600 014" LATITUDE=13.0490415 LONGITUDE=80.259025 CITY_NAME=chennai BRANCH_NAME=royapettah DESCRIPTION="<b>Samsung Smartphone Cafe, Royapettah</b> has been in operation since 2010 selling Samsung mobile phones and original Samsung mobile phone accessories.<br/>Samsung Smartphone Cafe provides following offers<br/>a)Free 16GB memory card, payable applications, screen guard on purchase of Samsung Galaxy S Duos S7562<br/>b)Free silicon case on bulk purchase<br/>c)Free 32GB memory card, payable applications, screen guard on purchase of Samsung I9300 Galaxy S III<br/>d)Free 8GB memory card, payable applications, screen guard on purchase of Samsung Galaxy Ace Duos I589<br/>e)Free payable applications and screen guard on purchase of mobile phone" WORKING_TIME="10AM-9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/SSC_Royapettah/Offline_SSCafe_Royapettah.dat CITY_NAME=chennai BRANCH_NAME="royapettah" VENDOR_NAME=SamsungSPhoneCafe
+
+rake merchant:approve_local[SamsungSPhoneCafe,chennai,royapettah,admin]
+
+
+TecZone, Arumbakkam
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="Teczone" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=mail.teczone@gmail.com PHONE="918825588255" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-04 VENDOR_FAX=na ADDRESS="Teczone, #69/3, Razzaq Garden Road, Arumbakkam, Chennai - 600 106" LATITUDE=13.0741557 LONGITUDE=80.2158903 CITY_NAME=chennai BRANCH_NAME=arumbakkam DESCRIPTION="<b>Teczone, Arumbakkam</b> has been in operation since 2012 sells all popular mobile phones of Samsung and all mobile phone accessories. They provide door delivery in 24 business hours within areas in 2 KM radius" WORKING_TIME="10AM-9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Teczone_Arumbakkam/Offline_Teczone_Arumbakkam.dat CITY_NAME=chennai BRANCH_NAME="arumbakkam" VENDOR_NAME=Teczone
+
+rake merchant:approve_local[Teczone,chennai,arumbakkam,admin]
+
+
+Mobile Gallery
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="MobileGallery" VENDOR_LOGO=na VENDOR_WEBSITE="www.mymobilegallery.in" EMAIL=na PHONE="919884478656" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-04 VENDOR_FAX=na ADDRESS="Mobile Gallery, #1 TNHB Complex, C48 Main Road, 2nd Avenue, Anna Nagar, Chennai - 600 040" LATITUDE=13.087650431836664 LONGITUDE=80.19779205322266 CITY_NAME=chennai BRANCH_NAME=annanagar DESCRIPTION="<b>Mobile Gallery, Anna Nagar</b> has been in operation since 2002 sells all popular mobile phones of Nokia, Samsung, Blackberry, Micromax, Apple, Fly and Huawei and all mobile phone accessories. They provide door delivery in 24 business hours within areas in 10KM radius" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/MobileGallery/Offline_MobileGallery.dat CITY_NAME=chennai BRANCH_NAME="annanagar" VENDOR_NAME=MobileGallery
+
+rake merchant:approve_local[MobileGallery,chennai,annanagar,admin]
+
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="MobileGallery" VENDOR_LOGO=na VENDOR_WEBSITE="www.mymobilegallery.in" EMAIL=na PHONE="919176365380" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-04 VENDOR_FAX=na ADDRESS="Mobile Gallery, #36 MH Road, Perambur, Chennai - 600 011" LATITUDE=13.126542826880543 LONGITUDE=80.24145841598511 CITY_NAME=chennai BRANCH_NAME=perambur DESCRIPTION="<b>Mobile Gallery, Perambur</b> has been in operation since 2002 sells all popular mobile phones of Nokia, Samsung, Blackberry, Micromax, Apple, Fly and Huawei and all mobile phone accessories. They provide door delivery in 24 business hours within areas in 10KM radius" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/MobileGallery/Offline_MobileGallery.dat CITY_NAME=chennai BRANCH_NAME="perambur" VENDOR_NAME=MobileGallery
+
+rake merchant:approve_local[MobileGallery,chennai,perambur]
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="MobileGallery" VENDOR_LOGO=na VENDOR_WEBSITE="www.mymobilegallery.in" EMAIL=na PHONE="919176365380" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-04 VENDOR_FAX=na ADDRESS="Mobile Gallery, #45 & 47 First Main Road, Inside Odyssey, Gandhi Nagar, Adyar, Chennai - 600 012" LATITUDE=13.0011774 LONGITUDE=80.2564957 CITY_NAME=chennai BRANCH_NAME=adyar DESCRIPTION="<b>Mobile Gallery, Adyar</b> has been in operation since 2002 sells all popular mobile phones of Nokia, Samsung, Blackberry, Micromax, Apple, Fly and Huawei and all mobile phone accessories. They provide door delivery in 24 business hours within areas in 10KM radius" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/MobileGallery/Offline_MobileGallery.dat CITY_NAME=chennai BRANCH_NAME="adyar" VENDOR_NAME=MobileGallery
+
+rake merchant:approve_local[MobileGallery,chennai,adyar]
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="MobileGallery" VENDOR_LOGO=na VENDOR_WEBSITE="www.mymobilegallery.in" EMAIL=na PHONE="919884066655" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-04 VENDOR_FAX=na ADDRESS="Mobile Gallery, #115 Strahans Road, PB Road, Chennai - 600 012" LATITUDE=13.0970594 LONGITUDE=80.2608097 CITY_NAME=chennai BRANCH_NAME=pattalam DESCRIPTION="<b>Mobile Gallery, Pattalam</b> has been in operation since 2002 sells all popular mobile phones of Nokia, Samsung, Blackberry, Micromax, Apple, Fly and Huawei and all mobile phone accessories. They provide door delivery in 24 business hours within areas in 10KM radius" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/MobileGallery/Offline_MobileGallery.dat CITY_NAME=chennai BRANCH_NAME="pattalam" VENDOR_NAME=MobileGallery
+
+rake merchant:approve_local[MobileGallery,chennai,pattalam]
+
+
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="BlackberryStore" VENDOR_LOGO=na VENDOR_WEBSITE="www.mymobilegallery.in" EMAIL=na PHONE="919962241144" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-04 VENDOR_FAX=na ADDRESS="Mobile Gallery, #338/5 Sunshine Apartments, Second Avenue, Anna Nagar, Chennai - 600 040" LATITUDE=13.0853169 LONGITUDE=80.2003662 CITY_NAME=chennai BRANCH_NAME=annanagar DESCRIPTION="<b>Blackberry Store, Mobile Gallery, Anna Nagar</b> has been in operation since 2002 sells all mobile phones of Blackberry and all mobile phone accessories. They provide door delivery in 24 business hours within areas in 10KM radius" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/MobileGallery/Offline_MobileGallery_Blackberry.dat CITY_NAME=chennai BRANCH_NAME="annanagar" VENDOR_NAME=BlackberryStore
+
+rake merchant:approve_local[BlackberryStore,chennai,annanagar]
+
+
+Electronect Phone and Fix
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="Electronect" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE="04443838111" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-04 VENDOR_FAX=na ADDRESS="#349 ECR Road, Neelangarai, Chennai - 600 041" LATITUDE=12.949282 LONGITUDE=80.255012 CITY_NAME=chennai BRANCH_NAME=neelankarai DESCRIPTION="<b>Electronect Phone and Fix, Neelankarai</b> has been in operation since 2012 sells all popular mobile phones of Nokia, Samsung, Micromax and Sony and all mobile phone and computer accessories. They provide door delivery in 24 business hours within areas in ECR, Chennai" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Electronect_Neelankarai/Offline_ElectronectPhoneFix_Neelankarai.dat CITY_NAME=chennai BRANCH_NAME="neelankarai" VENDOR_NAME=Electronect
+
+rake merchant:approve_local[Electronect,chennai,neelankarai,admin]
+
+
+HiTech Mobiles, Kundrathur
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="Hitech" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE="9551955159" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-04 VENDOR_FAX=na ADDRESS="#51 Bazar Street, Near Theradi, Kundrathur, Chennai - 600 069" LATITUDE=12.949282 LONGITUDE=80.255012 CITY_NAME=chennai BRANCH_NAME=kundrathur DESCRIPTION="<b>Hi-Tech Mobiles, Kundrathur</b> has been in operation since 2012 sells all popular mobile phones of Nokia, Samsung, Micromax and Sony and all mobile phone and computer accessories. They provide door delivery in 24 business hours within areas in ECR, Chennai" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Hitech_kundrathur/Offline_HiTechMobiles_Kundrathur.dat CITY_NAME=chennai BRANCH_NAME="kundrathur" VENDOR_NAME=Hitech
+
+rake merchant:approve_local[Hitech,chennai,kundrathur,admin]
+
+
+Cavetell, Adambakkam
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="Cavetell" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE="04422553636" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-04 VENDOR_FAX=na ADDRESS="#131 Karikalan Street, Near St.Thomas Mount Railway Station, Adambakkam , Chennai - 600 088" LATITUDE=12.9922492 LONGITUDE=80.1958288 CITY_NAME=chennai BRANCH_NAME=adambakkam DESCRIPTION="<b>Cavetell, Adambakkam</b> has been in operation since 2005 sells all popular mobile phones of Nokia, Samsung, Micromax, Blackberry, HTC, Apple, Karbonn, LG, Videocon and Sony and all mobile phone accessories. They provide door delivery in 24 business hours within areas within 10KM radius<br/>They provide 50% discount on mobile accessories and free screen guard on purchase of a mobile phone" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Cavetell/Offline_Cavetell_Adambakkam.dat CITY_NAME=chennai BRANCH_NAME="adambakkam" VENDOR_NAME=cavetell
+
+rake merchant:approve_local[Cavetell,chennai,adambakkam,admin]
+
+
+MobileInn,Karayanchavadi
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="MobileInn" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=mobile_inn@hotmail.com PHONE="919962661888" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-04 VENDOR_FAX=na ADDRESS="#348 Trunk Road, Karayanchavadi Bus Stop, Chennai - 600 056" LATITUDE=12.9922492 LONGITUDE=80.1958288 CITY_NAME=chennai BRANCH_NAME=karayanchavadi DESCRIPTION="<b>MobileInn, Karayanchavadi</b> has been in operation since 2008 sells all popular mobile phones of Nokia, Samsung, Micromax, Sony, HTC, Blackberry, Apple and Karbonn and all mobile phone accessories.<br/>They provide two special offers<br/>1. For mobile phones that are worth between Rs.10,000-Rs.20000, pay Rs.300 and get screen guard, 4 GB memory card and case and covers as free.<br/>2.For mobile phones that are worth above Rs.20,000, get free screen guard, 4 GB memory card and case and cover " WORKING_TIME="9AM-9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Mobileinn/Offline_MobileInn_Karayanchavadi.dat CITY_NAME=chennai BRANCH_NAME="karayanchavadi" VENDOR_NAME=MobileInn
+
+rake merchant:approve_local[MobileInn,chennai,karayanchavadi,admin]
+
+
+Access, Nungambakkam
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="Access" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=access13@satyam.net.in PHONE="04428331740" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-18 VENDOR_FAX=na ADDRESS="#BS 23, Gems Court, #14 Khader Nawaz Khan Road, Nungambakkam, Chennai - 600 006" LATITUDE=13.038865 LONGITUDE=80.250005 CITY_NAME=chennai BRANCH_NAME=nungambakkam DESCRIPTION="<b>Access, Nungambakkam</b> has been in operation since 2002 sells all phones and mobile accessories from Apple.<br/>They provide free screen guard on the purchase of Apple iPhone 4S." WORKING_TIME="11AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Access/Offline_Access.dat CITY_NAME=chennai BRANCH_NAME="nungambakkam" VENDOR_NAME=Access
+
+rake merchant:approve_local[Access,chennai,nungambakkam]
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="Access" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=access13@satyam.net.in PHONE="04428464000" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-22 VENDOR_FAX=na ADDRESS="#SL 05, Basement - 1, Express Avenue, Royapettah, Chennai - 600 014" LATITUDE=13.059802 LONGITUDE=80.263494 CITY_NAME=chennai BRANCH_NAME=royapettah DESCRIPTION="<b>Access, Royapettah</b> has been in operation since 2002 sells all phones and mobile accessories from Apple.<br/>They provide free screen guard on the purchase of Apple iPhone 4S." WORKING_TIME="11AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/Access/Offline_Access.dat CITY_NAME=chennai BRANCH_NAME="royapettah" VENDOR_NAME=Access
+
+rake merchant:approve_local[Access,chennai,royapettah,admin]
+
+
+AppleMobileStore, Vadapalani
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="AppleMobileStore" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=applemobilesstore@gmail.com PHONE="04424840089" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-22 VENDOR_FAX=na ADDRESS="#271/1, Arcot Road, Vadapalani, Chennai - 600 026" LATITUDE=13.051584 LONGITUDE=80.217644 CITY_NAME=chennai BRANCH_NAME=vadapalani DESCRIPTION="<b>Apple Mobile Store, Vadapalani</b> has been in operation since 2011 sells all phones from Samsung, Nokia, HTC, Blackberry, Sony, Apple and Micromax.<br/>They provide two special offers<br/>1. Free 2GB memory card on purchase of mobile phone worth between Rs.5000 and Rs.10,000.<br/>2.Free 4GB memory card on purchase of mobile phone worth above Rs.10,000" WORKING_TIME="10AM-9PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/AppleMobileStore_Vadapalani/Offline_applemobilestore_vadapalani.dat CITY_NAME=chennai BRANCH_NAME="vadapalani" VENDOR_NAME=AppleMobileStore
+
+rake merchant:approve_local[AppleMobileStore,chennai,vadapalani,admin]
+
+
+Express Mobiles, Seevaram
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="ExpressMobiles" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=sameercheers1988@gmail.com PHONE="04443132512" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-22 VENDOR_FAX=na ADDRESS="#83, Rajiv Gandhi Salai, Seevaram, Chennai - 600 096" LATITUDE=12.955056 LONGITUDE=80.241193 CITY_NAME=chennai BRANCH_NAME=seevaram DESCRIPTION="<b>Express Mobiles, Seevaram</b> has been in operation since 2007 sells all phones from Nokia, Samsung, Apple, Micromax, Sony and Karbonn.<br/>They provide two special offers<br/>1. 35% off on all mobile accessories.<br/>2.Bundle offer(Bluetooth + Headsets) on purchase of Micromax phones." WORKING_TIME="11AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/ExpressMobiles_Seevaram/Offline_expressmobiles_seevaram.dat CITY_NAME=chennai BRANCH_NAME="seevaram" VENDOR_NAME=ExpressMobiles
+
+rake merchant:approve_local[ExpressMobiles,chennai,seevaram,admin]
+
+
+
+GadgetWorld, Purasavakkam, T Nagar
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="GadgetWorld" VENDOR_LOGO=na VENDOR_WEBSITE="www.gadgetworld.in" EMAIL=jasohan.gadgetworld@gmail.com PHONE="04439155555" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-22 VENDOR_FAX=na ADDRESS="Shop No #14, Oppsite to Robot Bala Abirami, Abirami Mega Mall, #152 Purasavakkam High Road, Purasawakkam, Chennai - 600 010" LATITUDE=13.050001 LONGITUDE=80.112586 CITY_NAME=chennai BRANCH_NAME=purasawakkam DESCRIPTION="<b>Gadget World, Purasawakkam</b> has been in operation since 2010 sells all phones from Nokia, Samsung, HTC, Apple, Blackberry, Sony, Micromax and Karbonn." WORKING_TIME="10AM-9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/GadgetWorld/Offline_gadgetworld.dat CITY_NAME=chennai BRANCH_NAME="purasawakkam" VENDOR_NAME=GadgetWorld
+
+rake merchant:approve_local[GadgetWorld,chennai,purasawakkam,admin]
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="GadgetWorld" VENDOR_LOGO=na VENDOR_WEBSITE="www.gadgetworld.in" EMAIL=jasohan.gadgetworld@gmail.com PHONE="04439155555" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-22 VENDOR_FAX=na ADDRESS="Old no #164, New no #6, Opposite to Joy Alukkas, North Usman Road, T Nagar, Chennai - 600 017" LATITUDE=13.04687 LONGITUDE=80.23333 CITY_NAME=chennai BRANCH_NAME=tnagar DESCRIPTION="<b>Gadget World, T Nagar</b> has been in operation since 2010 sells all phones from Nokia, Samsung, HTC, Apple, Blackberry, Sony, Micromax and Karbonn." WORKING_TIME="10AM-9.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/GadgetWorld/Offline_gadgetworld.dat CITY_NAME=chennai BRANCH_NAME="tnagar" VENDOR_NAME=GadgetWorld
+
+rake merchant:approve_local[GadgetWorld,chennai,tnagar]
+
+
+
+
+PLanet M, Alwarpet, Express avenue
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="PlanetM" VENDOR_LOGO=na VENDOR_WEBSITE="www.planetm.in" EMAIL=na PHONE="919840150015" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-22 VENDOR_FAX=na ADDRESS="#49 & 50, Basement 1, Express Avenue Mall, Whites Road, Royapettah, Chennai - 600 014" LATITUDE=13.05484 LONGITUDE=80.26419 CITY_NAME=chennai BRANCH_NAME=royapettah DESCRIPTION="<b>Planet M, Royapettah</b> has been in operation since 2009 sells all phones from Nokia, Samsung, Sony, HTC, Blackberry and Apple.They provide best deal on buy back mobile phones and also some exciting special offers" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/PlanetM/Offline_planetm.dat CITY_NAME=chennai BRANCH_NAME="royapettah" VENDOR_NAME=PlanetM
+
+rake merchant:approve_local[PlanetM,chennai,royapettah,admin]
+
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="PlanetM" VENDOR_LOGO=na VENDOR_WEBSITE="www.planetm.in" EMAIL=na PHONE="919940292228" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-22 VENDOR_FAX=na ADDRESS="New no #283, Old no #123, Near Hotel Park Sheraton, TTK Road, Alwarpet, Chennai - 600 018" LATITUDE=13.03408 LONGITUDE=80.25397 CITY_NAME=chennai BRANCH_NAME=alwarpet DESCRIPTION="<b>Planet M, Alwarpet</b> has been in operation since 2009 sells all phones from Nokia, Samsung, Sony, HTC, Blackberry and Apple.They provide best deal on buy back mobile phones and also some exciting special offers<br/>1.Free car charger and Rs.250 gift voucher on Purchase of a Nokia Mobile Phone worth between Rs.5000 and Rs.10000.<br/>2.Free car charger, 0% EMI and Rs.500 gift voucher on purchase of Nokia mobile phone worth above Rs.10000<br/>3.Rs.250 gift voucher on purchase of a mobile phone worth between Rs.5000 and Rs.10000<br/>4.Rs.500 gift voucher and Free EMI on purchase of a mobile phone worth between RS.10000 and Rs.20000<br/>5.Rs.750 gift voucher and Free EMI on purchase of mobile phone worth above Rs.20000" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/PlanetM/Offline_planetm.dat CITY_NAME=chennai BRANCH_NAME="alwarpet" VENDOR_NAME=PlanetM
+
+rake merchant:approve_local[PlanetM,chennai,alwarpet]
+
+
+
+Sony Center, Mount Road
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="SonyCenter" VENDOR_LOGO=na VENDOR_WEBSITE="www.planetm.in" EMAIL=na PHONE="919944726290" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-22 VENDOR_FAX=na ADDRESS="#38(New #14), Anna Salai, Chennai - 600 002" LATITUDE=13.04249 LONGITUDE=80.24746 CITY_NAME=chennai BRANCH_NAME=annasalai DESCRIPTION="<b>Sony Center, Anna Salai</b> has been in operation since 2005 sells all phones from Sony and all original Sony mobile phone accessories" WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/SonyCenter_Mountroad/Offline_sonycenter_mountroad.dat CITY_NAME=chennai BRANCH_NAME="annasalai" VENDOR_NAME=SonyCenter
+
+rake merchant:approve_local[SonyCenter,chennai,annasalai,admin]
+
+
+
+Zam Zam Mobiles, Nungambakkam
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="ZamZamMobile" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE="919962877666" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-22 VENDOR_FAX=na ADDRESS="Old #299, New #44, Opposite to Guru Hotel, Valluvarkottam High Road, Nungambakkam, Chennai - 600 034" LATITUDE=13.06107 LONGITUDE=80.24050 CITY_NAME=chennai BRANCH_NAME=nungambakkam DESCRIPTION="<b>Zam Zam Mobile, Nungambakkam</b> has been in operation since 2007 sells all phones from Nokia, Samsung, HTC, Blackberry, Apple, Sony, LG, Micromax, Lava and Karbonn<br/> They give a free gift on every mobile phone purchase " WORKING_TIME="9AM-10.30PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/ZamZam_Nungambakkam/Offline_zamzammobiles.dat CITY_NAME=chennai BRANCH_NAME="nungambakkam" VENDOR_NAME=ZamZamMobile
+
+rake merchant:approve_local[ZamZamMobile,chennai,nungambakkam,admin]
+
+
+ITS CEll Zone, Saidapet
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="ITSCellZone" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE="919841457531" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-22 VENDOR_FAX=na ADDRESS="Old #112/2, New #38, Bazaar Road, Near Saidapet Police Station, Saidapet, Chennai - 600 015" LATITUDE=13.01995 LONGITUDE=80.21814 CITY_NAME=chennai BRANCH_NAME=saidapet DESCRIPTION="<b>ITS Cell Zone, Saidapet</b> has been in operation since 2000 sells all phones from Nokia, Samsung, Micromax, Karbonn, HTC, Blackberry and Lava.<br/> They also sell mobile phone accessories " WORKING_TIME="10AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/itscellzone_saidapet/Offline_itscellzone_saidapet.dat CITY_NAME=chennai BRANCH_NAME="saidapet" VENDOR_NAME=ITSCellZone
+
+rake merchant:approve_local[ITSCellZone,chennai,saidapet,admin]
+
+
+
+Currents, Nungambakkam
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="Currents" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=na PHONE="918754471686" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-22 VENDOR_FAX=na ADDRESS="Currents Technology Retail Limited, Chaitanya Centre, #21/8&9, Old No 12, Ground Floor, Khader Nawaz Khan Road, Nungambakkam, Chennai - 600 006" LATITUDE=13.06063 LONGITUDE=80.24962 CITY_NAME=chennai BRANCH_NAME=nungambakkam DESCRIPTION="<b>Currents, Premium Reseller of apple, Nungambakkam</b> has been in operation since 2011 sells all phones from Apple<br/> They also sell original mobile phone accessories<br/> They provide live demo on all Apple phones from apple certified people " WORKING_TIME="11AM-10PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/currents_nungabakkam/Offline_currents_nungambakkam.dat CITY_NAME=chennai BRANCH_NAME="nungambakkam" VENDOR_NAME=Currents
+
+rake merchant:approve_local[Currents,chennai,nungambakkam,admin]
+
+
+
+EWorld, Nungambakkam
+----------------------------------
+
+rake vendor:addlocal APP_PATH=/var/www/CrawlFish VENDOR_NAME="EWorld" VENDOR_LOGO=na VENDOR_WEBSITE=na EMAIL=eworldchennai@gmail.com PHONE="919884404445" SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=fixed SUBSCRIBED_DATE=2013-01-22 VENDOR_FAX=na ADDRESS="Gems Court, BS #27, 14, Khader Nawaz Khan Road, Nungambakkam, Chennai - 600 006" LATITUDE=13.06063 LONGITUDE=80.24962 CITY_NAME=chennai BRANCH_NAME=nungambakkam DESCRIPTION="<b>E-World, Nungambakkam</b> has been in operation since 2007 sells all smartphones and tablets from Apple, Blackberry, HTC, Samsung, Nokia, Sony, Huawei, Intel, micromax and karbonn.<br/> They also sell original mobile phone accessories<br/> They provide gifts on every mobile phone purchase " WORKING_TIME="10AM-8PM" MISCELLANEOUS=na TRIAL_FLAG=y
+
+rake vendor:loadlocal APP_PATH=/var/www/CrawlFish DATA_FILE_PATH=/var/www/data/Mobiles/Part1/Offline/eworld_nungambakkam/Offline_eworld_nungambakkam.dat CITY_NAME=chennai BRANCH_NAME="nungambakkam" VENDOR_NAME=EWorld
+
+rake merchant:approve_local[EWorld,chennai,nungambakkam,admin]

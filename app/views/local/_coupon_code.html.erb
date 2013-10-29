@@ -1,0 +1,28 @@
+<div align="center">
+<% if @error == 0%>
+    <div class="padT20 padB20">
+    <span class="text-b25 g-text">
+        You did great!<br/>
+    </span> 
+    <span class="text-b20 gray-text">
+        <%= @vendor_alias_name %> has been notified about<br/>
+    </span> 
+    <span class="text-n18 darkgray-text">
+        your request to know the latest price of <br/>
+    <span class="text-b18 lightblack-text">    
+        <%= @product_name.titleize %>
+    </span>    
+    </span> 
+   </div>
+   
+<% else %>
+<p class="text-b20 red-text">
+    The product you are looking for is not available in this shop!
+</p> 
+<% end %>
+
+<span class="g-text">Click close to continue ...</span> or just    
+<%= link_to "go home!","/",:class => "g-link-b text-n12" %>
+</div>
+
+

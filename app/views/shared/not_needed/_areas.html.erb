@@ -1,0 +1,6 @@
+
+<div id="areas-text-box">
+<% @areas = @areas.nil? ? [] : @areas %>
+  <%= label_tag :area_names, "Areas :" %>
+  <%= text_field_tag :multiple_area_ids,{},:data => { :pre => @areas.map{|i| {"id"=> i.branch_id,"branch_name" => i.branch_name} }} %>
+  </div>

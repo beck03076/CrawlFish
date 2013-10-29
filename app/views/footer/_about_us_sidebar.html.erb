@@ -1,0 +1,36 @@
+<div class="cf-aboutus-right-sidebar-section">
+            	<a href = "http://www.crawlfish.in/shared/index/products?query=books" class="aboutus-link" title="Click here to visit Books index page">
+            	<span class="sidebar-number">
+		<% if !@books_count.nil? %>
+			<%=@books_count%>
+		<%end%>
+		</span><br/>
+                <span class="sidebar-type">Books</span>
+		</a>
+            </div>			
+            <div class="sidebar-pad"></div>
+            <div class="cf-aboutus-right-sidebar-section">
+            	<a href = "http://www.crawlfish.in/shared/index/products?query=mobiles" class="aboutus-link" title="Click here to visit Mobiles & Tablets index page">
+            	<span class="sidebar-number">
+		<% if !@mobiles_count.nil? %>
+			<%=@mobiles_count%>
+		<%end%>
+		</span><br/>
+                <span class="sidebar-type">Mobiles</span>
+		</a>
+            </div>
+            <div class="sidebar-pad"></div>
+            <div class="cf-aboutus-right-sidebar-section" title="Flipkart, IndiaPlaza, BuyThePrice, Saholic, Landmark, Mirchimart, uRead, Crossword">
+            	<span class="sidebar-number"><%=@online_vendor_count%></span><br/>
+                <span class="sidebar-type">Online Portals</span>
+            </div>
+            <div class="sidebar-pad"></div>
+            <div class="cf-aboutus-right-sidebar-section-place">
+            	<span class="sidebar-number"><%=@local_vendor_count%> +</span><br/>
+                <span class="sidebar-type">shops near your place</span>
+            </div>
+ 	    <div class="sidebar-pad"></div>
+            <div class="cf-aboutus-right-sidebar-section">
+            	<span class="sidebar-number"><%=@branches_count%> +</span><br/>
+                <span class="sidebar-type">Areas</span>
+            </div>

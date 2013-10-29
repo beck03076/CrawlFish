@@ -1,0 +1,72 @@
+<% if @message.nil? %>
+
+<div class="cf-lsmc-vendor-products">
+
+	<% @products.keys.each do |category| %>
+		
+		<% category_name = Subcategories.find_by_sub_category_name(category+"_lists").category_name %>
+          
+			<% @products[category].keys.each do |brand| %>
+
+				<div style="clear:both;padding-top:10px;padding-bottom:10px"></div>
+
+				<div class="cf-lsmc-vendor-products-breadcrumbs">
+					<%= category.titleize %>/<%= brand.titleize %>
+				</div>
+				
+				<div class="cf-lsmc-vendor-products-wrapper">
+				
+				<% product_count = 0 %>
+
+				<% @products[category][brand].each do |product| %>
+	
+					<% product_count = product_count+1 %>
+
+					<div class="cf-lsmc-vendor-products-inner-wrapper">
+
+					<% product_image_url = get_product_image(product.product_name,product.product_identifier2,category+"_lists") %>
+
+					<div class="cf-lsmc-vendor-products-image">
+
+						<% if !product_image_url.nil? %>
+							<%= image_tag(product_image_url) %>
+						<% end %>
+
+					</div>
+
+					<div class="cf-lsmc-vendor-products-name">
+
+						    <%= form_specific_to_local_link(product.product_name+', '+product.product_identifier2.titleize,
+                                                    nil,
+                                                    nil,
+                                                    @country,
+                                                    category_name,
+                                                    product.product_name,
+                                                    product.product_identifier2,
+                                                    @city,
+                                                    @area,
+                                                    @shop.map{|i| i.vendor_alias_name}[0]) %>
+
+					</div>
+					
+					</div>
+	
+					<% if product_count%5==0%>
+						<div style="clear:both;padding-top:20px"></div>
+					<% end %>
+
+				<% end %>
+			
+				</div>
+
+			<% end %>
+
+	<% end %>
+</div>
+
+<% else %>
+
+  <%= @message %>
+
+<% end %>
+

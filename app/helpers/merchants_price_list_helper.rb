@@ -1,0 +1,2 @@
+module MerchantsPriceListHelper
+end

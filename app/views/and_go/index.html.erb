@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Description" content="CrawlFish - And Go" />
+<meta name="alexaVerifyID" content="agt3D-roIDhC4m8ZSkYS7nPfiqw" />
+<title>CrawlFish - And Go</title>
+<meta name="robots" content="noindex" />
+<link rel="shortcut icon" type="image/x-icon" href="/Images/favicon.ico">
+<link href="/Stylesheets/andgoindexpage.css" rel="stylesheet" type="text/css">
+<%= stylesheet_link_tag    "application" %>
+<%= csrf_meta_tags %>
+<%= javascript_include_tag "application" %>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32882383-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+
+<div class="cf-andgo-content">
+
+	<div class="cf-andgo-header">
+		<div class="cf-andgo-header-logo">
+			<%= link_to image_tag("/Images/fcd-bold.png") ,{:controller => 'main',:action => 'index'},:class => 'imgLogo'%>
+	 	<!-- end cf-andgo-header-logo --></div>
+		<div class="cf-header-links">
+		<ul class="cf-general-header-links-ul">
+	  			<li><%= link_to "Price Finder",{:controller => 'price_search',:action => 'index'},:id=>'cf-a-general-buy'%></li>
+				<li><%= link_to "Home",{:controller => 'main',:action => 'index'},:id=>'cf-a-general-home'%></li>
+        	</ul>
+	 	<!--end cf-header-links --></div>
+		<div style="clear:both"></div>	
+	<!-- end cf-andgo-header --></div>
+
+	<div class="cf-andgo-content-wrapper">
+
+		<div class="cf-andgo-content-header">
+			<span><b>Welcome to CrawlFish!</b></span><br/>
+			<span style="color:#000;font-size:14px">Log in to access CrawlFish Phone Service and And Go!</span>
+		</div>
+
+		<div class="cf-andgo-content-signin">
+
+			<div class="cf-andgo-content-signin-wrapper">
+
+				<div class="cf-andgo-content-signin-form-header">
+					SIGN IN
+				</div>
+
+				<div id="login-form" class="log_in"> <%= render ('and_go/login') %> </div>
+
+			<!-- end cf-andgo-content-signin-wrapper --></div>
+		<!-- end cf-andgo-content-signin --></div>
+
+		<div class="clear"></div>
+
+	<!-- end cf-andgo-content-wrapper --></div>
+
+	<div class="cf-andgo-footer">
+    		<div class="cf-andgo-footer-content">
+			<%= render 'shared/footer' %>
+        	</div>
+     	<!-- end cf-andgo-footer --></div>
+
+<!-- end cf-andgo-content --></div>
+
+</body>
+</html>
+

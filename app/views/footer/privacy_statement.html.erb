@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>CrawlFish - Privacy Statement</title>
+<meta name="robots" content="noindex" />
+<link rel="shortcut icon" type="image/x-icon" href="/Images/favicon.ico">
+<link href="/Stylesheets/privacy.css" rel="stylesheet" type="text/css">
+<%= stylesheet_link_tag    "application" %>
+<%= csrf_meta_tags %>
+<%= javascript_include_tag "application" %>
+</head>
+
+<body>
+<div class="cf-privacy-content">
+
+	<div class="cf-privacy-header">
+		<div class="cf-privacy-header-logo">
+			<%= link_to image_tag("/Images/final_side_title_2.png") ,{:controller => 'main',:action => 'index'},:class => 'imgLogo'%>
+			<%= link_to image_tag("/Images/final_tag_line_small_1.png") ,{:controller => 'main',:action => 'index'},:class => 'imgTag'%>
+		</div>
+		<div class="cf-header-links">
+		<ul class="cf-general-header-links-ul">
+	  			<li><%= link_to "Price Finder",{:controller => 'price_search',:action => 'index'},:id=>'cf-a-general-buy'%></li>
+				<li><%= link_to "Home",{:controller => 'main',:action => 'index'},:id=>'cf-a-general-home'%></li>
+        	</ul>
+	 	<!--end cf-header-links --></div>
+		<div style="clear:both"></div>	
+    	 <!-- end .cf-privacy-header --></div>
+
+	<div class="cf-privacy-content-wrapper">
+		       
+		<div class="cf-privacy-main-content">
+			<%= render 'footer/privacy_stmnt_text' %>            	 
+		</div>
+               
+		<div class="clear"></div>
+        
+	</div>
+
+        <div class="cf-privacy-footer">
+    		<div class="cf-privacy-footer-content">
+
+			<%= render 'shared/footer' %>    
+
+        	</div>
+     <!-- end .cf-privacy-footer --></div>
+ <!-- end .cf-privacy-content --></div>
+</body>
+</html>
+

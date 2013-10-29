@@ -1,0 +1,9 @@
+<a name="map"></a>
+
+
+<%= gmaps(:map_options => { :container_class => "map_container_renamed_small"  },:markers => {:data => @json, :options => {  :auto_adjust => true, :center_on_user => true}}) %>
+
+<%= yield :scripts %>
+<div class="gray-text text-n11 padL20">
+    <b>Note:</b> We strive to provide accurate location of the shop. Should you find any variation in the location of this shop, please complain!
+</div>

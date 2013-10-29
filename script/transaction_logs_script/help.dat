@@ -1,0 +1,21 @@
+########## HELP FILE #######################
+
+All the log files generated should be in this format "*.dat"
+
+Create a folder every day to accumulate all the log files. Folder should be named with the date. Folder name should be like this "29-May-2012"
+
+Open the master script "validate-logs" file and change the folder_path and script_path.
+
+folder_path - defines the path where the log folders, explained in step 2, are created
+script_path - defines the path where the master and awk scripts are placed in your system
+
+--------- Now we are ready to run the script ----------
+
+Define a cron job that runs at the end of every day, which calls this master script with the log folder name as argument
+
+A folder "final_logs" will be created in the parent folder, which will have two files "final_impressions.dat" and "final_clicks.dat"
+
+--------- CRON JOB steps -------------
+
+1) Calls the master script "validate-logs" with the log folder name as argument
+2) Feeds the files, which are created in "final_logs" folder, to a temp table in crawlfishdevdb database along with the type (either "clicks" or "impressions" based on the feed file that you load) and the log_date set to the folder date

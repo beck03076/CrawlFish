@@ -1,0 +1,41 @@
+<div class="header-text padL10 border-gray-t padT10">
+            Brand wise online shopping
+            </div>
+            <div class="comments-text padL10 border-gray-b padB5">
+            Here is a list of all brands included in online shopping!
+            </div>
+            <!-- BRAND ONLINE SHOPPING HEADER - ENDS -->
+<br/>
+<div class="brand-online">
+    <% @sub_categories.each do |i| %>
+       
+       <div align="center" class="border-graydash-t padTB10">
+           <div class="text-n20 g-text">
+               <%= i.category_name.titleize%>      
+           </div>
+           <div align="center">
+            <% @online_brands[i.category_name].each do |brand| %>
+               
+                <div class="prod-img-box-brand padT20 padL30" align="center">
+                       <% url = ["/price-list",i.category_name,brand.downcase].join("/") %>
+                
+                        <div class="prod-img-pre prod-img-brand" >
+                            <%= link_to image_tag("/Images/brand-logos/"+s_to_url(brand)+".jpg"),url,{} %>
+                        </div>
+                        
+                        <div class="brand-name">
+                        
+                            <%= links(["/price-list",i.category_name,brand.downcase],brand.titleize) %> 
+
+                        </div>
+                 </div>
+            <% end %>
+            </div>
+      </div>
+    <div style="clear:both">&nbsp;</div>
+    <% end %>
+        
+<div style="clear:both">&nbsp;</div>
+      
+</div>       
+<!-- BRAND ONLINE SHOPPING LAYOUT - ENDS -->

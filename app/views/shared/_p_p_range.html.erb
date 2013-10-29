@@ -1,0 +1,36 @@
+<!-- POPULAR PRICE RANGE LAYOUT - STARTS -->
+            <div class="padB10 padT10">
+            <div class="padB10 border-gray-b">
+                <!-- POPULAR PRICE RANGE HEADER - STARTS -->
+                <span class="header-text">
+                    Popular Price Ranges
+                </span>
+                <div class="comments-text padL5  padB5 border-gray-b">
+                    Choose the price range for your favourite category to view a list of products!
+                </div>
+            
+                <!-- POPULAR PRICE RANGE HEADER - ENDS -->
+                <!-- POPULAR PRICE RANGE LIST - STARTS -->
+                <div class="pop-price-box">
+                <ul>
+                <% @p_p_range.each do |i| %>
+                    <% k = i.keys[0] %>
+                    <% v = i.values[0].to_s %>
+                    <li>
+                    <%= form_links(k.titleize + " - below " + v,
+                         "price-range",
+                         k,
+                         "below",
+                         v)  %>
+
+                     </li>
+                <% end %>
+                </ul>
+                </div>
+                <!-- POPULAR PRICE RANGE LIST - ENDS -->
+                <div class="clear"></div>
+            </div>
+           </div>
+<!-- POPULAR PRICE RANGE LAYOUT - ENDS -->
+
+<div class="clear"></div>

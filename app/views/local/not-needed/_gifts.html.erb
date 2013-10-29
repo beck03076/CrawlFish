@@ -1,0 +1,155 @@
+<script type="text/javascript">
+
+function setFocus_textbox(elementId)
+{
+	if (!document.getElementById)
+    {
+        return;
+    }
+
+    var searchkey = document.getElementById(elementId).value.replace(/\s/g, "");
+    if (searchkey == "")
+    {
+        document.getElementById(elementId).value = "";
+    }
+
+    var txtBox = document.getElementById(elementId);
+    var txtLength = document.getElementById(elementId).value.length;
+
+    if (txtBox != null)
+    {
+        txtBox.focus();
+        txtBox.setSelectionRange(txtLength,txtLength);
+        txtBox.value = "";
+	txtBox.style.border='1px solid #06C';
+
+    }
+}
+
+function validate_mobile_number(elementId)
+{
+    var searchkey = document.getElementById(elementId).value.replace(/\s/g, "");
+    if (searchkey == "")
+    {
+        document.getElementById(elementId).value = "";
+        setFocus_textbox(elementId);
+        return false;
+    }
+    var number = document.getElementById(elementId).value;
+    var numberLength = document.getElementById(elementId).value.length;
+    if (number.match(/[a-z]+/i) != null){
+      setFocus_textbox(elementId);
+      return false;
+    }
+    else if (number.length < 10){
+      setFocus_textbox(elementId);
+      return false;
+    }
+
+
+}
+
+function validate_customer_name(elementId)
+{
+    var searchkey = document.getElementById(elementId).value.replace(/\s/g, "");
+    if (searchkey == "")
+    {
+        document.getElementById(elementId).value = "";
+        setFocus_textbox(elementId);
+        return false;
+    }
+    var customerName = document.getElementById(elementId).value;
+    var customerNameLength = document.getElementById(elementId).value.length;
+    if (customerName.match(/[0-9]+/i) != null){
+      setFocus_textbox(elementId);
+      return false;
+    }
+    else if (customerNameLength <= 3){
+      setFocus_textbox(elementId);
+      return false;
+    }
+}
+
+function validate_radio_buttons()
+{
+      var radios = document.getElementsByTagName('input');
+      var value;
+      for (var i = 0; i < radios.length; i++) {
+          if (radios[i].type === 'radio' && radios[i].checked) {
+              // get value, set checked flag or do whatever you need to
+              value = radios[i].value;
+          }
+      }
+      if (value == null)
+      {
+        return false;
+      }
+}
+
+function validate_gift_form()
+{
+  if (validate_radio_buttons() == false)
+  {
+      alert ("Message:CrawlFish - Please select a gift!");
+      return false;
+  }
+  else if (validate_customer_name('customer-name') == false)
+  {
+      return false;
+  }
+  else if (validate_mobile_number('mobile-number') == false)
+  {
+      return false;
+  }
+}
+</script>
+
+<div class="cf-home-gift-header">
+	List of amazing gifts you can choose from
+</div>
+
+<div class="cf-home-gift-outer-container">
+
+<%= form_tag url_for(:controller => 'local', :action => 'generate_coupon_code'), :remote => true do %>
+
+    <%= hidden_field_tag 'product_id', @product_id %>
+    <%= hidden_field_tag 'vendor_id', @vendor_id %>
+    <%= hidden_field_tag 'sub_category_id', @sub_category_id %>
+    <%= hidden_field_tag 'unique_id', @unique_id %>
+
+<% if !@gifts.nil? %>
+<% @gifts.each do |f| %>
+	<div class="cf-home-gift-inner-container">
+		<div class="cf-home-inner-container-div">	  
+			<div class="cf-home-icd-image"><%= link_to image_tag(f.gift_image_url) %></div>
+			<div class="cf-home-icd-name"><%= radio_button_tag :gift_id,f.id %><%= link_to f.gift_name.humanize,f.gift_external_url,:target => "_blank" %></div>
+		</div>
+	</div>
+<% end %>
+	<div style="clear:both"></div>
+<% end %>
+
+<div class="cf-local-gift-middle-container">
+
+<div class="cf-local-gift-name"><%= label_tag "Name : " %>&nbsp;&nbsp;</div>
+<div class="cf-local-gift-text-name">&nbsp;<%= text_field_tag "customer_name",nil,{:id => "customer-name",:maxlength => 20,:size => 20}%></div>
+
+<div style="clear:both;padding-top:10px;"></div>
+
+<div class="cf-local-gift-mobile-number"><%= label_tag "Mobile Number : (+91) -" %>&nbsp; </div>
+<div class="cf-local-gift-text-mobile-number"><%= text_field_tag "mobile_number",nil,{:id => "mobile-number",:maxlength => 10,:size => 10}%></div>
+
+<div style="clear:both;padding-bottom:10px;"></div>
+
+<div class="cf-local-gift-generate">
+	<%= submit_tag "Generate coupon code",{:onClick=>"return validate_gift_form();"} %>
+</div>
+
+</div>
+
+<div class="cf-local-gift-footer">
+	<span style="color:#333;font-weight:bold">Note :</span> We collect your mobile number just for delivering your gift. It will not be used for any other purpose.
+</div>
+
+<% end %>
+</div>

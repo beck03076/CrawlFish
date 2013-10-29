@@ -1,0 +1,140 @@
+<script type="text/javascript">
+
+function doAction(){
+      
+      var data = $('form#complain').serialize();
+      
+      $("div#loading").css("display","");
+      
+       $.post('/main/complain',data, function(result){
+       
+        $("div#complain-out").hide().html(result).fadeIn(3000);
+         
+         $("div#loading").css("display","none");
+                       
+        });
+}
+
+function validateAll(){
+    var submitForm=true;
+    
+    if(!validate('c','Y','',3,200,'c-error')){
+        return false;
+    }
+    
+    else if(!validate('customer_name','Y','AS',3,25,'name-error')){
+        return false;
+    }
+    
+    else if(!validate('customer_email','Y','E',5,50,'emailId-error')){
+        return false;
+    }
+    
+    if(submitForm){
+        doAction();
+    }
+    
+    return false;
+}
+
+</script>
+
+<span class="text-n10 gray-text padT5">
+    "Oops! How to go back?", 
+    <span class="g-text">Press Esc or Click Close</span>
+</span> 
+
+<div  align="center">
+<%= form_tag url_for(:controller => "main", 
+                     :action => "complain"),
+                     :id => 'complain',
+                     :method => 'post',
+                     :onsubmit => 'return validateAll();'  do %>
+
+                         
+    <div class="padT20 padB20">
+    <span class="text-b20 g-text">
+        What have we done?<br/>
+    </span> 
+    <span class="text-b17 gray-text">
+        Please write your complain in the box below <br/>
+    </span> 
+    <span class="text-n13 gray-text">
+       ... and be very thorough about every detail and we assure you that in 2 days you will be acknowledged.
+    </span> 
+   </div>
+                         
+    <div id="complain-out" class="g-text text-b30 gray-bg"></div>
+    
+    <div id="loading" style="text-align:center;display:none;">
+            <%= image_tag "/Images/156.gif", :size => "30x30" %>
+            <div class="red-text text-n12"> 
+            Working really hard to receive your complain ... Please wait ... 
+           </div>
+    </div>
+    
+    <table cellspacing="0" cellpadding="0" border="0" width="100%" class="priceTable">
+        <tr align="center">
+            <td align="right" colspan="2" >
+                <span class="text-b20 g-text">
+                    Step - 1
+                </span> 
+            </td>         
+            <td align="right" class="gray-text text-n15">
+            How was it : </span>
+            <%= select_tag("type",options_for_select([["Bad"],["Weird"],["It's ok"],["Annoying"],["Blunder"]]),:class=>"cf-select")%>
+            </td>
+        </tr>
+        
+        <tr align="center">
+           <td align="right" colspan="2">
+                <span class="text-b20 g-text">
+                    Step - 2
+                </span> 
+            </td>        
+            <td align="right"  class="gray-text text-n12" valign="top">
+            <%= text_area_tag :c,nil, {:placeholder => "Complain here, what happened?",:size => '30x3',:onblur=>"validate(this.id,'Y','',3,200,'c-error');"} %>
+            <span class="error-content" id="c-error"></span>
+            </td>
+         </tr>
+         
+         <tr align="center">
+           <td align="right" colspan="2">
+                <span class="text-b20 g-text">
+                    Step - 3
+                </span> 
+            </td>        
+            <td align="right"  class="gray-text text-n12">
+            Your name : </span>
+            <%= text_field_tag :customer_name,nil,{:placeholder => "Can I ask your name?",:onblur=>"validate(this.id,'Y','AS',3,25,'name-error');"} %>
+            <span class="error-content" id="name-error"></span>
+            </td>
+         </tr>
+         
+         <tr align="center">
+           <td align="right" colspan="2">
+                <span class="text-b20 g-text">
+                    Step - 4
+                </span> 
+            </td>        
+            <td align="right"  class="gray-text text-n12">
+            Your email : </span>
+            <%= text_field_tag :customer_email,nil,{:placeholder => "We will never misuse this!", :onblur=>"validate(this.id,'Y','E',5,50,'emailId-error');"} %>
+                <span class="error-content" id="emailId-error"></span>
+            </td>
+         </tr>
+            
+        </tr>
+    </table>   
+   <span class="gray-text text-n10 padT5">
+    If you don't receive any acknowledgement, well change your email service provider, because at crawlfish there are only zero ways to not answer a pissed off customer.<br/>
+   <%= submit_tag "Complain" ,:class => "cf-submit" %>  
+  
+  <p class="comments-text">
+    Oh, please don't be uncomfortable!, at CrawlFish, we respect your privacy and your email will be very safe and will never be disclosed to anyone! 
+  </p>
+<% end %>
+</div>
+
+
+

@@ -1,0 +1,73 @@
+<% if @message.nil? %>
+
+<div class="cf-lsmc-vendor-products">
+
+  <% @products.keys.each do |cats| %>
+
+   <% c_items = cats.split("|") %>
+   <% category = c_items[0] %>
+   <% category_name = Subcategories.find_by_sub_category_name(category).category_name %>   
+          
+      <% @products[cats].keys.each do |brand| %>
+
+        <div class="border-gray-t"> </div>
+                <div class="header-text padT10 padL10">
+                  <%= brand.titleize %> <%= category_name.titleize %> - Random 10  products sold in <%= @shop.vendor_alias_name.titleize %> 
+                </div>
+                <div class="comments-text padL10  padB5 border-gray-b">
+                    Click on a product to request the latest price from this vendor!
+                </div>     
+        
+        <div class="cf-lsmc-vendor-products-wrapper">
+        
+        <% product_count = 0 %>
+        
+        <% @products[cats][brand].each do |product| %>
+  
+          <% product_count = product_count+1 %>
+
+          <div class="cf-lsmc-vendor-products-inner-wrapper">
+
+
+          <div class="cf-lsmc-vendor-products-image">
+          
+              <%= image_tag(product.send(c_items[3])) %>
+              
+          </div>
+
+          <div class="cf-lsmc-vendor-products-name">
+
+                <%= form_specific_to_local_link(product.send(c_items[1]),
+                                                    nil,
+                                                    nil,
+                                                    @country,
+                                                    category_name,
+                                                    product.send(c_items[1]),
+                                                    product.send(c_items[2]),
+                                                    @city,
+                                                    @area,
+                                                    @shop.vendor_alias_name) %>
+
+          </div>
+          
+          </div>
+  
+          <% if product_count%4==0%>
+            <div style="clear:both;padding-top:20px"></div>
+          <% end %>
+
+        <% end %>
+      
+        </div><div style="clear:both;padding-top:20px"></div>
+
+      <% end %>
+
+  <% end %>
+</div>
+
+<% else %>
+
+  <%= @message %>
+
+<% end %>
+

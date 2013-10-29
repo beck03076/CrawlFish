@@ -1,0 +1,974 @@
+====Starting online_zoomin_products | product_id====
+====Starting online_edabba_products | product_id====
+897|external_hdds_lists|Sony HD-EG5-B 2.5 inch 500 GB External Hard Drive|http://www.edabba.com/content/sony-external-25-hd-eg5-500gb-usb-3020|0|0|0|0|0|0.0|2013-08-13 17:11:57 +0530
+903|routers_lists|Belkin Surf Modem (N) Router|http://www.edabba.com/content/belkin-surf-modem-router-n-f7d2401zb|0|0|0|0|0|0.0|2013-08-13 17:12:20 +0530
+904|routers_lists|Belkin Play Max Modem Router|http://www.edabba.com/content/belkin-play-max-modem-router-f7d4401zb|0|0|0|0|0|0.0|2013-08-13 17:12:29 +0530
+913|tablets_lists|Micromax Funbook Pro Tablet|http://www.edabba.com/content/micromax-funbook-pro-tablet|0|0|0|0|0|0.0|2013-08-13 17:13:11 +0530
+916|tablets_lists|Samsung Galaxy Tab 2 P3100|http://www.edabba.com/content/samsung-galaxy-tab-2-p3100-black|0|0|0|0|0|0.0|2013-08-13 17:13:27 +0530
+917|tablets_lists|Samsung Galaxy Tab 2 P3100|http://www.edabba.com/content/samsung-galaxy-tab-2-p3100-white|0|0|0|0|0|0.0|2013-08-13 17:13:31 +0530
+922|speakers_lists|Logitech Z205 1 USB Speakers|http://www.edabba.com/content/logitech-usb-laptop-speaker-z205|0|0|0|0|0|0.0|2013-08-13 17:13:46 +0530
+923|speakers_lists|Logitech Z305 1 USB Speakers|http://www.edabba.com/content/logitech-usb-laptop-speaker-z305|0|0|0|0|0|0.0|2013-08-13 17:13:51 +0530
+925|keyboards_lists|Microsoft Arc Keyboard - USB|http://www.edabba.com/content/microsoft-arc-usb-keyboard-black|0|0|0|0|0|0.0|2013-08-13 17:13:56 +0530
+928|keyboards_lists|Logitech K230 Wireless Keyboard|http://www.edabba.com/content/logitech-wireless-keyboard-k230|0|0|0|0|0|0.0|2013-08-13 17:14:10 +0530
+929|keyboards_lists|Wireless Illuminated Keyboard K800|http://www.edabba.com/content/logitech-wireless-illuminated-keyboard-k800|0|0|0|0|0|0.0|2013-08-13 17:14:15 +0530
+930|keyboards_lists|Logitech K200 Media Keyboard|http://www.edabba.com/content/logitech-wired-media-keyboard-k200|0|0|0|0|0|0.0|2013-08-13 17:14:19 +0530
+932|keyboards_lists|Logitech K750 Wireless Solar Keyboard|http://www.edabba.com/content/logitech-wireless-solar-keyboard-k750|0|0|0|0|0|0.0|2013-08-13 17:14:33 +0530
+934|keyboards_lists|Logitech K270 Wireless Keyboard|http://www.edabba.com/content/logitech-wireless-keyboard-k270|0|0|0|0|0|0.0|2013-08-13 17:14:42 +0530
+940|pendrives_lists|Transcend JetFlash 500 32 GB Pen Drive|http://www.edabba.com/content/transcend-jetflash-500-32-gb-purple-0|0|0|0|0|0|0.0|2013-08-13 17:14:46 +0530
+947|memory_cards_lists|Transcend SD 2GB Memory Card|http://www.edabba.com/content/transcend-2gb-micro-sd-memory-card|0|0|0|0|0|0.0|2013-08-13 17:15:28 +0530
+948|memory_cards_lists|Transcend SD 4GB Class 4 Memory Card|http://www.edabba.com/content/transcend-4gb-micro-sd-memory-card|0|0|0|0|0|0.0|2013-08-13 17:15:33 +0530
+949|memory_cards_lists|Transcend SD 8GB Class 4 Memory Card|http://www.edabba.com/content/sandisk-8gb-micro-sd-memory-card|0|0|0|0|0|0.0|2013-08-13 17:15:37 +0530
+950|memory_cards_lists|Transcend SD 8GB Class 4 Memory Card|http://www.edabba.com/content/transcend-8gb-micro-sd-memory-card|0|0|0|0|0|0.0|2013-08-13 17:15:42 +0530
+952|memory_cards_lists|Transcend SD 16GB Class 4 Memory Card|http://www.edabba.com/content/transcend-16gb-micro-sd-memory-card|0|0|0|0|0|0.0|2013-08-13 17:15:53 +0530
+954|memory_cards_lists|Transcend SD 16GB Class 4 Memory Card|http://www.edabba.com/content/sandisk-16gb-micro-sd-memory-card|0|0|0|0|0|0.0|2013-08-13 17:16:03 +0530
+956|memory_cards_lists|Transcend SD 4GB Class 4 Memory Card|http://www.edabba.com/content/sandisk-4gb-micro-sd-memory-card|0|0|0|0|0|0.0|2013-08-13 17:16:12 +0530
+964|mobiles_lists|Micromax A25|http://www.edabba.com/content/micromax-a25-black|0|0|0|0|0|0.0|2013-08-13 17:16:27 +0530
+975|mobiles_lists|Samsung Galaxy Ace S5830|http://www.edabba.com/content/samsung-galaxy-ace-s5830-white|0|0|0|0|0|0.0|2013-08-13 17:17:34 +0530
+976|mobiles_lists|Samsung Wave Y S5380|http://www.edabba.com/content/samsung-wave-y-s5380-silver|0|0|0|0|0|0.0|2013-08-13 17:17:39 +0530
+979|mobiles_lists|Nokia C2-01|http://www.edabba.com/content/nokia-c2-01-black|0|0|0|0|0|0.0|2013-08-13 17:17:54 +0530
+991|mobiles_lists|Samsung Galaxy Pocket S5300|http://www.edabba.com/content/samsung-galaxy-pocket-s5300-white|0|0|0|0|0|0.0|2013-08-13 17:19:09 +0530
+1000|mobiles_lists|Nokia Asha 201|http://www.edabba.com/content/nokia-asha-201-graphite|0|0|0|0|0|0.0|2013-08-13 17:20:00 +0530
+1006|mobiles_lists|Nokia 1280|http://www.edabba.com/content/nokia-1280|0|0|0|0|0|0.0|2013-08-13 17:20:52 +0530
+1026|mobiles_lists|Nokia C2-01|http://www.edabba.com/content/nokia-c2-01-white|0|0|0|0|0|0.0|2013-08-13 17:22:36 +0530
+1027|mobiles_lists|Nokia Lumia 800|http://www.edabba.com/content/nokia-lumia-800-blue|0|0|0|0|0|0.0|2013-08-13 17:22:41 +0530
+1032|mobiles_lists|Motorola RAZR M XT905|http://www.edabba.com/content/motorola-razr-m-grey|0|0|0|0|0|0.0|2013-08-13 17:23:05 +0530
+1037|mobiles_lists|Nokia Lumia 610|http://www.edabba.com/content/nokia-lumia-610|0|0|0|0|0|0.0|2013-08-13 17:23:34 +0530
+1038|mobiles_lists|Nokia Lumia 800|http://www.edabba.com/content/nokia-lumia-800-black|0|0|0|0|0|0.0|2013-08-13 17:23:40 +0530
+1041|mobiles_lists|BlackBerry Torch 9860|http://www.edabba.com/content/blackberry-torch-9860-black|0|0|0|0|0|0.0|2013-08-13 17:23:56 +0530
+1046|mobiles_lists|Apple iPhone 4S|http://www.edabba.com/content/apple-iphone-4s-32-gb-black|0|0|0|0|0|0.0|2013-08-13 17:24:24 +0530
+1047|mobiles_lists|HTC One V|http://www.edabba.com/content/htc-one-v|0|0|0|0|0|0.0|2013-08-13 17:24:30 +0530
+1052|mobiles_lists|HTC Radar|http://www.edabba.com/content/htc-radar|0|0|0|0|0|0.0|2013-08-13 17:24:59 +0530
+1054|mobiles_lists|Nokia 100|http://www.edabba.com/content/nokia-100-ocean-blue|0|0|0|0|0|0.0|2013-08-13 17:26:43 +0530
+1059|mobiles_lists|Nokia C5-03|http://www.edabba.com/content/nokia-c5-03-black|0|0|0|0|0|0.0|2013-08-13 17:27:13 +0530
+1060|mobiles_lists|Nokia Asha 302|http://www.edabba.com/content/nokia-asha-302-dark-grey|0|0|0|0|0|0.0|2013-08-13 17:27:18 +0530
+1061|mobiles_lists|Nokia Lumia 710|http://www.edabba.com/content/nokia-lumia-710-blue|0|0|0|0|0|0.0|2013-08-13 17:27:22 +0530
+1062|mobiles_lists|Nokia Lumia 710|http://www.edabba.com/content/nokia-lumia-710-black|0|0|0|0|0|0.0|2013-08-13 17:27:28 +0530
+1064|mobiles_lists|Samsung Galaxy Pocket S5300|http://www.edabba.com/content/samsung-galaxy-pocket-s5300-black|0|0|0|0|0|0.0|2013-08-13 17:27:40 +0530
+1065|mobiles_lists|HTC Desire VC|http://www.edabba.com/content/htc-desire-vc-black|0|0|0|0|0|0.0|2013-08-13 17:27:44 +0530
+1069|mobiles_lists|Nokia Lumia 710|http://www.edabba.com/content/nokia-lumia-710-pink|0|0|0|0|0|0.0|2013-08-13 17:28:05 +0530
+1073|mobiles_lists|HTC Titan II|http://www.edabba.com/content/htc-titan-ii|0|0|0|0|0|0.0|2013-08-13 17:28:26 +0530
+1075|mobiles_lists|Samsung Galaxy W I8150|http://www.edabba.com/content/samsung-galaxy-w-i8150|0|0|0|0|0|0.0|2013-08-13 17:28:35 +0530
+1076|mobiles_lists|Nokia Lumia 610|http://www.edabba.com/content/nokia-lumia-610-white|0|0|0|0|0|0.0|2013-08-13 17:28:36 +0530
+1077|mobiles_lists|Micromax GC275|http://www.edabba.com/content/micromax-gc275|0|0|0|0|0|0.0|2013-08-13 17:28:41 +0530
+1078|mobiles_lists|Micromax GC360|http://www.edabba.com/content/micromax-gc360|0|0|0|0|0|0.0|2013-08-13 17:28:46 +0530
+1083|mobiles_lists|Samsung Galaxy Ace Duos S6802|http://www.edabba.com/content/samsung-galaxy-ace-duos-s6802-white|0|0|0|0|0|0.0|2013-08-13 17:29:18 +0530
+1084|mobiles_lists|Nokia Asha 200|http://www.edabba.com/content/nokia-asha-200-dual-sim-graphite|0|0|0|0|0|0.0|2013-08-13 17:29:18 +0530
+1085|mobiles_lists|Nokia X2-02|http://www.edabba.com/content/nokia-x2-02|0|0|0|0|0|0.0|2013-08-13 17:29:18 +0530
+1086|mobiles_lists|Nokia 114|http://www.edabba.com/content/nokia-114-black|0|0|0|0|0|0.0|2013-08-13 17:29:19 +0530
+1093|mobiles_lists|Samsung Champ Neo Duos C3262|http://www.edabba.com/content/samsung-champ-neo-duos-c3262-black|0|0|0|0|0|0.0|2013-08-13 17:29:58 +0530
+1094|mobiles_lists|Samsung Rex 90 S5292|http://www.edabba.com/content/samsung-rex-90-duos-s5292-brown|0|0|0|0|0|0.0|2013-08-13 17:30:04 +0530
+1095|mobiles_lists|Karbonn A25|http://www.edabba.com/content/karbonn-a25-white|0|0|0|0|0|0.0|2013-08-13 17:30:10 +0530
+1096|mobiles_lists|Karbonn A25|http://www.edabba.com/content/karbonn-a25-black|0|0|0|0|0|0.0|2013-08-13 17:30:18 +0530
+1097|mobiles_lists|Micromax A110 Canvas 2|http://www.edabba.com/content/micromax-canvas-ii-a110-white-black|0|0|0|0|0|0.0|2013-08-13 17:30:24 +0530
+1105|mobiles_lists|Karbonn A111|http://www.edabba.com/content/karbonn-a111-black|0|0|0|0|0|0.0|2013-08-13 17:31:17 +0530
+1107|mobiles_lists|Karbonn A111|http://www.edabba.com/content/karbonn-a111-white|0|0|0|0|0|0.0|2013-08-13 17:31:28 +0530
+1111|mobiles_lists|Karbonn S5 Titanium|http://www.edabba.com/content/karbonn-titanium-s5-deep-blue|0|0|0|0|0|0.0|2013-08-13 17:31:57 +0530
+1112|mobiles_lists|Karbonn A2|http://www.edabba.com/content/karbonn-a2-black|0|0|0|0|0|0.0|2013-08-13 17:32:03 +0530
+1113|mobiles_lists|Nokia Asha 205|http://www.edabba.com/content/nokia-asha-205-cyan|0|0|0|0|0|0.0|2013-08-13 17:32:10 +0530
+1114|mobiles_lists|Karbonn A1+|http://www.edabba.com/content/karbonn-a1-plus-ivory-white|0|0|0|0|0|0.0|2013-08-13 17:32:17 +0530
+1115|mobiles_lists|Nokia 101|http://www.edabba.com/content/nokia-101-black|0|0|0|0|0|0.0|2013-08-13 17:32:23 +0530
+1116|mobiles_lists|Samsung Champ Neo Duos C3262|http://www.edabba.com/content/samsung-champ-neo-duos-c3262-metallic-silver|0|0|0|0|0|0.0|2013-08-13 17:32:28 +0530
+1120|mobiles_lists|Samsung E2252|http://www.edabba.com/content/samsung-e2252-white|0|0|0|0|0|0.0|2013-08-13 17:32:54 +0530
+1124|mobiles_lists|Micromax A89 Ninja|http://www.edabba.com/content/micromax-a89-black|0|0|0|0|0|0.0|2013-08-13 17:33:18 +0530
+1125|mobiles_lists|Micromax Bolt A27|http://www.edabba.com/content/micromax-ninja-a27-black|0|0|0|0|0|0.0|2013-08-13 17:33:23 +0530
+1126|mobiles_lists|Karbonn A15|http://www.edabba.com/content/karbonn-a15-black|0|0|0|0|0|0.0|2013-08-13 17:33:28 +0530
+1127|mobiles_lists|Samsung Galaxy Music Duos S6012|http://www.edabba.com/content/samsung-galaxy-music-duos-s6012-white|0|0|0|0|0|0.0|2013-08-13 17:33:34 +0530
+1131|mobiles_lists|Micromax Ninja A54|http://www.edabba.com/content/micromax-a54-champagne-grey|0|0|0|0|0|0.0|2013-08-13 17:33:59 +0530
+1136|mobiles_lists|Samsung Galaxy Music Duos S6012|http://www.edabba.com/content/samsung-galaxy-music-duos-s6012-yellow|0|0|0|0|0|0.0|2013-08-13 17:34:38 +0530
+1141|mobiles_lists|Micromax A57 Ninja 3.0|http://www.edabba.com/content/micromax-a57-ninja-3-black|0|0|0|0|0|0.0|2013-08-13 17:35:06 +0530
+1142|mobiles_lists|Samsung Star 3 Duos S5222|http://www.edabba.com/content/samsung-star-3-duos-s5222-white|0|0|0|0|0|0.0|2013-08-13 17:35:11 +0530
+1143|mobiles_lists|Samsung Star 3 Duos S5222|http://www.edabba.com/content/samsung-star-3-duos-s5222-black|0|0|0|0|0|0.0|2013-08-13 17:35:16 +0530
+1217|mouses_lists|Microsoft 100 USB 2.0 Optical Mouse|http://www.edabba.com/content/microsoft-optical-mouse-100|0|0|0|0|0|0.0|2013-08-13 17:35:28 +0530
+1218|mouses_lists|Belkin M250 Premium Wireless Mouse|http://www.edabba.com/content/belkin-premium-wireless-mouse-m250-f5m002au|0|0|0|0|0|0.0|2013-08-13 17:35:36 +0530
+1220|mouses_lists|Microsoft 100 USB 2.0 Optical Mouse|http://www.edabba.com/content/microsoft-optical-mouse-100-black|0|0|0|0|0|0.0|2013-08-13 17:35:48 +0530
+1222|mouses_lists|Microsoft Express Limited Edition USB 2.0 BlueTrack Mouse|http://www.edabba.com/content/microsoft-express-wired-mouse-bluetrack|0|0|0|0|0|0.0|2013-08-13 17:36:01 +0530
+1223|mouses_lists|Logitech Wireless Mouse M235|http://www.edabba.com/content/logitech-wireless-mouse-m235-red|0|0|0|0|0|0.0|2013-08-13 17:36:06 +0530
+1224|mouses_lists|Logitech Wireless Mouse M185|http://www.edabba.com/content/logitech-wireless-mouse-m185|0|0|0|0|0|0.0|2013-08-13 17:36:10 +0530
+1225|mouses_lists|Logitech Wireless Mouse M310|http://www.edabba.com/content/logitech-wireless-mouse-m310-silver|0|0|0|0|0|0.0|2013-08-13 17:36:15 +0530
+1226|mouses_lists|Dell WM112 Wireless Optical Mouse|http://www.edabba.com/content/dell-wm112-wireless-mouse|0|0|0|0|0|0.0|2013-08-13 17:36:21 +0530
+1227|mouses_lists|Microsoft Mobile 1000 Wireless Optical Mouse|http://www.edabba.com/content/microsoft-wireless-mobile-mouse-1000-black|0|0|0|0|0|0.0|2013-08-13 17:36:28 +0530
+1228|mouses_lists|Logitech Wireless Mouse M235|http://www.edabba.com/content/logitech-wireless-mouse-m235-black-topography|0|0|0|0|0|0.0|2013-08-13 17:36:34 +0530
+1229|mouses_lists|Belkin M150 Essential Wired Mouse|http://www.edabba.com/content/logitech-wired-mouse-m105-white|0|0|0|0|0|0.0|2013-08-13 17:36:41 +0530
+1230|mouses_lists|Logitech Mouse M115|http://www.edabba.com/content/logitech-wired-mouse-m115-berry|0|0|0|0|0|0.0|2013-08-13 17:36:46 +0530
+1231|mouses_lists|Belkin M450 Ultimate Wireless Mouse|http://www.edabba.com/content/belkin-ultimate-wireless-mouse-m450-f5m004au|0|0|0|0|0|0.0|2013-08-13 17:36:54 +0530
+1232|mouses_lists|Belkin M150 Essential Wired Mouse|http://www.edabba.com/content/belkin-essential-wired-mouse-m150-f5m006au|0|0|0|0|0|0.0|2013-08-13 17:37:00 +0530
+1236|mouses_lists|Logitech Wireless Mouse M235|http://www.edabba.com/content/logitech-wireless-mouse-m235-coral-fan|0|0|0|0|0|0.0|2013-08-13 17:37:24 +0530
+1238|mouses_lists|Microsoft Arc Touch Wireless BlueTrack Mouse|http://www.edabba.com/content/microsoft-arc-mouse-black|0|0|0|0|0|0.0|2013-08-13 17:37:35 +0530
+1240|mouses_lists|Logitech Bluetooth Mouse M555b|http://www.edabba.com/content/logitech-bluetooth-mouse-m555b-black|0|0|0|0|0|0.0|2013-08-13 17:37:47 +0530
+1243|mouses_lists|Logitech Mouse M90|http://www.edabba.com/content/logitech-wired-mouse-m90|0|0|0|0|0|0.0|2013-08-13 17:38:05 +0530
+1244|mouses_lists|Logitech Wireless Mouse M235|http://www.edabba.com/content/logitech-wireless-mouse-m235-blue|0|0|0|0|0|0.0|2013-08-13 17:38:10 +0530
+1258|printers_lists|HP LaserJet Pro - P1108 Single Function Laser Printer|http://www.edabba.com/content/hp-laserjet-pro-p1108|0|0|0|0|0|0.0|2013-08-13 17:39:07 +0530
+1261|printers_lists|HP LaserJet Pro - P1606dn Single Function Laser Printer|http://www.edabba.com/content/hp-laserjet-p1606dn|0|0|0|0|0|0.0|2013-08-13 17:39:24 +0530
+1263|printers_lists|HP Deskjet - k109g Single Function Inkjet Printer|http://www.edabba.com/content/hp-deskjet-k109g-ink-advantage|0|0|0|0|0|0.0|2013-08-13 17:39:36 +0530
+1267|printers_lists|HP Officejet 4500 - G510h Multifunction Inkjet Printer|http://www.edabba.com/content/hp-officejet-4500-all-one|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1270|laptops_lists|HP 430 - QG623PA Laptop|0|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1271|laptops_lists|Asus X53U-SX358D Laptop|0|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1272|laptops_lists|HP 2000-2201TU Laptop|0|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1273|laptops_lists|Lenovo Essential G580-59-352560 Laptop| Windows 8 |0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1274|laptops_lists|Asus X54C-SX454D Laptop|0|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1275|laptops_lists|Dell Inspiron 15 3520 Laptop|0|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1276|laptops_lists|Dell Inspiron 15R SE Laptop| Win8|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1277|laptops_lists|Dell Inspiron 15R 5521 Laptop| Win7B|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1278|laptops_lists|Acer Aspire E1-571-BT Laptop|in stock|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1279|laptops_lists|HP Envy 4-1104TU Ultrabook| Silver|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1280|laptops_lists|Sony VAIO E15123CN Laptop|in stock|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1281|laptops_lists|Dell Inspiron 14 4050 Laptop| Win7P|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1282|laptops_lists|HP 2000-2125TU Laptop| Black|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1283|laptops_lists|Sony VAIO E14123CN Laptop|in stock|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1284|laptops_lists|HP Pavilion 14-B003TX Sleekbook| Win8 |0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1285|laptops_lists|HP Envy 4-1103TU Ultrabook| Black|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1286|laptops_lists|HP Pavilion DV6-7206TX Laptop| Black|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1287|laptops_lists|HP 2000 2116TU Laptop|0|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1288|laptops_lists|Sony VAIO E15125CN Laptop|in stock|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1289|laptops_lists|Sony VAIO E15129CN Laptop|in stock|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1290|laptops_lists|Sony VAIO E15126CN Laptop|in stock|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1291|laptops_lists|Sony VAIO E15128CN Laptop|in stock|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1292|laptops_lists|HP Envy 4-1105TX Ultrabook| Win8 |0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1293|laptops_lists|HP Envy 4-1023TU Sleekbook| Black|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1294|laptops_lists|HP 1000-1204TU Laptop| Black|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1295|laptops_lists|HP Envy 4-1104TX Ultrabook| Win8 |0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1296|laptops_lists|HP Pavilion DV6-7207TX Laptop| Black|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1297|laptops_lists|Asus X53U-SX181D Laptop| DOS|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1298|laptops_lists|HP Pavilion M6-1102TX Laptop|Win7 |0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1299|laptops_lists|HP Envy 4-1002TX Ultrabook|Win7 |0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1300|laptops_lists|HP Pavilion G6-2105TX Laptop| Win7 |0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1301|laptops_lists|Toshiba Satellite C850-E0010 Laptop| DOS|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1302|laptops_lists|HP Pavilion G4-2049TX Laptop| DOS |0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1303|laptops_lists|HP Envy 4-1023TU Sleekbook| Win7 |0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1304|laptops_lists|Samsung NP305E5Z-S01IN Laptop| DOS|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1305|laptops_lists|HP Envy 6-1011TU Sleekbook| Black|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1306|laptops_lists|HP Pavilion DV4-5008TX Laptop | Win7B|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1307|laptops_lists|Sony VAIO T14113CN Ultrabook|in stock|0|0|0|0|0|0.0|2013-08-13 17:40:00 +0530
+1334|mobiles_lists|Samsung Galaxy S III(S3) I9300|http://www.edabba.com/content/samsung-galaxy-s-iii-red|0|0|0|0|0|0.0|2013-08-13 17:40:11 +0530
+1336|mobiles_lists|HTC One X|http://www.edabba.com/content/htc-one-x-black|0|0|0|0|0|0.0|2013-08-13 17:40:24 +0530
+1337|mobiles_lists|HTC One X|http://www.edabba.com/content/htc-one-x-white|0|0|0|0|0|0.0|2013-08-13 17:40:29 +0530
+1342|mobiles_lists|HTC One X|http://www.edabba.com/content/htc-one-x-black-0|0|0|0|0|0|0.0|2013-08-13 17:40:57 +0530
+1343|mobiles_lists|HTC One X|http://www.edabba.com/content/htc-one-x-white-0|0|0|0|0|0|0.0|2013-08-13 17:41:02 +0530
+1375|mobiles_lists|HTC One|http://www.edabba.com/content/htc-one-801e-black|0|0|0|0|0|0.0|2013-08-13 17:42:39 +0530
+1376|mobiles_lists|HTC One X|http://www.edabba.com/content/htc-one-x-white|0|0|0|0|0|0.0|2013-08-13 17:42:44 +0530
+1377|mobiles_lists|HTC One X|http://www.edabba.com/content/htc-one-x-black|0|0|0|0|0|0.0|2013-08-13 17:42:49 +0530
+1380|mobiles_lists|HTC One X|http://www.edabba.com/content/htc-one-x-black-0|0|0|0|0|0|0.0|2013-08-13 17:43:04 +0530
+1381|mobiles_lists|HTC One X|http://www.edabba.com/content/htc-one-x-white-0|0|0|0|0|0|0.0|2013-08-13 17:43:08 +0530
+1382|mobiles_lists|Motorola ATRIX HD MB886|http://www.edabba.com/content/motorola-atrix-hd-white|0|0|0|0|0|0.0|2013-08-13 17:43:13 +0530
+1387|mobiles_lists|Samsung I9500 Galaxy S IV(S4)|http://www.edabba.com/content/samsung-galaxy-s-iii-red|0|0|0|0|0|0.0|2013-08-13 17:43:36 +0530
+1388|mobiles_lists|Motorola ATRIX HD MB886|http://www.edabba.com/content/motorola-atrix-hd-black|0|0|0|0|0|0.0|2013-08-13 17:43:41 +0530
+1389|mobiles_lists|Motorola ATRIX 2 MB865|http://www.edabba.com/content/motorola-atrix-2-43-smart-phone|0|0|0|0|0|0.0|2013-08-13 17:43:46 +0530
+1391|mobiles_lists|Motorola MOTOKEY Mini EX108|http://www.edabba.com/content/motorola-motokey-ex-117-white|0|0|0|0|0|0.0|2013-08-13 17:43:55 +0530
+1392|mobiles_lists|Motorola MOTOKEY Mini EX108|http://www.edabba.com/content/motorola-motokey-ex-117-black|0|0|0|0|0|0.0|2013-08-13 17:43:59 +0530
+1393|mobiles_lists|Motorola RAZR HD XT925|http://www.edabba.com/content/motorola-razr-hd|0|0|0|0|0|0.0|2013-08-13 17:44:04 +0530
+1394|mobiles_lists|Motorola RAZR V MT887|http://www.edabba.com/content/motorola-razr-v|0|0|0|0|0|0.0|2013-08-13 17:44:09 +0530
+1395|mobiles_lists|Motorola RAZR M XT905|http://www.edabba.com/content/motorola-razr-m-white|0|0|0|0|0|0.0|2013-08-13 17:44:14 +0530
+1396|mobiles_lists|Motorola RAZR D1|http://www.edabba.com/content/motorola-razr-i|0|0|0|0|0|0.0|2013-08-13 17:44:18 +0530
+1401|mobiles_lists|Motorola DROID RAZR MAXX HD|http://www.edabba.com/content/motorola-razr-hd-maxx|0|0|0|0|0|0.0|2013-08-13 17:44:43 +0530
+====Starting online_landmark_products | product_id====
+====Starting online_tradus_products | product_id====
+755|laptops_lists|HP Pavilion G6-2232TX Laptop|http://www.tradus.com/hp-pavilion-g6-2232tx-laptop-3rd-gen-ci3-4gb-500gb-win8-1gb-graph-imptint-linen-white-color-modern/p/LNBMGQ8PIB4OJU8K|0|0|0|0|0|0.0|2013-08-13 18:09:38 +0530
+====Starting online_poorvika_products | product_id====
+652|mobiles_lists|Micromax A110Q Canvas 2 Plus|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=696&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 18:22:43 +0530
+653|mobiles_lists|Nokia Asha 200|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=674&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 18:24:55 +0530
+654|mobiles_lists|Nokia Lumia 505|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=620&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 18:27:16 +0530
+655|mobiles_lists|Nokia Lumia 822|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=621&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 18:29:42 +0530
+656|mobiles_lists|Nokia Lumia 925|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=693&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 18:32:00 +0530
+657|mobiles_lists|Samsung Galaxy Premier I9260|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=622&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 18:34:08 +0530
+658|mobiles_lists|Samsung Galaxy Ace Duos S6802|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=387&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 18:36:21 +0530
+659|mobiles_lists|Nokia 1280|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=213&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 18:38:27 +0530
+660|mobiles_lists|Samsung E1200 Pusha|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=349&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 18:40:52 +0530
+661|mobiles_lists|Celkon C355|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=644&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 18:43:16 +0530
+662|mobiles_lists|Micromax A100|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=420&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 18:46:12 +0530
+663|mobiles_lists|Nokia 105|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=648&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 18:48:34 +0530
+664|mobiles_lists|Micromax X099|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=712&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 18:50:36 +0530
+665|mobiles_lists|Nokia 100|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=3&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 18:52:47 +0530
+666|mobiles_lists|Nokia 101|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=4&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 18:54:55 +0530
+667|mobiles_lists|Celkon C54|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=681&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 18:57:02 +0530
+668|mobiles_lists|Karbonn K9 Jumbo|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=109&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 18:59:03 +0530
+669|mobiles_lists|Celkon C52|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=481&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:02:23 +0530
+670|mobiles_lists|Karbonn K440|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=631&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:04:37 +0530
+671|mobiles_lists|Samsung Metro E2202|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=654&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:06:46 +0530
+672|mobiles_lists|Nokia 114|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=561&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:10:10 +0530
+673|mobiles_lists|Micromax X335C|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=327&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:12:28 +0530
+674|mobiles_lists|Samsung E2252|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=363&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:16:39 +0530
+675|mobiles_lists|Nokia 112|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=428&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:20:08 +0530
+676|mobiles_lists|LG A290|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=564&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:24:08 +0530
+677|mobiles_lists|Samsung Champ Neo Duos C3262|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=465&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:26:13 +0530
+678|mobiles_lists|Nokia X2-02|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=10&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:30:38 +0530
+679|mobiles_lists|Samsung C3322|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=132&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:33:42 +0530
+680|mobiles_lists|Nokia Asha 205|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=560&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:34:35 +0530
+681|mobiles_lists|Celkon A75|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=626&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:38:10 +0530
+682|mobiles_lists|Micromax Bolt A27|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=602&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:44:54 +0530
+684|mobiles_lists|Samsung Rex 60 C3312R|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=624&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:47:46 +0530
+685|mobiles_lists|Karbonn A3|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=652&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:48:49 +0530
+687|mobiles_lists|Celkon A85|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=514&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:50:42 +0530
+690|mobiles_lists|Nokia C2-01|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=11&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:56:32 +0530
+691|mobiles_lists|Nokia Asha 200|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=5&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 19:59:51 +0530
+694|mobiles_lists|Nokia Asha 305|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=413&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 20:07:54 +0530
+698|mobiles_lists|Karbonn A2|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=664&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 20:10:24 +0530
+700|mobiles_lists|Nokia Asha 308|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=495&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 20:13:15 +0530
+703|mobiles_lists|Karbonn A6|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=646&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 20:14:25 +0530
+704|mobiles_lists|Samsung Galaxy Y S5360|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=309&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 20:16:39 +0530
+708|mobiles_lists|Samsung Galaxy Y Plus S5303|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=660&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 20:20:17 +0530
+709|mobiles_lists|LG Optimus L3 E400|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=351&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 20:23:39 +0530
+717|mobiles_lists|HTC Desire C|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=375&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 20:31:56 +0530
+718|mobiles_lists|Nokia Lumia 520|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=643&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 20:34:58 +0530
+743|mobiles_lists|Samsung I9500 Galaxy S4|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=638&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 20:55:04 +0530
+746|mobiles_lists|BlackBerry Q10|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=700&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 20:57:42 +0530
+780|mobiles_lists|Karbonn K101+(K101 Plus) Media Champ|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=433&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 21:02:12 +0530
+784|mobiles_lists|Sony Xperia E|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=611&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 21:12:12 +0530
+786|mobiles_lists|HTC One X|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=663&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 21:14:12 +0530
+787|mobiles_lists|LG(Google) Nexus 4 E960|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=697&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 21:16:38 +0530
+788|mobiles_lists|Samsung I9300 Galaxy S III(S3)|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=342&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 21:21:58 +0530
+789|mobiles_lists|HTC One X|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=550&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 21:25:38 +0530
+791|mobiles_lists|Samsung Galaxy Note II(2) N7100|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=472&osCsid=c3125391638839a5f26a4a6000f899c2|0|0|0|0|0|0.0|2013-08-13 21:30:03 +0530
+794|tablets_lists|Samsung Galaxy Tab 2 P3110|http://poorvikamobile.com/product_info.php?cPath=39&products_id=601|0|0|0|0|0|0.0|2013-08-13 21:30:25 +0530
+795|tablets_lists|Karbonn Smart Tab3 Blade Tablet|http://poorvikamobile.com/product_info.php?cPath=39&products_id=489|0|0|0|0|0|0.0|2013-08-13 21:30:30 +0530
+796|tablets_lists|Lava E-Tab Connect Tablet|http://poorvikamobile.com/product_info.php?cPath=39&products_id=591|0|0|0|0|0|0.0|2013-08-13 21:30:36 +0530
+797|tablets_lists|Micromax Funbook 3G P560 Tablet|http://poorvikamobile.com/product_info.php?cPath=39&products_id=672|0|0|0|0|0|0.0|2013-08-13 21:33:07 +0530
+798|tablets_lists|Lava E-Tab Connect Tablet|http://poorvikamobile.com/product_info.php?cPath=39&products_id=659|0|0|0|0|0|0.0|2013-08-13 21:36:34 +0530
+799|tablets_lists|Samsung Galaxy Tab 2 P3100|http://poorvikamobile.com/product_info.php?cPath=39&products_id=364|0|0|0|0|0|0.0|2013-08-13 21:38:10 +0530
+802|mobiles_lists|Nokia Asha 501|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=692|0|0|0|0|0|0.0|2013-08-13 21:41:28 +0530
+805|mobiles_lists|LG Optimus L3 II(L3 2) Dual E435|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=678|0|0|0|0|0|0.0|2013-08-13 21:47:54 +0530
+807|mobiles_lists|Karbonn A27 Retina|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=742|0|0|0|0|0|0.0|2013-08-13 21:49:57 +0530
+809|mobiles_lists|Samsung Galaxy Mega 5.8 I9150|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=708|0|0|0|0|0|0.0|2013-08-13 21:53:39 +0530
+813|mobiles_lists|Sony Xperia ZL|http://www.poorvikamobile.com/product_info.php?cPath=1&products_id=629|0|0|0|0|0|0.0|2013-08-13 21:57:35 +0530
+====Starting online_maniacstore_products | product_id====
+402|mobiles_lists|Celkon A69|http://www.maniacstore.com/CELKON-A69.html|0|0|0|0|0|0.0|2013-08-13 22:14:08 +0530
+578|mobiles_lists|Samsung Google Nexus S|http://www.maniacstore.com/Samsung-Nexus-S-i9020-Seller-Warranty.html|0|0|0|0|0|0.0|2013-08-13 22:15:30 +0530
+581|mobiles_lists|Sony Xperia tipo|http://www.maniacstore.com/Sony-Xperia-tipo-dual.html|0|0|0|0|0|0.0|2013-08-13 22:15:36 +0530
+====Starting online_nikishop_products | product_id====
+1|external_hdds_lists|Seagate Backup Plus 2 TB External Hard Disk|http://www.nikishop.com/ProDescription.aspx?Pid=2601&Item=Seagate Backup Plus 2TB External Desktop Drive 3.|0|0|0|0|0|0.0|2013-08-13 22:18:54 +0530
+2|external_hdds_lists|WD My Passport 500 GB External Hard Disk|http://www.nikishop.com/ProDescription.aspx?Pid=2107&Item=WD My PassPort 500 GB USB External Hard Drive|0|0|0|0|0|0.0|2013-08-13 22:18:55 +0530
+3|external_hdds_lists|WD My Passport 1 TB External Hard Disk|http://www.nikishop.com/ProDescription.aspx?Pid=2106&Item=WD My PassPort 1 TB USB External Hard Drive|0|0|0|0|0|0.0|2013-08-13 22:18:55 +0530
+4|external_hdds_lists|WD My Passport 2 TB External Hard Disk|http://www.nikishop.com/ProDescription.aspx?Pid=2105&Item=WD My Passport 2 TB USB External Hard Drive|0|0|0|0|0|0.0|2013-08-13 22:18:56 +0530
+5|external_hdds_lists|Seagate GoFlex Home 1 TB Wireless External Hard Disk|http://www.nikishop.com/ProDescription.aspx?Pid=1273&Item=Seagate 1 TB Goflex External Hard  drive|0|0|0|0|0|0.0|2013-08-13 22:18:56 +0530
+6|external_hdds_lists|Seagate GoFlex Satellite Mobile 2.5 inch 500 GB Wireless External Hard Disk|http://www.nikishop.com/ProDescription.aspx?Pid=1272&Item=Seagate 500 GB Goflex External Hard Drive|0|0|0|0|0|0.0|2013-08-13 22:18:56 +0530
+8|routers_lists|Belkin Dual-Band Wireless Range Extender|http://www.nikishop.com/ProDescription.aspx?Pid=2402&Item=Belkin Dual Band Wireless Router (F9K1107qe)|0|0|0|0|0|0.0|2013-08-13 22:18:57 +0530
+9|routers_lists|Belkin Dual-Band Wireless Range Extender|http://www.nikishop.com/ProDescription.aspx?Pid=2401&Item=Belkin Dual Band Wireless Router (F9K1106zb)|0|0|0|0|0|0.0|2013-08-13 22:18:57 +0530
+10|routers_lists|Belkin N600 DB Wireless Dual-Band N+ Modem Router (F9J1102zb)|http://www.nikishop.com/ProDescription.aspx?Pid=2400&Item=Belkin N600 Modem Router(F9J1102zb)|0|0|0|0|0|0.0|2013-08-13 22:18:58 +0530
+11|routers_lists|Belkin N300 Wireless N Modem|http://www.nikishop.com/ProDescription.aspx?Pid=2399&Item=Belkin  N300 Modem Router (F9J1002zb)|0|0|0|0|0|0.0|2013-08-13 22:18:58 +0530
+12|routers_lists|Belkin N150 Wireless Modem Router|http://www.nikishop.com/ProDescription.aspx?Pid=2398&Item=Belkin  N150 ModemRouter (F9J1001zb)|0|0|0|0|0|0.0|2013-08-13 22:18:59 +0530
+13|routers_lists|Cisco Linksys RE1000 Wireless-N Range Extender-Bridge Router|http://www.nikishop.com/ProDescription.aspx?Pid=2244&Item=Cisco Linksys  RE1000 Wireless Range Extender |0|0|0|0|0|0.0|2013-08-13 22:18:59 +0530
+14|routers_lists|Cisco Linksys X2000 with ADSL2+ Modem Router|http://www.nikishop.com/ProDescription.aspx?Pid=2242&Item=Cisco Linksys  X2000 with ADSL2 Modem Router|0|0|0|0|0|0.0|2013-08-13 22:19:00 +0530
+15|routers_lists|Cisco Linksys X3000 N with ADSL2+ Modem Router|http://www.nikishop.com/ProDescription.aspx?Pid=2241&Item=Cisco Linksys X3000 N With ADSL2 Modem Router|0|0|0|0|0|0.0|2013-08-13 22:19:01 +0530
+16|routers_lists|Cisco Linksys EA4500 Dual-Band N900 Router with Gigabit and USB|http://www.nikishop.com/ProDescription.aspx?Pid=2240&Item=Cisco linksys EA4500 Wireless Router|0|0|0|0|0|0.0|2013-08-13 22:19:02 +0530
+17|routers_lists|Netgear N300 Wireless ADSL2+ Modem Router Mobile Broadband Edition (DGN2200M)|http://www.nikishop.com/ProDescription.aspx?Pid=2231&Item=Netgear N300 Wireless Router|0|0|0|0|0|0.0|2013-08-13 22:19:03 +0530
+18|routers_lists|Netgear Wireless-N 150 Router (WNR612)|http://www.nikishop.com/ProDescription.aspx?Pid=2230&Item=Netgear  Wireless N-150 Router|0|0|0|0|0|0.0|2013-08-13 22:19:03 +0530
+19|routers_lists|Cisco Linksys E900 Wireless-N300 Router|http://www.nikishop.com/ProDescription.aspx?Pid=2216&Item=Cisco Linksys E900 Wireless N300 Router|0|0|0|0|0|0.0|2013-08-13 22:19:04 +0530
+20|routers_lists|Belkin Play Max Modem Router|http://www.nikishop.com/ProDescription.aspx?Pid=1753&Item=Belkin  Play Max Wireless Modem Router|0|0|0|0|0|0.0|2013-08-13 22:19:06 +0530
+21|routers_lists|Belkin N300 Wireless N Modem|http://www.nikishop.com/ProDescription.aspx?Pid=1751&Item=Belkin  N300 Wireless  Modem Router|0|0|0|0|0|0.0|2013-08-13 22:19:07 +0530
+22|routers_lists|Belkin N150 Wireless Modem Router|http://www.nikishop.com/ProDescription.aspx?Pid=1750&Item=Belkin  N150 Wireless Modem Router|0|0|0|0|0|0.0|2013-08-13 22:19:07 +0530
+23|routers_lists|Belkin N600 DB Dual Band Wireless Router (F9K1102zb)|http://www.nikishop.com/ProDescription.aspx?Pid=1749&Item=Belkin  N600 Wireless HD Router|0|0|0|0|0|0.0|2013-08-13 22:19:08 +0530
+24|routers_lists|Belkin Dual-Band Wireless Range Extender|http://www.nikishop.com/ProDescription.aspx?Pid=1748&Item=Belkin Travel Dual Band  Wireless Router|0|0|0|0|0|0.0|2013-08-13 22:19:08 +0530
+25|routers_lists|Belkin Dual-Band Wireless Range Extender|http://www.nikishop.com/ProDescription.aspx?Pid=1747&Item=Belkin Dual-Band Wireless Router |0|0|0|0|0|0.0|2013-08-13 22:19:09 +0530
+26|routers_lists|Cisco Linksys E1500 Wireless-N with SpeedBoost Router|http://www.nikishop.com/ProDescription.aspx?Pid=940&Item=Cisco Linksys E1500 Wireless-N  Router|0|0|0|0|0|0.0|2013-08-13 22:19:10 +0530
+27|routers_lists|Cisco Linksys E1200 Wireless-N Router|http://www.nikishop.com/ProDescription.aspx?Pid=939&Item=Cisco Linksys E1200 Wireless-N Router|0|0|0|0|0|0.0|2013-08-13 22:19:10 +0530
+28|routers_lists|Belkin N150 Wireless Modem Router|http://www.nikishop.com/ProDescription.aspx?Pid=737&Item=Belkin N150 Wireless Router|0|0|0|0|0|0.0|2013-08-13 22:19:11 +0530
+39|desktops_lists|Lenovo Essential C340 All-in-One (3rd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=2899&Item=Lenovo C340 57 315704 All in One PC(i3-4GB-500GB-W|0|0|0|0|0|0.0|2013-08-13 22:19:11 +0530
+40|desktops_lists|Lenovo Essential C340 All-in-One (3rd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=2898&Item=Lenovo C340 57 314047 All in One PC(i3-2GB-500GB)|0|0|0|0|0|0.0|2013-08-13 22:19:12 +0530
+41|desktops_lists|HP Pavilion 20-B102IN All-in-One (3rd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=2851&Item=HP Pavilion 20 b102in Desktop PC|0|0|0|0|0|0.0|2013-08-13 22:19:12 +0530
+42|desktops_lists|HP Omni 105-5510IX All-in-One (2nd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=2850&Item=HP Omni All in One 105 5510ix Desktop PC|0|0|0|0|0|0.0|2013-08-13 22:19:14 +0530
+43|desktops_lists|HP Pavilion 20-B103IN All-in-One (3rd Gen PDC|http://www.nikishop.com/ProDescription.aspx?Pid=2849&Item=HP Pavilion 20 b103in Desktop PC|0|0|0|0|0|0.0|2013-08-13 22:19:14 +0530
+44|desktops_lists|HP Brazo 18-1106IN All-in-One (APU Dual Core|http://www.nikishop.com/ProDescription.aspx?Pid=2848&Item=HP All in One  18-1106in Desktop PC|0|0|0|0|0|0.0|2013-08-13 22:19:15 +0530
+45|desktops_lists|HP Brazo 18-1101IX All-in-One (APU Dual Core|http://www.nikishop.com/ProDescription.aspx?Pid=2847&Item=HP All in One  18-1101ix Desktop PC |0|0|0|0|0|0.0|2013-08-13 22:19:16 +0530
+46|desktops_lists|Lenovo Essential C340 All-in-One (3rd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=2769&Item=Lenovo C340 57 310128 All in One PC|0|0|0|0|0|0.0|2013-08-13 22:19:16 +0530
+47|desktops_lists|Lenovo Essential C340 All-in-One (3rd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=2767&Item=Lenovo C340 57 313540 All in One PC|0|0|0|0|0|0.0|2013-08-13 22:19:17 +0530
+48|desktops_lists|Lenovo Essential C340 All-in-One (3rd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=2765&Item=Lenovo C340 57 313541 All in One PC|0|0|0|0|0|0.0|2013-08-13 22:19:18 +0530
+49|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen Ci5|http://www.nikishop.com/ProDescription.aspx?Pid=2528&Item=Lenovo Ideacentre B320 57 306718 All-in-One PC|0|0|0|0|0|0.0|2013-08-13 22:19:18 +0530
+50|desktops_lists|Lenovo Essential C440 All-in-One (3rd Gen Ci5|http://www.nikishop.com/ProDescription.aspx?Pid=2527&Item=Lenovo IdeaCentre C440 57 311529 All-in-One PC|0|0|0|0|0|0.0|2013-08-13 22:19:19 +0530
+51|desktops_lists|Lenovo Essential C340 All-in-One (3rd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=2526&Item=Lenovo IdeaCentre C340 57 310129 All-in-One PC|0|0|0|0|0|0.0|2013-08-13 22:19:19 +0530
+52|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen PDC|http://www.nikishop.com/ProDescription.aspx?Pid=2525&Item=Lenovo IdeaCentre B320 57 307779 All-in-One PC|0|0|0|0|0|0.0|2013-08-13 22:19:20 +0530
+53|desktops_lists|HP Pavilion 20-B081IN All-in-One (APU Dual Core|http://www.nikishop.com/ProDescription.aspx?Pid=2464&Item=HP Pavilion P2 1333in Desktop PC|0|0|0|0|0|0.0|2013-08-13 22:19:21 +0530
+54|desktops_lists|HP TouchSmart 610-1110IN|http://www.nikishop.com/ProDescription.aspx?Pid=2272&Item=HP TouchSmart 610-1110in All-in-one PC|0|0|0|0|0|0.0|2013-08-13 22:19:21 +0530
+55|desktops_lists|HP Pavilion 23-B026IN All-in-One (3rd Gen Ci5|http://www.nikishop.com/ProDescription.aspx?Pid=2271&Item=HP Pavilion 23-b026in All-in-one PC|0|0|0|0|0|0.0|2013-08-13 22:19:22 +0530
+56|desktops_lists|HP Omni 120-1120IN All-in-One (2nd Gen PDC|http://www.nikishop.com/ProDescription.aspx?Pid=2267&Item=HP Omni 120-1120 All-in-one PC|0|0|0|0|0|0.0|2013-08-13 22:19:22 +0530
+57|desktops_lists|HP Pavilion 20-B081IN All-in-One (APU Dual Core|http://www.nikishop.com/ProDescription.aspx?Pid=2260&Item=HP Pavilion 20-b081 All-in-one PC|0|0|0|0|0|0.0|2013-08-13 22:19:23 +0530
+58|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=2238&Item=Lenovo IdeaCentre B320 57-306719 All-in One PC|0|0|0|0|0|0.0|2013-08-13 22:19:24 +0530
+59|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=1922&Item= Lenovo IdeaCentre B320 57-307776 All-in One PC   |0|0|0|0|0|0.0|2013-08-13 22:19:25 +0530
+60|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen PDC|http://www.nikishop.com/ProDescription.aspx?Pid=1921&Item= Lenovo IdeaCentre B320 57-307778 All-in One PC   |0|0|0|0|0|0.0|2013-08-13 22:19:25 +0530
+61|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=1919&Item=Lenovo IdeaCentre B320 57-307012 All-in One PC   |0|0|0|0|0|0.0|2013-08-13 22:19:26 +0530
+62|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=1407&Item=Lenovo IdeaCentre B320 57-302922 All-in One PC|0|0|0|0|0|0.0|2013-08-13 22:19:26 +0530
+63|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=1406&Item=Lenovo IdeaCentre B320 57-307262 All-in One PC|0|0|0|0|0|0.0|2013-08-13 22:19:27 +0530
+64|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=1404&Item=Lenovo IdeaCentre B320 57-302720 All-in One PC|0|0|0|0|0|0.0|2013-08-13 22:19:28 +0530
+65|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=1403&Item=Lenovo IdeaCentre B320 57-307011 All-in One PC|0|0|0|0|0|0.0|2013-08-13 22:19:28 +0530
+66|desktops_lists|Lenovo Essential C320 All-in-One (2nd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=1401&Item=Lenovo Essential C Series C320 57-307111 All-In-On|0|0|0|0|0|0.0|2013-08-13 22:19:28 +0530
+67|desktops_lists|Lenovo Essential C320 All-in-One (2nd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=1399&Item=Lenovo Essential C Series C320 57-307109 All-In-On|0|0|0|0|0|0.0|2013-08-13 22:19:29 +0530
+68|desktops_lists|Dell Vostro 360|http://www.nikishop.com/ProDescription.aspx?Pid=1183&Item=Dell Vostro 360 All-in-One Desktop|0|0|0|0|0|0.0|2013-08-13 22:19:29 +0530
+69|desktops_lists|HP Omni 100-6110IX|http://www.nikishop.com/ProDescription.aspx?Pid=1020&Item=HP Omni 100-6100 Desktop|0|0|0|0|0|0.0|2013-08-13 22:19:30 +0530
+70|desktops_lists|Lenovo IdeaCentre B320 All-in-One (2nd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=794&Item=Lenovo IdeaCentre B320 57-303502 All-in One PC|0|0|0|0|0|0.0|2013-08-13 22:19:30 +0530
+71|desktops_lists|Lenovo Essential C320 All-in-One (2nd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=789&Item=Lenovo Essential C320 57-303483 All in One PC|0|0|0|0|0|0.0|2013-08-13 22:19:31 +0530
+72|desktops_lists|Lenovo Essential C320 All-in-One (2nd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=787&Item=Lenovo Essential C320 57-302437 All-in-one PC|0|0|0|0|0|0.0|2013-08-13 22:19:34 +0530
+73|desktops_lists|Lenovo Essential C320 All-in-One (2nd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=786&Item=Lenovo Essential C320 57-303301 All-in One PC|0|0|0|0|0|0.0|2013-08-13 22:19:35 +0530
+74|desktops_lists|Lenovo Essential C320 All-in-One (2nd Gen Ci3|http://www.nikishop.com/ProDescription.aspx?Pid=782&Item=Lenovo Essential C320 57-307112 AIO Desktop|0|0|0|0|0|0.0|2013-08-13 22:19:36 +0530
+102|tablets_lists|iBall Slide 3G 7271 Tablet|http://www.nikishop.com/ProDescription.aspx?Pid=2743&Item=iBall  7271 Tablet (3G (WCDMA) with Video calling |0|0|0|0|0|0.0|2013-08-13 22:19:36 +0530
+103|tablets_lists|Asus PadFone|http://www.nikishop.com/ProDescription.aspx?Pid=2342&Item=Asus PadFone ( Wi-Fi-3G) android 4.0 |0|0|0|0|0|0.0|2013-08-13 22:19:37 +0530
+104|tablets_lists|iBall Slide i7218|http://www.nikishop.com/ProDescription.aspx?Pid=1480&Item=iBall i7218 Tablet|0|0|0|0|0|0.0|2013-08-13 22:19:37 +0530
+105|tablets_lists|iBall Slide 3G-7307 Tablet|http://www.nikishop.com/ProDescription.aspx?Pid=1479&Item=iBall 3G7307 Tablet 3G|0|0|0|0|0|0.0|2013-08-13 22:19:38 +0530
+106|tablets_lists|Samsung Galaxy Tab 2 P3100|http://www.nikishop.com/ProDescription.aspx?Pid=1433&Item=Samsung Galaxy Tab 2 P3100  Wi-Fi 3G 16 GB White|0|0|0|0|0|0.0|2013-08-13 22:19:38 +0530
+107|tablets_lists|Samsung Galaxy Tab 2 P3100|http://www.nikishop.com/ProDescription.aspx?Pid=1432&Item=Samsung Galaxy Tab 2 P3100  Wi-Fi 3G 16 GB Silver|0|0|0|0|0|0.0|2013-08-13 22:19:38 +0530
+108|tablets_lists|Samsung Galaxy Tab 2 P5100|http://www.nikishop.com/ProDescription.aspx?Pid=1431&Item=Samsung Galaxy Tab 2 P5100 Wi-Fi 3G 16 GB|0|0|0|0|0|0.0|2013-08-13 22:19:39 +0530
+109|speakers_lists|iBall Tarang 2.1 USB|http://www.nikishop.com/ProDescription.aspx?Pid=2929&Item=iBall Tarang 2.1 Speakers (Non USB)|0|0|0|0|0|0.0|2013-08-13 22:19:39 +0530
+110|speakers_lists|F&D F1100U 4.1 Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=2907&Item=F&D F1100U 4.1 Speakers|0|0|0|0|0|0.0|2013-08-13 22:19:40 +0530
+111|speakers_lists|F&D F3000U 5.1 Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=2906&Item=F&D F3000U 5.1 Speakers|0|0|0|0|0|0.0|2013-08-13 22:19:42 +0530
+112|speakers_lists|F&D A333U 2.1 Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=2905&Item=F&D A333U 2.1 Speakers|0|0|0|0|0|0.0|2013-08-13 22:19:43 +0530
+113|speakers_lists|F&D A111F 2.1 Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=2904&Item=F&D A111F 2.1 Speakers|0|0|0|0|0|0.0|2013-08-13 22:19:43 +0530
+114|speakers_lists|F&D A110 2.1 Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=2902&Item=F&D A110 2.1 Speakers|0|0|0|0|0|0.0|2013-08-13 22:19:44 +0530
+115|speakers_lists|F&D V520 2 Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=2901&Item=F&D V520 Normal Speakers 2.0|0|0|0|0|0|0.0|2013-08-13 22:19:44 +0530
+116|speakers_lists|iBall Tarang 5.1 Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=2588&Item=iBall Tarang 5.1 USB Speakers|0|0|0|0|0|0.0|2013-08-13 22:19:45 +0530
+117|speakers_lists|iBall Tarang 2.1 USB|http://www.nikishop.com/ProDescription.aspx?Pid=2585&Item=iBall 2.1 USB  Speakers With Remote|0|0|0|0|0|0.0|2013-08-13 22:19:45 +0530
+118|speakers_lists|Iball Raaga 2.1 Multimedia Speaker|http://www.nikishop.com/ProDescription.aspx?Pid=2583&Item=iBall Raaga 2.1 Q9 Speakers|0|0|0|0|0|0.0|2013-08-13 22:19:45 +0530
+119|speakers_lists|Edifier X220 2.1 Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=2580&Item=Edifier X220 2.1 Multimedia Speaker|0|0|0|0|0|0.0|2013-08-13 22:19:46 +0530
+120|speakers_lists|Edifier P2060 2.1 Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=2579&Item=Edifier P2060 2.1 Multimedia Speaker|0|0|0|0|0|0.0|2013-08-13 22:19:46 +0530
+121|speakers_lists|Edifier M1385 2.1 Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=2578&Item=Edifier M1385 2.1 Multimedia Speaker|0|0|0|0|0|0.0|2013-08-13 22:19:47 +0530
+122|speakers_lists|Edifier M1380 2.1 Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=2577&Item=Edifier M1380 2.1 Multimedia Speaker|0|0|0|0|0|0.0|2013-08-13 22:19:47 +0530
+123|speakers_lists|Edifier X600 2.1 Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=2576&Item=Edifier X600 2.1 Multimedia Speaker|0|0|0|0|0|0.0|2013-08-13 22:19:48 +0530
+124|speakers_lists|Edifier P3060 2.1 Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=2575&Item=Edifier P3060 2.1 Multimedia Speaker|0|0|0|0|0|0.0|2013-08-13 22:19:48 +0530
+125|speakers_lists|Edifier X100 2.1 Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=2574&Item=Edifier X100 Multimedia 2.1Speakers|0|0|0|0|0|0.0|2013-08-13 22:19:48 +0530
+126|speakers_lists|Frontech JIL-3335 Multimedia Speaker|http://www.nikishop.com/ProDescription.aspx?Pid=1572&Item=Frontech 3335 Speaker|0|0|0|0|0|0.0|2013-08-13 22:19:49 +0530
+127|speakers_lists|Frontech JIL-3334 Multimedia Speaker|http://www.nikishop.com/ProDescription.aspx?Pid=1566&Item=Frontech 3334 Speakers|0|0|0|0|0|0.0|2013-08-13 22:19:50 +0530
+128|speakers_lists|Frontech JIL-3333 Multimedia Speaker|http://www.nikishop.com/ProDescription.aspx?Pid=1565&Item=Frontech 3333 Speaker|0|0|0|0|0|0.0|2013-08-13 22:19:50 +0530
+129|speakers_lists|iBall DJ22 2.1 Speaker|http://www.nikishop.com/ProDescription.aspx?Pid=1509&Item=iBall Speaker DJ22|0|0|0|0|0|0.0|2013-08-13 22:19:51 +0530
+130|speakers_lists|iBall Tarang 2.1 USB|http://www.nikishop.com/ProDescription.aspx?Pid=1508&Item=iBall Tarang USB Speaker |0|0|0|0|0|0.0|2013-08-13 22:19:51 +0530
+131|speakers_lists|iBall Booster 5.1 USB-SD Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=726&Item=iBall Booster 5.1 Speaker|0|0|0|0|0|0.0|2013-08-13 22:19:52 +0530
+132|speakers_lists|iBall Tarang 4.1 Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=725&Item=iBall Tarang 4.1 Speaker|0|0|0|0|0|0.0|2013-08-13 22:19:52 +0530
+133|speakers_lists|Iball Raaga 2.1 Multimedia Speaker|http://www.nikishop.com/ProDescription.aspx?Pid=724&Item=iBall Raaga 2.1 Speaker |0|0|0|0|0|0.0|2013-08-13 22:19:52 +0530
+134|speakers_lists|Creative SBS A235 2.1 Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=670&Item=Creative SBS A235 Speaker|0|0|0|0|0|0.0|2013-08-13 22:19:53 +0530
+135|speakers_lists|Creative SBS A335 2.1 Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=669&Item=Creative SBS A335 Speaker|0|0|0|0|0|0.0|2013-08-13 22:19:53 +0530
+140|keyboards_lists|iBall Dusky Duo 06 Wireless Keyboard and Mouse Combo|http://www.nikishop.com/ProDescription.aspx?Pid=2912&Item=iBall Dusky Duo Wireless Keyboard Mouse|0|0|0|0|0|0.0|2013-08-13 22:19:54 +0530
+141|keyboards_lists|Dell KM113 Wireless Keyboard and Mouse Combo|http://www.nikishop.com/ProDescription.aspx?Pid=2729&Item=Dell Wireless KM113 Keyboard and Mouse|0|0|0|0|0|0.0|2013-08-13 22:19:54 +0530
+142|keyboards_lists|Logitech MK240 Wireless Keyboard and Mouse Combo|http://www.nikishop.com/ProDescription.aspx?Pid=2440&Item=Logitech MK240 Wireless Keyboard Mouse|0|0|0|0|0|0.0|2013-08-13 22:19:55 +0530
+143|keyboards_lists|Logitech MK120 USB 2.0 Keyboard and Mouse Combo|http://www.nikishop.com/ProDescription.aspx?Pid=2437&Item=Logitech MK120 USB Keyboard Mouse|0|0|0|0|0|0.0|2013-08-13 22:19:55 +0530
+144|keyboards_lists|Dell KM632 Wireless Keyboard and Mouse Combo|http://www.nikishop.com/ProDescription.aspx?Pid=2097&Item=Dell KM632 Wireless Keyboard  Mouse|0|0|0|0|0|0.0|2013-08-13 22:19:55 +0530
+145|keyboards_lists|HP KZ251AA USB 2.0 Keyboard and Mouse Combo|http://www.nikishop.com/ProDescription.aspx?Pid=1953&Item=HP KZ251AA USB Combo Keyboard|0|0|0|0|0|0.0|2013-08-13 22:19:56 +0530
+146|keyboards_lists|HP KZ249AA Wired Keyboard|http://www.nikishop.com/ProDescription.aspx?Pid=1952&Item=HP KZ249AA USB Keyboard|0|0|0|0|0|0.0|2013-08-13 22:19:56 +0530
+147|keyboards_lists|HP LV290AA Wireless Keyboard and Mouse Combo|http://www.nikishop.com/ProDescription.aspx?Pid=1951&Item=HP LV290AA Wireless Keyboard and Mouse|0|0|0|0|0|0.0|2013-08-13 22:19:57 +0530
+148|keyboards_lists|Frontech JIL-1665 USB 2.0 Keyboard and Mouse Combo|http://www.nikishop.com/ProDescription.aspx?Pid=1631&Item=Frontech 1665 KeyBoard+Mouse Combo USB Set|0|0|0|0|0|0.0|2013-08-13 22:19:57 +0530
+149|keyboards_lists|Microsoft Wired Desktop 600 USB 2.0 Keyboard and Mouse Combo|http://www.nikishop.com/ProDescription.aspx?Pid=565&Item=Microsoft Wired Desktop 600|0|0|0|0|0|0.0|2013-08-13 22:19:58 +0530
+150|keyboards_lists|Logitech K200 Media Keyboard|http://www.nikishop.com/ProDescription.aspx?Pid=564&Item=Logitech Media Keyboard K200|0|0|0|0|0|0.0|2013-08-13 22:19:59 +0530
+151|keyboards_lists|Frontech Normal Black PS2 K-B|http://www.nikishop.com/ProDescription.aspx?Pid=561&Item=Frontech Normal Keyboard|0|0|0|0|0|0.0|2013-08-13 22:20:00 +0530
+155|pendrives_lists|Sony Micro Vault U Click USM8GU-W 8 GB Pen Drive|http://www.nikishop.com/ProDescription.aspx?Pid=2728&Item=Sony Micro Vault classic 8 GB Pendrive (USM8GR)|0|0|0|0|0|0.0|2013-08-13 22:20:00 +0530
+156|pendrives_lists|Sony Micro Vault USM-V 4 GB Pen Drive|http://www.nikishop.com/ProDescription.aspx?Pid=2727&Item=Sony Micro Vault classic 4 GB Pendrive (USM4GR)|0|0|0|0|0|0.0|2013-08-13 22:20:01 +0530
+157|pendrives_lists|HP V218g 16GB Pen Drive|http://www.nikishop.com/ProDescription.aspx?Pid=1682&Item=HP v218w 16GB Pendrive|0|0|0|0|0|0.0|2013-08-13 22:20:01 +0530
+158|pendrives_lists|HP v175w 16 GB Pen Drive|http://www.nikishop.com/ProDescription.aspx?Pid=1673&Item=HP v175w 16GB Pendrive|0|0|0|0|0|0.0|2013-08-13 22:20:02 +0530
+159|pendrives_lists|HP v175w 4 GB Pen Drive|http://www.nikishop.com/ProDescription.aspx?Pid=1672&Item=HP v175w 4GB Pendrive|0|0|0|0|0|0.0|2013-08-13 22:20:02 +0530
+160|pendrives_lists|HP v175w 8 GB Pen Drive|http://www.nikishop.com/ProDescription.aspx?Pid=1662&Item=HP v175w 8GB Pendrive|0|0|0|0|0|0.0|2013-08-13 22:20:03 +0530
+161|pendrives_lists|Sandisk Cruzer CZ36 4 GB Pen Drive|http://www.nikishop.com/ProDescription.aspx?Pid=698&Item=Sandisk 4 GB Pendrive |0|0|0|0|0|0.0|2013-08-13 22:20:04 +0530
+162|headsets_lists|Intex Hiphop Headset|http://www.nikishop.com/ProDescription.aspx?Pid=2910&Item=iball hiphop Headset Black|0|0|0|0|0|0.0|2013-08-13 22:20:04 +0530
+163|headsets_lists|Logitech USB Headset H340|http://www.nikishop.com/ProDescription.aspx?Pid=2447&Item=Logitech H340  Headset|0|0|0|0|0|0.0|2013-08-13 22:20:05 +0530
+164|headsets_lists|HP RF824AA On the Ear|http://www.nikishop.com/ProDescription.aspx?Pid=1947&Item=HP RF824AA Stereo Headset |0|0|0|0|0|0.0|2013-08-13 22:20:05 +0530
+165|headsets_lists|iBall Music Pulse Headset|http://www.nikishop.com/ProDescription.aspx?Pid=78&Item=iBall Music pulse Clarity Headsets|0|0|0|0|0|0.0|2013-08-13 22:20:06 +0530
+169|mouses_lists|Logitech Wireless Mouse M185|http://www.nikishop.com/ProDescription.aspx?Pid=2648&Item=Logitech Wireless Mouse M185|0|0|0|0|0|0.0|2013-08-13 22:20:06 +0530
+170|mouses_lists|Dell WM112 Wireless Optical Mouse|http://www.nikishop.com/ProDescription.aspx?Pid=2094&Item=Dell Inspiron WM112 Wireless Mouse|0|0|0|0|0|0.0|2013-08-13 22:20:07 +0530
+171|mouses_lists|HP X7000 Wireless Optical Mouse|http://www.nikishop.com/ProDescription.aspx?Pid=1942&Item=HP X7000 Wi-Fi Mouse(QA185AA)|0|0|0|0|0|0.0|2013-08-13 22:20:07 +0530
+172|mouses_lists|HP Wi-Fi Direct Bronze Mobile Mouse|http://www.nikishop.com/ProDescription.aspx?Pid=1941&Item=HP Wi-Fi Direct Mobile Mouse|0|0|0|0|0|0.0|2013-08-13 22:20:08 +0530
+173|mouses_lists|HP KF860PA USB 2.0 Optical Mouse|http://www.nikishop.com/ProDescription.aspx?Pid=1933&Item=HP KF860PA Comfort USB Mouse|0|0|0|0|0|0.0|2013-08-13 22:20:08 +0530
+174|mouses_lists|Belkin M450 Ultimate Wireless Mouse|http://www.nikishop.com/ProDescription.aspx?Pid=1239&Item=Belkin Ultimate Wireless Mouse M450|0|0|0|0|0|0.0|2013-08-13 22:20:09 +0530
+175|mouses_lists|Belkin M400 Ultimate Wireless Mouse|http://www.nikishop.com/ProDescription.aspx?Pid=1238&Item=Belkin Wireless Mouse M400|0|0|0|0|0|0.0|2013-08-13 22:20:09 +0530
+176|mouses_lists|Belkin M250 Premium Wireless Mouse|http://www.nikishop.com/ProDescription.aspx?Pid=1237&Item=Belkin Premium Wireless Mouse M250 |0|0|0|0|0|0.0|2013-08-13 22:20:09 +0530
+177|mouses_lists|Logitech Wireless Mouse M235|http://www.nikishop.com/ProDescription.aspx?Pid=995&Item=Logitech Wireless Mouse M235|0|0|0|0|0|0.0|2013-08-13 22:20:10 +0530
+178|mouses_lists|Logitech Mouse M90|http://www.nikishop.com/ProDescription.aspx?Pid=993&Item=Logitech Optical Mouse M90|0|0|0|0|0|0.0|2013-08-13 22:20:11 +0530
+179|mouses_lists|Microsoft 3500 Wireless BlueTrack Mouse|http://www.nikishop.com/ProDescription.aspx?Pid=577&Item=Microsoft Wireless Mobile Mouse 3500|0|0|0|0|0|0.0|2013-08-13 22:20:11 +0530
+180|mouses_lists|Microsoft Mobile 4000 Wireless BlueTrack Mouse|http://www.nikishop.com/ProDescription.aspx?Pid=576&Item=Microsoft Wireless Mobile Mouse 4000|0|0|0|0|0|0.0|2013-08-13 22:20:12 +0530
+181|mouses_lists|Logitech Mouse M90|http://www.nikishop.com/ProDescription.aspx?Pid=574&Item=Logitech USB Mouse M90|0|0|0|0|0|0.0|2013-08-13 22:20:12 +0530
+182|mouses_lists|iBall Aero Dynamic PS-2 Optical Mouse|http://www.nikishop.com/ProDescription.aspx?Pid=570&Item=iBall Aero Dynamic  Mouse|0|0|0|0|0|0.0|2013-08-13 22:20:13 +0530
+183|mouses_lists|iBall Opti Smart USB USB 2.0 Optical Mouse|http://www.nikishop.com/ProDescription.aspx?Pid=569&Item=iBall Opti Smart Mouse|0|0|0|0|0|0.0|2013-08-13 22:20:14 +0530
+184|headphones_lists|Sony MDR-XD200 Headphone|http://www.nikishop.com/ProDescription.aspx?Pid=2629&Item=Sony MDR XD200 HiFi Earphone|0|0|0|0|0|0.0|2013-08-13 22:20:15 +0530
+185|headphones_lists|Sony MDR-XB30EX Headphone|http://www.nikishop.com/ProDescription.aspx?Pid=2626&Item=Sony MDR XB30EX Earphone|0|0|0|0|0|0.0|2013-08-13 22:20:15 +0530
+186|headphones_lists|Sony MDR-XB400 Headphones|http://www.nikishop.com/ProDescription.aspx?Pid=2625&Item=Sony MDR XB400 Extra Bass Earphone|0|0|0|0|0|0.0|2013-08-13 22:20:16 +0530
+187|headphones_lists|Sony MDR-ED12LP Headphone|http://www.nikishop.com/ProDescription.aspx?Pid=2624&Item=Sony MDR ED12LP Fontopia Earphone|0|0|0|0|0|0.0|2013-08-13 22:20:17 +0530
+188|headphones_lists|Sony MDR-ZX300 Headphone|http://www.nikishop.com/ProDescription.aspx?Pid=1506&Item=Sony MDR ZX300 Sound Monitoring Headphone|0|0|0|0|0|0.0|2013-08-13 22:20:18 +0530
+189|headphones_lists|Sony MDR-XB21EX Headphone|http://www.nikishop.com/ProDescription.aspx?Pid=1501&Item=Sony MDR XB21EX Extra Bass Headphone|0|0|0|0|0|0.0|2013-08-13 22:20:19 +0530
+190|headphones_lists|Sony MDR-E11LP Headphone|http://www.nikishop.com/ProDescription.aspx?Pid=1498&Item=Sony MDR E11LP in ear Headphone|0|0|0|0|0|0.0|2013-08-13 22:20:21 +0530
+191|headphones_lists|Sony MDR-570LP-B Over-the-ear Headphone|http://www.nikishop.com/ProDescription.aspx?Pid=1497&Item=Sony MDR 570LP Lightweight Headphone|0|0|0|0|0|0.0|2013-08-13 22:20:22 +0530
+192|headphones_lists|Sony MDR-110LP Headphone|http://www.nikishop.com/ProDescription.aspx?Pid=1496&Item=Sony MDR 110LP Lightweight Headphone|0|0|0|0|0|0.0|2013-08-13 22:20:22 +0530
+193|headphones_lists|Sony DR-310DPV Over-the-ear Headphone|http://www.nikishop.com/ProDescription.aspx?Pid=1492&Item=Sony DR 310DPV PC Headphone|0|0|0|0|0|0.0|2013-08-13 22:20:22 +0530
+194|headphones_lists|iBall WR 621 Headphone|http://www.nikishop.com/ProDescription.aspx?Pid=709&Item=iBall Wireless WR 621 (With FM Radio)|0|0|0|0|0|0.0|2013-08-13 22:20:23 +0530
+195|headphones_lists|iBall i333 On-the-ear Headphone|http://www.nikishop.com/ProDescription.aspx?Pid=69&Item=iBall i333  Clarity Headsets|0|0|0|0|0|0.0|2013-08-13 22:20:23 +0530
+199|printers_lists|HP Deskjet Ink Advantage 4615 All-in-One Printer|http://www.nikishop.com/ProDescription.aspx?Pid=2938&Item=HP 4615 All-in-One Inkjet Printer|0|0|0|0|0|0.0|2013-08-13 22:20:24 +0530
+200|printers_lists|Canon PIXMA MG2270 Multifunction Inkjet Printer|http://www.nikishop.com/ProDescription.aspx?Pid=2699&Item=Canon MG2270 Inkjet All in One Printer|0|0|0|0|0|0.0|2013-08-13 22:20:24 +0530
+201|printers_lists|Epson - K200 Multifunction Inkjet Printer|http://www.nikishop.com/ProDescription.aspx?Pid=2571&Item=Epson K200 Multifunction Inkjet Printer|0|0|0|0|0|0.0|2013-08-13 22:20:25 +0530
+202|printers_lists|Epson - K100 Single Function Inkjet Printer|http://www.nikishop.com/ProDescription.aspx?Pid=2570&Item=Epson K100 Single Function Inkjet Printer|0|0|0|0|0|0.0|2013-08-13 22:20:25 +0530
+203|printers_lists|Epson - ME-101 Multifunction Inkjet Printer|http://www.nikishop.com/ProDescription.aspx?Pid=2567&Item=Epson ME 101 Multifunction Inkjet Printer|0|0|0|0|0|0.0|2013-08-13 22:20:26 +0530
+204|printers_lists|HP Deskjet Ink Advantage 3525 e-All-in-One Printer|http://www.nikishop.com/ProDescription.aspx?Pid=2110&Item=HP Deskjet Ink Advantage 3525 e-All-in-One Printer|0|0|0|0|0|0.0|2013-08-13 22:20:26 +0530
+205|printers_lists|HP Deskjet Ink Advantage 2515 All-in-One Printer|http://www.nikishop.com/ProDescription.aspx?Pid=2109&Item=HP Deskjet Ink Advantage 2515 All-in-One Printer|0|0|0|0|0|0.0|2013-08-13 22:20:27 +0530
+206|printers_lists|Canon PIXMA - MX437 Multifunction Inkjet Printer|http://www.nikishop.com/ProDescription.aspx?Pid=2011&Item=Canon MX437 Inkjet Wireless Printer|0|0|0|0|0|0.0|2013-08-13 22:20:27 +0530
+207|printers_lists|Canon PIXMA - E600 Multifunction Inkjet Printer|http://www.nikishop.com/ProDescription.aspx?Pid=2010&Item=Canon E600 Inkjet All in One Printer|0|0|0|0|0|0.0|2013-08-13 22:20:27 +0530
+208|printers_lists|Canon PIXMA - MX377 Multifunction Inkjet Printer|http://www.nikishop.com/ProDescription.aspx?Pid=2009&Item=Canon MX377 Inkjet All in One Printer|0|0|0|0|0|0.0|2013-08-13 22:20:28 +0530
+209|printers_lists|Canon PIXMA - PIXMA E500 Multifunction Inkjet Printer|http://www.nikishop.com/ProDescription.aspx?Pid=1956&Item=Canon E500 Inkjet All in One Printer|0|0|0|0|0|0.0|2013-08-13 22:20:28 +0530
+210|printers_lists|Samsung - SCX 4521FS Multifunction Laser Printer|http://www.nikishop.com/ProDescription.aspx?Pid=1402&Item=Samsung SCX-4521FS  All-in-One Printer|0|0|0|0|0|0.0|2013-08-13 22:20:29 +0530
+211|printers_lists|Samsung - SCX 4021 Multifunction Laser Printer|http://www.nikishop.com/ProDescription.aspx?Pid=1400&Item=Samsung SCX-4021S Laser Printer|0|0|0|0|0|0.0|2013-08-13 22:20:29 +0530
+212|printers_lists|Samsung - ML 2161 Single Function Laser Printer|http://www.nikishop.com/ProDescription.aspx?Pid=1397&Item=Samsung ML-2161 Laser Printer|0|0|0|0|0|0.0|2013-08-13 22:20:30 +0530
+213|printers_lists|HP Officejet - 100 Single Function Inkjet Printer|http://www.nikishop.com/ProDescription.aspx?Pid=1014&Item=HP Officejet 100 Mobile Printer|0|0|0|0|0|0.0|2013-08-13 22:20:30 +0530
+214|printers_lists|Epson Stylus - TX121 Multifunction Inkjet Printer|http://www.nikishop.com/ProDescription.aspx?Pid=837&Item=EPSON Stylus TX121 3-1 Printer|0|0|0|0|0|0.0|2013-08-13 22:20:30 +0530
+215|printers_lists|Epson - L200 Multifunction Inkjet Printer|http://www.nikishop.com/ProDescription.aspx?Pid=831&Item=EPSON L200 All-in-One Printer|0|0|0|0|0|0.0|2013-08-13 22:20:31 +0530
+216|printers_lists|HP LaserJet Pro - M1136 Multifunction Laser Printer|http://www.nikishop.com/ProDescription.aspx?Pid=385&Item=HP LaserJet M1136 Printer|0|0|0|0|0|0.0|2013-08-13 22:20:31 +0530
+217|printers_lists|HP LaserJet 1020 - 1020 Plus Single Function Laser Printer|http://www.nikishop.com/ProDescription.aspx?Pid=383&Item=HP LaserJet 1020 Plus Printer|0|0|0|0|0|0.0|2013-08-13 22:20:32 +0530
+218|printers_lists|Canon Image Class - MF4420W Multifunction Laser Printer|http://www.nikishop.com/ProDescription.aspx?Pid=382&Item=Canon imageCLASS MF4420w Printer|0|0|0|0|0|0.0|2013-08-13 22:20:33 +0530
+219|printers_lists|Canon Image Class - MF3010 Multifunction Laser Printer|http://www.nikishop.com/ProDescription.aspx?Pid=380&Item=Canon imageCLASS MF3010 Printer|0|0|0|0|0|0.0|2013-08-13 22:20:34 +0530
+220|printers_lists|HP Officejet 4500 - G510h Multifunction Inkjet Printer|http://www.nikishop.com/ProDescription.aspx?Pid=375&Item= HP Officejet 4500  All-in-one Network  Printer|0|0|0|0|0|0.0|2013-08-13 22:20:35 +0530
+221|printers_lists|Canon Laser Shot - LBP 2900B Single Function Laser Printer|http://www.nikishop.com/ProDescription.aspx?Pid=372&Item=Canon Laser Shot LBP2900B Printer|0|0|0|0|0|0.0|2013-08-13 22:20:36 +0530
+222|printers_lists|Canon PIXMA - MX366 Multifunction Inkjet Printer|http://www.nikishop.com/ProDescription.aspx?Pid=369&Item=Canon  MX366 inkjet All-in One   Printer|0|0|0|0|0|0.0|2013-08-13 22:20:37 +0530
+223|printers_lists|Canon PIXMA MG3170 Multifunction Inkjet Printer|http://www.nikishop.com/ProDescription.aspx?Pid=368&Item=Canon Pixma  MG3170 All in One wireless Printer|0|0|0|0|0|0.0|2013-08-13 22:20:37 +0530
+224|printers_lists|Canon PIXMA - IX6560 Single Function Inkjet Printer|http://www.nikishop.com/ProDescription.aspx?Pid=363&Item=Canon Pixma iX6560 Printer|0|0|0|0|0|0.0|2013-08-13 22:20:38 +0530
+225|printers_lists|HP Deskjet 1050 All-in-One Printer|http://www.nikishop.com/ProDescription.aspx?Pid=355&Item=HP DeskJet 1050 All-in-One Color Printer |0|0|0|0|0|0.0|2013-08-13 22:20:38 +0530
+226|printers_lists|HP Deskjet 1000 - J110a Single Function Inkjet Printer|http://www.nikishop.com/ProDescription.aspx?Pid=352&Item=HP Deskjet 1000 Printer|0|0|0|0|0|0.0|2013-08-13 22:20:39 +0530
+227|printers_lists|Samsung - SCX 3206W Multifunction Laser Printer|http://www.nikishop.com/ProDescription.aspx?Pid=242&Item=Samsung SCX-3206WXIP Printer|0|0|0|0|0|0.0|2013-08-13 22:20:39 +0530
+228|printers_lists|Samsung - SCX 4521FS Multifunction Laser Printer|http://www.nikishop.com/ProDescription.aspx?Pid=46&Item=Samsung SCX-4521F Laser Printer|0|0|0|0|0|0.0|2013-08-13 22:20:40 +0530
+230|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2943&Item=Dell Inspiron 3521 Laptop(PDC2117U-2Gb-500Gb-DOS)|0|0|0|0|0|0.0|2013-08-13 22:20:40 +0530
+231|laptops_lists|Asus K55VM-SX086V Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2937&Item=Asus K55VM SX086V Laptop(i7-8gb-1tb-Win7HP-2Gb Graphics)|0|0|0|0|0|0.0|2013-08-13 22:20:40 +0530
+232|laptops_lists|Asus K55VM-SX086D Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2936&Item=Asus K55VM SX086D Laptop (i7-8gb-1TB-2Gb Graphics-DOS)|0|0|0|0|0|0.0|2013-08-13 22:20:41 +0530
+233|laptops_lists|Acer Aspire V5-131 Netbook|http://www.nikishop.com/ProDescription.aspx?Pid=2934&Item=Acer V5-131 Netbook (CDC -2Gb-500Gb)|0|0|0|0|0|0.0|2013-08-13 22:20:41 +0530
+234|laptops_lists|Asus F501A-XX187R Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2928&Item=Asus F501A XX187R Laptop(i3-4gb-500gb-Win7 HB)|0|0|0|0|0|0.0|2013-08-13 22:20:42 +0530
+235|laptops_lists|Asus F202E-CT148H VivoBook|http://www.nikishop.com/ProDescription.aspx?Pid=2926&Item=Asus F202E CT148H Laptop(i3-4gb-500gb-Win8-Touch)|0|0|0|0|0|0.0|2013-08-13 22:20:43 +0530
+236|laptops_lists|Asus X55C-SX161D Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2923&Item=Asus X55C SX161D Laptop(PDC-2GB-500GB-DOS)|0|0|0|0|0|0.0|2013-08-13 22:20:43 +0530
+237|laptops_lists|HP Pavilion G6-2304TX Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2893&Item=HP Pavilion G6-2304TX Laptop (i5-8GB-1TB-Win8) |0|0|0|0|0|0.0|2013-08-13 22:20:44 +0530
+238|laptops_lists|HP Pavilion G6-2320TX Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2892&Item=HP Pavilion G6-2320TX Laptop(i5-4GB-1TB-Win8) |0|0|0|0|0|0.0|2013-08-13 22:20:44 +0530
+239|laptops_lists|HP 2000-2313TU Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2891&Item=HP Pavilion 2000-2313TU Laptop (i3-2GB-500GB-DOS)|0|0|0|0|0|0.0|2013-08-13 22:20:44 +0530
+240|laptops_lists|Asus A55DR-SX102D Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2887&Item=Asus A55DR SX102D Notebook(AMD-4GB-750GB-DOS)|0|0|0|0|0|0.0|2013-08-13 22:20:45 +0530
+241|laptops_lists|Samsung NP350V5C-S06IN Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2884&Item=Samsung NP350V5C S06IN(i7-8GB-1TB-Win7 HP-2GB Gra)|0|0|0|0|0|0.0|2013-08-13 22:20:45 +0530
+242|laptops_lists|Samsung NP350V5C-S02IN Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2883&Item=Samsung NP350V5C S02IN  Laptop (i5-4GB-1TB-Win7HP)|0|0|0|0|0|0.0|2013-08-13 22:20:46 +0530
+243|laptops_lists|Lenovo Essential G580-59-363678 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2880&Item=Lenovo Essential G580 59 363678 Laptop|0|0|0|0|0|0.0|2013-08-13 22:20:46 +0530
+244|laptops_lists|Lenovo Essential G580-59-351470 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2879&Item=Lenovo Essential G580 59-351470 Laptop|0|0|0|0|0|0.0|2013-08-13 22:20:47 +0530
+245|laptops_lists|Dell Inspiron 15R 5521 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2878&Item=Dell Inspiron 15R 5521 Laptop (i3-4GB-500GB-Win8)|0|0|0|0|0|0.0|2013-08-13 22:20:47 +0530
+246|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2877&Item=Dell Inspiron 15 3521 Laptop(i5-4gb-500gb-Win8)|0|0|0|0|0|0.0|2013-08-13 22:20:47 +0530
+247|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2875&Item=Dell Inspiron 15 3521 Laptop(i5-4Gb-1TB-Win8-2GB)|0|0|0|0|0|0.0|2013-08-13 22:20:48 +0530
+248|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2872&Item=Dell Inspiron 15 3521 Laptop(i3-4Gb-500Gb-1GB-Win8|0|0|0|0|0|0.0|2013-08-13 22:20:48 +0530
+249|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2871&Item=Dell Inspiron 15 3521 Laptop(i3-4Gb-500Gb-Win8)|0|0|0|0|0|0.0|2013-08-13 22:20:49 +0530
+250|laptops_lists|Sony VAIO SVE15118FN Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2867&Item=Sony Vaio SVE15118FN Laptop (i7-4Gb-750Gb-2G-W7HP)|0|0|0|0|0|0.0|2013-08-13 22:20:49 +0530
+251|laptops_lists|Samsung NP300E5V-A03IN Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2862&Item=Samsung NP300E5V-A03IN Laptop(PDC 2117U-2Gb-500Gb)|0|0|0|0|0|0.0|2013-08-13 22:20:50 +0530
+252|laptops_lists|Lenovo ThinkPad E530-3259BK9 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2838&Item=Lenovo Thinkpad E530 3259BK9 Laptop|0|0|0|0|0|0.0|2013-08-13 22:20:51 +0530
+253|laptops_lists|Lenovo ThinkPad E530-3259T1Q Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2836&Item=Lenovo Thinkpad E530 3259T1Q Laptop|0|0|0|0|0|0.0|2013-08-13 22:20:53 +0530
+254|laptops_lists|Lenovo ThinkPad E530-3259H6Q Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2835&Item=Lenovo Thinkpad E530 3259H6Q Laptop|0|0|0|0|0|0.0|2013-08-13 22:20:53 +0530
+255|laptops_lists|Lenovo ThinkPad E530-32591J1 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2834&Item=Lenovo Thinkpad E530 32591J1 Laptop|0|0|0|0|0|0.0|2013-08-13 22:20:54 +0530
+256|laptops_lists|Lenovo ThinkPad E430-32541B8 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2833&Item=Lenovo Thinkpad E430 32541B8 Laptop|0|0|0|0|0|0.0|2013-08-13 22:20:54 +0530
+257|laptops_lists|Lenovo ThinkPad E430-32541B7 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2831&Item=Lenovo Thinkpad E430 32541B7 Laptop|0|0|0|0|0|0.0|2013-08-13 22:20:55 +0530
+258|laptops_lists|Samsung NP355V5C-S05IN Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2830&Item=Samsung NP355V5C-S05IN Laptop(AMD A8-6Gb-1TB-Win8)|0|0|0|0|0|0.0|2013-08-13 22:20:55 +0530
+259|laptops_lists|Lenovo ThinkPad E430-32541C0 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2829&Item=Lenovo Thinkpad E430 32541C0 Laptop|0|0|0|0|0|0.0|2013-08-13 22:20:55 +0530
+260|laptops_lists|Lenovo ThinkPad E430-32541B0 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2828&Item=Lenovo Thinkpad E430 32541B0 Laptop|0|0|0|0|0|0.0|2013-08-13 22:20:56 +0530
+261|laptops_lists|Lenovo ThinkPad E430-32541A9 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2827&Item=Lenovo Thinkpad E430 32541A9 Laptop|0|0|0|0|0|0.0|2013-08-13 22:20:56 +0530
+262|laptops_lists|Toshiba Satellite C850-X0110 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2814&Item=Toshiba Satellite C850 X0110 Laptop|0|0|0|0|0|0.0|2013-08-13 22:20:57 +0530
+263|laptops_lists|Toshiba Satellite C850-I2110 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2813&Item=Toshiba Satellite C850 I2110 Laptop|0|0|0|0|0|0.0|2013-08-13 22:20:57 +0530
+264|laptops_lists|Toshiba Satellite C850-I0110 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2812&Item=Toshiba Satellite C850 I0110 Laptop|0|0|0|0|0|0.0|2013-08-13 22:20:58 +0530
+265|laptops_lists|Toshiba Satellite C850-P0012 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2810&Item=Toshiba Satellite C850 P0012 Laptop|0|0|0|0|0|0.0|2013-08-13 22:20:58 +0530
+266|laptops_lists|Acer Aspire E1 571G Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2803&Item=Acer Aspire E1 571G Laptop(i3-2-500-Linux)|0|0|0|0|0|0.0|2013-08-13 22:20:58 +0530
+267|laptops_lists|Acer Aspire E1 571G Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2802&Item=Acer Aspire E1 571G Laptop(i3-4-500-Linux)|0|0|0|0|0|0.0|2013-08-13 22:20:59 +0530
+268|laptops_lists|Acer Aspire E1 571G Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2801&Item=Acer Aspire E1 571G Laptop(i3-4-500-Win7 HB)|0|0|0|0|0|0.0|2013-08-13 22:20:59 +0530
+269|laptops_lists|Acer Aspire E1 571G Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2799&Item=Acer Aspire E1 571G Laptop(i5-4-500-Lnx)|0|0|0|0|0|0.0|2013-08-13 22:21:00 +0530
+270|laptops_lists|Acer Aspire V3 571G Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2797&Item=Acer Aspire V3 571G  Laptop ( i5-4-750-2Gb-Wi7)|0|0|0|0|0|0.0|2013-08-13 22:21:00 +0530
+271|laptops_lists|Acer Aspire V3 571G Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2796&Item=Acer Aspire V3 571G Laptop (i5-4-750-2Gb-W8)|0|0|0|0|0|0.0|2013-08-13 22:21:01 +0530
+272|laptops_lists|Acer Aspire V5 571G Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2795&Item=Acer Aspire V5 571G Laptop (i3-4-750-1Gb-W7)|0|0|0|0|0|0.0|2013-08-13 22:21:01 +0530
+273|laptops_lists|Acer Aspire V5 431 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2794&Item=Acer Aspire V5 431P Laptop (PDC B997-2-500-Win8)|0|0|0|0|0|0.0|2013-08-13 22:21:01 +0530
+274|laptops_lists|Asus S56CA-XX056H Ultrabook|http://www.nikishop.com/ProDescription.aspx?Pid=2784&Item=Asus S56CA XX056H Ultrabook PC|0|0|0|0|0|0.0|2013-08-13 22:21:02 +0530
+275|laptops_lists|HP 2000-2201TU Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2781&Item=HP Pavilion 2000-2201TU Notebook PC|0|0|0|0|0|0.0|2013-08-13 22:21:02 +0530
+276|laptops_lists|HP 2000-2314TU Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2780&Item=HP Pavilion 2000-2314TU Notebook PC|0|0|0|0|0|0.0|2013-08-13 22:21:03 +0530
+277|laptops_lists|Asus S56CA-XX056H Ultrabook|http://www.nikishop.com/ProDescription.aspx?Pid=2779&Item=Asus S56CA-XX056H Ultra Notebook (i5-4Gb-750Gb-W7)|0|0|0|0|0|0.0|2013-08-13 22:21:03 +0530
+278|laptops_lists|HP Pavilion G6-2302AX Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2778&Item=HP Pavilion g6 2302AX Notebook PC|0|0|0|0|0|0.0|2013-08-13 22:21:04 +0530
+279|laptops_lists|HP Pavilion G6-2228TU Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2777&Item=HP Pavilion g6 2228TU Notebook PC|0|0|0|0|0|0.0|2013-08-13 22:21:04 +0530
+280|laptops_lists|HP Pavilion G6-2301AX Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2775&Item=HP Pavilion g6 2301AX Notebook PC|0|0|0|0|0|0.0|2013-08-13 22:21:05 +0530
+281|laptops_lists|Acer Aspire V5 571 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2772&Item=Acer aspire V5-571  Laptop (PDC 997-2-500-win8)|0|0|0|0|0|0.0|2013-08-13 22:21:05 +0530
+282|laptops_lists|HP Pavilion G6-2232TX Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2771&Item=HP Pavilion g6 2232TX Notebook PC|0|0|0|0|0|0.0|2013-08-13 22:21:06 +0530
+283|laptops_lists|Acer Aspire V5 571 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2768&Item=Acer Aspire V5-571 Laptop (i3-4-500-Win 8)|0|0|0|0|0|0.0|2013-08-13 22:21:06 +0530
+284|laptops_lists|Acer Aspire V5 571 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2766&Item=Acer Aspire V5-571 Laptop (i5-4Gb-500Gb-Win8)|0|0|0|0|0|0.0|2013-08-13 22:21:07 +0530
+285|laptops_lists|Acer Aspire V5 431 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2764&Item=Acer Aspire V5-431 Laptop (PDC B987-2-500-linux)|0|0|0|0|0|0.0|2013-08-13 22:21:07 +0530
+286|laptops_lists|Acer Aspire V5 531 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2763&Item=Acer Aspire V5-531 Laptop (PDC B987-2-500-linux)|0|0|0|0|0|0.0|2013-08-13 22:21:07 +0530
+287|laptops_lists|Acer Aspire V5 431 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2759&Item=Acer Aspire V5-431 Laptop (PDC B987-2Gb-500Gb-Win8|0|0|0|0|0|0.0|2013-08-13 22:21:08 +0530
+288|laptops_lists|Acer Aspire V5 571 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2757&Item=Acer Aspire V5-571 Laptop (i3-4Gb-500Gb-Linux)|0|0|0|0|0|0.0|2013-08-13 22:21:08 +0530
+289|laptops_lists|Acer Aspire V5 571 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2754&Item=Acer Aspire V5-571 Laptop (i3-4Gb-500Gb-Win7)|0|0|0|0|0|0.0|2013-08-13 22:21:09 +0530
+290|laptops_lists|Acer Aspire V3 571G Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2753&Item=Acer Aspire V3-571G Laptop (i3-4-750-2Gb-Win7)|0|0|0|0|0|0.0|2013-08-13 22:21:10 +0530
+291|laptops_lists|Lenovo Ideapad Z580-59-370239 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2752&Item=Lenovo Z580 370239 Laptop (i3-4Gb-500Gb-Win8-1GB)|0|0|0|0|0|0.0|2013-08-13 22:21:10 +0530
+292|laptops_lists|Acer Aspire V3 571G Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2750&Item=Acer Aspire V3-571G Laptop (i5-4-500-2Gb-Win8)|0|0|0|0|0|0.0|2013-08-13 22:21:11 +0530
+293|laptops_lists|Lenovo Ideapad Z500-59-370611 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2749&Item=Lenovo Ideapad Z500 59 370611 Laptop|0|0|0|0|0|0.0|2013-08-13 22:21:12 +0530
+294|laptops_lists|Lenovo Essential G585-59-348629 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2748&Item=Lenovo G585 59 348629 Notebook|0|0|0|0|0|0.0|2013-08-13 22:21:12 +0530
+295|laptops_lists|Lenovo Essential G580-59-358346 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2746&Item=Lenovo G580 59 358346 Notebook|0|0|0|0|0|0.0|2013-08-13 22:21:12 +0530
+296|laptops_lists|Acer Aspire E1 571 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2745&Item=Acer Aspire E1-571 Laptop(i5-4-500-Linux)|0|0|0|0|0|0.0|2013-08-13 22:21:13 +0530
+297|laptops_lists|Acer Aspire E1 571G Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2744&Item=Acer Aspire E1-571G Laptop (i3-4-500-1Gb-Linux)|0|0|0|0|0|0.0|2013-08-13 22:21:14 +0530
+298|laptops_lists|Acer Aspire E1 571 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2742&Item=Acer Aspire E1-571 Laptop (i3-4Gb-500Gb-Win8)|0|0|0|0|0|0.0|2013-08-13 22:21:14 +0530
+299|laptops_lists|Acer Aspire E1 531 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2741&Item=Acer Aspire E1-531 Laptop (PDC B960-2-500-Win7HB)|0|0|0|0|0|0.0|2013-08-13 22:21:15 +0530
+300|laptops_lists|Acer Aspire E1 531 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2740&Item=Acer Aspire E1-531 Laptop (PDC B960-4-500Linux)|0|0|0|0|0|0.0|2013-08-13 22:21:15 +0530
+301|laptops_lists|Asus S56CM-XO177H Ultrabook|http://www.nikishop.com/ProDescription.aspx?Pid=2739&Item=Asus S56CM X0177H Laptop (i3-4Gb-500Gb-Win8)|0|0|0|0|0|0.0|2013-08-13 22:21:16 +0530
+302|laptops_lists|Acer Aspire One 756 Netbook|http://www.nikishop.com/ProDescription.aspx?Pid=2737&Item=Acer Aspire One 756 Netbook (CDC 1.52500Win8)  |0|0|0|0|0|0.0|2013-08-13 22:21:16 +0530
+303|laptops_lists|Asus S56CA-XX030R Ultrabook|http://www.nikishop.com/ProDescription.aspx?Pid=2736&Item=Asus S56CA XX030R Laptop (Core i3-4Gb-500Gb-Win7)|0|0|0|0|0|0.0|2013-08-13 22:21:17 +0530
+304|laptops_lists|Asus X55C-SX161D Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2735&Item=Asus X55C SX161D Laptop (3rd Gen PDC 2020M-2-500)|0|0|0|0|0|0.0|2013-08-13 22:21:17 +0530
+305|laptops_lists|Acer Aspire One 756 Netbook|http://www.nikishop.com/ProDescription.aspx?Pid=2734&Item=Acer Aspire One 756 Netbook (CDC 1.52500Linux) |0|0|0|0|0|0.0|2013-08-13 22:21:17 +0530
+306|laptops_lists|Asus X55C-SX078D Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2733&Item=Asus X55C SX078D Laptop (PDC B980-2Gb-500Gb-Dos)|0|0|0|0|0|0.0|2013-08-13 22:21:18 +0530
+307|laptops_lists|Asus K55A-SX464D Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2732&Item=Asus K55A SX464D Laptop (CDC B820-2-500-Dos)|0|0|0|0|0|0.0|2013-08-13 22:21:18 +0530
+308|laptops_lists|Lenovo Essential B490-59-356128 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2731&Item=Lenovo Essential B490 59-356128 Laptop|0|0|0|0|0|0.0|2013-08-13 22:21:19 +0530
+309|laptops_lists|Asus X53TK-SX056D Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2730&Item=Asus X53TK SX056D Notebook|0|0|0|0|0|0.0|2013-08-13 22:21:19 +0530
+310|laptops_lists|Lenovo Essential G580-59-358263 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2725&Item=Lenovo Essential G580 59-358263 Laptop |0|0|0|0|0|0.0|2013-08-13 22:21:20 +0530
+311|laptops_lists|Asus Eee PC 1015CX-RED014W Netbook|http://www.nikishop.com/ProDescription.aspx?Pid=2724&Item=Asus Eee 1015CX-RED014W Netbook|0|0|0|0|0|0.0|2013-08-13 22:21:20 +0530
+312|laptops_lists|Toshiba Satellite M840-X4212 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2719&Item=Toshiba Satellite M840 X4212 Laptop|0|0|0|0|0|0.0|2013-08-13 22:21:21 +0530
+313|laptops_lists|Acer Aspire E1 571 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2714&Item=Acer Aspire E1 571 Core i5 Laptop(Linux)|0|0|0|0|0|0.0|2013-08-13 22:21:21 +0530
+314|laptops_lists|Acer Gateway NE-56R Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2703&Item=Acer Gateway NE-56R Laptop (Core i3-2Gb-500Gb-Dos)|0|0|0|0|0|0.0|2013-08-13 22:21:21 +0530
+315|laptops_lists|Lenovo Ideapad Z580-59-339356 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2697&Item=Lenovo Z580 59 339356 Notebook PC|0|0|0|0|0|0.0|2013-08-13 22:21:22 +0530
+316|laptops_lists|Acer Gateway NE-56R Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2696&Item=Acer Gateway NE-56R Laptop (B960-2Gb-500Gb-Linux)|0|0|0|0|0|0.0|2013-08-13 22:21:22 +0530
+317|laptops_lists|Lenovo Ideapad Z580-59-347567 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2695&Item=Lenovo Z580 59 347567 Notebook PC|0|0|0|0|0|0.0|2013-08-13 22:21:23 +0530
+318|laptops_lists|Lenovo Essential G580-59-355396 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2694&Item=Lenovo G580 Essential 59 355396 Laptop|0|0|0|0|0|0.0|2013-08-13 22:21:23 +0530
+319|laptops_lists|Lenovo Ideapad S400-59-356394 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2691&Item=Lenovo Ideapad 59 356394 Notebook PC|0|0|0|0|0|0.0|2013-08-13 22:21:24 +0530
+320|laptops_lists|Dell Inspiron 15R 5521 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2683&Item=Dell Inspiron 15R 5521(I7-8GB-1TB-Win8)|0|0|0|0|0|0.0|2013-08-13 22:21:24 +0530
+321|laptops_lists|Dell Inspiron 15R 5521 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2681&Item=Dell Inspiron 15R 5521(i5-4GB-500Gb-DOS)|0|0|0|0|0|0.0|2013-08-13 22:21:24 +0530
+322|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2680&Item=Dell Inspiron 15 3521(I5-4GB-1 TB-Win 8)|0|0|0|0|0|0.0|2013-08-13 22:21:25 +0530
+323|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2679&Item=Dell Inspiron 15 3521(I5-4GB-500 GB-Win 8)|0|0|0|0|0|0.0|2013-08-13 22:21:25 +0530
+324|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2678&Item=Dell Inspiron 15 3521(I5-4GB-500 GB-DOS)|0|0|0|0|0|0.0|2013-08-13 22:21:26 +0530
+325|laptops_lists|Dell Inspiron 15R Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2677&Item=Dell Inspiron 15R 7520(I5-4GB-1TB-Win8)|0|0|0|0|0|0.0|2013-08-13 22:21:26 +0530
+326|laptops_lists|HP Pavilion G6-2230TX Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2676&Item=HP Pavilion g6 2230TX Laptop (i3-2gb-500gb-1gb )|0|0|0|0|0|0.0|2013-08-13 22:21:26 +0530
+327|laptops_lists|HP Pavilion G6-2231TX Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2675&Item=HP Pavilion g6 2231TX  Laptop ( i3-4gb-500gb-win8)|0|0|0|0|0|0.0|2013-08-13 22:21:27 +0530
+328|laptops_lists|HP Pavilion G6-2222TU Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2674&Item=HP Pavilion g6 2222TU  Laptop (i3-2gb-500gb-win8)|0|0|0|0|0|0.0|2013-08-13 22:21:28 +0530
+329|laptops_lists|HP Pavilion G6-2226TU Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2673&Item=HP Pavilion g6 2226TU Laptop (i3-4gb-500gb-win8)|0|0|0|0|0|0.0|2013-08-13 22:21:29 +0530
+330|laptops_lists|HP Pavilion G6-2227TU Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2672&Item=HP Pavilion g6 2227TU Laptop (i3-4gb-500gb-win8)|0|0|0|0|0|0.0|2013-08-13 22:21:29 +0530
+331|laptops_lists|HP 450 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2666&Item=HP Probook 450 Laptop (CDC B820-2gb-320gb-Dos)|0|0|0|0|0|0.0|2013-08-13 22:21:30 +0530
+332|laptops_lists|HP 450 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2665&Item=HP Probook 450 Laptop (PDC B970-2gb-320gb-Dos)|0|0|0|0|0|0.0|2013-08-13 22:21:30 +0530
+333|laptops_lists|HP 650 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2664&Item=HP Probook 650  Laptop (PDC B970-2gb-320gb-Dos)|0|0|0|0|0|0.0|2013-08-13 22:21:31 +0530
+334|laptops_lists|HP 450 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2663&Item=HP Probook 450  Laptop (i3-2Gb-500)|0|0|0|0|0|0.0|2013-08-13 22:21:32 +0530
+335|laptops_lists|HP 650 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2662&Item=HP Probook 650 Laptop (i3-2gb-500gb-Dos)|0|0|0|0|0|0.0|2013-08-13 22:21:32 +0530
+336|laptops_lists|Dell Inspiron 15R 5521 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2654&Item=Dell Inspiron 15R 5521(i5- 4GB- 1TB-Win8)|0|0|0|0|0|0.0|2013-08-13 22:21:33 +0530
+337|laptops_lists|Dell Inspiron 15R 5521 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2653&Item=Dell Inspiron 15R 5521(i3- 4GB- 500GB-Win8)|0|0|0|0|0|0.0|2013-08-13 22:21:33 +0530
+338|laptops_lists|Toshiba Satellite C850-I2010 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2651&Item=Toshiba Satellite C850-I2010 Laptop|0|0|0|0|0|0.0|2013-08-13 22:21:34 +0530
+339|laptops_lists|Lenovo Essential G580-59-361898 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2630&Item=Lenovo Essential G580 59 361898 Laptop|0|0|0|0|0|0.0|2013-08-13 22:21:35 +0530
+340|laptops_lists|Dell Inspiron 15R Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2602&Item=Dell Inspiron 15R 5520(i5-4GB-500GB-win8)|0|0|0|0|0|0.0|2013-08-13 22:21:35 +0530
+341|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2599&Item=Dell Inspiron 15 3521 Laptop (i5-4GB-500GB-Dos)|0|0|0|0|0|0.0|2013-08-13 22:21:36 +0530
+342|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2598&Item=Dell Inspiron 15 3521 Laptop (i3-2GB-500GB-win8) |0|0|0|0|0|0.0|2013-08-13 22:21:36 +0530
+343|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2597&Item=Dell Inspiron 15 3521 Laptop (i3-2GB-500GB-Dos)|0|0|0|0|0|0.0|2013-08-13 22:21:36 +0530
+344|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2596&Item=Dell Inspiron 15 3521 PDC 980 Laptop|0|0|0|0|0|0.0|2013-08-13 22:21:37 +0530
+345|laptops_lists|Samsung NP300E5X-A09IN Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2561&Item=Samsung NP300E5X A09IN Laptop|0|0|0|0|0|0.0|2013-08-13 22:21:37 +0530
+346|laptops_lists|Asus K55VD-SX313R Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2555&Item=Asus K55VD SX313R Laptop|0|0|0|0|0|0.0|2013-08-13 22:21:38 +0530
+347|laptops_lists|Acer Aspire E1 571G Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2554&Item=Acer Aspire E1 571G 3210M Notebook(Linux)|0|0|0|0|0|0.0|2013-08-13 22:21:38 +0530
+348|laptops_lists|Acer Aspire E1 571 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2553&Item=Acer Aspire E1 571 3210M Notebook(Linux)|0|0|0|0|0|0.0|2013-08-13 22:21:39 +0530
+349|laptops_lists|Acer Aspire E1 571 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2552&Item=Acer Aspire E1 571 3110M Notebook(Win 7 HB)|0|0|0|0|0|0.0|2013-08-13 22:21:39 +0530
+350|laptops_lists|Acer Aspire E1 571 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2551&Item=Acer Aspire E1 571 3110M Notebook(Linux)|0|0|0|0|0|0.0|2013-08-13 22:21:39 +0530
+351|laptops_lists|Toshiba Satellite C850-I5214 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2549&Item=Toshiba Satellite C850 I5214 Laptop|0|0|0|0|0|0.0|2013-08-13 22:21:40 +0530
+352|laptops_lists|Toshiba Satellite C850-I5213 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2548&Item=Toshiba Satellite C850 I5213 Laptop |0|0|0|0|0|0.0|2013-08-13 22:21:40 +0530
+353|laptops_lists|Toshiba Satellite C850-P0011 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2546&Item=Toshiba Satellite C850 P0011 Laptop |0|0|0|0|0|0.0|2013-08-13 22:21:42 +0530
+354|laptops_lists|Lenovo Ideapad Z580-59-347586 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2521&Item=Lenovo Ideapad Z580 59 347586 Notebook|0|0|0|0|0|0.0|2013-08-13 22:21:42 +0530
+355|laptops_lists|Lenovo Ideapad Z580-59-347589 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2520&Item=Lenovo Ideapad Z580 59 347589 Notebook|0|0|0|0|0|0.0|2013-08-13 22:21:42 +0530
+356|laptops_lists|Lenovo Ideapad Z580-59-347591 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2519&Item=Lenovo Essential Z580 59 347591 Notebook|0|0|0|0|0|0.0|2013-08-13 22:21:43 +0530
+357|laptops_lists|Lenovo Essential G585-59-348619 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2517&Item=Lenovo Essential G585 59 348619 Notebook|0|0|0|0|0|0.0|2013-08-13 22:21:43 +0530
+358|laptops_lists|Lenovo Essential G580-59-336941 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2515&Item=Lenovo Essential G580 59 336941 Notebook |0|0|0|0|0|0.0|2013-08-13 22:21:44 +0530
+359|laptops_lists|Lenovo Essential G580-59-356381 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2514&Item=Lenovo Essential G580 59 356381 Notebook|0|0|0|0|0|0.0|2013-08-13 22:21:44 +0530
+360|laptops_lists|Lenovo Essential G580-59-351473 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2513&Item=Lenovo Essential G580 59 351473 Notebook|0|0|0|0|0|0.0|2013-08-13 22:21:45 +0530
+361|laptops_lists|Lenovo Essential G580-59-351474 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2512&Item=Lenovo Essential G580 59 351474 Notebook|0|0|0|0|0|0.0|2013-08-13 22:21:46 +0530
+362|laptops_lists|Lenovo Essential G580-59-352560 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2511&Item=Lenovo Essential G580 59 352560 Notebook |0|0|0|0|0|0.0|2013-08-13 22:21:47 +0530
+363|laptops_lists|Lenovo Ideapad S405-59-348194 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2509&Item=Lenovo IdeaPad S405 59 348194 Notebook |0|0|0|0|0|0.0|2013-08-13 22:21:47 +0530
+364|laptops_lists|HP Pavilion 14-B012AU Sleekbook|http://www.nikishop.com/ProDescription.aspx?Pid=2508&Item=HP Pavilion 14 b012AU Notebook PC|0|0|0|0|0|0.0|2013-08-13 22:21:48 +0530
+365|laptops_lists|HP Pavilion G4-2049TX Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2507&Item=HP Pavilion g4 2049TX Notebook PC |0|0|0|0|0|0.0|2013-08-13 22:21:48 +0530
+366|laptops_lists|Dell Inspiron 15 3521 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2499&Item=Dell Inspiron 15 3521 Laptop (i5-3210-4GB-500GB)|0|0|0|0|0|0.0|2013-08-13 22:21:49 +0530
+367|laptops_lists|Dell Inspiron 15 3520 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2498&Item=Dell Inspiron 15  3520  Laptop (PDC B980-2GB-320GB|0|0|0|0|0|0.0|2013-08-13 22:21:49 +0530
+368|laptops_lists|Lenovo ThinkPad E430-3254-T2Q Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2496&Item=Lenovo Think Pad E430 3254-T2Q Laptop |0|0|0|0|0|0.0|2013-08-13 22:21:50 +0530
+369|laptops_lists|Dell Vostro 1550 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2493&Item=Dell Vostro 1550  Laptop (i5-2GB-500GB)|0|0|0|0|0|0.0|2013-08-13 22:21:50 +0530
+370|laptops_lists|Lenovo Essential B480-59-343080 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2492&Item=Lenovo Essential B480 59-343080 Laptop|0|0|0|0|0|0.0|2013-08-13 22:21:51 +0530
+371|laptops_lists|Lenovo Essential B480-59-343761 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2491&Item=Lenovo Essential  B480 59-343761 Laptop|0|0|0|0|0|0.0|2013-08-13 22:21:51 +0530
+372|laptops_lists|Toshiba Satellite C850-I0012 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2490&Item=Toshiba Satellite C850-i0012 Laptop |0|0|0|0|0|0.0|2013-08-13 22:21:52 +0530
+373|laptops_lists|Lenovo Essential B480-59-343762-1924 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2466&Item=Lenovo Essential B480 59 343762 Laptop|0|0|0|0|0|0.0|2013-08-13 22:21:52 +0530
+374|laptops_lists|HP 2000-2106TU Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2459&Item=HP 2000-2106TU Laptop (Dual Core 2GB 500GB DOS) |0|0|0|0|0|0.0|2013-08-13 22:21:53 +0530
+375|laptops_lists|HP 2000-2209TU Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2458&Item=HP 2000-2209TU  Laptop |0|0|0|0|0|0.0|2013-08-13 22:21:54 +0530
+376|laptops_lists|HP 2000-2125TU Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2457&Item=HP 2000-2125TU  Laptop |0|0|0|0|0|0.0|2013-08-13 22:21:54 +0530
+377|laptops_lists|HP 2000-2202TU Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2456&Item=HP 2000-2202TU Laptop |0|0|0|0|0|0.0|2013-08-13 22:21:55 +0530
+378|laptops_lists|HP 1000-1205TU Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2455&Item=HP Pavillion  1000-1205TU  Laptop|0|0|0|0|0|0.0|2013-08-13 22:21:55 +0530
+379|laptops_lists|HP Envy 4-1102TX Ultrabook|http://www.nikishop.com/ProDescription.aspx?Pid=2454&Item=HP Envy 4 1102TX  Laptop|0|0|0|0|0|0.0|2013-08-13 22:21:55 +0530
+380|laptops_lists|HP Pavilion DV6-7207TX Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2451&Item=HP Envy DV6- 7207TX  Laptop|0|0|0|0|0|0.0|2013-08-13 22:21:56 +0530
+381|laptops_lists|Samsung NP-N100S-E01IN Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2430&Item=Samsung NP N100S E01IN  Netbook|0|0|0|0|0|0.0|2013-08-13 22:21:56 +0530
+382|laptops_lists|Dell Vostro 2520 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2397&Item=Dell Vostro 2520 Laptop (i3-2 GB- 500 GB-Win8)|0|0|0|0|0|0.0|2013-08-13 22:21:57 +0530
+383|laptops_lists|Dell Vostro 2420 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2388&Item=Dell Vostro 2420 Laptop (i3-2 GB-500 GB-Win7 HB)|0|0|0|0|0|0.0|2013-08-13 22:21:57 +0530
+384|laptops_lists|Dell Vostro 2420 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2387&Item=Dell Vostro 2420 Laptop (i3-2 GB-500 GB-DOS)|0|0|0|0|0|0.0|2013-08-13 22:21:58 +0530
+385|laptops_lists|Dell Vostro 2520 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2386&Item=Dell Vostro 2520 Laptop (i3-2 GB- 500 GB-Win7)|0|0|0|0|0|0.0|2013-08-13 22:21:58 +0530
+386|laptops_lists|Dell Vostro 2520 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2385&Item=Dell Vostro 2520 Laptop (i3-2 GB-500 GB-DOS)|0|0|0|0|0|0.0|2013-08-13 22:21:58 +0530
+387|laptops_lists|Dell Vostro 2520 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2383&Item=Dell Vostro 2520 Laptop|0|0|0|0|0|0.0|2013-08-13 22:21:59 +0530
+388|laptops_lists|Asus K55VD-SX314R Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2381&Item=Asus K55VD SX314R  Laptop|0|0|0|0|0|0.0|2013-08-13 22:21:59 +0530
+389|laptops_lists|Asus K55VD-SX313D Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2380&Item=Asus K55VD SX313D  Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:00 +0530
+390|laptops_lists|Asus K55VD-SX314D Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2379&Item=Asus K55VD SX314D  Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:00 +0530
+391|laptops_lists|Dell Inspiron 14z Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2377&Item=Dell Inspiron 14Z N5423 i7 Ultrabook Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:01 +0530
+392|laptops_lists|Dell Inspiron 14z Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2376&Item=Dell Inspiron 14Z N5423 i5 Ultrabook Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:01 +0530
+393|laptops_lists|Asus X54C-SX425D Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2375&Item=Asus X54C-SX425D  Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:01 +0530
+394|laptops_lists|Asus X54C-SX454D Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2374&Item=Asus X54C-SX454D  Laptop (i3-2Gb-500Gb-Dos)|0|0|0|0|0|0.0|2013-08-13 22:22:02 +0530
+395|laptops_lists|Asus X54C-SX555D Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2373&Item=Asus X54C-SX555D  Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:03 +0530
+396|laptops_lists|Asus X53U-SX358D Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2372&Item=Asus X53U-SX358D  Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:04 +0530
+397|laptops_lists|Dell Inspiron 14z Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2371&Item=Dell Inspiron 14z N5423 Ultrabook Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:05 +0530
+398|laptops_lists|Dell Inspiron 15 3520 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2364&Item=Dell Inspiron 15 3520 Laptop (i5-4GB-500GB)|0|0|0|0|0|0.0|2013-08-13 22:22:06 +0530
+399|laptops_lists|Lenovo Essential G580-59-356383 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2363&Item=Lenovo G580 59-356383  Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:06 +0530
+400|laptops_lists|Lenovo Essential G580-59-356384 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2362&Item=Lenovo G580 59-356384  Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:07 +0530
+401|laptops_lists|Lenovo Essential G580-59-324014 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2361&Item=Lenovo G580 59-324014  Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:07 +0530
+402|laptops_lists|Dell Inspiron 15 3520 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2360&Item=Dell Inspiron 15 3520 Laptop |0|0|0|0|0|0.0|2013-08-13 22:22:08 +0530
+403|laptops_lists|Lenovo Essential G580-59-324015 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2359&Item=Lenovo G580 59-324015  Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:08 +0530
+404|laptops_lists|Lenovo Essential G580-59-323565 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2358&Item=Lenovo G580 59-323565  Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:08 +0530
+405|laptops_lists|Lenovo Essential G580-59-355398 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2357&Item=Lenovo G580 59-355398  Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:09 +0530
+406|laptops_lists|Lenovo Essential G580-59-355396 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2356&Item=Lenovo G580 59-355396 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:09 +0530
+407|laptops_lists|Lenovo Essential G580-59-341688 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2355&Item=Lenovo G580 59-341688  Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:10 +0530
+408|laptops_lists|Lenovo Essential G580-59-351466 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2354&Item=Lenovo G580 59-351466 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:11 +0530
+409|laptops_lists|Lenovo Essential G580-59-351467 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2353&Item=Lenovo G580 59-351467  Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:11 +0530
+410|laptops_lists|Lenovo Essential G580-59-335626 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2352&Item=Lenovo G580 59-335626  Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:12 +0530
+411|laptops_lists|HP Pavilion G6-2101TU Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2351&Item=HP Pavilion G Series g6 2101TU Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:13 +0530
+412|laptops_lists|HP Pavilion G6-2204TX Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2350&Item=HP Pavilion G Series g6 2204TX Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:13 +0530
+413|laptops_lists|HP Pavilion G6-2221TU Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2347&Item=HP Pavilion G Series g6 2221TU Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:14 +0530
+414|laptops_lists|HP Pavilion G6-2202TX Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2346&Item=HP Pavilion G Series g6 2202TX Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:14 +0530
+415|laptops_lists|HP Pavilion 15-B003TU Sleekbook|http://www.nikishop.com/ProDescription.aspx?Pid=2345&Item=HP Pavilion Ultrabook 15 b003TU Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:15 +0530
+416|laptops_lists|HP Pavilion 15-B004TU Sleekbook|http://www.nikishop.com/ProDescription.aspx?Pid=2344&Item=HP Pavilion Ultrabook 15 b004TU Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:15 +0530
+417|laptops_lists|HP Pavilion 15-B002TU Sleekbook|http://www.nikishop.com/ProDescription.aspx?Pid=2341&Item=HP Pavilion Ultrabook 15 b002TU Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:16 +0530
+418|laptops_lists|HP Pavilion 15-B002TX Sleekbook|http://www.nikishop.com/ProDescription.aspx?Pid=2339&Item=HP Pavilion Ultrabook 15 b002TX Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:16 +0530
+419|laptops_lists|HP Pavilion 15-B001TU Sleekbook|http://www.nikishop.com/ProDescription.aspx?Pid=2338&Item=HP Pavilion Ultrabook 15 b001TU Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:17 +0530
+420|laptops_lists|Lenovo Ideapad Z580-59-333620 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2328&Item=Lenovo Ideapad Z580 59-333620 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:17 +0530
+421|laptops_lists|Lenovo Ideapad Z580-59-347604 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2327&Item=Lenovo Ideapad Z580 59-347604 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:18 +0530
+422|laptops_lists|Lenovo Ideapad Z580-59-347587 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2326&Item=Lenovo Ideapad Z580 59-347587 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:19 +0530
+423|laptops_lists|Lenovo ThinkPad T430-2349-JCQ Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2293&Item=Lenovo ThinkPad T430 2349JCQ  Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:20 +0530
+424|laptops_lists|Lenovo ThinkPad E530-3259T1Q Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2292&Item=Lenovo E530-3259T1Q ThinkPad Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:20 +0530
+425|laptops_lists|Lenovo ThinkPad E430-3254-T2Q Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2290&Item=Lenovo E430-3254T2Q ThinkPad Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:21 +0530
+426|laptops_lists|Samsung NP300E5X-A0AIN Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2289&Item=Samsung NP300E5X-A0AIN Notebook|0|0|0|0|0|0.0|2013-08-13 22:22:22 +0530
+427|laptops_lists|Toshiba Satellite U840-X4310 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2258&Item=Toshiba Satellite U840-X4310 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:23 +0530
+428|laptops_lists|Toshiba Satellite C850-X5213 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2254&Item=Toshiba Satellite C850-X5213 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:23 +0530
+429|laptops_lists|Lenovo Essential G580-59-342987 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2248&Item=Lenovo Essential G580 59-342987 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:24 +0530
+430|laptops_lists|Lenovo Essential G580-59-355385 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2247&Item=Lenovo Essential G580 59-355385 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:24 +0530
+431|laptops_lists|Lenovo Essential G580-59-345396 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2246&Item=Lenovo Essential G580 59-345396 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:25 +0530
+432|laptops_lists|Lenovo Essential G580-59-344833 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2245&Item=Lenovo Essential G580 59-344833 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:25 +0530
+433|laptops_lists|Asus Eee PC 1015CX-BLK024W Netbook|http://www.nikishop.com/ProDescription.aspx?Pid=2229&Item=Asus Eee 1015CX-BLK024W Netbook|0|0|0|0|0|0.0|2013-08-13 22:22:26 +0530
+434|laptops_lists|Samsung NP300E5C-A04IN Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2093&Item=Samsung NP300E5C-A04IN NoteBook|0|0|0|0|0|0.0|2013-08-13 22:22:26 +0530
+435|laptops_lists|Samsung NP300E5X-A04IN Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2092&Item=Samsung NP300E5X-A04IN NoteBook|0|0|0|0|0|0.0|2013-08-13 22:22:26 +0530
+436|laptops_lists|Lenovo Ideapad U410-59-342779 Ultrabook|http://www.nikishop.com/ProDescription.aspx?Pid=2049&Item=Lenovo Ideapad U410 59-342779 UltraBook Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:27 +0530
+437|laptops_lists|Lenovo Ideapad U410-59-342777 Ultrabook|http://www.nikishop.com/ProDescription.aspx?Pid=2048&Item=Lenovo Ideapad U410 59-342777 UltraBook Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:27 +0530
+438|laptops_lists|Lenovo Ideapad U310-59-342830 Ultrabook|http://www.nikishop.com/ProDescription.aspx?Pid=2047&Item=Lenovo Ideapad U310 59-342830 UltraBook Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:28 +0530
+439|laptops_lists|Lenovo Ideapad U310-59-342832 Ultrabook|http://www.nikishop.com/ProDescription.aspx?Pid=2046&Item=Lenovo Ideapad U310 59-342832 UltraBook Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:28 +0530
+440|laptops_lists|Lenovo Ideapad Z580-59-339354 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2045&Item=Lenovo Ideapad Z580 59-339354 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:29 +0530
+441|laptops_lists|Lenovo Ideapad Z580-59-339351 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2044&Item=Lenovo Ideapad Z580 59-339351 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:29 +0530
+442|laptops_lists|Lenovo Ideapad Z580-59-333642 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2043&Item=Lenovo Ideapad Z580 59-333642 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:30 +0530
+443|laptops_lists|Lenovo Essential G580-59-324058 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2042&Item=Lenovo Essential G580 59-324058 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:31 +0530
+444|laptops_lists|Lenovo Essential G580-59-348965 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2041&Item=Lenovo Essential G580 59-348965 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:31 +0530
+445|laptops_lists|Lenovo Essential G580-59-349281 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2040&Item=Lenovo Essential G580 59-349281 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:32 +0530
+446|laptops_lists|Lenovo Essential G580-59-324011 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2039&Item=Lenovo Essential G580 59-324011 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:32 +0530
+447|laptops_lists|Lenovo Essential G580-59-341688 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2036&Item=Lenovo Essential G580 59-341688 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:33 +0530
+448|laptops_lists|Lenovo Essential G580-59-352561 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2034&Item=Lenovo Essential G580 59-352561 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:34 +0530
+449|laptops_lists|Lenovo ThinkPad X230-2325-3VQ Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2025&Item=Lenovo X230 2325-3VQ ThinkPad Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:34 +0530
+450|laptops_lists|Lenovo ThinkPad E430-3254-N2Q Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2020&Item=Lenovo E430 3254-N2Q ThinkPad Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:35 +0530
+451|laptops_lists|Lenovo ThinkPad E430-3254-T3Q Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2018&Item=Lenovo E430 3254-T3Q ThinkPad Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:35 +0530
+452|laptops_lists|Lenovo ThinkPad Edge E430-3254-D9Q Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2017&Item=Lenovo E430-3254-D9Q ThinkPad Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:36 +0530
+453|laptops_lists|Lenovo ThinkPad E430-3254-D5Q Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2016&Item=Lenovo E430-3254-D5Q ThinkPad Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:36 +0530
+454|laptops_lists|Lenovo Thinkpad E430-3254-AM4 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=2014&Item=Lenovo E430-3254-AM4 ThinkPad Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:37 +0530
+455|laptops_lists|Lenovo Essential B480-59-343081 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1925&Item=Lenovo Essential B480 59-343081 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:37 +0530
+456|laptops_lists|Dell Inspiron 15 3520 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1871&Item=Dell Inspiron 15 (3520) i3-2370 Laptop (Win 7)|0|0|0|0|0|0.0|2013-08-13 22:22:38 +0530
+457|laptops_lists|Dell Inspiron 15 3520 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1869&Item=Dell Inspiron 15 (3520)i3-2370 Laptop(DOS)|0|0|0|0|0|0.0|2013-08-13 22:22:40 +0530
+458|laptops_lists|Dell Inspiron 14 4050 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1861&Item=Dell Inspiron 14 (4050) i5-2450 Laptop(Win8)|0|0|0|0|0|0.0|2013-08-13 22:22:40 +0530
+459|laptops_lists|Dell Inspiron 14 4050 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1860&Item=Dell Inspiron 14 (4050) i3-2350 Laptop(Win8)|0|0|0|0|0|0.0|2013-08-13 22:22:41 +0530
+460|laptops_lists|Dell Inspiron 14 4050 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1859&Item=Dell Inspiron 14(4050) i3-2350 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:42 +0530
+461|laptops_lists|Acer Aspire 5560 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1857&Item=Acer Aspire 5560 AMD  Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:42 +0530
+462|laptops_lists|Acer Aspire E1 531 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1855&Item=Acer Aspire E1-531(Dual Core B960) Laptop(Linux)|0|0|0|0|0|0.0|2013-08-13 22:22:43 +0530
+463|laptops_lists|Acer Aspire E1 431 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1854&Item=Acer Aspire E1-431 B970 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:44 +0530
+464|laptops_lists|Acer Aspire E1-531-BT Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1853&Item=Acer Aspire E1 531 B960 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:45 +0530
+465|laptops_lists|Acer Aspire V3 571G Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1852&Item=Acer Aspire V3-571G (i5- 3210M) Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:45 +0530
+466|laptops_lists|Acer Aspire V3 571G Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1851&Item=Acer Aspire V3-571G i7- 3610QM Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:46 +0530
+467|laptops_lists|Acer Aspire V5 531 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1850&Item=Acer Aspire V5-531(Dual Core B987) Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:46 +0530
+468|laptops_lists|Acer Aspire V5 431 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1849&Item=Acer Aspire V5-431(Dual Core B987) Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:47 +0530
+469|laptops_lists|Acer Aspire V5 571 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1848&Item=Acer Aspire V5-571(i3-3217U) Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:47 +0530
+470|laptops_lists|Acer Aspire V5 571G Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1847&Item=Acer Aspire V5-571G (i5-3317M) Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:48 +0530
+471|laptops_lists|Samsung NP300E5C-A02IN Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1846&Item=Samsung NP300E5C-A02IN NoteBook|0|0|0|0|0|0.0|2013-08-13 22:22:48 +0530
+472|laptops_lists|Samsung NP300E5X-S01IN Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1845&Item=Samsung NP300E5X-S01IN NoteBook|0|0|0|0|0|0.0|2013-08-13 22:22:49 +0530
+473|laptops_lists|Samsung NP300E5Z-S0AIN Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1844&Item=Samsung NP300E5Z-S0AIN NoteBook|0|0|0|0|0|0.0|2013-08-13 22:22:49 +0530
+474|laptops_lists|Samsung NP300E5A-A0AIN Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1843&Item=Samsung NP300E5A-A0AIN NoteBook|0|0|0|0|0|0.0|2013-08-13 22:22:50 +0530
+475|laptops_lists|Toshiba Satellite L850 Satellite L850-Y5310 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1828&Item=Toshiba Satellite L850-Y5310 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:51 +0530
+476|laptops_lists|Toshiba Satellite M840-X4211 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1827&Item=Toshiba Satellite M840-X4211 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:51 +0530
+477|laptops_lists|HP Envy Spectre XT 13-2001TU Ultrabook|http://www.nikishop.com/ProDescription.aspx?Pid=1821&Item=HP ENVY Spectra XT 13-2001TU UltraBook|0|0|0|0|0|0.0|2013-08-13 22:22:52 +0530
+478|laptops_lists|HP Envy 4-1002TX Ultrabook|http://www.nikishop.com/ProDescription.aspx?Pid=1819&Item=HP ENVY 4-1002TX UltraBook|0|0|0|0|0|0.0|2013-08-13 22:22:52 +0530
+479|laptops_lists|HP Envy 6-1002TX Sleekbook|http://www.nikishop.com/ProDescription.aspx?Pid=1818&Item=HP ENVY 6-1002TX Sleek Book|0|0|0|0|0|0.0|2013-08-13 22:22:53 +0530
+480|laptops_lists|HP Envy 4-1037TX Sleekbook|http://www.nikishop.com/ProDescription.aspx?Pid=1817&Item=HP ENVY 4-1037TX Sleek Book|0|0|0|0|0|0.0|2013-08-13 22:22:53 +0530
+481|laptops_lists|HP Envy 4-1003TX Sleekbook|http://www.nikishop.com/ProDescription.aspx?Pid=1811&Item=HP ENVY 4-1003TX Sleek Book|0|0|0|0|0|0.0|2013-08-13 22:22:53 +0530
+482|laptops_lists|HP Envy 6-1011TU Sleekbook|http://www.nikishop.com/ProDescription.aspx?Pid=1810&Item=HP ENVY 6-1011TU Sleek Book|0|0|0|0|0|0.0|2013-08-13 22:22:54 +0530
+483|laptops_lists|HP Pavilion G6-2105TX Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1805&Item=HP Pavilion G6-2105TX Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:54 +0530
+484|laptops_lists|HP Pavilion G6-2102TX Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1800&Item=HP Pavilion G6-2102TX Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:55 +0530
+485|laptops_lists|Lenovo Essential G580-59-324064 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1790&Item=Lenovo Essential G580 59-324064 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:55 +0530
+486|laptops_lists|Lenovo Essential G580-59-347375 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1789&Item=Lenovo Essential G580 59-347375 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:56 +0530
+487|laptops_lists|Lenovo Essential G580-59-335626 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1788&Item=Lenovo Essential G580 59-335626 Laptop (Blue)|0|0|0|0|0|0.0|2013-08-13 22:22:57 +0530
+488|laptops_lists|Lenovo Essential G570-59-340549 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1787&Item=Lenovo Essential G570 59-340549 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:58 +0530
+489|laptops_lists|Lenovo Essential G570-59-337986 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1786&Item=Lenovo Essential G570 59-337986 Laptop|0|0|0|0|0|0.0|2013-08-13 22:22:59 +0530
+490|laptops_lists|Lenovo Ideapad S400-59-340453 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1784&Item=Lenovo ideapad S400 59-340453 Laptop |0|0|0|0|0|0.0|2013-08-13 22:22:59 +0530
+491|laptops_lists|Lenovo Ideapad U310-59-332848 Ultrabook|http://www.nikishop.com/ProDescription.aspx?Pid=1490&Item=Lenovo ideaPad U310 59 332848 Ultra book Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:00 +0530
+492|laptops_lists|Lenovo Ideapad U410-59-332849 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1489&Item=Lenovo ideaPad U410  59 332849 Ultra book Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:00 +0530
+493|laptops_lists|Lenovo Z580-59-339355 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1488&Item=Lenovo ideaPad Z580 59 339355 Laptop |0|0|0|0|0|0.0|2013-08-13 22:23:01 +0530
+494|laptops_lists|Lenovo Ideapad Z370-59-342158 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1487&Item=Lenovo ideapad Z370 59342158 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:01 +0530
+495|laptops_lists|Lenovo Ideapad Z580-59-322641 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1454&Item=Lenovo IdeaPad Z580 59-322641 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:02 +0530
+496|laptops_lists|Lenovo Ideapad Z580-59-333630 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1453&Item=Lenovo ideaPad Z580 -59-333630 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:02 +0530
+497|laptops_lists|Dell Inspiron 14z Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1452&Item=Dell Inspiron 14Z N5423 i7-3517U Ultrabook  Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:03 +0530
+498|laptops_lists|Lenovo Thinkpad T420-4236-PUQ Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1391&Item=Lenovo ThinkPad T420 4236-PUQ Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:04 +0530
+499|laptops_lists|Acer Aspire E1 571 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1388&Item=Acer Aspire E1-571 Core i3 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:05 +0530
+500|laptops_lists|Acer Aspire E1 431 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1383&Item=Acer Aspire E1-431 B960 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:05 +0530
+501|laptops_lists|Acer Aspire V3 571G Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1375&Item=Acer Aspire V3-571G Core i3 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:06 +0530
+502|laptops_lists|Acer Aspire V3 571G Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1374&Item=Acer Aspire V3-571G Core i5 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:06 +0530
+503|laptops_lists|Toshiba Satellite C850-X5212 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1370&Item=Toshiba Satellite C850-X5212  Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:07 +0530
+504|laptops_lists|Toshiba Satellite C850-X5211 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1368&Item=Toshiba Satellite C850-X5211 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:07 +0530
+505|laptops_lists|Toshiba Satellite C850-I5212 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1366&Item=Toshiba Satellite C850-I5212 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:07 +0530
+506|laptops_lists|Toshiba Satellite C840-I4210 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1365&Item=Toshiba Satellite C840-I4210 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:08 +0530
+507|laptops_lists|Toshiba Satellite C840-I4010 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1353&Item=Toshiba Satellite C840-I4010 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:09 +0530
+508|laptops_lists|HP Envy 4-1023TU Sleekbook|http://www.nikishop.com/ProDescription.aspx?Pid=1321&Item=HP Envy 4-1023TU Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:09 +0530
+509|laptops_lists|HP Pavilion G6-2103TU Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1319&Item=HP Pavilion g6-2103TU Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:10 +0530
+510|laptops_lists|HP Pavilion G6-2101TU Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1317&Item=HP Pavilion G series  G6-2101TU Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:10 +0530
+511|laptops_lists|HP Pavilion DV6-7040TX Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1315&Item=HP Pavilion  DV6-7040TX Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:11 +0530
+512|laptops_lists|HP Envy 4-1002TX Ultrabook|http://www.nikishop.com/ProDescription.aspx?Pid=1313&Item=HP ENVY 4-1002TU Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:11 +0530
+513|laptops_lists|HP 2000 2116TU Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1311&Item=HP 2000-2116TU Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:12 +0530
+514|laptops_lists|Dell Inspiron 14z Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1304&Item=Dell Inspiron 14Z N5423 i5-3317U Ultrabook  Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:12 +0530
+515|laptops_lists|Dell Inspiron 14z Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1303&Item=Dell Inspiron 14Z N5423 i3-2367 Ultrabook Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:13 +0530
+516|laptops_lists|Dell Inspiron 15R Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1302&Item=Dell Inspiron 15R i7-3612QM Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:13 +0530
+517|laptops_lists|Dell Inspiron 15R Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1301&Item=Dell Inspiron 15R i5-3210 (5520) Laptop Win 7HB|0|0|0|0|0|0.0|2013-08-13 22:23:14 +0530
+518|laptops_lists|Dell Inspiron 15R Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1300&Item=Dell Inspiron 15R i5-3210 (5520)  Laptop With 1 TB|0|0|0|0|0|0.0|2013-08-13 22:23:14 +0530
+519|laptops_lists|Dell Inspiron 15R Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1299&Item=Dell Inspiron 15R i5-3210 (5520)3rd gen Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:15 +0530
+520|laptops_lists|Lenovo Ideapad Z580-59-338105 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1294&Item=Lenovo ideaPad Z580 59-338105 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:16 +0530
+521|laptops_lists|Lenovo Essential G580-59-324061 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1293&Item=Lenovo Essential G580 59-324061 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:17 +0530
+522|laptops_lists|Lenovo Essential G580-59-337031 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1292&Item=Lenovo Essential G580 59-337031 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:17 +0530
+523|laptops_lists|Lenovo Essential G580-59-337032 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1284&Item=Lenovo Essential G580 59-337032 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:18 +0530
+524|laptops_lists|Lenovo Essential G580-59-335617 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1283&Item=Lenovo Essential G580 59-335617 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:18 +0530
+525|laptops_lists|Lenovo Ideapad S110-59-328520 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1263&Item=Lenovo ideaPad S110 59-328520 Netbook|0|0|0|0|0|0.0|2013-08-13 22:23:19 +0530
+526|laptops_lists|Lenovo Ideapad Z580-59-333347 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1259&Item=Lenovo ideaPad Z580 -59-333347 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:20 +0530
+527|laptops_lists|Lenovo Ideapad Z580-59-333346 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1258&Item=Lenovo ideaPad Z580 -59-333346 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:20 +0530
+528|laptops_lists|Lenovo Z580-59-333345 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1257&Item=Lenovo ideaPad Z580 -59-333345 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:21 +0530
+529|laptops_lists|Lenovo Ideapad Z580-59-333651 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1256&Item=Lenovo ideaPad Z580 -59-333651 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:22 +0530
+530|laptops_lists|HP Pavilion G6-1318AX Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1250&Item=HP Pavilion G6 Series 1318AX Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:22 +0530
+531|laptops_lists|Dell Vostro 1550 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1177&Item=Dell Vostro 1550 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:23 +0530
+532|laptops_lists|Dell Vostro 1450 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1169&Item=Dell Vostro 1450 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:23 +0530
+533|laptops_lists|Dell XPS 13 Ultrabook|http://www.nikishop.com/ProDescription.aspx?Pid=1137&Item=Dell XPS 13 i7-2637M Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:24 +0530
+534|laptops_lists|Dell XPS 13 Ultrabook|http://www.nikishop.com/ProDescription.aspx?Pid=1136&Item=Dell XPS 13 i5-2467M Laptop With 256GB SSD|0|0|0|0|0|0.0|2013-08-13 22:23:24 +0530
+535|laptops_lists|Dell XPS 13 Ultrabook|http://www.nikishop.com/ProDescription.aspx?Pid=1135&Item=Dell XPS 13 i5-2467M Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:24 +0530
+536|laptops_lists|Dell Inspiron 15R Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1129&Item=Dell Inspiron 15R i3-2350M (4110) Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:25 +0530
+537|laptops_lists|Dell Inspiron 14R Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1127&Item=Dell Inspiron 14R i5-2450M (4050) Laptop With 1TB |0|0|0|0|0|0.0|2013-08-13 22:23:25 +0530
+538|laptops_lists|Dell Inspiron 14R Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1126&Item=Dell Inspiron 14R i5-2450M (4050) Laptop With 1GB |0|0|0|0|0|0.0|2013-08-13 22:23:26 +0530
+539|laptops_lists|Asus Eee PC 1015CX-BLK024W Netbook|http://www.nikishop.com/ProDescription.aspx?Pid=1123&Item=Asus 1015CX-BLK019W Netbook|0|0|0|0|0|0.0|2013-08-13 22:23:26 +0530
+540|laptops_lists|Samsung NP300E5E-A03IN Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1106&Item=Samsung NP305E5A -A03IN Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:27 +0530
+541|laptops_lists|Acer Aspire 5733z Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1086&Item=Acer Aspire 5733Z Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:27 +0530
+542|laptops_lists|Toshiba NB510-A1110 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1084&Item=Toshiba NB510-A1110 Netbook|0|0|0|0|0|0.0|2013-08-13 22:23:28 +0530
+543|laptops_lists|Toshiba Satellite C850-I5010 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1082&Item=Toshiba satellite C850-i5010 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:28 +0530
+544|laptops_lists|Toshiba Satellite C850-P5210 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1081&Item=Toshiba Satellite C850-P5210 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:28 +0530
+545|laptops_lists|Toshiba Satellite C850-P5011 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1075&Item=Toshiba Satellite C850-P5011 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:29 +0530
+546|laptops_lists|Asus K53SM-SX130D Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1074&Item=Asus K53SM-SX130D Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:29 +0530
+547|laptops_lists|Asus X54C-SX365D Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1065&Item=Asus X54C-SX365D Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:30 +0530
+548|laptops_lists|Asus X54C-SX316D Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1062&Item=Asus X54C-SX316D Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:30 +0530
+549|laptops_lists|Asus X53U-SX181D Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1055&Item=Asus X53U-SX181D Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:31 +0530
+550|laptops_lists|Toshiba Satellite C850-P5010 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1054&Item=Toshiba Satellite C850-P5010 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:31 +0530
+551|laptops_lists|Lenovo Essential G560-59-328960 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=1043&Item=Lenovo Essential G560 59-328960 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:33 +0530
+552|laptops_lists|Asus K53SM-SX010D Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=966&Item=Asus K53SM-SX010D Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:34 +0530
+553|laptops_lists|HP Mini 110-4108TU Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=890&Item=HP Mini -110 4108TU Netbook|0|0|0|0|0|0.0|2013-08-13 22:23:35 +0530
+554|laptops_lists|HP Pavilion G6-2007TX Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=880&Item=HP Pavilion g Series Laptop g6-2007TX|0|0|0|0|0|0.0|2013-08-13 22:23:35 +0530
+555|laptops_lists|HP Pavilion G6-2009TX Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=878&Item=HP Pavilion G Series Laptop g6-2009TX |0|0|0|0|0|0.0|2013-08-13 22:23:36 +0530
+556|laptops_lists|Toshiba Satellite L740-X4211 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=668&Item=Toshiba Satellite L740- X4211 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:36 +0530
+557|laptops_lists|Toshiba Satellite L740-X4010 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=667&Item=Toshiba Satellite L740 X4010 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:37 +0530
+558|laptops_lists|Toshiba Satellite L740-X4010 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=666&Item=Toshiba Satellite L740  P4010 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:37 +0530
+559|laptops_lists|Toshiba Satellite L750-X531B Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=664&Item=Toshiba Satellite L750 X531B Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:38 +0530
+560|laptops_lists|Toshiba Satellite L750-I5010 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=659&Item=Toshiba Satellite L750-i5010 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:38 +0530
+561|laptops_lists|Lenovo Ideapad Z570-59-321453 Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=620&Item=Lenovo ideaPad Z570 59-321453 Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:39 +0530
+562|laptops_lists|Dell Inspiron 15R Laptop|http://www.nikishop.com/ProDescription.aspx?Pid=491&Item=Dell Inspiron 15R i3 2350M (5110) Laptop|0|0|0|0|0|0.0|2013-08-13 22:23:39 +0530
+741|tablets_lists|Lenovo Idea Tab A1000 Tablet|http://www.nikishop.com/ProDescription.aspx?Pid=3105&Item=Lenovo idea Tab A1000 Tablet|0|0|0|0|0|0.0|2013-08-13 22:23:40 +0530
+742|tablets_lists|Asus MeMO Pad ME172V Tablet|http://www.nikishop.com/ProDescription.aspx?Pid=3073&Item=Asus MeMO Pad ME172-1G070A|0|0|0|0|0|0.0|2013-08-13 22:23:40 +0530
+744|speakers_lists|F&D A111 2.1|http://www.nikishop.com/ProDescription.aspx?Pid=2918&Item=F&D A111 2.1 Speakers|0|0|0|0|0|0.0|2013-08-13 22:23:43 +0530
+745|speakers_lists|F&D A510 2.1 Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=2917&Item=F&D A510 2.1 Speakers|0|0|0|0|0|0.0|2013-08-13 22:23:44 +0530
+746|speakers_lists|F&D F203G 2.1 Multimedia Speakers|http://www.nikishop.com/ProDescription.aspx?Pid=2914&Item=F&D F203G 2.1 Speakers|0|0|0|0|0|0.0|2013-08-13 22:23:44 +0530
+747|headphones_lists|Sony DR-310DPV Over-the-ear Headphone|http://www.nikishop.com/ProDescription.aspx?Pid=3031&Item=Sony DR-310DPV PC  Headphones|0|0|0|0|0|0.0|2013-08-13 22:23:45 +0530
+748|headphones_lists|Sony MDR-ZX100-B On-the-ear Headphone|http://www.nikishop.com/ProDescription.aspx?Pid=3027&Item=Sony MDR ZX100 EarPhones|0|0|0|0|0|0.0|2013-08-13 22:23:45 +0530
+749|headphones_lists|Sony MDR-EX100LP In-the-ear Headphone|http://www.nikishop.com/ProDescription.aspx?Pid=3023&Item=Sony MDR EX100LP EX Monitor Headphone|0|0|0|0|0|0.0|2013-08-13 22:23:46 +0530
+750|headphones_lists|Sony MDR-E9A Headphone|http://www.nikishop.com/ProDescription.aspx?Pid=3021&Item=Sony MDR E9A In Ear Headphone|0|0|0|0|0|0.0|2013-08-13 22:23:46 +0530
+754|keyboards_lists|Dell KM632 Wireless Keyboard and Mouse Combo|http://www.nikishop.com/ProDescription.aspx?Pid=2097&Item=Dell KM632 Wireless Keyboard and mouse Combo.|0|0|0|0|0|0.0|2013-08-13 22:23:47 +0530
+755|keyboards_lists|Frontech JIL-1660 PS-2 Keyboard and Mouse Combo|http://www.nikishop.com/ProDescription.aspx?Pid=1633&Item=Frontech 1660 MultiMedia Keyboard  Optical Mouse|0|0|0|0|0|0.0|2013-08-13 22:23:47 +0530
+====Starting online_bigbuy_products | product_id====
+17|desktops_lists|HP Omni 105-5510IX All-in-One (2nd Gen Ci3|http://www.bigbuy.in/product.php?id_product=1621|0|0|0|0|0|0.0|2013-08-13 22:24:08 +0530
+18|desktops_lists|HP Brazo 18-1106IN All-in-One (APU Dual Core|http://www.bigbuy.in/product.php?id_product=1531|0|0|0|0|0|0.0|2013-08-13 22:24:11 +0530
+32|desktops_lists|HP Omni 120-1160IN|http://www.bigbuy.in/product.php?id_product=1159|0|0|0|0|0|0.0|2013-08-13 22:24:38 +0530
+33|desktops_lists|HP Omni 120-1120IN All-in-One (2nd Gen PDC|http://www.bigbuy.in/product.php?id_product=1156|0|0|0|0|0|0.0|2013-08-13 22:24:39 +0530
+34|desktops_lists|HP Omni 120-2111IN All-in-One (2nd PDC|http://www.bigbuy.in/product.php?id_product=1154|0|0|0|0|0|0.0|2013-08-13 22:24:40 +0530
+35|desktops_lists|HP DreamScreen 400|http://www.bigbuy.in/product.php?id_product=1152|0|0|0|0|0|0.0|2013-08-13 22:24:41 +0530
+36|desktops_lists|HP Omni 120-1111IN|http://www.bigbuy.in/product.php?id_product=1150|0|0|0|0|0|0.0|2013-08-13 22:24:43 +0530
+38|desktops_lists|HP Omni 120-1020IN|http://www.bigbuy.in/product.php?id_product=567|0|0|0|0|0|0.0|2013-08-13 22:24:47 +0530
+47|tablets_lists|iBall Slide 6309r Tablet|http://www.bigbuy.in/product.php?id_product=1633|0|0|0|0|0|0.0|2013-08-13 22:24:50 +0530
+54|tablets_lists|Acer Iconia W500|http://www.bigbuy.in/product.php?id_product=1420|0|0|0|0|0|0.0|2013-08-13 22:25:04 +0530
+104|mobiles_lists|Nokia 1280|http://www.bigbuy.in/1758-nokia-1280-black-.html|0|0|0|0|0|0.0|2013-08-13 22:26:11 +0530
+====Starting online_infibeam_products | product_id====
+1589|tablets_lists|Apple 16GB iPad Mini with Wi-Fi and Cellular|http://www.infibeam.com/Portable_Electronics/i-Apple-iPad-4-Wifi-Cellular/P-E-PE-Apple-iPad4-Cellular.html#variantId=P-E-PE-Apple-iPad4-Cellular-16-Black|0|0|0|0|0|0.0|2013-08-13 22:26:36 +0530
+1934|mouses_lists|Dell WM112 Wireless Optical Mouse|http://www.infibeam.com/Mouse_Keyboard/i-Dell-WM112-Optical-Wireless-Mouse/P-CA-KM-Dell-WM112.html?id=Black#variantId=P-CA-KM-Dell-WM112-Black|0|0|0|0|0|0.0|2013-08-13 22:28:55 +0530
+1996|headphones_lists|Sony MDR-ZX100-B On-the-ear Headphone|http://www.infibeam.com/Headphone/i-Sony-MDR-ZX100-Headphone/P-E-H-Sony-SO-MDR-ZX100-BLACK.html?id=0-Black#variantId=P-E-H-Sony-SO-MDR-ZX100-BLACK-0-Black|0|0|0|0|0|0.0|2013-08-13 22:29:37 +0530
+2072|printers_lists|HP Deskjet 1000 - J110a Single Function Inkjet Printer|http://www.infibeam.com/Printer_Scanner/i-HP-Deskjet-1000-Printer-J110a/P-CA-PS-HP-914U897-CH340D.html?id=Grey#variantId=P-CA-PS-HP-914U897-CH340D-Grey|0|0|0|0|0|0.0|2013-08-13 22:29:45 +0530
+2084|printers_lists|Canon PIXMA MG3170 Multifunction Inkjet Printer|http://www.infibeam.com/printers/canon-pixma-mg3170-multifunction-inkjet-printer/P-coac-99667510496-cat-z.html#variantId=P-coac-90814806245|0|0|0|0|0|0.0|2013-08-13 22:29:52 +0530
+====Starting online_grabmore_products | product_id====
+====Starting online_futurebazaar_products | product_id====
+====Starting online_mirchimart_products | product_id====
+1622|routers_lists|Netgear DGN2200 ADSL2+ Wireless N300 Router With Modem|http://www.mirchimart.com/Netgear-N300-ADSL2&;jsessionid=95ECE62E77ACE4A20F19FCAE6F540DBB.jvm1#43;-Wireless-Router-with-Modem-DGN2200/Routers/p/79WFE3X5DG0|0|0|0|0|0|0.0|2013-08-13 23:14:27 +0530
+1624|routers_lists|Netgear DGN2200 ADSL2+ Wireless N300 Router With Modem|http://www.mirchimart.com/Netgear-N600-ADSL2&;jsessionid=95ECE62E77ACE4A20F19FCAE6F540DBB.jvm1#43;-Wireless-Router-with-Modem-DGND3700/Routers/p/GB9ECLJM6MW|0|0|0|0|0|0.0|2013-08-13 23:14:28 +0530
+1636|desktops_lists|HP Pavilion 20-B086IN All-in-One (2nd Gen PDC|0|0|0|0|0|0|0.0|2013-08-13 23:14:34 +0530
+1640|desktops_lists|HP Omni 120-1120IN All-in-One (2nd Gen PDC|0|0|0|0|0|0|0.0|2013-08-13 23:14:37 +0530
+1647|desktops_lists|HP Pavilion 20-B083IN All-in-One (2nd Gen Ci3|in stock|0|0|0|0|0|0.0|2013-08-13 23:14:41 +0530
+1649|desktops_lists|HP Omni 120-1232IL All-in-One (Celeron Dual Core|0|0|0|0|0|0|0.0|2013-08-13 23:14:42 +0530
+1731|tablets_lists|Micromax Funbook Infinity P275 Tablet|http://www.mirchimart.com/Micromax-Funbook-Infinity-P275-Tablet--WiFi-4GB/Tablet/p/S9Z9Q3FA191CK3|0|0|0|0|0|0.0|2013-08-13 23:17:07 +0530
+1772|mobiles_lists|Karbonn A9|http://www.mirchimart.com/Karbonn-A9&;jsessionid=F2FC7B86943E191DD3C3E806D498B7F1.jvm1#43;-Black-Mobile/Mobiles/p/5PG1MD1WCT1CUT1|0|0|0|0|0|0.0|2013-08-13 23:19:29 +0530
+2011|mobiles_lists|Micromax X274|http://www.mirchimart.com/Micromax-X274-Black--Red/Mobiles/p/1K0Q6IJYM7CWN24N|0|0|0|0|0|0.0|2013-08-13 23:23:00 +0530
+2013|mobiles_lists|Micromax X274|http://www.mirchimart.com/Micromax-X274-Black--Blue/Mobiles/p/5YGGHRPWW2GWDNJF|0|0|0|0|0|0.0|2013-08-13 23:23:02 +0530
+2309|printers_lists|HP Officejet 4500 - G510h Multifunction Inkjet Printer|http://www.mirchimart.com/HP-Officejet-4500-AllinOne-G510h-Printer/Printers/p/W4QG5S3OMARK9B|0|0|0|0|0|0.0|2013-08-13 23:24:07 +0530
+2725|mobiles_lists|Karbonn A1+|http://www.mirchimart.com/Karbonn-A1&|0|0|0|0|0|0.0|2013-08-13 23:30:32 +0530
+====Starting online_univercell_products | product_id====
+====Starting online_indiatimes_products | product_id====
+====Starting online_shopclues_products | product_id====
+2|external_hdds_lists|Dell Backup Plus 1TB USB 3.0 Portable hard drive|http://www.shopclues.com/dell-back-up-plus-1tb-hard-drive-en.html|0|0|0|0|0|0.0|2013-08-14 00:22:51 +0530
+4|external_hdds_lists|Dell Backup Plus 1TB USB 3.0 Portable hard drive|http://www.shopclues.com/dell-backup-plus-1tb-usb-3.0-portable-hard-drive-black.html|0|0|0|0|0|0.0|2013-08-14 00:22:54 +0530
+5|external_hdds_lists|Seagate Backup Plus Desktop 4 TB External Hard Disk|http://www.shopclues.com/seagate-backup-plus-desktop-drive-4-tb-external.html|0|0|0|0|0|0.0|2013-08-14 00:22:56 +0530
+7|external_hdds_lists|Seagate Backup Plus 500 GB External Hard Disk|http://www.shopclues.com/seagate-backup-plus-500-gb-external-hard-disk-159658.html|0|0|0|0|0|0.0|2013-08-14 00:23:00 +0530
+14|external_hdds_lists|Dell Backup Plus 1TB USB 3.0 Portable hard drive|http://www.shopclues.com/new-dell-backup-plus-1tb-usb-3.0-portable-hard-drive--best-price...html|0|0|0|0|0|0.0|2013-08-14 00:23:14 +0530
+15|external_hdds_lists|Seagate Expansion External 2 TB USB 3.0 Hard Drive|http://www.shopclues.com/seagate-expansion-external-drive-2-tb-stbv2000300.html|0|0|0|0|0|0.0|2013-08-14 00:23:16 +0530
+16|external_hdds_lists|Sony HD-E1 2.5 inch 1 TB External Hard Drive|http://www.shopclues.com/sony-1tb-external-portable-hard-disk-hd-e1.html|0|0|0|0|0|0.0|2013-08-14 00:23:19 +0530
+17|external_hdds_lists|Hitachi Touro Pro 500 GB External Hard Disk|http://www.shopclues.com/hitachi-touro-pro-500-gb-external-hard-disk.html|0|0|0|0|0|0.0|2013-08-14 00:23:21 +0530
+20|external_hdds_lists|WD Elements SE 1 TB USB 3.0 Hard Drive|http://www.shopclues.com/wd-elements-se-1-tb-usb-3.0-hard-drive-black.html|0|0|0|0|0|0.0|2013-08-14 00:23:27 +0530
+21|external_hdds_lists|Seagate Expansion 2.5 inch 500 GB External Hard Disk|http://www.shopclues.com/seagate-expansion-500-gb-external-hard-disk.html|0|0|0|0|0|0.0|2013-08-14 00:23:29 +0530
+22|external_hdds_lists|WD My Passport 1 TB External Hard Disk|http://www.shopclues.com/new-wd-western-digital-my-passport-500gb-2.5-usb-3.0-2.0-portable-hard-disk-clone.html|0|0|0|0|0|0.0|2013-08-14 00:23:31 +0530
+23|external_hdds_lists|Sony HD-EG5-B 2.5 inch 500 GB External Hard Drive|http://www.shopclues.com/sony-hd-eg5-s-2.5-inch-500-gb-external-hard-disk-silver.html|0|0|0|0|0|0.0|2013-08-14 00:23:33 +0530
+24|external_hdds_lists|Sony HD-E1 2.5 inch 1 TB External Hard Drive|http://www.shopclues.com/sony-1tb-external-portable-hard-disk-hd-e1-clone.html|0|0|0|0|0|0.0|2013-08-14 00:23:35 +0530
+25|external_hdds_lists|HP 500 GB USB 3.0 portable Hard Disk|http://www.shopclues.com/hp-500-gb-usb-3.0-portable-hard-disk-black-en-2-3.html|0|0|0|0|0|0.0|2013-08-14 00:23:37 +0530
+30|external_hdds_lists|Toshiba Canvio Basic 500 GB External Hard Disk|http://www.shopclues.com/500gb-toshiba-external-portable-usb-canvio-basic-hdd-usb-3.0-500-gb.html|0|0|0|0|0|0.0|2013-08-14 00:23:46 +0530
+39|routers_lists|Netgear JNR1010 N150 Wireless Router|http://www.shopclues.com/netgear-n150-wireless-router-jnr1010.html|0|0|0|0|0|0.0|2013-08-14 00:24:05 +0530
+54|routers_lists|Cisco Linksys E900 Wireless-N300 Router|http://www.shopclues.com/cisco-linksys-e900-eu-en.html|0|0|0|0|0|0.0|2013-08-14 00:24:35 +0530
+66|routers_lists|Zebronics Wireless Router NWZ-WR150A|http://www.shopclues.com/zebronics-wireless-router-with-usb-port-for-3g-nwz-wr150a-3g-2year-warranty.html|0|0|0|0|0|0.0|2013-08-14 00:25:03 +0530
+73|routers_lists|D-Link DIR-600L Wireless N150 Cloud Router|http://www.shopclues.com/dlink-dir-600l-wireless-n150-home-cloud-router-d-link-en.html|0|0|0|0|0|0.0|2013-08-14 00:25:17 +0530
+81|routers_lists|Netgear WN2000RPT Universal WiFi Range Extender|http://www.shopclues.com/netgear-wn2000rpt-universal-wifi-range-extender-router.html|0|0|0|0|0|0.0|2013-08-14 00:25:35 +0530
+104|routers_lists|Belkin N150 Wireless Modem Router|http://www.shopclues.com/belkin-n150-router-and-modem-f9j1004zb-with-bill.html|0|0|0|0|0|0.0|2013-08-14 00:26:25 +0530
+115|routers_lists|Belkin N600 DB Wireless Dual-Band N|http://www.shopclues.com/belkin-n600-db-wireless-dual-band-n-router-f9k1102zb-en.html|0|0|0|0|0|0.0|2013-08-14 00:26:49 +0530
+117|routers_lists|Belkin N750 DB Wireless Dual-Band N Router|http://www.shopclues.com/belkin-n750-db-wireless-dual-band-n-router-f9k1103zb-en-2.html|0|0|0|0|0|0.0|2013-08-14 00:26:51 +0530
+128|routers_lists|Iball 150M Wireless-N ADSL2+ Router|http://www.shopclues.com/iball-150m-wireless-n-adsl2-router-en.html|0|0|0|0|0|0.0|2013-08-14 00:27:15 +0530
+129|routers_lists|iBall 300M Wireless-N Router|http://www.shopclues.com/iball-300mbps-wireless-n-router.html|0|0|0|0|0|0.0|2013-08-14 00:27:17 +0530
+130|routers_lists|iBall Baton 3G+ Wi-Fi Travel Router (with Built-in Battery)|http://www.shopclues.com/iball-baton-3g-wi-fi-travel-router-with-built-in-battery.html|0|0|0|0|0|0.0|2013-08-14 00:27:19 +0530
+133|routers_lists|iBall 3G+ Wi-Fi Travel Router|http://www.shopclues.com/iball-3g-wi-fi-travel-router.html|0|0|0|0|0|0.0|2013-08-14 00:27:25 +0530
+175|desktops_lists|HP Envy 23-D020IN TouchSmart All-in-One (3rd Gen Ci5|http://www.shopclues.com/hp-envy-23-d020in-23-led-hd-desktop.html|0|0|0|0|0|0.0|2013-08-14 00:28:13 +0530
+176|desktops_lists|HP Pavilion 23-B026IN All-in-One (3rd Gen Ci5|http://www.shopclues.com/hp-23-b026in-23-led-hd-desktop.html|0|0|0|0|0|0.0|2013-08-14 00:28:15 +0530
+177|desktops_lists|HP Omni 27-1010IN|http://www.shopclues.com/hp-27-1010in-27-desktop.html|0|0|0|0|0|0.0|2013-08-14 00:28:17 +0530
+180|desktops_lists|HP Omni 120-1020IN|http://www.shopclues.com/hp-120-1020in-20-desktop-black.html|0|0|0|0|0|0.0|2013-08-14 00:28:23 +0530
+181|desktops_lists|HP Pavilion 23-B025IN All-in-One (2nd Gen Ci3|http://www.shopclues.com/hp-23-b025in-23-led-hd-desktop.html|0|0|0|0|0|0.0|2013-08-14 00:28:25 +0530
+182|desktops_lists|HP Omni 120-1160IN|http://www.shopclues.com/hp-120-1160in-20-desktop-white.html|0|0|0|0|0|0.0|2013-08-14 00:28:28 +0530
+184|desktops_lists|HP Pavilion 20-B086IN All-in-One (2nd Gen PDC|http://www.shopclues.com/hp-20-b086in-20-hd-desktop.html|0|0|0|0|0|0.0|2013-08-14 00:28:31 +0530
+185|desktops_lists|HP Omni 120-1160IN|http://www.shopclues.com/hp-120-1160in-20-desktop-black.html|0|0|0|0|0|0.0|2013-08-14 00:28:33 +0530
+186|desktops_lists|HP Pavilion 20-B083IN All-in-One (2nd Gen Ci3|http://www.shopclues.com/hp-20-b083in-20-hd-desktop.html|0|0|0|0|0|0.0|2013-08-14 00:28:35 +0530
+187|desktops_lists|HP Omni 100-6110IX|http://www.shopclues.com/hp-100-6110ix-20.0-desktop.html|0|0|0|0|0|0.0|2013-08-14 00:28:38 +0530
+188|desktops_lists|HP Omni 120-1020IN|http://www.shopclues.com/hp-120-1020in-20-desktop-white.html|0|0|0|0|0|0.0|2013-08-14 00:28:40 +0530
+222|tablets_lists|Samsung Galaxy Tab 2 P3100|http://www.shopclues.com/samsung-galaxy-tab-2-p3100-marble-white.html|0|0|0|0|0|0.0|2013-08-14 00:28:46 +0530
+223|tablets_lists|Samsung Galaxy Tab 2 P3110|http://www.shopclues.com/samsung-galaxy-tab-2-p3110-white-en.html|0|0|0|0|0|0.0|2013-08-14 00:28:48 +0530
+225|tablets_lists|Samsung Galaxy Tab 2 P3110|http://www.shopclues.com/samsung-galaxy-tab2-p3110-wifi-only-silver.html|0|0|0|0|0|0.0|2013-08-14 00:28:52 +0530
+226|tablets_lists|Samsung Galaxy Tab 2 P3100|http://www.shopclues.com/samsung-galaxy-tab-2-p3100-titanium-silver-en-2-3-4.html|0|0|0|0|0|0.0|2013-08-14 00:28:54 +0530
+230|tablets_lists|Micromax Funbook Talk P362 Tablet|http://www.shopclues.com/micromax-funbook-talk-p362-grey.html|0|0|0|0|0|0.0|2013-08-14 00:29:03 +0530
+232|tablets_lists|Samsung Galaxy Tab 2 P3110|http://www.shopclues.com/samsung-tab2-p3110-pure-white.html|0|0|0|0|0|0.0|2013-08-14 00:29:07 +0530
+233|tablets_lists|Samsung Galaxy Tab 2 P3110|http://www.shopclues.com/samsung-galaxy-tab-2-p3110-white.html|0|0|0|0|0|0.0|2013-08-14 00:29:09 +0530
+234|tablets_lists|Samsung Galaxy Tab 2 P3100|http://www.shopclues.com/samsung-galaxy-tab-2-p3100-pure-white.html|0|0|0|0|0|0.0|2013-08-14 00:29:12 +0530
+238|tablets_lists|Micromax Funbook Talk P360 Tablet|http://www.shopclues.com/micromax-funbook-talk-p360.html|0|0|0|0|0|0.0|2013-08-14 00:29:20 +0530
+239|tablets_lists|Samsung Galaxy Tab 2 P3100|http://www.shopclues.com/samsung-galaxy-tab-2-p3100-titanium-silver-wi-fi-3g-16-gb-en-2.html|0|0|0|0|0|0.0|2013-08-14 00:29:22 +0530
+241|tablets_lists|Micromax Funbook Alpha P250 Tablet|http://www.shopclues.com/micromax-funbook-alpha-p250-tablet-en-2-3-4.html|0|0|0|0|0|0.0|2013-08-14 00:29:27 +0530
+242|tablets_lists|HCL ME Tablet U1|http://www.shopclues.com/hcl-me-u1-tablet-white.html|0|0|0|0|0|0.0|2013-08-14 00:29:29 +0530
+244|tablets_lists|iBall Slide i6516 Tablet|http://www.shopclues.com/iball-slide-i6516-tablet-black-with-white.html|0|0|0|0|0|0.0|2013-08-14 00:29:34 +0530
+247|tablets_lists|iBall Slide i6012 Tablet|http://www.shopclues.com/iball-slide-i6012-en.html|0|0|0|0|0|0.0|2013-08-14 00:29:39 +0530
+252|tablets_lists|iBall Slide i7218|http://www.shopclues.com/iball-slide-i7218-tablet-en.html|0|0|0|0|0|0.0|2013-08-14 00:29:51 +0530
+254|tablets_lists|Samsung Galaxy Tab 2 P3100|http://www.shopclues.com/samsung-galaxy-tab-2-p3100-white-wi-fi-3g-16-gb.html|0|0|0|0|0|0.0|2013-08-14 00:29:54 +0530
+257|tablets_lists|Micromax Funbook Talk P362 Tablet|http://www.shopclues.com/micromax-funbook-talk-p362-tablet.html|0|0|0|0|0|0.0|2013-08-14 00:30:00 +0530
+259|tablets_lists|Karbonn Smart Tab 8 Tablet|http://www.shopclues.com/karbonn-smart-tab-8-velox-with-jelly-bean-os.html|0|0|0|0|0|0.0|2013-08-14 00:30:18 +0530
+262|tablets_lists|iBall Slide 3G 7271 Tablet|http://www.shopclues.com/iball-slide-3g-7271-en.html|0|0|0|0|0|0.0|2013-08-14 00:30:25 +0530
+264|tablets_lists|Micromax Funbook Infinity P275 Tablet|http://www.shopclues.com/new-micromax-funbook-infinity-p275-tablet-black-wi-fi-4gb-android-4.0-tablet-with-voice--best-price...html|0|0|0|0|0|0.0|2013-08-14 00:30:30 +0530
+266|tablets_lists|HCL ME Connect 2G 2.0 Tablet|http://www.shopclues.com/hcl-me-connect-2g-tablet.html|0|0|0|0|0|0.0|2013-08-14 00:30:33 +0530
+267|tablets_lists|Micromax Funbook Talk P362 Tablet|http://www.shopclues.com/micromax-p362-funbook-talk.html|0|0|0|0|0|0.0|2013-08-14 00:30:35 +0530
+268|tablets_lists|Karbonn Smart Tab3 Blade Tablet|http://www.shopclues.com/karbonn-smart-tab3-blade-tablet-wi-fi-en-2-3.html|0|0|0|0|0|0.0|2013-08-14 00:30:37 +0530
+269|tablets_lists|Asus PadFone|http://www.shopclues.com/asus-fonepad-me371mg-1b058a-7-tablet-titanium-gray.html|0|0|0|0|0|0.0|2013-08-14 00:30:39 +0530
+270|tablets_lists|Karbonn Smart Tab 8 Tablet|http://www.shopclues.com/karbonn-smart-tab-8-tablet-black.html|0|0|0|0|0|0.0|2013-08-14 00:30:40 +0530
+273|tablets_lists|Samsung Galaxy Tab 2 P3100|in stock|0|0|0|0|0|0.0|2013-08-14 00:30:45 +0530
+274|tablets_lists|Samsung Galaxy Tab 2 P3110|http://www.shopclues.com/samsung-galaxy-tab-2-p3110-pure-white-wi-fi-16-gb.html|0|0|0|0|0|0.0|2013-08-14 00:30:46 +0530
+275|tablets_lists|iBall Slide i6012 Tablet|http://www.shopclues.com/iball-slide-i6012-tablet.html|0|0|0|0|0|0.0|2013-08-14 00:30:48 +0530
+276|tablets_lists|Karbonn Smart A37 Tablet|http://www.shopclues.com/karbonn-smart-ta-fone-a37-kommunicate-3g-video-calling-tab.html|0|0|0|0|0|0.0|2013-08-14 00:30:50 +0530
+277|tablets_lists|Micromax Funbook Infinity P275 Tablet|http://www.shopclues.com/micromax-funbook-infinity-p275-tablet-en.html|0|0|0|0|0|0.0|2013-08-14 00:30:52 +0530
+278|tablets_lists|Karbonn A34 HD Tablet|http://www.shopclues.com/karbonn-ta-fone-a34-dual-sim-tablet.html|0|0|0|0|0|0.0|2013-08-14 00:30:54 +0530
+282|tablets_lists|Micromax Funbook 3G P600 Tablet|http://www.shopclues.com/micromax-funbook-p600-3g.html|0|0|0|0|0|0.0|2013-08-14 00:31:03 +0530
+287|tablets_lists|Micromax Funbook Talk P360 Tablet|http://www.shopclues.com/new-micromax-funbook-talk-p360-android-4.0-tablet-with-voice--best-price...html|0|0|0|0|0|0.0|2013-08-14 00:31:14 +0530
+288|tablets_lists|Samsung Galaxy Note 5100 Tablet|http://www.shopclues.com/samsung-galaxy-note-8.0-n5100.html|0|0|0|0|0|0.0|2013-08-14 00:31:17 +0530
+289|tablets_lists|Karbonn Smart A34 Tablet|http://www.shopclues.com/karbonn-smart-a34-tablet-black-wi-fi-2-gb.html|0|0|0|0|0|0.0|2013-08-14 00:31:19 +0530
+293|tablets_lists|Apple 16GB iPad with Retina Display and Wi-Fi|http://www.shopclues.com/new-apple-ipad-16gb-wifi-4th-generation-md513hn-a.html|0|0|0|0|0|0.0|2013-08-14 00:31:28 +0530
+375|speakers_lists|iBall Swar 5.1 Home Theatre Speaker System|http://www.shopclues.com/iball-swar-5.1-home-theatre-speaker-system.html|0|0|0|0|0|0.0|2013-08-14 00:32:27 +0530
+376|speakers_lists|Creative SBS A335 2.1 Multimedia Speakers|http://www.shopclues.com/creative-sbs-a335-2.1-multimedia-speakers-en.html|0|0|0|0|0|0.0|2013-08-14 00:32:29 +0530
+377|speakers_lists|Zebronics Thunder SW2250 2.1 Multimedia Speakers|http://www.shopclues.com/zebronics-thunder-sw2250-speakers.html|0|0|0|0|0|0.0|2013-08-14 00:32:31 +0530
+378|speakers_lists|Creative Inspire T6160 5.1 Multimedia Speakers|http://www.shopclues.com/creative-inspire-t6160-5.1-multimedia-speakers-en-2.html|0|0|0|0|0|0.0|2013-08-14 00:32:33 +0530
+380|speakers_lists|Zebronics Igloo USB Speaker|http://www.shopclues.com/zebronics-igloo-usb-speaker-en.html|0|0|0|0|0|0.0|2013-08-14 00:32:37 +0530
+383|speakers_lists|iBall Xpresso Speakers|http://www.shopclues.com/iball-xpresso-speakers-with-built-in-battery-en.html|0|0|0|0|0|0.0|2013-08-14 00:32:42 +0530
+426|keyboards_lists|Dell KM113 Wireless Keyboard and Mouse Combo|http://www.shopclues.com/dell-wireless-keyboard-and-mouse-combo-pack-km113.html|0|0|0|0|0|0.0|2013-08-14 00:33:14 +0530
+434|keyboards_lists|Microsoft Wired Desktop 600 USB 2.0 Keyboard and Mouse Combo|http://www.shopclues.com/microsoft-wired-desktop-600-usb-2.0-keyboard-black-en.html|0|0|0|0|0|0.0|2013-08-14 00:33:29 +0530
+438|keyboards_lists|Microsoft Wired Desktop 600 USB 2.0 Keyboard and Mouse Combo|http://www.shopclues.com/microsoft-wired-desktop-600-usb-2.0-keyboard-black-en-2-3.html|0|0|0|0|0|0.0|2013-08-14 00:33:36 +0530
+441|keyboards_lists|Logitech K270 Wireless Keyboard|http://www.shopclues.com/logitech-wireless-keyboard-multimedia-k270-mast-product-mast-value-mrp-1425.html|0|0|0|0|0|0.0|2013-08-14 00:33:42 +0530
+444|keyboards_lists|Logitech MK220 Wireless Keyboard and Mouse Combo|http://www.shopclues.com/car-charger-for-apple-ipad-iphone-and-ipod-clone.html|0|0|0|0|0|0.0|2013-08-14 00:33:51 +0530
+458|keyboards_lists|HP KZ249AA Wired Keyboard|http://www.shopclues.com/hp-kz249aa-wired-keyboard-black.html|0|0|0|0|0|0.0|2013-08-14 00:34:22 +0530
+459|keyboards_lists|iBall Big Keys 003 USB 2.0 Keyboard|http://www.shopclues.com/iball-big-keys-003-usb-2.0-keyboard.html|0|0|0|0|0|0.0|2013-08-14 00:34:24 +0530
+463|keyboards_lists|HP COMBO USB 2.0 Keyboard and Mouse Combo|http://www.shopclues.com/hp-combo-usb-keyboard-with-mouse-kz251pa.html|0|0|0|0|0|0.0|2013-08-14 00:34:33 +0530
+468|keyboards_lists|Logitech MK330 Wireless Keyboard and Mouse Combo|http://www.shopclues.com/logitech-mk330-wireless-keyboard--mouse-combo-kit--bill.html|0|0|0|0|0|0.0|2013-08-14 00:34:44 +0530
+469|keyboards_lists|iBall Amazer USB Keyboard|http://www.shopclues.com/iball-amazer-ps2-standard-keyboard.html|0|0|0|0|0|0.0|2013-08-14 00:34:46 +0530
+471|keyboards_lists|Dell KM113 Wireless Keyboard and Mouse Combo|http://www.shopclues.com/dell-km113-wireless-keyboard-and-mouse-combo.html|0|0|0|0|0|0.0|2013-08-14 00:34:51 +0530
+472|keyboards_lists|Lenovo KM4802 USB 2.0 Keyboard and Mouse Combo|http://www.shopclues.com/lenovo-km4802-usb-2.0-keyboard-and-mouse-combo.html|0|0|0|0|0|0.0|2013-08-14 00:34:53 +0530
+478|keyboards_lists|iBall Startler 22 Multimedia USB Keyboard|http://www.shopclues.com/iball-startler-22-multimedia-usb-keyboard.html|0|0|0|0|0|0.0|2013-08-14 00:35:06 +0530
+482|keyboards_lists|iBall Mystic Blue Bluetooth Wireless Keyboard|http://www.shopclues.com/iball-mystic-blue-bluetooth-wireless-keyboard-black.html|0|0|0|0|0|0.0|2013-08-14 00:35:14 +0530
+484|keyboards_lists|Logitech K810 Bluetooth Illuminated Keyboard|http://www.shopclues.com/logitech-k810-wireless-bluetooth-illuminated-keyboard-for-windows-android-and-ios-en.html|0|0|0|0|0|0.0|2013-08-14 00:35:16 +0530
+486|keyboards_lists|iBall Numeric Pad|http://www.shopclues.com/iball-numeric-pad.html|0|0|0|0|0|0.0|2013-08-14 00:35:21 +0530
+490|keyboards_lists|iBall Winner PS-2 Keyboard|http://www.shopclues.com/iball-winner-usb-standard-keyboard.html|0|0|0|0|0|0.0|2013-08-14 00:35:30 +0530
+496|keyboards_lists|Zebronics ZEB-K06 Keyboard - USB|http://www.shopclues.com/zebronics-zeb-k06-usb-2.0-keyboard.html|0|0|0|0|0|0.0|2013-08-14 00:35:44 +0530
+498|keyboards_lists|Microsoft Wireless Desktop 800 USB Keyboard and Mouse Combo|http://www.shopclues.com/enter-colorful-usb-keyboard-and-mouse-combo.html|0|0|0|0|0|0.0|2013-08-14 00:35:48 +0530
+499|keyboards_lists|Microsoft Natural Ergo Desktop 7000 Wireless Keyboard and Mouse Combo|http://www.shopclues.com/microsoft-7000-natural-ergo-desktop-wireless-keyboard-and-mouse-combo.html|0|0|0|0|0|0.0|2013-08-14 00:35:50 +0530
+503|keyboards_lists|Zebronics ZEB-K06 Keyboard - USB|http://www.shopclues.com/zebronics-zeb-k06-keyboard-usb.html|0|0|0|0|0|0.0|2013-08-14 00:35:58 +0530
+504|keyboards_lists|Frontech JIL-1660 PS-2 Keyboard and Mouse Combo|http://www.shopclues.com/frontech-jil-1660-ps-2-keyboard-and-mouse-combo.html|0|0|0|0|0|0.0|2013-08-14 00:36:00 +0530
+539|pendrives_lists|SanDisk Cruzer Blade 8 GB Pen Drive|http://www.shopclues.com/sandisk-cruzer-blade-8gb-white-en.html|0|0|0|0|0|0.0|2013-08-14 00:36:04 +0530
+540|pendrives_lists|Sony Micro Vault USM-V 8 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-usm8gr-bc-e-8gb-pen-drive.html|0|0|0|0|0|0.0|2013-08-14 00:36:05 +0530
+543|pendrives_lists|Transcend JetFlash 350 16 GB Pen Drive|http://www.shopclues.com/transcend-jetflash-350-16-gb-pendrive.html|0|0|0|0|0|0.0|2013-08-14 00:36:11 +0530
+545|pendrives_lists|SanDisk Cruzer Blade 4 GB Pen Drive|http://www.shopclues.com/sandisk-cruzer-blade-4gb-pen-drive.html|0|0|0|0|0|0.0|2013-08-14 00:36:15 +0530
+550|pendrives_lists|Sony Micro Vault USM-V 8 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-tiny-usm8gm-gc2-8gb-pen-drive.html|0|0|0|0|0|0.0|2013-08-14 00:36:26 +0530
+552|pendrives_lists|Sony Micro Vault USM-V 4 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-usm4gr-bc-e-4gb-pen-drive.html|0|0|0|0|0|0.0|2013-08-14 00:36:31 +0530
+554|pendrives_lists|Kingston DataTraveler 101 G2 4 GB Pen Drive|http://www.shopclues.com/kingston-datatraveler-101-g2-4gb-pendrive.html|0|0|0|0|0|0.0|2013-08-14 00:36:35 +0530
+556|pendrives_lists|SanDisk Cruzer Blade 4 GB Pen Drive|http://www.shopclues.com/sandisk-4-gb-cruzer-blade-usb-flash-pen-drive-en-2.html|0|0|0|0|0|0.0|2013-08-14 00:36:38 +0530
+559|pendrives_lists|SanDisk Cruzer Blade 8 GB Pen Drive|http://www.shopclues.com/sandisk-8gb-cruzer-blade-usb-flash-pen-drive-en.html|0|0|0|0|0|0.0|2013-08-14 00:36:45 +0530
+564|pendrives_lists|HP V-225W 8GB Pen Drive|http://www.shopclues.com/hp-v-225w-8gb-pen-drive-gold.html|0|0|0|0|0|0.0|2013-08-14 00:36:53 +0530
+569|pendrives_lists|Sony Micro Vault USM-V 4 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-tiny-4gb-pen-drive-usm4gm.html|0|0|0|0|0|0.0|2013-08-14 00:37:04 +0530
+572|pendrives_lists|Sony Micro Vault USM-V 8 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-usm8gr-wc-e-8gb-pen-drive.html|0|0|0|0|0|0.0|2013-08-14 00:37:11 +0530
+573|pendrives_lists|Moserbaer Racer 4GB Pen Drive|http://www.shopclues.com/moserbaer-racer-4gb-pen-drive-white-en.html|0|0|0|0|0|0.0|2013-08-14 00:37:13 +0530
+574|pendrives_lists|Moserbaer Racer 8GB Pen Drive|http://www.shopclues.com/moserbaer-racer-8gb-pen-drive-white-en.html|0|0|0|0|0|0.0|2013-08-14 00:37:15 +0530
+576|pendrives_lists|Sony Micro Vault USM-V 4 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-tiny-usm4gm-wc2-4gb-pen-drive.html|0|0|0|0|0|0.0|2013-08-14 00:37:19 +0530
+579|pendrives_lists|SanDisk Cruzer Blade 8 GB Pen Drive|http://www.shopclues.com/sandisk-cruzer-blade-8gb-pen-drive-en-2-3.html|0|0|0|0|0|0.0|2013-08-14 00:37:26 +0530
+591|pendrives_lists|SanDisk Cruzer Blade 8 GB Pen Drive|http://www.shopclues.com/sandisk-cruzer-blade-8gb-blue-en.html|0|0|0|0|0|0.0|2013-08-14 00:38:04 +0530
+592|pendrives_lists|Sony Micro Vault U Click USM8GU-W 8 GB Pen Drive|http://www.shopclues.com/sony-micro-8gb-vault-tiny-pendrive-en.html|0|0|0|0|0|0.0|2013-08-14 00:38:06 +0530
+595|pendrives_lists|Sony Micro Vault USM-V 4 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-4gb-usm4gr-pen-drive-black-colour.html|0|0|0|0|0|0.0|2013-08-14 00:38:13 +0530
+598|pendrives_lists|Sony Micro Vault USM-V 8 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-tiny-usm8gm-pc2-8gb-pen-drive.html|0|0|0|0|0|0.0|2013-08-14 00:38:19 +0530
+599|pendrives_lists|Kingston Data Traveler 108 4 GB Pen Drive|http://www.shopclues.com/kingston-4gb-data-traveller-pen-drive-thumb-drive.html|0|0|0|0|0|0.0|2013-08-14 00:38:22 +0530
+600|pendrives_lists|Sony Micro Vault U Click USM8GU-W 8 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-classic-8-gb-pen-drive-white.html|0|0|0|0|0|0.0|2013-08-14 00:38:24 +0530
+603|pendrives_lists|Sony Micro Vault USM-V 8 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-tiny-usm8gm-bc2-8gb-pen-drive.html|0|0|0|0|0|0.0|2013-08-14 00:38:30 +0530
+611|pendrives_lists|Sandisk Cruzer CZ36 4 GB Pen Drive|http://www.shopclues.com/sandisk-4gb-cruzer-blade-usb-pen-drive.html|0|0|0|0|0|0.0|2013-08-14 00:38:50 +0530
+626|pendrives_lists|Sony Micro Vault USM-V 4 GB Pen Drive|http://www.shopclues.com/sony-micro-vault-tiny-usm4gm-pc2-4gb-pen-drive.html|0|0|0|0|0|0.0|2013-08-14 00:39:24 +0530
+633|pendrives_lists|Toshiba Hayabusa 4 GB Pen Drive|http://www.shopclues.com/toshiba-hayabusa-4gb.html|0|0|0|0|0|0.0|2013-08-14 00:39:45 +0530
+636|pendrives_lists|Sony Micro Vault Tiny 8 GB Pen Drive|http://www.shopclues.com/sony-tiny-8gb-pendrive.html|0|0|0|0|0|0.0|2013-08-14 00:39:52 +0530
+641|pendrives_lists|SanDisk Cruzer Blade 4 GB Pen Drive|http://www.shopclues.com/sandisk-cruzer-blade-4gb-pen-drive-en.html|0|0|0|0|0|0.0|2013-08-14 00:40:06 +0530
+642|pendrives_lists|Toshiba Suruga 4 GB Pen Drive|http://www.shopclues.com/toshiba-suruga-4gb.html|0|0|0|0|0|0.0|2013-08-14 00:40:08 +0530
+644|pendrives_lists|Sony Micro Vault Tiny 4 GB Pen Drive|http://www.shopclues.com/sony-tiny-4gb-pendrive.html|0|0|0|0|0|0.0|2013-08-14 00:40:13 +0530
+647|pendrives_lists|Transcend Jet Flash 700 16 GB USB 3.0 Pen Drive|http://www.shopclues.com/transcend-jet-flash-700-16-gb-usb-3.0-pen-drive.html|0|0|0|0|0|0.0|2013-08-14 00:40:19 +0530
+648|pendrives_lists|Moserbaer Swivel 16 GB Pen Drive|http://www.shopclues.com/moserbaer-swivel-16gb-usb-pendrive.html|0|0|0|0|0|0.0|2013-08-14 00:40:21 +0530
+650|pendrives_lists|SanDisk Cruzer Blade 16 GB Pen Drive|http://www.shopclues.com/sandisk-16gb-cruzer-blade-pen-drive.html|0|0|0|0|0|0.0|2013-08-14 00:40:26 +0530
+656|pendrives_lists|SanDisk Cruzer Blade 4 GB Pen Drive|http://www.shopclues.com/sandisk-cruzer-blade-4gb-pendrive-black-and-red.html|0|0|0|0|0|0.0|2013-08-14 00:40:40 +0530
+659|pendrives_lists|SanDisk Cruzer Blade 4 GB Pen Drive|http://www.shopclues.com/sandisk-cruzer-blade-4-gb-usb-flash-pen-drive-black.html|0|0|0|0|0|0.0|2013-08-14 00:40:46 +0530
+660|pendrives_lists|SanDisk Cruzer Blade 8 GB Pen Drive|http://www.shopclues.com/sandisk-flash-drive-8gb-cruzer-bladel-pen-drive-thumb-drive.html|0|0|0|0|0|0.0|2013-08-14 00:40:48 +0530
+662|pendrives_lists|Moserbaer Swivel 32 GB Pen Drive|http://www.shopclues.com/moserbaer-swivel-32gb-pendrive.html|0|0|0|0|0|0.0|2013-08-14 00:40:52 +0530
+666|pendrives_lists|Sandisk Cruzer Facet 8 GB Pen Drive|http://www.shopclues.com/sandisk-cruzer-facet-8gb-pen-drive-blue-en.html|0|0|0|0|0|0.0|2013-08-14 00:40:58 +0530
+667|pendrives_lists|SanDisk Cruzer Blade 8 GB Pen Drive|http://www.shopclues.com/sandisk-cruzer-blade-pen-drive-sandisk-8gb-usb-pendrive-flash-drive.html|0|0|0|0|0|0.0|2013-08-14 00:41:00 +0530
+669|pendrives_lists|Kingston DataTraveler 109 4 GB USB 2.0  Pen Drive|http://www.shopclues.com/kingston-data-traveler-109-usb-2.0-8gb-pen-drive-black.html|0|0|0|0|0|0.0|2013-08-14 00:41:04 +0530
+673|pendrives_lists|Sony Micro Vault Tiny 4 GB Pen Drive|http://www.shopclues.com/sony-tiny-4gb-pendrive-white.html|0|0|0|0|0|0.0|2013-08-14 00:41:12 +0530
+674|pendrives_lists|SanDisk Cruzer Blade 16 GB Pen Drive|http://www.shopclues.com/sandisk-16gb-pen-drive-cruzer-blade.html|0|0|0|0|0|0.0|2013-08-14 00:41:14 +0530
+676|pendrives_lists|SanDisk Cruzer Blade 4 GB Pen Drive|http://www.shopclues.com/new-sandisk-cruzer-blade-4gb-pen-drive-company-sealed-product--best-price..html|0|0|0|0|0|0.0|2013-08-14 00:41:19 +0530
+680|pendrives_lists|SanDisk Cruzer Blade 8 GB Pen Drive|http://www.shopclues.com/8-gb-scan-disk-pen-drive-only-330-rs.html|0|0|0|0|0|0.0|2013-08-14 00:41:27 +0530
+797|memory_cards_lists|Transcend SD 4GB Class 4 Memory Card|http://www.shopclues.com/sandisk-4gb-class-4-microsd-card.html|0|0|0|0|0|0.0|2013-08-14 00:41:34 +0530
+800|memory_cards_lists|Transcend SD 16GB Class 4 Memory Card|http://www.shopclues.com/transcend-16gb-class-4-microsd-card.html|0|0|0|0|0|0.0|2013-08-14 00:41:39 +0530
+801|memory_cards_lists|Kingston SD 4 GB Class 4 Memory Card|http://www.shopclues.com/kingston-4gb-micro-sd-card-en.html|0|0|0|0|0|0.0|2013-08-14 00:41:42 +0530
+804|memory_cards_lists|Sony Memory Card SR-8N4-T|http://www.shopclues.com/sony-memory-card-sr-8n4-t.html|0|0|0|0|0|0.0|2013-08-14 00:41:47 +0530
+806|memory_cards_lists|Samsung MB-MSAGA MicroSD 16 GB Memory Card Class 6|http://www.shopclues.com/samsung-microsd-16-gb-memory-card-class-6.html|0|0|0|0|0|0.0|2013-08-14 00:41:51 +0530
+809|memory_cards_lists|Samsung MB-MS8G MicroSD 8 GB Memory Card Class 4|http://www.shopclues.com/samsung-microsd-8-gb-memory-card-class-4.html|0|0|0|0|0|0.0|2013-08-14 00:41:56 +0530
+817|memory_cards_lists|Samsung MB-MS8G MicroSD 8 GB Memory Card Class 4|http://www.shopclues.com/samsung-8gb-micro-sd-card-class-4.html|0|0|0|0|0|0.0|2013-08-14 00:42:13 +0530
+828|memory_cards_lists|Sandisk Extreme Pro MicroSDHC UHS-I 16 GB Memory Card|http://www.shopclues.com/sandisk-16-gb-memory-card-micro-sd.html|0|0|0|0|0|0.0|2013-08-14 00:42:33 +0530
+859|mobiles_lists|Karbonn A30|http://www.shopclues.com/karbonn-a30-black-500838.html|0|0|0|0|0|0.0|2013-08-14 00:42:48 +0530
+872|mobiles_lists|Sony Xperia go|http://www.shopclues.com/sony-st27i-xperia-go-black.html|0|0|0|0|0|0.0|2013-08-14 00:43:13 +0530
+875|mobiles_lists|Micromax A110 Canvas 2|http://www.shopclues.com/micromax-canvas-2-a110-mobile.html|0|0|0|0|0|0.0|2013-08-14 00:43:18 +0530
+876|mobiles_lists|Samsung Galaxy Ace S5830|http://www.shopclues.com/samsung-galaxy-ace-s5830-3g-android-mobile-phone-en-2-3.html|0|0|0|0|0|0.0|2013-08-14 00:43:20 +0530
+878|mobiles_lists|Apple iPhone 5|http://www.shopclues.com/apple-iphone-5-16gb-black-white-en-2-3.html|0|0|0|0|0|0.0|2013-08-14 00:43:25 +0530
+879|mobiles_lists|Samsung Galaxy Grand I9082|http://www.shopclues.com/samsung-galaxy-grand.html|0|0|0|0|0|0.0|2013-08-14 00:43:26 +0530
+880|mobiles_lists|Sony Xperia U|http://www.shopclues.com/sony-ericsson-experia-u-black-android-smartphone.html|0|0|0|0|0|0.0|2013-08-14 00:43:28 +0530
+883|mobiles_lists|Samsung Galaxy Grand I9082|http://www.shopclues.com/samsung-galaxy-grand-duos-i9082-white.html|0|0|0|0|0|0.0|2013-08-14 00:43:34 +0530
+885|mobiles_lists|Apple iPhone 3GS|http://www.shopclues.com/brand-new-apple-iphone-3g-8gb-software-unlocked.html|0|0|0|0|0|0.0|2013-08-14 00:43:38 +0530
+895|mobiles_lists|Sony Xperia J|http://www.shopclues.com/new-sony-ericsson-xperia-j-black-white-colour.html|0|0|0|0|0|0.0|2013-08-14 00:43:54 +0530
+897|mobiles_lists|Micromax A115 Canvas 3D|http://www.shopclues.com/micromax-canvas-3d-a115.html|0|0|0|0|0|0.0|2013-08-14 00:43:58 +0530
+904|mobiles_lists|BlackBerry Bold 9650|http://www.shopclues.com/bb-blackberry-9650-bold-business-smartphone.html|0|0|0|0|0|0.0|2013-08-14 00:44:10 +0530
+906|mobiles_lists|Sony Xperia miro|http://www.shopclues.com/sony-xperia-miro.html|0|0|0|0|0|0.0|2013-08-14 00:44:14 +0530
+909|mobiles_lists|Motorola WX290|http://www.shopclues.com/motorola-wx290.html|0|0|0|0|0|0.0|2013-08-14 00:44:21 +0530
+911|mobiles_lists|Karbonn A6|http://www.shopclues.com/karbonn-a6-black-white-en.html|0|0|0|0|0|0.0|2013-08-14 00:44:24 +0530
+912|mobiles_lists|HTC Wildfire S|http://www.shopclues.com/new-htc-wildfire-free-16gb-card-free-android-mobile-clone-en.html|0|0|0|0|0|0.0|2013-08-14 00:44:26 +0530
+914|mobiles_lists|BlackBerry Curve 9220|http://www.shopclues.com/blackberry-curve-9220-en.html|0|0|0|0|0|0.0|2013-08-14 00:44:30 +0530
+916|mobiles_lists|Samsung Galaxy Y Duos S6102|http://www.shopclues.com/new-samsung-s6102-android2.3-galaxy-y-duos-dual-sim-gsmgsm-mobile-wifi-3g.html|0|0|0|0|0|0.0|2013-08-14 00:44:35 +0530
+919|mobiles_lists|Micromax A110 Canvas 2|http://www.shopclues.com/lava-iris-n400-white-with-video-calling.html|0|0|0|0|0|0.0|2013-08-14 00:44:40 +0530
+921|mobiles_lists|Samsung Galaxy Y S5360|http://www.shopclues.com/samsung-galaxy-y-s5360-metalic-gray.html|0|0|0|0|0|0.0|2013-08-14 00:44:45 +0530
+929|mobiles_lists|Micromax A110 Canvas 2|http://www.shopclues.com/micromax-canvas-2-a110-mobile-clone-en-2.html|0|0|0|0|0|0.0|2013-08-14 00:45:01 +0530
+932|mobiles_lists|HTC Status|http://www.shopclues.com/htc-status.html|0|0|0|0|0|0.0|2013-08-14 00:45:06 +0530
+934|mobiles_lists|Micromax Ninja A91|http://www.shopclues.com/micromax-ninja-a91-superphone-4.0-os-ics-android-dual-sim-5-mp-camera.html|0|0|0|0|0|0.0|2013-08-14 00:45:10 +0530
+935|mobiles_lists|Nokia Lumia 510|http://www.shopclues.com/nokia-lumia-510-yellow.html|0|0|0|0|0|0.0|2013-08-14 00:45:11 +0530
+937|mobiles_lists|HTC Desire C|http://www.shopclues.com/htc-desire-c-android-mobile-phone-with-5mp-camera.html|0|0|0|0|0|0.0|2013-08-14 00:45:16 +0530
+939|mobiles_lists|Samsung Galaxy Grand I9082|http://www.shopclues.com/samsung-galaxy-grand-duos-i9082-metallic-blue-en-2.html|0|0|0|0|0|0.0|2013-08-14 00:45:19 +0530
+943|mobiles_lists|Sony Xperia U|http://www.shopclues.com/sony-xperia-u-black-en.html|0|0|0|0|0|0.0|2013-08-14 00:45:26 +0530

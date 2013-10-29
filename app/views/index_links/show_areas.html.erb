@@ -1,0 +1,47 @@
+<div id="main-panel">
+    <div id="left-panel">        
+        <div class="padT15 padL15">
+            <span class="red-text text-b16 ">
+                List of areas in <%= @city.titleize %> selling <%= @category_name.titleize %>
+            </span>
+            <div class="comments-text padB5 border-gray-b">
+               Click on any area below to see list of shops selling 
+               <%= @category_name.titleize.downcase %>
+            </div>
+        </div>
+          
+          <% @index_areas.each_slice(7) do |areas| %>
+          <div class ="imp-area-box padL40">
+            <% areas.each do |area| %>
+              
+              <li>
+              <%= form_links(area.titleize,"shops",@category_name,@country,@city,area) %>
+              </li>
+              
+            <% end %>
+          </div>
+         <% end %>
+         <div style="clear:both">&nbsp;</div>
+         <%= render "shared/online_bran"%>
+         
+         
+    </div>
+    
+    <div id="right-panel" class="border-gray-l padT15">
+
+                <%= render "shared/hub"%>
+                
+                <%= render "shared/top"%>
+                
+                <%= render "shared/p_p_range"%>
+                
+                <%= render "shared/o_shops"%>
+    </div>
+    <div style="clear:both">&nbsp;</div>
+
+    <%= render "shared/p_range" %>
+    
+</div>
+
+
+

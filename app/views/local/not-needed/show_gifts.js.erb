@@ -1,0 +1,24 @@
+$("#gift-form").dialog({
+        autoOpen: true,
+        width: 700,
+        modal: true,
+        draggable:false,
+        resizable:false,
+        title: 'CrawlFish - Gift!',
+        buttons: [
+              {
+                  text: "CLOSE",
+                  className: 'close-button-class',
+                  click: function() {
+                      $(this).dialog("close")
+                  }
+              }
+          ],
+        open: function() {
+          $("#gift-form").html("<%= escape_javascript(render('local/gifts')) %>");
+	  var x = $(this).position().center + $(this).outerWidth();
+          var y = $(this).position().center - $(document).scrollTop();
+          $("#gift-form").dialog('option', 'position', [x,y]);
+          }
+      });
+

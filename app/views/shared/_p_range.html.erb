@@ -1,0 +1,87 @@
+<!-- BROWSE BY PRICE RANGE LAYOUT - STARTS -->
+
+<div class="header-text padL15 border-gray-t padT10">
+    Browse by price Range
+</div>
+
+<div class="comments-text padL15 border-gray-b padB5">
+    If you are very specific about the price range of your product, you can choose below! 
+</div>
+
+<div class="marT20">
+<!---2013jun01 Senthil In the below  array removing "retail shops" right now no price, in future there will be price -->
+<% ["price-range"].each do |temp| %>
+<% x = temp.split(",") %>
+<% route = x[0] %>
+<div >
+<ul>
+<div class="g-text text-n17" align="center">
+  Online Shops - Price range 
+  <br/>
+<span class="comments-text">
+(If you are very particular about the price range, click any price range from your favourite category to view the products listing!)
+</span>
+</div>  
+<div style="clear:both">&nbsp;</div>
+<div>
+    <% @sub_categories.each_slice(4) do |sub_category| %>
+    <div class="border-gray-t padT20">
+     <% sub_category.each do |i| %>
+<div class="fl padL30">
+<ul style="list-style-type:none;">
+       <% cname = i.category_name %>
+         
+    <% if !(@price_steps[cname].nil?) %>
+    
+       
+       <% arr = @price_steps[cname] %>
+       <% bel = arr.first.to_s %>
+       <% abo =  arr.last.to_s %>
+
+<span class="red-text text-b15">
+  <%= cname.titleize %> 
+</span>  
+<br/>
+      <li>
+      <%= form_links("Below " + bel,
+                         route,
+                         cname,
+                         "below",
+                         bel)  %>
+      </li>
+      <% arr.each_cons(2) do |i| %>
+      
+      <li><%= form_links("Between " + i[0].to_s + " and " + i[1].to_s,
+                         route,
+                         cname,
+                         "between",
+                         i.join("-"))%>
+       </li>
+      <% end %>
+      <li>
+      <%= form_links("Above " + abo,
+                         route,
+                         cname,
+                         "above",
+                         abo)%>
+      </li>
+
+    <% end %>  
+</ul>
+</div>
+
+
+<% end %>
+</div>
+<div style="clear:both">&nbsp;</div>
+<% end %>
+</ul>
+</div>
+
+<div style="clear:both">&nbsp;</div>
+<% end %>
+
+<div style="clear:both">&nbsp;</div>
+
+</div>
+<!-- BROWSE BY PRICE RANGE layout - ENDS -->

@@ -1,0 +1,147 @@
+<script type="text/javascript">
+
+function doAction() {  
+      
+      var data = $('form#add-your-shop').serialize();
+      
+      $("div#loading").css("display","");
+      
+       $.post('/main/add_shop',data, function(result){
+       
+         $("div#add-your-shop-out").hide().html(result).fadeIn(3000);
+         
+         $("div#loading").css("display","none");
+                       
+        });        
+}
+
+function validateAll(){
+    var submitForm=true;
+    
+    if(!validate('shop_name','Y','AS',3,40,'shopName-error')){
+        return false;
+    }
+    
+    else if(!validate('name','Y','AS',3,40,'Name-error')){
+        return false;
+    }
+    
+    else if(!validate('ph','Y','N',10,10,'mobileNumber-error')){
+        return false;
+    }
+    
+    if(submitForm){
+        doAction();
+    }
+    
+    return false;
+}
+
+</script>
+
+<span class="text-n10 gray-text padT5">
+    "Oops! How to go back?", 
+    <span class="g-text">Press Esc or Click Close</span>
+</span> 
+
+<div  align="center">
+<%= form_tag url_for(:controller => "main", 
+                     :action => "add_shop"),
+                     :id => 'add-your-shop',
+                     :method => 'post',
+                     :onsubmit => 'return validateAll();'  do %>
+
+                         
+    <div class="padT20 padB20">
+    <span class="text-b20 g-text">
+        You are early, its free and its wonderful!<br/>
+    </span> 
+    <span class="text-b17 gray-text">
+        4 easy steps to receive a phone call!<br/>
+    </span> 
+    <span class="text-n13 gray-text">
+        Thank you so much for taking interest in listing your shop at CrawlFish. Save all your clarifications for the phone call.
+    </span> 
+   </div>
+                         
+    <div id="add-your-shop-out" class="g-text text-b30 gray-bg"></div>
+    
+    <div id="loading" style="text-align:center;display:none;">
+            <%= image_tag "/Images/156.gif", :size => "30x30" %>
+            <div class="red-text text-n12"> 
+            Working really hard to receive your request ... Please wait ... 
+           </div>
+    </div>
+    
+    <table cellspacing="0" cellpadding="0" border="0" width="100%" class="priceTable">
+        <tr align="center">
+            <td align="right" colspan="2" >
+                <span class="text-b20 g-text">
+                    Step - 1
+                </span> 
+            </td>         
+            <td align="right" class="gray-text text-n15">
+            Shop type : </span>
+            <%= select_tag("type",options_for_select([["Online"],["Retail"]]),:class=>"cf-select")%>
+            </td>
+        </tr>
+        
+        <tr align="center">
+           <td align="right" colspan="2">
+                <span class="text-b20 g-text">
+                    Step - 2
+                </span> 
+            </td>        
+            <td align="right"  class="gray-text text-n12">
+            Shop name : </span>
+            <%= text_field_tag :shop_name,nil,{:placeholder => "Your shop name?",
+                               :onblur=>"validate(this.id,
+                               'Y','AS',3,40,'shopName-error');"} %>
+                <span class="error-content" id="shopName-error"></span>
+            </td>
+        </tr>   
+        
+        <tr align="center">
+           <td align="right" colspan="2">
+                <span class="text-b20 g-text">
+                    Step - 3
+                </span> 
+            </td>        
+            <td align="right"  class="gray-text text-n12">
+            Your name : </span>
+            <%= text_field_tag :name,nil,{:placeholder => "Your name?",
+                               :onblur=>"validate(this.id,
+                               'Y','AS',3,40,'Name-error');"} %>
+                <span class="error-content" id="Name-error"></span>
+            </td>
+        </tr>
+        
+        <tr align="center">
+           <td align="right" colspan="2">
+                <span class="text-b20 g-text">
+                    Step - 4
+                </span> 
+            </td>        
+            <td align="right"  class="gray-text text-n12">
+            Your mobile number (+91): </span>
+            <%= text_field_tag :ph,nil,
+                                       {:placeholder => ".. and your mobile number?",
+                                       :onblur=>"validate(this.id,
+                               'Y','N',10,10,'mobileNumber-error');"} %>
+                <span class="error-content" id="mobileNumber-error"></span>
+            </td>
+        </tr>
+        
+    </table>   
+   <span class="gray-text text-n10 padT5">
+    If you don't receive a phone call, just wait another day!<br/>
+   <%= submit_tag "Request phone call!" ,:class => "cf-submit" %>  
+  
+  <p class="comments-text">
+    Oh, please don't be uncomfortable!, at CrawlFish, we respect your privacy and your mobile number will be very safe and will never be disclosed to anyone! 
+  </p>
+<% end %>
+</div>
+
+
+

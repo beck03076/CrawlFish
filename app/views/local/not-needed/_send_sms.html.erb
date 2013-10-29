@@ -1,0 +1,107 @@
+<script type="text/javascript">
+
+function setFocus_sms(elementId)
+{
+	if (!document.getElementById)
+    {
+        return;
+    }
+
+    var searchkey = document.getElementById(elementId).value.replace(/\s/g, "");
+    if (searchkey == "")
+    {
+        document.getElementById(elementId).value = "";
+    }
+
+    var txtBox = document.getElementById(elementId);
+    var txtLength = document.getElementById(elementId).value.length;
+
+    if (txtBox != null)
+    {
+        txtBox.focus();
+        txtBox.setSelectionRange(txtLength,txtLength);
+        txtBox.value = "";
+		    txtBox.style.border='1px solid #06C';
+
+    }
+}
+
+function validate_sms(elementId)
+{
+    var searchkey = document.getElementById(elementId).value.replace(/\s/g, "");
+    if (searchkey == "")
+    {
+        document.getElementById(elementId).value = "";
+        setFocus_sms(elementId);
+        return false;
+    }
+    var number = document.getElementById(elementId).value;
+    var numberLength = document.getElementById(elementId).value.length;
+    if (number.match(/[a-z]+/i) != null){
+      setFocus_sms(elementId);
+      return false;
+    }
+    else if (number.length < 10){
+      setFocus_sms(elementId);
+      return false;
+    }
+
+
+}
+
+</script>
+<div class="cf-lsmc-hds-wrapper">
+
+<div class="cf-local-shop-main-content-hds-sms-header"><span>EXPRESS INTEREST</span></div>
+
+<div class="cf-local-shop-main-content-hds-sms-intro"><span>You can also express interest in this product by sending SMS to <%= @vendor_alias_name.titlecase %>. <b><%= @vendor_alias_name.titlecase %></b> will contact you shortly.</span></div>
+
+<div style="padding-top:5px"></div>
+
+<div class="cf-local-shop-main-content-hds-sms-form">
+<%= form_tag url_for(:controller => 'local_shop', :action => 'send_sms'),:id => "send_sms_form"  do %>
+
+ <div class="cf-local-shop-main-content-hds-sms-form-radio">
+    <% ['mobile'].each do |type| %>
+      <%= radio_button_tag 'type', type, @type == type %>
+      <%= type.humanize %>
+    <% end %>
+ </div>
+
+  <div style="padding-top:10px"></div>
+
+  <div class="cf-local-shop-main-content-hds-sms-form-send">
+
+  <div id="send-sms-text-button" style="display:none">
+
+    <div class="send-sms-text-box"><%= label_tag "(+91) - " %> <%= text_field_tag "phone-number",nil,{:id => "phone-number",:maxlength => 10,:size => 10}%></div>
+
+	<div id="loading-bar-sms" style="display:none">
+			<%= image_tag "/Images/156.gif", :size => "20x20" %>
+	</div>
+	<div style="clear:both"></div>
+    <%= hidden_field_tag 'product_id', @product_id , {:id => "send_sms_product_id"}%>
+
+    <%= hidden_field_tag 'sub_category_id', @sub_category_id, {:id => "send_sms_sub_category_id"} %>
+
+    <%= hidden_field_tag 'vendor_id', @vendor_id, {:id => "send_sms_vendor_id"} %>
+   <div style="padding-top:15px"></div>
+   <%= submit_tag "SEND SMS",{:id => "send-sms-button" , :title => "Click here to send SMS" ,:name => "",:onClick=>"return validate_sms('phone-number')"}%>
+    <%= link_to "CANCEL" %>
+   <div style="clear:both"></div>
+    <div style="padding-top:10px"></div>
+  </div>
+</div>
+<% end %>
+
+<div id="send-sms-success-message" style="display:none">
+<span class="sms-send-thanks">Thank you! Your request to send sms has been taken! <%= @vendor_alias_name.titlecase %> will contact you shortly.</span>
+<div style="padding-top:3px"></div>
+<%= link_to "Dismiss" %>
+</div>
+
+
+
+</div>
+</div>
+

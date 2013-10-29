@@ -1,0 +1,20 @@
+$("#hi").dialog({
+  autoOpen: true,
+  width: 600,
+  height: 600,
+  modal: true,
+  draggable:true,
+  resizable:false,
+  title: 'Rate and Review',
+  buttons: [
+       {
+            text: "CLOSE",
+            className: 'close-button-class',
+            click: function() {
+                $(this).dialog("close");
+                location.reload();
+            }
+        }
+    ]
+});
+

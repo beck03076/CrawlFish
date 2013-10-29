@@ -1,0 +1,30 @@
+<!-- ONLINE SHOP FEATUREDS - STARTS -->
+            <!-- ONLINE SHOP HEADER - STARTS -->
+            <div class="padB10">
+           
+                    <span class="header-text">
+                     Online shops listing
+                    </span>
+                    <div class="comments-text padL5  padB5 border-gray-b">
+                        If you are a online shop, click "add your shop", in order to, add your shop!
+                    </div>
+                <!-- ONLINE SHOP HEADER - ENDS -->
+                <!-- ONLINE SHOP LIST - STARTS -->
+                    <% @o_shops.each do |chunk| %>
+                        <div class="top-shop-box">
+                            <ul>
+                            <% chunk.each do |i| %>
+                                <li>
+                                  <%= link_to  i[0].titleize,"http://"+i[1],{:rel => "nofollow",:target => "_blank"} %>
+                                </li>
+                            <% end %>
+                            </ul>
+                        </div>
+                    <% end %>                
+                
+           </div>
+
+           <div class="clear"></div>
+
+<!-- ONLINE SHOP LIST - ENDS -->
+<!-- ONLINE SHOP FEATUREDS - ENDS -->

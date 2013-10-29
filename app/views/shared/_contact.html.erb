@@ -1,0 +1,128 @@
+<script type="text/javascript">
+
+$(function() {
+      
+      $("a.g-link-b").click(function() {  
+        location.reload();       
+       });    
+});
+
+function doAction(){
+     
+      var data = $('form#contact').serialize();
+      
+      $("#loading").css("display","");
+      
+       $.post('/local/generate_coupon_code',data, function(result){
+       
+         $("#coupon-code").hide().html(result).fadeIn(3000);
+         
+         $(".cf-submit,.red-link").hide();
+            
+         $("#loading").css("display","none");
+            
+         $(".g-link-b").css("display","");
+                       
+        });
+}
+
+function validateAll(){
+    var submitForm=true;
+    
+    if(!validate('customer_name','Y','AS',3,20,'userName-error')){
+        return false;
+    }
+    
+    else if(!validate('cc_mobile_number','Y','N',10,10,'mobileNumber-error')){
+        return false;
+    }
+    
+    else if(!validate('contact-search','Y','',3,50,'product-error')){
+        return false;
+    }
+    
+    if(submitForm){
+        doAction();
+    }
+    
+    return false;
+}
+</script>
+
+
+        <div id="generate-coupon-code-container" style="display:none;background-color:F0F0F0;" >
+            <%= form_tag url_for(:controller => 'local', 
+                                 :action => 'generate_coupon_code'),
+                                :id => 'contact',:method => 'post',
+                                :onsubmit => "return validateAll();"  do %>
+                                 
+                
+                <%= hidden_field_tag 'product_id', @product_id %>
+                <%= hidden_field_tag 'vendor_id', @vendor_id %>
+                <%= hidden_field_tag 'sub_category_id', @sub_category_id %>
+                <%= hidden_field_tag 'unique_id', @unique_id %>
+                <%= hidden_field_tag 'vendor_alias_name', @vendor_alias_name %>
+                <%= hidden_field_tag 'branch_alias_name', @branch_alias_name %>
+                
+                <div class="g-text text-b15" align="center"> 
+                You are amazing!
+                <span class="gray-text text-n12"> <br/>
+                Because, you are about to trust CrawlFish with your mobile number and contact this vendor through SMS. We would never disclose your mobile number to anyone!
+                </span>
+                
+                </div>
+                
+                <div class ="darkgray-text text-n11">
+                Name :<br/><%= text_field_tag "customer_name",
+                               nil,{:size => 20,
+                               :placeholder => "Who is typing?",
+                               :onblur=>"validate(this.id,
+                               'Y','AS',3,20,'userName-error');"} %>
+                <span class="error-content" id="userName-error"></span>
+                                                                
+               <br/>    
+             
+                Mobile (+91) :<br/><%= text_field_tag "cc_mobile_number",
+                                       nil,
+                                       {:size => 12,
+                                       :placeholder => ".. and your mobile number?",
+                                       :onblur=>"validate(this.id,
+                               'Y','N',10,10,'mobileNumber-error');"} %>
+                <span class="error-content" id="mobileNumber-error"></span>
+                 
+                <% if @product_name.nil? %>
+                    <br/>
+                    Request latest price of : (product name..)<br/> <%= text_field_tag "product_name",
+                    nil,{:id => "contact-search",:placeholder => "You are looking for?",
+                                       :onblur=>"validate(this.id,
+                               'Y','',3,50,'product-error');"} %>
+                <span class="error-content" id="product-error"></span>    
+                
+                <% else %>
+                    <%= hidden_field_tag 'product_name', @product_name %>
+                    <br/>
+                    <br/>
+                    Requesting latest price for
+                    <span class="g-text text-b12">
+                     <%= @product_name.titleize %>
+                    </span> ...
+                    <br/>
+                <% end %>
+                 <br/>
+                 <div id="coupon-code" title="coupon_code"></div>
+                 <div class="fr">
+                 <%= submit_tag "Send SMS",{:class => "cf-submit text-n15"} %>
+                 <%= link_to "CANCEL",{},:class => "red-link" %>                 
+                 </div>
+                </div>
+                
+                <div style="clear:both"></div>
+            <% end %>
+            <%= link_to "Close",{},:class => "g-link-b text-n12",:style=>"display:none;" %>
+            <div id="loading" style="text-align:center;display:none">
+            <%= image_tag "/Images/156.gif", :size => "30x30" %>
+            <div class="red-text text-n12"> Working really hard to notify the shop ... Please wait ... </div>
+        </div>
+        </div>
+
+        

@@ -1,0 +1,55 @@
+<a name="read-user-reviews"></a>
+
+<span class="text-b15 g-text padT5">
+    User reviews for 
+    <% v = @shop.nil? ? @vendor_name : @shop %>
+    <%= v.titleize %>
+</span>
+<p>
+<span id="msg" class="red-text text-n14">
+        <%= @msg.html_safe %>
+</span>
+</p>
+
+
+
+<% @reviews.each do |i| %>
+
+   <div class="border-gray-b padB5 padT10">
+
+    <span class="text-b12 g-text">
+    <%= i.name.titleize %>
+    </span> 
+    
+    <span class="text-n10 gray-text">
+    rated this shop and gave,
+    </span> 
+       
+      <% s = i.rating %>
+      <% if !s.nil? %>
+          <% s = s*10 %>
+          <% s = s - (s % 5) %>
+          
+          <% cl = ('"rating-static ' + 'rating-' + s.to_i.to_s + '"').html_safe %>
+          
+          <span class=<%= cl%>>  </span>
+      <% end %>
+      
+   </div>
+   
+<div class="text-n12 lightblack-text border-gray-b padB5 padT5 padL10">
+
+    <%= i.review %>
+
+    <div class="text-n10 gray-text padT15">
+    posted about 
+    <span class="g-text">
+    <%= time_ago_in_words(i.c_at) %> 
+    </span>
+    ago ...
+    </div>
+
+</div>
+
+<% end %>
+

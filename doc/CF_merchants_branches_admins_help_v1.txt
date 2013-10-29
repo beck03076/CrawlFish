@@ -1,0 +1,115 @@
+CrawlFish - Merchants Manual
+
++---------------------------------------------------------------+
+|Author  : Senthil
+|Version : One
+|Desc    : Modification done in the application for merchants with branches
+|
++---------------------------------------------------------------+
+
+*****************************==Starting chapter 1 ==**************************
+
+Summary:
+-------
+1. Sign up 5 branches for 1 local vendor.
+2. Add 5 branches for 1 local vendor.(rake vendor:addlocal)
+3. IMPORTANT CHANGE:
+   Pass "admin" parameter for 1 branch in the rake task, in the example below its "velachery"
+   $ rake merchant:approve_local[SharkSeaPeople,chennai,velachery,admin] RAILS_ENV=production
+4. Approve other merchants without any paramter as shown below,
+   $ rake merchant:approve_local[SharkSeaPeople,chennai,tnagar] RAILS_ENV=production
+5. Goto "CrawlFish/merchants/2012Jul04_local_sharkseapeople.log", this will have a list of login_name/passwords that you have done for 1 vendor. Login with the "ADMIN" you will see the drop down. Login with "BRANCH", you wont see any drop down.
+6. Please note for a vendor with 50 branches, its not necessary that we can configure only one admin, we can configure 5 admins also, even 50 admins also, you just have to pass the parameter "admin", when you approve a merchant to generate login_name/password.
+7. Also note in the file "CrawlFish/merchants/2012Jul04_local_sharkseapeople.log", LOGIN TYPE will be displayed moving on.
+
+
+------------
+Chapter - 1
+------------
+
+1. Problem statement:
+---------------------
+
+   * CrawlFish is created keeping in mind that/assuming every vendor is unique based on location.
+   For example, vendor abc in chennai might have 3 branches in chennai such as velachery, adyar, chrompet.
+   So now, for the vendor abc there will be 3 different vendor_ids in CrawlFish db.
+
+   * The above concept takes the granularity level a little deep which enables any vendor to have different product catalogues in different branches. This is a good thing done by technicians at CrawlFish.
+
+   * But, when they approached the vendors, (lazy vendors), they all say, no matter how many branches they have they will maintain sync between branches. I.E. The catalogues across all the branches will be the same.
+
+   * Since, CrawlFish assumed every branch to be unique, it designed a system which generated unique login_name and password for every branch.
+
+   * Exactly, the problem now is we need one admin login_name/password which can access all the branches for abc and preserve the login_names of other branches just to maintain the granularity keeping in mind that future will change.
+
+2. Proposed Solution:
+---------------------
+
+   * Dont change anything in the current application, do as before except for one change.
+
+   * Add a drop down in the merchant login home page. This drop down will list out all the branches for the vendor and based on the change in the drop down and 4 tabs below will change.
+
+   * Only one login will be shared with the vendors, hiding the other logins from the vendors.
+
+3. Implemented solution and steps to follow:
+--------------------------------------------
+
+   * If a vendor has 36 branches, we will generate 36 login_names/password but along with that we will allot one branch as the "ADMIN". This parameter is called the login_type.
+
+   * There are 2 types of login_type, "ADMIN" and "BRANCH".
+
+   * If you login as admin, you will see the drop down and if you login as branch you wont see the drop down , you can only CRUD that particular branch.
+
+   * This is technically achieved by adding a column to the merchants table, "login_type".
+
+4. Techincal details:
+---------------------
+
+   * A new migration file is created as,
+
+   $ rails g migration add_login_type_to_merchants
+
+   $  cat 20121113194647_add_login_type_to_merchants.rb
+
+--------------------------------------------------------------------------------------------
+        class AddLoginTypeToMerchants < ActiveRecord::Migration
+          def up
+
+            execute <<-SQL
+              ALTER TABLE merchants ADD login_type VARCHAR(20) DEFAULT "branch" FIRST
+            SQL
+
+          end
+
+          def down
+
+            execute "ALTER TABLE merchants DROP login_type"
+
+          end
+        end
+--------------------------------------------------------------------------------------------
+
+    $ rake db:migrate
+
+    * "CrawlFish/lib/tasks/merchant.rake" is changed a little bit so that, when you approve a local vendor you need follow this,
+
+    => For ADMIN:
+
+    $ rake merchant:approve_local[SharkSeaPeople,chennai,velachery,admin] RAILS_ENV=production
+
+    => For Branch:
+
+    $ rake merchant:approve_local[SharkSeaPeople,chennai,tnagar] RAILS_ENV=production
+
+    * Model/View/Controller changes are done to accomodate this modification.
+
+5. Working model:
+-----------------
+
+   * When you login using the admin login_name/password, your home page will have the drop down and you can do almost everything at CrawlFish for your account.
+
+   * When you login using the login_name/password as branch, your home will not have any drop down, you can only play within your branch.
+
+
+*****************************==Ending chapter 1 ==**************************
+

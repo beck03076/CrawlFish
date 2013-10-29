@@ -1,0 +1,29 @@
+<div class="grayb-box w320 padB15 padR5">
+
+    <p align="center">
+     To <b>filter</b> results based on <b>distance</b>, click on the <b>slider</b>!
+    </p>
+
+     <div id="km-slider" style="width:250px;margin:auto;">
+     </div>
+     
+      <span style="display:inline-block;width: 14px;text-align:left;margin-right: 50px;margin-left: 30px;">0 kms</span>
+      <span style="display:inline-block;width: 30px;text-align:center;margin-right: 50px;">2 kms</span>
+      <span style="display:inline-block;width: 30px;text-align:center;margin-right: 50px;">4 kms</span>
+      <span style="display:inline-block;width: 30px;text-align:center;margin-right: 25px;">6 kms</span>
+<br/>
+    <div class="g-link-b fr padT5">
+
+      <%= form_generic_to_specific_page_links("link",
+                                               "View all shops in #{@city.titleize}",
+                                               "local",
+                                               @category_name,
+                                               s_to_url(@product_name),
+                                               s_to_url(@product_identifier),
+                                               @country,
+                                               @city)%>
+                                               
+    </div>
+    <br/>
+</div>
+

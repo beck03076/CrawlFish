@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+  </head>
+  <body>
+    <span style="font-size:14px;font-weight:bold;color:#C42525"><u>CrawlFish</u></span>
+    <br/>
+    <br/>
+    <span style="font-size:13px;font-weight:normal">
+    	You have an entry for <b>CRAWLFISH CUSTOMER CARE</b> in <b>crawlfish.in</b> at <i><b><%= Time.new.to_s %></b></i>
+    </span>
+	<br/>
+	<br/>
+	<table border=0 cellpadding=7 cellspacing=0>
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Customer Name</span>
+	</td>
+	<td style="border:1px solid #CCC">
+		<%if !@ccc_customer_name.nil?%>
+			<%if @ccc_customer_name.size>1%>
+				<%=@ccc_customer_name.to_s.titlecase%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+	
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Customer Phone Number</span>
+	</td>
+	<td style="border:1px solid #CCC">
+		<%if !@ccc_customer_phone_no.nil?%>
+			<%if @ccc_customer_phone_no.size>1%>
+				<%= @ccc_customer_phone_no.to_s%> 
+			<% end %>
+		<%end%>
+	</td>
+	</tr>
+	
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Customer Email</span>
+	</td>
+	<td style="border:1px solid #CCC">
+		<%if !@ccc_customer_email.nil?%>
+			<%if @ccc_customer_email.size>1%>
+				<%= @ccc_customer_email.to_s%> 
+			<% end %>
+		<%end%>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Customer City</span>
+	</td>
+	
+	<td style="border:1px solid #CCC">
+		<%if !@ccc_customer_city.nil?%>
+			<%if @ccc_customer_city.size>1%>	
+				<%=@ccc_customer_city.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Customer Area</span>
+	</td>
+
+	<td style="border:1px solid #CCC"> 
+		<%if !@ccc_customer_area.nil?%>
+			<%if @ccc_customer_area.size>1%>
+				<%=@ccc_customer_area.to_s%>
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+	
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Enquiry Type</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@ccc_enquiry_type.nil?%>
+			<%if @ccc_enquiry_type.size>0%>
+				<%=@ccc_enquiry_type.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+		
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Category Enquired</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@ccc_category_enquired.nil?%>
+			<%if @ccc_category_enquired.size>0%>
+				<%=@ccc_category_enquired.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Product Enquired</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@ccc_product_enquired.nil?%>
+			<%if @ccc_product_enquired.size>0%>
+				<%=@ccc_product_enquired.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Shops Referred</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@ccc_shops_referred.nil?%>
+			<%if @ccc_shops_referred.size>0%>
+				<%=@ccc_shops_referred.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Follow Up</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@ccc_followup.nil?%>
+			<%if @ccc_followup.size>0%>
+				<%=@ccc_followup.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Source</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@ccc_how_source.nil?%>
+			<%if @ccc_how_source.size>0%>
+				<%=@ccc_how_source.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="border:1px solid #CCC">
+		<span style="font-size:12px;font-weight:bold">Misc</span>
+	</td>
+
+	<td style="border:1px solid #CCC">
+		<%if !@ccc_misc.nil?%>
+			<%if @ccc_misc.size>0%>
+				<%=@ccc_misc.to_s%> 
+			<%end%>
+		<%end%>
+	</td>
+	</tr>
+
+	</table>
+  </body>
+</html>

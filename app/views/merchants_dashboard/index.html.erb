@@ -1,0 +1,224 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Description" content="CrawlFish - Merchant Login, A unique tool for merchants to view their performance in dashboard,view,add,edit and delete items from product catalogue,upload data feeds and review their financials" />
+<meta name="alexaVerifyID" content="agt3D-roIDhC4m8ZSkYS7nPfiqw" />
+<meta name="keywords" content="price comparison,online price comparison,price comparison website in india,price of mobiles in india,price of mobiles in chennai,price of books in india,price of books in chennai,crawlfish,location based price search engine,price search engine,Online Shopping,Books,Mobile Phones" />
+<% if !@meta_merchant_login_title.empty? %>
+	<title><%= @meta_merchant_login_title %></title>
+<% else %>
+	<title>CrawlFish - Merchant Login - Dashboard</title>
+<% end %>
+
+<link rel="shortcut icon" type="image/x-icon" href="/Images/favicon.ico">
+<%= stylesheet_link_tag    "application" %>
+<%= csrf_meta_tags %>
+<%= javascript_include_tag "application" %>
+<link href="/Stylesheets/merchantdashboard.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32882383-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+<div class="cf-merchant-content">
+
+	<div class="cf-merchant-header">
+		<%=render 'merchants/header'%>
+	<!-- end cf-merchant-header --></div>
+
+<div class="cf-merchant-content-wrapper">
+	<%=render 'merchants/vendor_header_details'%>
+
+		<div class="clear"></div>
+
+<div class="cf-merchant-content-complete">
+			<div class="cf-merchant-content-divider"></div>
+		  <%= render ("merchants/buttons") %>
+		  <div style="padding-top:28px"></div>
+<div class="cf-merchant-content-center">
+<div class="cf-dashboard-content-center">
+
+	<div class="cf-dashboard-content-header"> You can review your performance in this dashboard.</div>
+
+	<div class="cf-dashboard-most-recognized-wrapper">
+		<table class="dashboard-most-recognized-table" border=0 cellspacing=0 cellpadding=5>
+
+		<tr>
+			<td class="dashboard-most-recognized-table-name"><div class="most-recognized"><b><span style="color:#C42525">Number of COUPON CODE generated since listing</span></b></div></td>
+			<td>&nbsp;<span style="font-weight:bold;font-size:13px"><%= @cc_count.to_i %></span></td>
+		</tr>
+
+		<tr>
+			<td class="dashboard-most-recognized-table-name"><div class="most-recognized"><b><span style="color:#C42525">Total worth of leads generated through COUPON CODE since listing</span></b></div></td>
+			<td>&nbsp;<span style="font-weight:bold;font-size:13px">Rs.<%= number_with_delimiter(@cc_lead) %></span></td>
+		</tr>
+
+		<tr>
+			<td class="dashboard-most-recognized-table-name"><div class="most-recognized"><b><span style="color:#C42525">Number of EXPRESS INTEREST generated since listing</span></b></div></td>
+			<td>&nbsp;<span style="font-weight:bold;font-size:13px"><%= @sms_count.to_i %></span></td>
+		</tr>
+
+		<tr>
+			<td class="dashboard-most-recognized-table-name"><div class="most-recognized"><b><span style="color:#C42525">Total worth of leads generated through EXPRESS INTEREST since listing</span></b></div></td>
+			<td>&nbsp;<span style="font-weight:bold;font-size:13px">Rs.<%= number_with_delimiter(@sms_lead) %></span></td>
+		</tr>
+		
+		<tr>
+			<td class="dashboard-most-recognized-table-name"><div class="most-recognized"><b><span style="color:#C42525">Most Recognized Category (Based on Impressions)</span></b></div></td>
+			<td>&nbsp;<%= @most_recognized_impressions.titlecase %></td>
+		</tr>
+
+		<tr>
+			<td class="dashboard-most-recognized-table-name"><div class="most-recognized"><b><span style="color:#C42525">Most Recognized Category (Based on Clicks)</span></b></div></td>
+			<td>&nbsp;<%= @most_recognized_clicks.titlecase %></td>
+		</tr>
+
+		<% if @mobiles_impressions_result.count > 0 %>
+		<tr>
+			<td class="dashboard-most-recognized-table-name"><div class="most-recognized"><b><span style="color:#C42525">Most Popular Mobiles (Based on Impressions)</span></b></div></td> 
+		
+		<td>
+		<ul class="dashboard-impressions-ul">
+			<% if !@mobiles_impressions_result.nil? %>		
+				<% @mobiles_impressions_result.each do |i| %>
+					<li><b><%= i.mobile_name.titlecase %></b>&nbsp;(<%=i.mobile_color.titlecase%>)</li>				
+				<% end %>
+			<% else %>
+				No mobiles
+			<% end %>
+		</ul>
+		</td>
+		</tr>
+		<%end%>
+
+		<% if @books_impressions_result.count > 0 %>
+		<tr>
+			<td class="dashboard-most-recognized-table-name"><div class="most-recognized"><b><span style="color:#C42525">Most Popular Books (Based on Impressions)</span></b></div></td> 
+		
+		<td>
+		<ul class="dashboard-impressions-ul">
+			<% if !@books_impressions_result.nil? %>
+				<% @books_impressions_result.each do |i| %>
+					<li><b><%= i.book_name.titlecase %></b>&nbsp;(<%=i.isbn13%>)</li>
+				<% end %>
+			<% else %>
+				No books
+			<% end %>
+		</ul>
+		</td>
+		</tr>
+		<% end %>
+		
+		<% if @mobiles_count_result.count > 0%>		
+		<tr>
+	       		<td class="dashboard-most-recognized-table-name"><div class="most-recognized"><b><span style="color:#C42525">Most Popular Mobiles (Based on Clicks)</span></b></div></td>
+	
+		<td>
+			<ul class="dashboard-impressions-ul">
+				<% if !@mobiles_count_result.nil? %>		
+					<% @mobiles_count_result.each do |i| %>
+						<li><b><%= i.mobile_name.titlecase %></b>&nbsp;(<%=i.mobile_color.titlecase%>)</li>
+					<% end %>
+				<% else %>
+					No mobiles
+				<% end %>
+			</ul>
+		</td>
+		</tr>
+		<% end %>
+
+		<% if @books_count_result.count > 0 %>
+		<tr>
+	       		<td class="dashboard-most-recognized-table-name"><div class="most-recognized"><b><span style="color:#C42525">Most Popular Mobiles (Based on Clicks)</span></b></div></td>
+	
+		<td>
+			<ul class="dashboard-impressions-ul">
+				<% if !@books_count_result.nil? %>
+					<% @books_count_result.each do |i| %>
+						<li><b><%= i.book_name.titlecase %></b>&nbsp;(<%=i.isbn13%>)</li>
+					<% end %>
+				<% else %>
+					No books
+				<% end %>
+			</ul>
+		</td>
+		</tr>
+		<% end %>
+
+		</table>
+		
+		<div class="cf-variable-pay-common-cutoff-text">
+			<b>Note:</b><br/>
+			1. Most Recognized Category is the category in your shop which has the most impressions and clicks.
+			<br/>
+			2. Most Popular Products in your shop are displayed according to their popularity among visitors of CrawlFish!
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="cf-dashboard-total-imp-clicks-wrapper">
+		<div class="cf-dashboard-total-imp-clicks-text">
+			In this section you can view your total number of impressions, button clicks and SMS sent for all products since joining merchant program of CrawlFish.
+		<ul>
+			<li><b>Total number of impressions:</b> sum of number of page impressions for each product in all categories listed in CrawlFish</li>
+			<li><b>Total number of button clicks:</b> sum of number of 'Visit Shop' button [user visits your shops page by clicking 'Visit Shop' button] clicks for each product in all categories listed in CrawlFish</li>
+
+		</ul>
+
+		</div>
+
+		<div id="dashboard-vendor-id" data-vendor_id="<%= @vendor_id %>">  </div>
+
+
+		<div class="cf-dashboard-total-imp-clicks-select">
+
+			<%= select("dashboard_sub_category", "id",options_for_select(@options).titlecase) %>
+
+			<div id="loading-bar-dashboard" style="display:none;" class="cf-dashboard-loading">
+				   <%= image_tag "/Images/156.gif", :size => "20x20" %>
+			</div>
+		</div>
+
+		<div id="show-impressions-clicks" class="cf-dashboard-total-imp-clicks-section">
+			<%= render ("merchants_dashboard/impressions_clicks") %>
+		</div>
+	</div>
+	<div class="clear"></div>
+
+	<div class="cf-dashboard-imp-clicks-range-wrapper">
+			<div class="cf-dashboard-total-imp-clicks-text">
+				You can also view number of impressions and button clicks for all products between a period in time
+			</div>
+		<div id="show-range-form" >
+			<%= render ("merchants_dashboard/range") %>
+		</div>
+
+		<div id="show-range-result" class="cf-dashboard-imp-clicks-range-section"></div>
+	</div>
+
+	<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear-footer"></div>
+	<div class="cf-merchant-footer">
+    		<div class="cf-merchant-footer-content">
+			<%= render 'shared/footer' %>
+        	</div>
+     	<!-- end cf-merchant-footer --></div>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,57 @@
+
+<link href="/Stylesheets/specificsearch.css" rel="stylesheet" type="text/css">
+
+<!-- MAIN PANEL - STARTS -->
+    <div id="main-panel">
+        <!-- LEFT PANEL - STARTS -->
+        <div id="left-panel">
+            
+            <%= render ('specific/productdetails') %>
+            
+            <div id="item-main-panel">
+                  
+                  <%= render "grid"%>
+                  <div class="clear"></div>
+                  
+                  <%= render "shared/online_bran"%>
+                  
+            </div>
+            
+        </div>
+        <!-- LEFT PANEL - ENDS -->
+        <!-- RIGHT PANEL - STARTS -->
+          <div id="right-panel"  class="border-gray-l">
+            <div id="viewed"> </div>
+            
+           <%= render "shared/pop_7"%> 
+           
+           <!-- This is where the premium shops are set so that the asker can ask foir reviews.
+           Logic here, is if premium shops are missing, the first shop in the grid will be used-->
+           <% g = "@"+@type+"_grids" %>
+           <% ask = eval(g).select {|i| i.premium == 1 }.sample %>
+           <% obj = ask.nil? ? eval(g).first : ask %>
+           <% if !obj.nil? %>
+            <% name = obj.vendor_name.titleize %>
+            <% id = obj.vendor_id %>
+           <% end %>
+           
+           <div class="custom_container" data-shop="<%= name %>" data-v_id="<%= id %>">
+           </div>
+           
+           
+           <%= render "shared/hub"%>
+             
+            <%= render "shared/top"%>
+            
+            <%= render "shared/p_p_range"%>
+            
+            <%= render "shared/o_shops"%>
+            
+            <%= render "shared/a_wise"%>
+          </div>
+          <!-- ITEMS DETAILS MAIN PANEL - STARTS -->
+          <div class="clear"></div>
+          <%= render "shared/p_range" %>
+    </div>
+    <!-- MAIN PANEL - ENDS -->
+

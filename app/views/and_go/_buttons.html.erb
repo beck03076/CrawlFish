@@ -1,0 +1,13 @@
+<% case @from  when "andgo" then %>
+
+      <div class="complete-dashboard-div"><%= link_to "AND GO",{:controller => "and_go_dashboard", :action => "index",:and_go_id => @and_go_id},:class=>'complete-andgo-a',:id => "active" %></div>
+	<div class="complete-dashboard-div"><%= link_to "PHONE SERVICE",{:controller => "crawlfish_customer_care", :action => "index",:vendor_id => @vendor_id},:class=>'complete-phoneservice-a'%></div>
+  
+
+      <% when "phoneservice" then %>
+
+	<div class="complete-dashboard-div"><%= link_to "AND GO",{:controller => "and_go_dashboard", :action => "index",:and_go_id => @and_go_id},:class=>'complete-andgo-a'%></div>
+      <div class="complete-dashboard-div"><%= link_to "PHONE SERVICE",{:controller => "crawlfish_customer_care", :action => "index",:vendor_id => @vendor_id},:class=>'complete-phoneservice-a',:id => "active"%></div>
+
+
+<% end %>

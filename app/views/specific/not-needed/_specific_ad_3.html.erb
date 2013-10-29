@@ -1,0 +1,70 @@
+<% if !@ad_list_details_record.nil? and @ad_list_details_record.active_flag=='y' %>
+
+<div class="cf-specific-right-sidebar-ad-header">
+	    					BEST DEAL
+<!-- end cf-specific-right-sidebar-ad-header --></div>
+
+<% ad_list_details_count_function("specific",@ad_list_details_record.ad_list_details_id) %>
+
+<div class="cf-specifc-right-sidebar-rmedia-ad-section">
+
+
+<div class="cf-grs-ad1-container">
+
+<% if @ad_list_details_record.product_id == 0 && @ad_list_details_record.sub_category_id == 0 %>
+
+	<div class="cf-grs-ad1-container-img">
+		<%= link_to image_tag(@ad_list_details_prd_img),@ad_list_details_external_url,:target => "blank" %>
+	</div>
+
+	<div class="cf-grs-ad1-container-text">
+		<%= @ad_list_details_record.ad_text.html_safe %> from <span style="color:#000;font-weight:bold"><%= @ad_list_details_vendor_name %>, <%= @ad_list_details_branch_name%></span>
+	</div>
+
+	<div class="cf-grs-ad1-container-phone">
+		Call: <span style="font-weight:bold"><%= @ad_list_details_phone_no %>&nbsp;</span>
+	</div>
+
+<%else%>
+
+	<div class="cf-grs-ad1-container-img">
+		<%= link_to image_tag(@ad_list_details_prd_img) ,{:action => 'show_local_shop',:controller => 'local', :vendor_id => @ad_list_details_record.vendor_id, :product_id => @ad_list_details_record.product_id, :sub_category_id => @ad_list_details_record.sub_category_id,:unique_id=>@ad_list_details_unique_id,:search_case => "products",:view_name => @view_name}%>
+	</div>
+
+	<div class="cf-grs-ad1-container-text">
+		<%= @ad_list_details_record.ad_text.html_safe %> from <span style="color:#000;font-weight:bold"><%= @ad_list_details_vendor_name %>, <%= @ad_list_details_branch_name%></span>
+	</div>
+
+	<div class="cf-grs-ad1-container-phone">
+		Call: <span style="font-weight:bold"><%= @ad_list_details_phone_no %>&nbsp;</span>
+	</div>
+
+<% end %>
+</div>
+
+</div>
+
+<% else %>
+
+<div class="cf-specific-right-sidebar-ad-header">
+	    					ADVT
+<!-- end cf-specific-right-sidebar-ad-header --></div>
+
+<div class="cf-specifc-right-sidebar-rmedia-ad-section">
+
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-5440768112196630";
+/* CrawlFish_Specific_1 */
+google_ad_slot = "4205516045";
+google_ad_width = 200;
+google_ad_height = 200;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
+
+<% end %>

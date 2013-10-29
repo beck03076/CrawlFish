@@ -1,0 +1,101 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Description" content="CrawlFish - A unique price comparison website which compares prices from online portals and retailers from all cities in India. It is also 'first of its kind' location based price search engine in India." />
+<meta name="alexaVerifyID" content="agt3D-roIDhC4m8ZSkYS7nPfiqw" />
+<meta name="robots" content="noindex" />
+<title>CrawlFish - Sorry!</title>
+<link rel="shortcut icon" type="image/x-icon" href="/Images/favicon.ico">
+<link href="/Stylesheets/genericsearchpage.css" rel="stylesheet" type="text/css">
+<%= stylesheet_link_tag    "application" %>
+<%= csrf_meta_tags %>
+<%= javascript_include_tag "application" %>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32882383-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+
+<div class="cf-generic-content">
+
+<div class="cf-generic-header">
+
+	<div class="cf-generic-header-logo">
+		<%= link_to image_tag("/Images/fcd-bold.png") ,{:controller => 'main',:action => 'index'},:class => 'imgLogo'%>
+	<!--	 <img id="imgLogo" src="/Images/CF_logoForPagesPng_v4.png" alt="CrawlFish Logo"/> -->
+
+	 <!-- end cf-generic-header-logo --></div>
+
+    	<div class="cf-generic-header-search-form">
+    		<%= decide_search_form %>
+    	<!-- end cf-generic-header-search-form --></div>
+
+	<div class="cf-generic-header-links">
+		<ul class="cf-general-header-links-ul">
+			<% if !@search_case.nil? %>
+			<% if @search_case == "products" %>
+        			<li><%= link_to "Price Finder",{:controller => 'price_search',:action => 'index'},:id=>'cf-a-general-buy'%></li>
+				<li><%= link_to "Home",{:controller => 'main',:action => 'index'},:id=>'cf-a-special-home'%></li>
+			<% elsif @search_case == "price" %>
+				<li><%= link_to "Price Finder",{:controller => 'price_search',:action => 'index'},:id=>'cf-a-special-buy'%></li>
+				<li><%= link_to "Home",{:controller => 'main',:action => 'index'},:id=>'cf-a-general-home'%></li>
+			<% end %>
+			<% end %>
+        	</ul>
+	 <!--end cf-generic-header-links --></div>
+
+<!-- end cf-generic-header --></div>
+
+
+<div class="cf-generic-content-wrapper">
+	<div class="cf-generic-no-results-main-content">
+		<div class="cf-generic-no-results">
+			<div class="cf-generic-no-results-header">
+				<span style="color:#C42525">Error - 500 - Internal Server Error</span>
+			</div>
+			<div class="cf-generic-no-results-content">
+				<div style="padding-bottom:10px"></div>	
+				<span style="font-size:13px">Sorry! We could not get the page that you requested.We are notified of this error.</span>
+				<div style="padding-bottom:10px"></div>				
+				<div class="cf-generic-no-results-points" style="padding:15px">
+					<div class="cf-generic-no-results-points-header">
+						<span style="color:#C42525">Suggestions!</span>
+					</div>
+					<span style="font-size:13px">
+						Something went wrong while trying to process your request. Do you want to go back to our home page and start over? <%= link_to "Click here",{:controller => 'main',:action => 'index'}%>
+					</span>
+				</div>
+				<div style="padding-top:20px"></div>	
+				<div class="cf-generic-no-results-link">
+					<%= link_to "BACK", :back %>
+				</div>
+				
+			</div>
+			
+			
+		</div>		
+	<!-- end cf-generic-no-results-main-content --></div>
+
+	<div class="clear"></div>
+	<div class="cf-generic-footer">
+ 		<div class="cf-generic-footer-details">
+			<div class="cf-generic-footer-content">
+			<%= render 'shared/footer' %>
+			<!-- end cf-generic-footer-content --></div>
+		</div>
+	<!-- end cf-generic-footer --></div>
+<!-- end cf-generic-content-wrapper --></div>
+<!-- end cf-generic-content --></div>
+

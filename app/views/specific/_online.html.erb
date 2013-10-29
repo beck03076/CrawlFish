@@ -1,0 +1,125 @@
+<script type="text/javascript">
+
+  //var noty = $('.custom_container').noty({text: 'Listing price from online shops and updating the older price, on the go!'});
+ 
+ //setup an array of AJAX options, each object is an index that will specify information for a single AJAX request
+ var dict = createDict();
+ 
+  var total = 0;
+
+   for (var i in dict){
+    
+    total++;
+    
+   } 
+          
+   var counter = 0;
+   
+   var result = [];
+
+    //declare your function to run AJAX requests
+    function do_ajax() {       
+
+        //check to make sure there are more requests to make
+        if (counter < total) {
+
+            //make the AJAX request with the given data from the `ajaxes` array of objects
+            $.ajax({
+                type: "POST",
+                url      : '/grab_price',
+                data     : dict[counter],
+                success  : function (data) {
+                
+                   msg = "updated only a moment ago";
+                
+                   p_color = "#307D7E";
+                
+                   var final = data.split("|");
+                    
+                    var u_id = $.trim(final[0]);
+                    
+                    var price = final[1];
+                                           
+                    if (price != "N.A"){
+                    
+                        var div = "div#" + u_id;
+                             
+                        $(div).html(price);
+                                
+                        $(div).css('color',p_color);
+                             
+                        $("#updated-ago-"+u_id).hide().html(msg).fadeIn(3000); 
+                        
+                        result.push(data);
+                    
+                    }
+                    counter++;
+                    do_ajax();
+                    
+                    setTimeout(function(){ 
+            
+                        $('.custom_container').fadeOut(1000);
+              
+                    },3000);
+                }
+            });
+        }else if (counter == total){
+        
+        $.ajax({
+                type: "POST",
+                url      : '/update_online_price',
+                data     : {data : result},
+                success  : function () {
+                
+                  return false;
+                  
+                   
+                }
+            });           
+           
+        }
+    }
+   
+    //run the AJAX function for the first time once `document.ready` fires
+    do_ajax();
+
+
+function createDict(){
+
+   dict = [];
+
+   $('#online-grid a').map(function(i,el) { 
+            
+                    if ($(el).data('update') == 1){
+                     
+                          var p = $(el).data('unique-id');
+                          
+                          var q = $(el).data('vendor-id');
+                          
+                          var r = "data"+ "=" + p + '|' + q + '|' + $(el).attr('href');
+                        
+                          dict.push(r);
+                     }
+             
+    });
+    
+    return dict;
+    
+}
+</script>
+
+<div class="border-gray-t padT5"></div>
+<span class="darkgray-text text-n12 padL20">
+        Listing: <%= plurals(@online_grids_count,"shop","<b>x</b>").html_safe %>
+        <span class="text-n9">
+        (with price..)
+        </span>
+</span>        
+
+<%= render 'sort' %>
+<div id="actual-online-grid">
+
+    <%= render 'actual_online_grid' %>
+    <%= render 'a_avl' %>
+
+</div>

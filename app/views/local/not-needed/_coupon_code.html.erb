@@ -1,0 +1,148 @@
+<div class="cf-local-coupon-code-header">
+	 <div class="cf-local-coupon-code-header-text">COUPON CODE</div>
+	 <div class="cf-local-coupon-code-header-code"><%= @coupon_code.upcase %></div>
+	 <div style="clear:both"></div>
+</div>
+
+<div class="cf-local-coupon-code-middle">
+	<% if !@existing_coupon_code_flag.nil? %>
+		<% if @existing_coupon_code_flag == 1 %>
+			You had already generated coupon code for this product from this vendor. Please note down this coupon code. You have to use this <span style="color:#C42525;font-weight:bold">Coupon Code</span> to buy this product from the store.
+		<% end %>
+
+	<% else %>
+		Please note down this coupon code. You have to use this <span style="color:#C42525;font-weight:bold">Coupon Code</span> to buy this product from the store.
+	<% end %>
+</div>
+
+<div class="cf-local-coupon-code-store-details">
+	<div style="font-size:14px;color:#C42525;font-weight:bold;">Here is your shopping details.</div>
+	<% if !@gifts_active_flag.nil? %>
+		<% if @gifts_active_flag.active_flag == 'y' %>
+			<div style="font-size:13px;color:#000;padding-top:5px;">Please pick your product from the store soon and Claim your <span style="font-weight:bold;font-size:14px;color:#B00">'CrawlFish' gift</span> by providing invoice number!</div>
+		<% else %>
+			<div style="font-size:13px;color:#000;padding-top:5px;">Please pick your product from the store soon!</div>
+		<% end%>
+	<% else %>
+		<div style="font-size:13px;color:#000;padding-top:5px;">Please pick your product from the store soon!</div>
+	<% end %>
+	
+</div>
+
+<div class="cf-local-coupon-code-shopping details">
+
+<div class="cf-local-coupon-code-product-details">
+	<div style="color:#000;font-size:13px;font-weight:bold;padding-bottom:10px;"><u>Product Details</u></div>
+
+	<div class="cf-lcc-sd-product">
+		<% if !@product_name.nil? && !@product_price.nil? %>
+			<% @cc_product_name = @product_name.split("|") %>
+			<div style="color:#C42525;font-size:14px;background:none repeat scroll 0 0 #EEE;border-left:3px solid #666;font-weight:bold;"><span style="color:#000;font-size:13px;">&nbsp;Product Name :&nbsp;</span><%= @cc_product_name[0]%>&nbsp;</div>
+			<div style="color:#06C;font-size:14px;background:none repeat scroll 0 0 #EEE;border-left:3px solid #666"><span style="color:#000;font-size:13px;">&nbsp;Price  :&nbsp;</span>Rs.<%= @product_price.to_i%></div>
+		<% end %>
+	</div>
+</div>
+
+<div class="cf-local-shop-tab-vendor-details-coupon-code">
+
+		<div style="color:#000;font-size:13px;font-weight:bold;padding-bottom:10px;"><u>Shop Details</u></div>
+		<% @vendor.each do |vendor_fields| %>
+		<table class="cf-local-shop-tab-vendor-details-table-coupon-code" cellspacing=0 cellpadding=0 border=0>
+		
+		<tr>
+		
+		<td class="cf-local-shop-tab-vdt-td">
+			<div style="font-size:14px;color:#c42525;font-weight:bold">&nbsp;<%= vendor_fields.vendor_alias_name %></div>
+			<div class="cf-local-shop-tab-vdt-address">
+				<% @arr_vendor_address = vendor_fields.vendor_address.split(",") %>
+				<% @arr_vendor_address.each do |a| %>
+					<%=a.titlecase%>
+					<br/>
+				<%end%>
+
+				<% @arr_vendor_phone = vendor_fields.vendor_phone.split(",") %>
+
+				<% if @arr_vendor_phone.count > 0 %>
+					<% @arr_vendor_phone.each_with_index do |value,index| %>
+						<table class="cf-lst-vdt-contact" border=0 cellpadding=0 cellspacing=0>
+						<tr>
+							<td class="td-vendor-common-details">
+								<% if index == 0 %>
+									<span style="font-weight:bold;color:#C42525">Contact:&nbsp;</span>
+								<% else %>
+
+								<% end %>
+							</td>
+							<td><%=value%></td>
+						</tr>
+						</table>
+					<%end%>
+				<% else %>
+					<table class="cf-lst-vdt-contact" border=0 cellpadding=0 cellspacing=0>
+					<tr>
+					<td class="td-vendor-common-details">
+						<span style="font-weight:bold;color:#C42525">Contact:&nbsp;</span>
+					</td>
+					<td>
+						<% if vendor_fields.vendor_phone.chomp.downcase.gsub(".","")== "na" %>
+							Not Available
+						<% else %>
+							<%=vendor_fields.vendor_phone%>
+						<% end %>
+					</td>
+					</tr>
+					</table>
+				<%end%>
+
+				<table class="cf-lst-vdt-email" border=0 cellpadding=0 cellspacing=0>
+				<tr>
+				<td class="td-vendor-common-details">
+					<span style="font-weight:bold;color:#C42525">Email:&nbsp;</span>
+				</td>
+				<td>
+					<% if vendor_fields.vendor_email.chomp.downcase.gsub(".","")== "na" %>
+						Not Available
+					<% else %>
+						<%=vendor_fields.vendor_email%>
+					<% end %>
+				</td>
+				</tr>
+				</table>
+
+				<table class="cf-lst-vdt-workingtime" border=0 cellpadding=0 cellspacing=0>
+				<tr>
+				<td class="td-vendor-common-details">
+					<span style="font-weight:bold;color:#C42525">Store Timing:&nbsp;</span>
+				</td>
+				<td>
+					<% if vendor_fields.working_time.chomp.downcase.gsub(".","")== "na" %>
+						Not Available
+					<% else %>
+						<%=vendor_fields.working_time%>
+					<% end %>
+				</td>
+				</tr>
+				</table>
+			</div>
+		</td>
+		</tr>
+
+
+		</table>
+		<% end %>
+        </div>
+
+<div style="clear:float"></div>
+
+</div>
+
+<%if !@product_price.nil? %>
+
+<% send_coupon_code_mailer(@product_id,@sub_category_id,@vendor_id,@coupon_code,@product_price) %>
+
+<%else %>
+
+<% send_coupon_code_mailer(@product_id,@sub_category_id,@vendor_id,@coupon_code,0) %>
+
+<%end%>
+

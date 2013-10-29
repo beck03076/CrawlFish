@@ -1,0 +1,1000 @@
+ 1044  ls
+ 1045  chmod 777 part2db_mobiles_lists_v1.dat 
+ 1046  ls
+ 1047  ./CF_part2db_script part2db_mobiles_lists_v1.dat
+ 1048  rake ts:start
+ 1049  rails s
+ 1050  mysql -u root -pSector@123 sunday --local-infile 
+ 1051  rake merchant:approve_local[access,chennai,nungambakkam]
+ 1052  rake merchant:approve_local[access,chennai,royapettah,admin]
+ 1053  rails g migration add_admin_and_premium_and_authorised_and_cards_and_affiliate_to_vendors_lists admin:string premium:integer authorised:integer cards:integer affiliate:integer
+ 1054  vi 20130514121726_add_admin_and_premium_and_authorised_and_cards_and_affiliate_to_vendors_lists.rb
+ 1055  sudo gedit 20130514121726_add_admin_and_premium_and_authorised_and_cards_and_affiliate_to_vendors_lists.rb
+ 1056  exit
+ 1057  cd CrawlFish/db/migrate/
+ 1058  ls
+ 1059  vi 20130514121726_add_admin_and_premium_and_authorised_and_cards_and_affiliate_to_vendors_lists.rb~
+ 1060  vi 20130514121726_add_admin_and_premium_and_authorised_and_cards_and_affiliate_to_vendors_lists.rb
+ 1061  rm 20130514121726_add_admin_and_premium_and_authorised_and_cards_and_affiliate_to_vendors_lists.rb~
+ 1062  rake db:migrate:up VERSION=20130514121726
+ 1063  desc vendors_lists;
+ 1064  rake jump:vendor TYPE="local" CITY="chennai" AREA="annanagar" NAME="ABCElectronics" CAT_BRAN="{'mobiles_lists'=>'nokia,htc','laptops_lists'=>'dell,hp','external_hdds_lists' => 'wd,toshiba'}" M_TYPE="fixed" S_DATE=0 LOGO="na" SITE="na" EMAIL="adfs@asdf.com" PHONE="3456134323" FAX="na" ADDRESS="This and all one address" LAT=13.0853169 LONG=80.2003662 DESC="<b>ABC electronics, Anna Nagar</b> has been in operation, since 2002, sells all mobiles of Nokia, Sony, Blackberry, HTC, Apple, Micromax and Blackberry. They also sell all original mobile phone accessories. They also provide door delivery with in 1KM on the same day at no additional cost" HRS="10AM-10PM" MISC=na TRIAL=y DEL=0 PRICE=0 AVL="In Stock" DEL_COST="Free delivery" DEL_TIME="24 business hours" OFFERS="Complimentry on every purchase\!" WARR="Manufacturers" DELI="y" REASON="New Vendor" VALID="Till trial" CONF_BY="Senthil" APP_PATH="/home/think/CrawlFish" ALIAS="Beauty Queen" B_ALIAS="Anna nagar" ADMIN="4435annanagar" PREMIUM=1 AUTHORISED=0 CARDS=1 AFFILIATE=0
+ 1065  rake jump:vendor TYPE="local" CITY="chennai" AREA="annanagar" NAME="ABCElectronics" CAT_BRAN="{'mobiles_lists'=>'nokia,htc','laptops_lists'=>'dell,hp','external_hdds_lists' => 'wd,toshiba'}" M_TYPE="fixed" S_DATE=0 LOGO="na" SITE="na" EMAIL="adfs@asdf.com" PHONE="3456134323" FAX="na" ADDRESS="This and all one address" LAT=13.0853169 LONG=80.2003662 DESC="<b>ABC electronics, Anna Nagar</b> has been in operation, since 2002, sells all mobiles of Nokia, Sony, Blackberry, HTC, Apple, Micromax and Blackberry. They also sell all original mobile phone accessories. They also provide door delivery with in 1KM on the same day at no additional cost" HRS="10AM-10PM" MISC=na TRIAL=y DEL=0 PRICE=0 AVL="In Stock" DEL_COST="Free delivery" DEL_TIME="24 business hours" OFFERS="Complimentry on every purchase\!" WARR="Manufacturers" DELI="y" REASON="New Vendor" VALID="Till trial" CONF_BY="Senthil" APP_PATH="/home/think/CrawlFish" ALIAS="Beauty Queen" B_ALIAS="Anna nagar" ADMIN_NAME="4435annanagar" PREMIUM=1 AUTHORISED=0 CARDS=1 AFFILIATE=0
+ 1066  rake jump:vendor TYPE="local" CITY="chennai" AREA="annanagar" NAME="ABCElectronics" CAT_BRAN="{'mobiles_lists'=>'nokia,htc','laptops_lists'=>'dell,hp','external_hdds_lists' => 'wd,toshiba'}" M_TYPE="fixed" S_DATE=0 LOGO="na" SITE="na" EMAIL="adfs@asdf.com" PHONE="3456134323" FAX="na" ADDRESS="This and all one address" LAT=13.0853169 LONG=80.2003662 DESC="<b>ABC electronics, Anna Nagar</b> has been in operation, since 2002, sells all mobiles of Nokia, Sony, Blackberry, HTC, Apple, Micromax and Blackberry. They also sell all original mobile phone accessories. They also provide door delivery with in 1KM on the same day at no additional cost" HRS="10AM-10PM" MISC=na TRIAL=y DEL=0 PRICE=0 AVL="In Stock" DEL_COST="Free delivery" DEL_TIME="24 business hours" OFFERS="Complimentry on every purchase\!" WARR="Manufacturers" DELI="y" REASON="New Vendor" VALID="Till trial" CONF_BY="Senthil" APP_PATH="/home/think/CrawlFish" ALIAS="Beauty Queen" B_ALIAS="Anna nagar" ADMIN_NAME="annanagar" PREMIUM=1 AUTHORISED=0 CARDS=1 AFFILIATE=0
+ 1067  mysql -u root -pSector@123 crawlfishdevdb < /home/think/CrawlFish/lib/tasks/2013-05-14-sql/214803
+ 1068  rake jump:vendor TYPE="local" CITY="chennai" AREA="velachery" NAME="ABCElectronics" CAT_BRAN="{'mobiles_lists'=>'nokia,htc','laptops_lists'=>'dell,hp','external_hdds_lists' => 'wd,toshiba'}" M_TYPE="fixed" S_DATE=0 LOGO="na" SITE="na" EMAIL="adfs@asdf.com" PHONE="3456134323" FAX="na" ADDRESS="This and all one address" LAT=13.0853169 LONG=80.2003662 DESC="<b>ABC electronics, Anna Nagar</b> has been in operation, since 2002, sells all mobiles of Nokia, Sony, Blackberry, HTC, Apple, Micromax and Blackberry. They also sell all original mobile phone accessories. They also provide door delivery with in 1KM on the same day at no additional cost" HRS="10AM-10PM" MISC=na TRIAL=y DEL=0 PRICE=0 AVL="In Stock" DEL_COST="Free delivery" DEL_TIME="24 business hours" OFFERS="Complimentry on every purchase\!" WARR="Manufacturers" DELI="y" REASON="New Vendor" VALID="Till trial" CONF_BY="Senthil" APP_PATH="/home/think/CrawlFish" ALIAS="Beauty Queen" B_ALIAS="Anna nagar" ADMIN_NAME="4435annanagar" PREMIUM=1 AUTHORISED=0 CARDS=1 AFFILIATE=0
+ 1069  rake jump:vendor TYPE="local" CITY="chennai" AREA="velachery" NAME="ABCElectronics" CAT_BRAN="{'mobiles_lists'=>'nokia,htc','laptops_lists'=>'dell,hp','external_hdds_lists' => 'wd,toshiba'}" M_TYPE="fixed" S_DATE=0 LOGO="na" SITE="na" EMAIL="adfs@asdf.com" PHONE="3456134323" FAX="na" ADDRESS="This and all one address" LAT=13.0853169 LONG=80.2003662 DESC="<b>ABC electronics, Anna Nagar</b> has been in operation, since 2002, sells all mobiles of Nokia, Sony, Blackberry, HTC, Apple, Micromax and Blackberry. They also sell all original mobile phone accessories. They also provide door delivery with in 1KM on the same day at no additional cost" HRS="10AM-10PM" MISC=na TRIAL=y DEL=0 PRICE=0 AVL="In Stock" DEL_COST="Free delivery" DEL_TIME="24 business hours" OFFERS="Complimentry on every purchase\!" WARR="Manufacturers" DELI="y" REASON="New Vendor" VALID="Till trial" CONF_BY="Senthil" APP_PATH="/home/think/CrawlFish" ALIAS="Beauty Queen" B_ALIAS="Anna nagar" ADMIN_NAME="annanagar" PREMIUM=1 AUTHORISED=0 CARDS=1 AFFILIATE=0
+ 1070  rake jump:vendor TYPE="local" CITY="chennai" AREA="alwarpet" NAME="ABCElectronics" CAT_BRAN="{'mobiles_lists'=>'nokia,htc','laptops_lists'=>'dell,hp','external_hdds_lists' => 'wd,toshiba'}" M_TYPE="fixed" S_DATE=0 LOGO="na" SITE="na" EMAIL="adfs@asdf.com" PHONE="3456134323" FAX="na" ADDRESS="This and all one address" LAT=13.0853169 LONG=80.2003662 DESC="<b>ABC electronics, Anna Nagar</b> has been in operation, since 2002, sells all mobiles of Nokia, Sony, Blackberry, HTC, Apple, Micromax and Blackberry. They also sell all original mobile phone accessories. They also provide door delivery with in 1KM on the same day at no additional cost" HRS="10AM-10PM" MISC=na TRIAL=y DEL=0 PRICE=0 AVL="In Stock" DEL_COST="Free delivery" DEL_TIME="24 business hours" OFFERS="Complimentry on every purchase\!" WARR="Manufacturers" DELI="y" REASON="New Vendor" VALID="Till trial" CONF_BY="Senthil" APP_PATH="/home/think/CrawlFish" ALIAS="Beauty Queen" B_ALIAS="Anna nagar" ADMIN_NAME="annanagar" PREMIUM=1 AUTHORISED=0 CARDS=1 AFFILIATE=0
+ 1071  mysql -u root -pSector@123 crawlfishdevdb < /home/think/CrawlFish/lib/tasks/2013-05-14-sql/234752
+ 1072  rake ts:start
+ 1073  rails s
+ 1074  rails c
+ 1075  mysql -u root -pSector@123 crawlfishdevdb --local-infile 
+ 1076  rake ts:start
+ 1077  rails s
+ 1078  rake ts:start
+ 1079  rails s
+ 1080  rails c
+ 1081  mysql -u root -pSector@123 crawlfishdevdb --local-infile 
+ 1082  3 crawlfishdevdb --local-infile 
+ 1083  gem install jquery-console-rails
+ 1084  rails g migration add_brands_to_vendors_lists brands:string
+ 1085  vi 20130516074725_add_brands_to_vendors_lists.rb
+ 1086  rake db:migrate
+ 1087  ls
+ 1088  rake db:migrate:up VERSION=20130516074725
+ 1089  rake jump:vendor TYPE="local" CITY="chennai" AREA="tambaram" B_ALIAS="Anna nagar" ADMIN_NAME="annanagar" NAME="ScissorsTech" ALIAS="Scissors Technology" CAT_BRAN="{'mobiles_lists'=>'nokia,htc','laptops_lists'=>'dell,hp','external_hdds_lists' => 'wd,toshiba'}" M_TYPE="fixed" S_DATE=0 LOGO="na" SITE="na" EMAIL="adfs@asdf.com" PHONE="3456134323" FAX="na" ADDRESS="This and all one address" LAT=13.0853169 LONG=80.2003662 DESC="<b>ABC electronics, Anna Nagar</b> has been in operation, since 2002, sells all mobiles of Nokia, Sony, Blackberry, HTC, Apple, Micromax and Blackberry. They also sell all original mobile phone accessories. They also provide door delivery with in 1KM on the same day at no additional cost" HRS="10AM-10PM" MISC=na TRIAL=y DEL=0 PRICE=0 AVL="In Stock" DEL_COST="Free delivery" DEL_TIME="24 business hours" OFFERS="Complimentry on every purchase\!" WARR="Manufacturers" DELI="y" REASON="New Vendor" VALID="Till trial" CONF_BY="Senthil" APP_PATH="/home/think/CrawlFish" PREMIUM=1 AUTHORISED=1 CARDS=1 AFFILIATE=1 
+ 1090  rake jump:vendor TYPE="local" CITY="chennai" AREA="tambaram" B_ALIAS="Anna nagar" ADMIN_NAME="annanagar" NAME="ScissorsTech" ALIAS="Scissors Technology" CAT_BRAN="{'mobiles_lists'=>'sony','laptops_lists' => 'sony'}" M_TYPE="fixed" S_DATE=0 LOGO="na" SITE="na" EMAIL="adfs@asdf.com" PHONE="3456134323" FAX="na" ADDRESS="This and all one address" LAT=13.0853169 LONG=80.2003662 DESC="<b>ABC electronics, Anna Nagar</b> has been in operation, since 2002, sells all mobiles of Nokia, Sony, Blackberry, HTC, Apple, Micromax and Blackberry. They also sell all original mobile phone accessories. They also provide door delivery with in 1KM on the same day at no additional cost" HRS="10AM-10PM" MISC=na TRIAL=y DEL=0 PRICE=0 AVL="In Stock" DEL_COST="Free delivery" DEL_TIME="24 business hours" OFFERS="Complimentry on every purchase\!" WARR="Manufacturers" DELI="y" REASON="New Vendor" VALID="Till trial" CONF_BY="Senthil" APP_PATH="/home/think/CrawlFish" PREMIUM=1 AUTHORISED=1 CARDS=1 AFFILIATE=1 
+ 1091  mysql -u root -pSector@123 crawlfishdevdb < /home/think/CrawlFish/lib/tasks/2013-05-16-sql/132757
+ 1092  rake ts:start
+ 1093  rails s
+ 1094  rake ts:start
+ 1095  rails s
+ 1096  mysql -u root -pSector@123 crawlfishdevdb < /home/think/CrawlFish/lib/tasks/2013-05-16-sql/132757
+ 1097  mysql -u root -pSector@123 crawlfishdevdb 
+ 1098  rails c
+ 1099  cd CrawlFish/public/Images/
+ 1100  cd Mobile-Images/
+ 1101  for i in * do   cd $i;   for j in *    do     cd $j    ;     for k in *              do               cd $k ;               pwd ;               rename 's/ /_/g' *;               ls;               cd ..;              done;     cd ..;    done;       cd ..; done
+ 1102  cd /home/think/CrawlFish/public/Images/Mobile-Images/
+ 1103  ls
+ 1104  cd Acer/
+ 1105  for i in * do   cd $i;   for j in *    do     cd $j    ;     for k in *              do               cd $k ;               pwd ;               rename 's/ /_/g' *;               ls;               cd ..;              done;     cd ..;    done;       cd ..; done
+ 1106  cd /home/think/CrawlFish/public/Images/Mobile-Images/
+ 1107  ls
+ 1108  cd Acer/
+ 1109  ls
+ 1110  cd ..
+ 1111  for i in * do   cd $i;   for j in *    do     cd $j    ;     for k in *              do               cd $k ;               pwd ;               rename 's/ /_/g' *;               ls;               cd ..;              done;     cd ..;    done;       cd ..; done
+ 1112  ls
+ 1113  cd Alcatel_Crystal
+ 1114  ls
+ 1115  cd Blue/
+ 1116  ls
+ 1117  cd ..
+ 1118  ls
+ 1119  cd Alcatel/
+ 1120  ls
+ 1121  cd ..
+ 1122  find . -type d -exec sh -c '(cd {} && )' "rename 's/ /_/g' *";'
+ 1123  find . -type d -exec sh -c '(cd {} && )' "rename 's/ /_/g' *";
+ 1124  find . -type d -exec sh -c '(cd {} && )' "rename 's/ /_/g' *"';'
+ 1125  COMMAND = "rename 's/ /_/g' *"
+ 1126  COMMAND = 'rename 's/ /_/g' *'
+ 1127  EXPORT COMMAND = 'rename 's/ /_/g' *'
+ 1128  export  COMMAND = 'rename 's/ /_/g' *'
+ 1129  find . -type d -exec sh -c '(cd {} && )' rename 's/ /_/g' *';'
+ 1130  find . -type d -exec 'sh -c '(cd {} && )' rename 's/ /_/g' *;'
+ 1131  find . -type d -exec 'sh -c '(cd {} && ) rename 's/ /_/g' *;'
+ 1132  find . -type d -exec 'sh -c 'cd {} && ) rename 's/ /_/g' *;'
+ 1133  find . -type d -exec 'sh -c 'cd {} &&  rename 's/ /_/g' *;'
+ 1134  '
+ 1135  ls
+ 1136  for file in **/*.jpg;  do echo $file;  rename 's/ /_/g' *; done
+ 1137  for file in **/*.jpg;  do; echo $file;  rename 's/ /_/g' *; done
+ 1138  for file in `**/*.jpg`;  do echo $file;  rename 's/ /_/g' *; done
+ 1139  for file in **/*.jpg;  do echo $file;  rename 's/ /_/g' *; done
+ 1140  for file in **/*;  do echo $file;  rename 's/ /_/g' *; done
+ 1141  for file in **/*;  do  rename 's/ /_/g' *; done
+ 1142  for file in **/*;  do  cd $file; rename 's/ /_/g' *; done
+ 1143  cd ..
+ 1144  ls
+ 1145  cd L
+ 1146  cd LG
+ 1147  ls
+ 1148  cd ..
+ 1149  find . -depth -name "_" -execdir rename 's/_/ /g' "{}" \;
+ 1150  find /home/think/CrawlFish/public/Images/Mobile-Images/ -depth -name "_" -execdir rename 's/_/ /g' "{}" \;
+ 1151  ls | while read -r FILE; do     mv -v "$FILE" `echo $FILE | tr ' ' '_' `; done
+ 1152  rename ' ' '_' *
+ 1153  find . -depth -name "* *" -execdir rename 's/ /_/g' "{}" \;
+ 1154  ls
+ 1155  cd Nokia/
+ 1156  ls
+ 1157  cd Nokia_77
+ 1158  cd Nokia_7700/
+ 1159  l;s
+ 1160  cd Black/
+ 1161  ls
+ 1162  cd ..
+ 1163  ls
+ 1164  cd Sony_Ericsson/
+ 1165  ls
+ 1166  cd Sony_Ericsson_K700
+ 1167  ls
+ 1168  cd Optic_Silver
+ 1169  ls
+ 1170  cd ../../../..
+ 1171  lds
+ 1172  cd Mobile-Images/
+ 1173  lsd
+ 1174  ls
+ 1175  cd Nokia/
+ 1176  ls
+ 1177  cd Nokia_Lumia_
+ 1178  cd Nokia_Lumia_800/
+ 1179  ls
+ 1180  cd Bl
+ 1181  cd Black/
+ 1182  ls
+ 1183  convert -resize 50x50 -background white -gravity center -extent 50x50 -format jpg -quality 75  *.jpg  $k-50x50.jpg
+ 1184  ls
+ 1185  echo $k
+ 1186  convert -resize 50x50 -background white -gravity center -extent 50x50 -format jpg -quality 75  *.jpg  50x50.jpg
+ 1187  cd ../../..
+ 1188  cd Samsung/Samsung_Galaxy_Ace_
+ 1189  ls
+ 1190  cd Samsung/Samsung_Galaxy_Ace
+ 1191  cd Samsung/Samsung_Galaxy_Ace_S5830
+ 1192  ls
+ 1193  cd Black/
+ 1194  ls
+ 1195  convert -resize 50x50 -background white -gravity center -extent 50x50 -format jpg -quality 75  *.jpg  50x50.jpg
+ 1196  cd ../../..
+ 1197  find . -depth -name "* *" -execdir mogrify -resize 130x130 -background white -gravity center -extent 130x130 -format jpg -quality 75 *.jpg "{}" \;
+ 1198  ls
+ 1199  find . -depth -name "* *" -exec mogrify -resize 130x130 -background white -gravity center -extent 130x130 -format jpg -quality 75 *.jpg "{}" \;
+ 1200  rails g migration add_img_to_subcategories img:string
+ 1201  rake db:migrate:up VERSION=20130517081402
+ 1202  rake ts:start
+ 1203  rails s
+ 1204  rails c
+ 1205  mysql -u root -pSector@123 crawlfishdevdb 
+ 1206  sudo apt-get install imagemagick
+ 1207  sudo apt-get install image-magick
+ 1208  cd CrawlFish/public/Images/
+ 1209  ls
+ 1210  cd Mobile-Images/
+ 1211  lsd
+ 1212  ls
+ 1213  cd Motorola_A1000
+ 1214  ls
+ 1215  cd Grey/
+ 1216  ls
+ 1217  cd ../../../H
+ 1218  cd ../../../HTC/
+ 1219  cd HTC_7_Mozart/
+ 1220  ls
+ 1221  cd Black/
+ 1222  ls
+ 1223  convert -resize 130x130 -background white -gravity center -extent 130x130 -format jpg -quality 75  *.jpg
+ 1224  convert -resize 130x130 -background white -gravity center -extent 130x130 -format jpg -quality 75  *.jpg *.jpg
+ 1225  ls
+ 1226  convert -resize 130x130 -background white -gravity center -extent 130x130 -format jpg -quality 75  
+ 1227  convert -resize 130x130 -background white -gravity center -extent 130x130 -format jpg -quality 75  *.jpg  130x130.jpg
+ 1228  ls
+ 1229  convert -resize 130x130 -background white -gravity center -extent 130x130 -format jpg -quality 75  * 130x130.jpg
+ 1230  convert -resize 130x130 -background white -gravity center -extent 130x130 -format jpg -quality 75  *.jpg 130x130.jpg
+ 1231  ls
+ 1232  convert -resize 130x130 -background white -gravity center -extent 130x130 -format jpg -quality 75  *.jpg 
+ 1233  convert -resize 130x130 -background white -gravity center -extent 130x130 -format jpg -quality 75 *.jpg 
+ 1234  cd ../..
+ 1235  cd HTC_7_Pro/
+ 1236  ls
+ 1237  cd Black/
+ 1238  convert -resize 130x130 -background white -gravity center -extent 130x130 -format jpg -quality 75 *.jpg *.jpg
+ 1239  convert -resize 130x130 -background white -gravity center -extent 130x130 -format jpg -quality 75 *.jpg 2-*.jpg
+ 1240  convert -resize 24x24 -background white -gravity center -extent 24x24 -format jpg -quality 75 *.jpg 2-*.jpg
+ 1241  convert -resize 32x32 -background white -gravity center -extent 32x32 -format jpg -quality 75 *.jpg 2-*.jpg
+ 1242  cd ../..
+ 1243  ls
+ 1244  cd HTC_
+ 1245  cd HTC_7_Surround/
+ 1246  cd Black/
+ 1247  ls
+ 1248  convert -resize 50x50 -background white -gravity center -extent 50x50 -format jpg -quality 75 *.jpg 2-*.jpg
+ 1249  convert -resize 64x64 -background white -gravity center -extent 64x64 -format jpg -quality 75 *.jpg 2-*.jpg
+ 1250  rake ts:start
+ 1251  rails s
+ 1252  cd CrawlFish
+ 1253  rake ts:start
+ 1254  rails s
+ 1255  cd CrawlFish
+ 1256  rails c
+ 1257  rake ts:start
+ 1258  rails s
+ 1259  mysql -u root -pSector@123 crawlfishdevdb 
+ 1260  cd CrawlFish
+ 1261  pgrep search]
+ 1262  pgrep search
+ 1263  pgrep ruby
+ 1264  kill -9 4309
+ 1265  rails s
+ 1266  ls
+ 1267  cd Downloads/
+ 1268  ls
+ 1269  cd ../data/
+ 1270  ls
+ 1271  vi replacer.sh
+ 1272  ./replacer.sh /home/think/data/Mobile-Images/ ' ' '_'
+ 1273  chmod 777 replacer.sh 
+ 1274  ./replacer.sh /home/think/data/Mobile-Images/ ' ' '_'
+ 1275  ls
+ 1276  cat replacer.sh 
+ 1277  ./replacer.sh /home/think/data/Mobile-Images/ ' ' '_'
+ 1278  cat replacer.sh 
+ 1279  vi replacer.sh 
+ 1280  ls
+ 1281  cd Mobile-Images/
+ 1282  ls
+ 1283  ./replacer.sh /home/think/data/Mobile-Images/ ' ' '_'
+ 1284  cd ..
+ 1285  ls
+ 1286  ./replacer.sh /home/think/data/Mobile-Images/ ' ' '_'
+ 1287  vi replacer.sh 
+ 1288  find \302\240
+ 1289  ./replacer.sh /home/think/data/Mobile-Images/ '' '_'
+ 1290  ./replacer.sh /home/think/data/Mobile-Images/ ' ' '-'
+ 1291  ./replacer.sh /home/think/data/Mobile-Images/ ' ' '_'
+ 1292  vi replacer.sh 
+ 1293  sh replacer.sh /home/think/data/Mobile-Images/ ' ' '_'
+ 1294  vi replacer.sh 
+ 1295  ./replacer.sh /home/think/data/Mobile-Images/ ' ' '_'
+ 1296  vi replacer.sh 
+ 1297  mv replacer.sh rep.sh
+ 1298  ./rep.sh /home/think/data/Mobile-Images/ ' ' '_'
+ 1299  mv -i '/home/think/data/Mobile-Images/Samsung/Samsung Ch@t 350/Black/Samsung Ch@t 350.jpg' '/home/think/data/Mobile-Images/Samsung/Samsung Ch@t 350/Black/Samsung_Ch@t_350.jpg'
+ 1300  cd /home/think/data/Mobile-Images/Samsung/Samsung Ch@t 350/Black/Samsung Ch@t 350.jpg
+ 1301  cd /home/think/data/Mobile-Images/Samsung/Samsung\ Ch@t\ 350/Black/Samsung\ Ch@t\ 350.jpg
+ 1302  cd '/home/think/data/Mobile-Images/Samsung/Samsung Ch@t 350/Black/Samsung Ch@t 350.jpg'
+ 1303  cd '/home/think/data/Mobile-Images/Samsung/Samsung Ch@t 350/Black/'
+ 1304  ls
+ 1305  cd -
+ 1306  ls
+ 1307  vi rep.sh 
+ 1308  ./rep.sh /home/think/data/Mobile-Images/ ' ' '_'
+ 1309  vi rep.sh 
+ 1310  ./rep.sh /home/think/data/Mobile-Images/ ' ' '_'
+ 1311  cd Mobile-Images/
+ 1312  ls
+ 1313  cd Nokia/
+ 1314  ls
+ 1315  cd Nokia_Lumia_800
+ 1316  ls
+ 1317  cd Bkl
+ 1318  cd Bl
+ 1319  cd Black/
+ 1320  ls
+ 1321  cd ../..
+ 1322  ls
+ 1323  cd ..
+ 1324  ls
+ 1325  cd Sony_Ericsson/
+ 1326  ls
+ 1327  cd Sony_Ericsson_Xperia_X10_mini_pro
+ 1328  ls
+ 1329  cd Black/
+ 1330  ls
+ 1331  rake ts:start
+ 1332  rails s
+ 1333  cd CrawlFish
+ 1334  rake ts:start
+ 1335  rails s
+ 1336  pgrep ruby
+ 1337  kill -9 21204
+ 1338  rails s
+ 1339  scp U4f95KQ5B@180.179.50.152:/var/www/CrawlFish/script/transactions_logs_script/2013may21dump.sql /home/me/think/data
+ 1340  scp root@180.179.50.152:/var/www/CrawlFish/script/transactions_logs_script/2013may21dump.sql /home/me/think/data
+ 1341  scp U4f95KQ5B@180.179.50.152:/var/www/CrawlFish/script/transaction_logs_script/2013may21dump.sql /home/think/data
+ 1342  cd CrawlFish
+ 1343  ls
+ 1344  cd public/Images/
+ 1345  ls
+ 1346  cd Mobile-Images/
+ 1347  ls
+ 1348  cd ..
+ 1349  vi script-2.sh
+ 1350  cd ..
+ 1351  cd ../data/
+ 1352  ls
+ 1353  cd Mobile-Images/
+ 1354  ls
+ 1355  cd ..
+ 1356  ls
+ 1357  vi script-2.sh
+ 1358  ls
+ 1359  # REMEMBER THIS SCRIPT ASSUMES YOUR BRAND NAME WILL ALWAYS BE UNDER MOBILE_IMAGES.
+ 1360  # FOR EX: ./mobile_images/nokia/nokia_lumia/black/*.jpg - this script is only concerned about whats under 4 levels down the mobile_images dir.
+ 1361  # it will ignore all others like ./mobile_images/nokia/dup/nokia_lumia/blue/*.jpg or ./mobile_jpgs/nokia/*.jpg
+ 1362  # input is your path, ex:/home/users/mobile_images
+ 1363  # to execute the script, ./copy.sh /home/users/mobile_images
+ 1364  if test $# -lt 1 ; then echo please provide 1 inputs: your path ; exit 0; fi
+ 1365  ls *coupons*
+ 1366  rake db:migrate:down VERSION=20121113194812
+ 1367  ls
+ 1368  cd CrawlFish
+ 1369  cd public/Images/Mobile-Images/Acer/
+ 1370  ls | wc -l
+ 1371  cd data/
+ 1372  cd Mobile-Images/
+ 1373  l;s
+ 1374  ls
+ 1375  cd Acer/
+ 1376  ls
+ 1377  cd Acer_Allegro/
+ 1378  ls
+ 1379  cd Black/
+ 1380  ls
+ 1381  cd ../../
+ 1382  ls
+ 1383  cd data/
+ 1384  ls
+ 1385  chmod 777 script-2.sh 
+ 1386  ;;;;;;;;;;./script-2.sh /home/think/data/Mobile-Images/a;;;;;;;;;;;;;;
+ 1387  cd Mobile-Images/
+ 1388  ls
+ 1389  cd Nokia/
+ 1390  ls
+ 1391  cd ../..
+ 1392  ls
+ 1393  ./script-2.sh /home/think/data/Mobile-Images/
+ 1394  ls
+ 1395  cd Mobile-Images/
+ 1396  ls
+ 1397  cd Acer/
+ 1398  ls
+ 1399  cd Acer_
+ 1400  cd Acer_Allegro/
+ 1401  lks
+ 1402  ls
+ 1403  cd Black/
+ 1404  ls
+ 1405  cd ..
+ 1406  wc -l
+ 1407  ls | wc -l
+ 1408  cd Acer/
+ 1409  ls | wc -l
+ 1410  ls
+ 1411  cd ..
+ 1412  ls
+ 1413  cd Apple/
+ 1414  ls
+ 1415  cd ../
+ 1416  ls
+ 1417  cd Celkon/
+ 1418  ls
+ 1419  cd ../Vodafone/
+ 1420  ls
+ 1421  rake ts:Start
+ 1422  rails s
+ 1423  rake ts:start
+ 1424  rails s
+ 1425  rails c
+ 1426  mysql -u root -pSector@123 crawlfishdevdb 
+ 1427  cd CrawlFish
+ 1428  ls
+ 1429  cd public/
+ 1430  ls
+ 1431  cd Images/
+ 1432  ls
+ 1433  cd Mobile-Images/
+ 1434  ls
+ 1435  cd Samsung/
+ 1436  ls
+ 1437  cd Samsung_Rugby_Smart_I847
+ 1438  ls
+ 1439  cd Black/
+ 1440  ls
+ 1441  vi convert.sh
+ 1442  ls
+ 1443  ./convert.sh 32 Samsung_Rugby_Smart_I847.jpg 
+ 1444  chmod 777 convert.sh 
+ 1445  ./convert.sh 32 Samsung_Rugby_Smart_I847.jpg 
+ 1446  ls
+ 1447  vi convert.sh 
+ 1448  ./convert.sh 32 Samsung_Rugby_Smart_I847.jpg 
+ 1449  convert -resize 32x32 -background white -gravity center -extent 32x32 -format jpg -quality 75 Samsung_Rugby_Smart_I847.jpg 32_Samsung_Rugby_Smart_I847.jpg
+ 1450  ls
+ 1451  convert -resize 32x32 -background white -gravity center -extent 32x32 -format jpg -quality 75 Samsung_Rugby_Smart_I847.jpg 32_Samsung_Rugby_Smart_I847.jpg
+ 1452  ./convert.sh 32 Samsung_Rugby_Smart_I847.jpg 
+ 1453  cat convert.sh 
+ 1454  ls
+ 1455  cd /home/think/data/
+ 1456  ls
+ 1457  grep -c new.dat "pid"
+ 1458  grep -c "pid" new.dat
+ 1459  grep -c "pid=" new.dat
+ 1460  grep -c "pid=[A-Za-z0-9]" new.dat
+ 1461  grep -c "pid=[A-Za-z0-9#]" new.dat
+ 1462  grep -c "pid=[A-Za-z0-9]%" new.dat
+ 1463  grep -c "pid=[A-Za-z]" new.dat
+ 1464  grep -c "pid=[A-Z]" new.dat
+ 1465  grep -c "pid=[]" new.dat
+ 1466  grep -c "pid=[a]" new.dat
+ 1467  grep -c "pid=[a-z]" new.dat
+ 1468  grep -c "pid=[A-Z]" new.dat
+ 1469  grep -c "pid=[A-Z]&" new.dat
+ 1470  grep -c "pid=[A-Z]\&" new.dat
+ 1471  grep -c "pid=[A-Z+]" new.dat
+ 1472  cat ASDF987 > test
+ 1473  touch test
+ 1474  cat ASDF987 > test
+ 1475  echo "ASDF467" > test
+ 1476  cat test
+ 1477  grep -c "[A-Z]" test
+ 1478  grep -c "[0-9]" test
+ 1479  grep -c "[0-9]+" test
+ 1480  grep -c "[A-Z0-9]+" test
+ 1481  grep -c "[A-Z|0-9]+" test
+ 1482  grep -c "[A-Z]+" test
+ 1483  grep -c "[A-Z]+| [0-9]+" test
+ 1484  grep -c "[A-Z]+ || [0-9]+" test
+ 1485  grep -c "[A-Z][0-9]+" test
+ 1486  grep -c [:alnum:] test
+ 1487  grep -c '[:alnum:]' test
+ 1488  grep '[:upper:]' filename
+ 1489  grep '[:upper:]' test
+ 1490  grep '[[:upper:]]' test
+ 1491  grep -c '[[:upper:]]' test
+ 1492  grep -c '[[:alnum:]]' test
+ 1493  grep  '[[:alnum:]]' test
+ 1494  echo "ASDF46733@#@$#" > test
+ 1495  grep  '[[:alnum:]]' test
+ 1496  grep -c "[[:alnum:]]" new.dat
+ 1497  grep -c "[[:alnum:]&]" new.dat
+ 1498  grep -c "[[:alnum:]&df]" new.dat
+ 1499  grep -c "[[:alnum:]]&" new.dat
+ 1500  grep -c "[[:alnum:]]&@#$%" new.dat
+ 1501  grep -c "[[:alnum:]]&" new.dat
+ 1502  grep -c "[[:alnum:]]&ref" new.dat
+ 1503  grep -c "[[:alnum:]]&ref=" new.dat
+ 1504  grep -c "[[:alnum:]]&ref=$%^" new.dat
+ 1505  grep -c "pid=[[:alnum:]]&" new.dat
+ 1506  grep -c "[pid=[:alnum:]]&" new.dat
+ 1507  grep -c "[pi3d=[:alnum:]]&" new.dat
+ 1508  "asdfdsafdapid=ASASASSA435345&ref=".match(/pid=/)
+ 1509  "asdfdsafdapid=ASASASSA435345&ref=".match(/pid/)
+ 1510  "asdfdsafdapid=ASASASSA435345&ref=".match(/"pid"/)
+ 1511  "asdfdsafdapid=ASASASSA435345&ref=".match(/[pid]/)
+ 1512  "asdfdsafdapid=ASASASSA435345&ref=".match(/[^pid]/)
+ 1513  "asdfdsafdapid=ASASASSA435345&ref=".match([^pid])
+ 1514  pwd
+ 1515  cd ../CrawlFish/config/
+ 1516  vi database.yml 
+ 1517  vi /var/run/mysqld/mysqld.sock
+ 1518  sudo vi /var/run/mysqld/mysqld.sock
+ 1519  mysqladmin shutdown
+ 1520  mysqladmin -u root -pSector@123 shutdown
+ 1521  exit
+ 1522  mysqld
+ 1523  mysql
+ 1524  cd CrawlFish/db/migrate/
+ 1525  rake db:migrate
+ 1526  cd /home/think/.rvm/gems/ruby-1.9.3-p385/gems/activerecord-3.2.12/lib/active_record/connection_adapters/
+ 1527  ls
+ 1528  vi mysql2_adapter.rb
+ 1529  cd -
+ 1530  cd ../..
+ 1531  ls
+ 1532  vi Gemfile
+ 1533  gem -v mysql2
+ 1534  locate 
+ 1535  locate ext/mysql2/client.c
+ 1536  vi /home/think/.rvm/gems/ruby-1.9.3-p385/gems/mysql2-0.3.11/ext/mysql2/client.c
+ 1537  locate  lib/mysql2/client.rb 
+ 1538  vi /home/think/.rvm/gems/ruby-1.9.3-p385/gems/mysql2-0.3.11/lib/mysql2/client.rb
+ 1539  rake db:migrate
+ 1540  bundle
+ 1541  rake db:migrate
+ 1542  vi Gemfile
+ 1543  bundle update
+ 1544  vi config/database.yml 
+ 1545  rake db:migrate
+ 1546  vi config/database.yml 
+ 1547  rake db:migrate
+ 1548  vi config/database.yml 
+ 1549  rake db:migrate
+ 1550  vi config/database.yml 
+ 1551  rails g migration add_c_id_to_vendor_coupons c_id:integer
+ 1552  vi 20130521061236_add_c_id_to_vendor_coupons.rb
+ 1553  rake db:migrate:up VERSION=20130521061236
+ 1554  ls
+ 1555  rake db:migrate
+ 1556  ls
+ 1557  mv 20130320050104_create_online_flipkart_products.rb 20130320050104_create_online_flipkart_products.rb~
+ 1558  rake db:migrate
+ 1559  ls
+ 1560  mv 20130320052242_create_online_indiaplaza_products.rb 20130320052242_create_online_indiaplaza_products.rb~
+ 1561  rake db:migrate
+ 1562  ls
+ 1563  mv 20130320052646_create_local_chennai_mambalam_sayarsystems_products.rb 20130320052646_create_local_chennai_mambalam_sayarsystems_products.rb~
+ 1564  rake db:migrate
+ 1565  ls
+ 1566  vi 20130320053953_create_local_chennai_aminjikarai_sayarsystems_products.rb
+ 1567  vi 20130320071813_load_local_chennai_mambalam_sayarsystems_products_3.rb
+ 1568  mv 20130320053953_create_local_chennai_aminjikarai_sayarsystems_products.rb 20130320053953_create_local_chennai_aminjikarai_sayarsystems_products.rb~
+ 1569  mv 20130320071813_load_local_chennai_mambalam_sayarsystems_products_3.rb 20130320071813_load_local_chennai_mambalam_sayarsystems_products_3.rb~
+ 1570  mv 20130320071911_load_local_chennai_aminjikarai_sayarsystems_products_3.rb 20130320071911_load_local_chennai_aminjikarai_sayarsystems_products_3.rb~
+ 1571  mv 20130320072045_create_local_chennai_besantnagar_mmrcommunication_products.rb 20130320072045_create_local_chennai_besantnagar_mmrcommunication_products.rb~
+ 1572  mv 20130320072352_load_local_chennai_besantnagar_mmrcommunication_products_2.rb 20130320072352_load_local_chennai_besantnagar_mmrcommunication_products_2.rb~
+ 1573  ls
+ 1574  rake db:migrate
+ 1575  ls *load*
+ 1576  ls
+ 1577  cd vendors_load_files/
+ 1578  ls
+ 1579  rm *
+ 1580  ls
+ 1581  cd ..
+ 1582  rake db:migrate
+ 1583  ls
+ 1584  vi 20130321080905_add_unique_constraint_to_customer_care_entries.rb
+ 1585  rake db:migrate
+ 1586  vi 20130321080905_add_unique_constraint_to_customer_care_entries.rb
+ 1587  rake db:migrate
+ 1588  ls
+ 1589  ls *gateway*
+ 1590  vi 20120308142015_create_procedure_gateway_of_crawlfish.rb
+ 1591  ls
+ 1592  ls *load*
+ 1593  vi 20130320071813_load_local_chennai_mambalam_sayarsystems_products_3.rb~
+ 1594  rails g migration load_part2
+ 1595  vi 20130521195837_load_part2.rb
+ 1596  vi 20130320071813_load_local_chennai_mambalam_sayarsystems_products_3.rb~
+ 1597  vi 20130521195837_load_part2.rb
+ 1598  rake db:migrate
+ 1599  sudo nano /etc/mysql/my.cnf
+ 1600  rake db:migrate
+ 1601  service mysqld restart
+ 1602  sudo service mysql restart
+ 1603  rake db:migrate
+ 1604  sudo nano /etc/mysql/my.cnf
+ 1605  rake db:migrate
+ 1606  sudo service mysql restart
+ 1607  sudo service mysqld restart
+ 1608  rake db:migrate
+ 1609  /usr/local/mysql/bin/mysqladmin -uroot -p shutdown
+ 1610  mysqladmin -u root -p shutdown
+ 1611  mysqld_safe &
+ 1612  sudo mysqld_safe &
+ 1613  mysql
+ 1614  rake db:migrate
+ 1615  sudo nano /etc/mysql/my.cnf
+ 1616  sudo service mysql restart
+ 1617  rake db:migrate
+ 1618  rails g migration load_part1
+ 1619  rake db:migrate
+ 1620  rake vendor:addonline APP_PATH=/home/think/CrawlFish VENDOR_NAME=Infibeam VENDOR_LOGO="/Images/Vendor_Logos/infibeam.png" VENDOR_WEBSITE=www.infibeam.com EMAIL=feedback@infibeam.in PHONE=08049091234  SUB_CATEGORIES="desktops_lists,headsets_lists,laptops_lists,pendrives_lists,keyboards_lists,headphones_lists,printers_lists,tablets_lists,routers_lists,mouses_lists,speakers_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=2012-07-07 VENDOR_FAX=na ADDRESS="9th Floor,A-Wing,Gopal Palace,Nehrunagar,Ahmedabad. Gujarat. India - 380015." LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="An Online Shop" WORKING_TIME=na MISCELLANEOUS="COD" TRIAL_FLAG=n
+ 1621  ls
+ 1622  mv 20130521212257_load_part1.rb 20130521212257_load_part1.rb~
+ 1623  rake db:migrate
+ 1624  mv 20130521212257_load_part1.rb~ 20130521212257_load_part1.rb
+ 1625  rake db:migrate
+ 1626  ls *unique*
+ 1627  vi 20130321080905_add_unique_constraint_to_customer_care_entries.rb
+ 1628  rake popular:update FILE_PATH="/home/think/data/populars.dat"
+ 1629  rake ts:start
+ 1630  rails s
+ 1631  ls
+ 1632  cd config/
+ 1633  ls
+ 1634  vi database.yml 
+ 1635  rake ts:start
+ 1636  rake ts:stop
+ 1637  rake ts:index
+ 1638  rake ts:start
+ 1639  rails s
+ 1640  rails c
+ 1641  irb
+ 1642  mysql -u root -pSector@123 
+ 1643  mysql -u root -pSector@123 prod 
+ 1644  ls
+ 1645  cd ../data/
+ 1646  ls
+ 1647  mysql -u root -pSector@123 prod < 2013may21dump.sql 
+ 1648  mysql -u root -pSector@123 prod 
+ 1649  mysql -u root -pSector@123 prod --local-infile
+ 1650  rake ts:Start
+ 1651  rake ts:start
+ 1652  rails s
+ 1653  rails c
+ 1654  cd data/
+ 1655  ls
+ 1656  vi mobilepart2dbinfo.dat 
+ 1657  cd  db_updation_mobiles/
+ 1658  ls
+ 1659  vi mobilepart2dbinfo.dat 
+ 1660  rails g migration add_cols_to_subcategories
+ 1661  rake db:migrate
+ 1662  l
+ 1663  vi 20130522064051_add_cols_to_subcategories.rb
+ 1664  vi 20130320111932_add_slugs_to_desktops_lists.rb
+ 1665  ls
+ 1666  rails g migration add_slugs
+ 1667  ls *slug*
+ 1668  rm 20130320111932_add_slugs_to_desktops_lists.rb 20130320112358_add_slugs_to_mobiles_lists.rb
+ 1669  vi 20130522085916_add_slugs.rb
+ 1670  rake db:migrate
+ 1671  vi 20130522085916_add_slugs.rb
+ 1672  rake db:migrate
+ 1673  vi 20130522085916_add_slugs.rb
+ 1674  rake db:migrate
+ 1675  rails g migration varchar_slugs
+ 1676  rake db:migrate
+ 1677  ls *vendors_lists*
+ 1678  rails g migration add_enquiry_no_to_vendors_lists enquiry_no:string
+ 1679  vi db/migrate/20130522091403_add_enquiry_no_to_vendors_lists.rb
+ 1680  vi 20130522091403_add_enquiry_no_to_vendors_lists.rb
+ 1681  ls
+ 1682  vi 20130513133825_add_cat_bran_to_vendors_lists.rb
+ 1683  vi 20130522091403_add_enquiry_no_to_vendors_lists.rb
+ 1684  rake db:migrate
+ 1685  rails g migration 2kms
+ 1686  rake db:migrate
+ 1687  rails g migration nearby_2kms
+ 1688  ls
+ 1689  rake db:migrate
+ 1690  rails g migration nearby_4kms
+ 1691  rake db:migrate
+ 1692  rails g migration nearby_6kms
+ 1693  rake db:migrate
+ 1694  ls
+ 1695  vi 20130521212257_load_part1.rb
+ 1696  rails g migration load_nearby
+ 1697  rake db:migrate
+ 1698  cd CrawlFish/public/Images/Brand_Logos/
+ 1699  cd ..
+ 1700  cd brand-logos/
+ 1701  ls
+ 1702  vi lower.sh
+ 1703  ./lower.sh .
+ 1704  chmod 777 lower.sh 
+ 1705  ./lower.sh .
+ 1706  ls
+ 1707  rake ts:start
+ 1708  rails s
+ 1709  rake ts:start
+ 1710  rails s
+ 1711  cd data
+ 1712  ls
+ 1713  cd Part_
+ 1714  cd Part_2/
+ 1715  ls
+ 1716  cd Mobiles/
+ 1717  ls
+ 1718  cd mobiles_update_db/
+ 1719  ls
+ 1720  head mobiles_lists 
+ 1721  head -1 mobiles_lists 
+ 1722  head -1 mobiles_lists > mobiles_lists1
+ 1723  head -2 mobiles_lists 
+ 1724  head -2 mobiles_lists2 
+ 1725  head -2 mobiles_lists > mobiles_lists2
+ 1726  awk -FS"|" -F1 mobiles_lists
+ 1727  awk -FS"|" mobiles_lists
+ 1728  awk '$4{print $2}' mobiles_lists
+ 1729  awk -FS"|" '$4{print $2}' mobiles_lists
+ 1730  awk -F"|" '$4{print $2}' mobiles_lists
+ 1731  awk -F"|" '{print $3}' mobiles_lists
+ 1732  awk -F"|" '{print $4}' mobiles_lists
+ 1733  awk -F"|" '{print $5}' mobiles_lists
+ 1734  awk -F"|" '{print $6}' mobiles_lists
+ 1735  awk -F"|" '{print $7}' mobiles_lists
+ 1736  awk -F"|" '{print $8}' mobiles_lists
+ 1737  awk -F"|" '{print $9}' mobiles_lists
+ 1738  head -20 mobiles_lists > mobiles_lists3
+ 1739  cat mobiles_lists > mobiles_lists_final
+ 1740  cd ../../Part_1
+ 1741  cd ../
+ 1742  cd ../../
+ 1743  cd Part_1/
+ 1744  ls
+ 1745  cd Mo
+ 1746  cd Mobiles/
+ 1747  ls
+ 1748  vi Online_Mirchimart_products
+ 1749  awk -F"|" '{print $8}' Online_Mirchimart_products 
+ 1750  awk -F"|" '{print $1}' Online_Mirchimart_products 
+ 1751  awk -F"|" '{print $2}' Online_Mirchimart_products 
+ 1752  awk -F"|" '{print $3}' Online_Mirchimart_products 
+ 1753  awk -F"|" '{print $4}' Online_Mirchimart_products 
+ 1754  awk -F"|" '{print $5}' Online_Mirchimart_products 
+ 1755  awk -F"|" '{print $6}' Online_Mirchimart_products 
+ 1756  awk -F"|" '{print $7}' Online_Mirchimart_products 
+ 1757  ls
+ 1758  cp Online_Mirchimart_products Online_Mirchimart_products_1
+ 1759  awk -F"|" '{print $2}' Online_Mirchimart_products 
+ 1760  awk -F"|" '{print $2 $3}' Online_Mirchimart_products 
+ 1761  awk -F"|" '{print $2"|"$4}' Online_Mirchimart_products 
+ 1762  awk -F"|" '{print $2"|"$5}' Online_Mirchimart_products 
+ 1763  awk -F"|" '{print $2"|"$6}' Online_Mirchimart_products 
+ 1764  awk -F"|" '{print $2"|"$7}' Online_Mirchimart_products 
+ 1765  cd ../../Part_2
+ 1766  ls
+ 1767  cd Mobiles/
+ 1768  ls
+ 1769  cd mobiles_update_db/
+ 1770  ls
+ 1771  vi mobiles_lists_final 
+ 1772  tail -328  mobiles_lists_final 
+ 1773  vi mobiles_lists_final 
+ 1774  rails c
+ 1775  mysql -u root -pSector@123 prod --local-infile
+ 1776  ls
+ 1777  vi 
+ 1778  vi 20130521195837_load_part2.rb
+ 1779  cd data/
+ 1780  mysql -u root -pSector@123 prod
+ 1781  ls
+ 1782  vi 20130521212257_load_part1.rb
+ 1783  rake db:migrate
+ 1784  mysql -u root -pSector@123 debug
+ 1785  history
+ 1786  scp U4f95KQ5B@180.179.50.152:/var/www/data/retail_shops.dat /home/think/data
+ 1787  cat |name|number|  space| > abc
+ 1788  echo "|name|number|  space|" > abc
+ 1789  cat abc
+ 1790  echo "|name1|number1|  space another space |" > abc
+ 1791  abc
+ 1792  cat abc
+ 1793  cd CR
+ 1794  cd CrawlFish
+ 1795  rake jump:vendor 
+ 1796  rake jump:vendor NAME="Senthamizh" 
+ 1797  rake jump:vendor NAME="Senthamizh"     ALIAS="Scissors Technology"     TYPE="local"    CITY="chennai"     AREA="tambaram"    B_ALIAS="Anna nagar"     ADMIN_NAME="annanagar"     CAT_BRAN="{'mobiles_lists'=>'sony','laptops_lists' => 'sony'}"     M_TYPE="fixed"     S_DATE=0     LOGO="na"     SITE="na"     EMAIL="adfs@asdf.com"     PHONE="3456134323"     FAX="na"     ADDRESS="This and all one address" LAT=13.0853169 LONG=80.2003662     DESC="<b>ABC electronics, Anna Nagar</b> has been in operation, since 2002, sells all mobiles of Nokia, Sony, Blackberry, HTC, Apple, Micromax and Blackberry. They also sell all original mobile phone accessories. They also provide door delivery with in 1KM on the same day at no additional cost"     HRS="10AM-10PM"     MISC=na     TRIAL=y     DEL=0     PRICE=0     AVL="In Stock"     DEL_COST="Free delivery"     DEL_TIME="24 business hours"     OFFERS="Complimentry on every purchase\!"     WARR="Manufacturers"     DELI="y"     REASON="New Vendor"     VALID="Till trial"     CONF_BY="Senthil"     APP_PATH="/home/think/CrawlFish"     PREMIUM=1     AUTHORISED=1     CARDS=1     AFFILIATE=1             
+ 1798  rake jump:vendor  NAME="Senthamizh"  ALIAS="dhinu"  TYPE="local" CITY="chennai"  AREA="tambaram" B_ALIAS="Anna nagar"  ADMIN_NAME="annanagar"  CAT_BRAN="{'mobiles_lists'=>'sony','laptops_lists' => 'sony'}"  M_TYPE="fixed"  S_DATE=0  LOGO="na"  SITE="na"  EMAIL="adfs@asdf.com"  PHONE="3456134323"  FAX="na"  ADDRESS="This and all one address" LAT=13.0853169 LONG=80.2003662  DESC="<b>ABC electronics, Anna Nagar</b> has been in operation, since 2002, sells all mobiles of Nokia, Sony, Blackberry, HTC, Apple, Micromax and Blackberry. They also sell all original mobile phone accessories. They also provide door delivery with in 1KM on the same day at no additional cost"  HRS="10AM-10PM"  MISC=na  TRIAL=y  DEL=0  PRICE=0  AVL="In Stock"  DEL_COST="Free delivery"  DEL_TIME="24 business hours"  OFFERS="Complimentry on every purchase\!"  WARR="Manufacturers"  DELI="y"  REASON="New Vendor"  VALID="Till trial"  CONF_BY="Senthil"  APP_PATH="/home/think/CrawlFish"  PREMIUM=1  AUTHORISED=1  CARDS=1  AFFILIATE=1    
+ 1799  rake jump:vendor  NAME="Senthamizh"  ALIAS="dhinu"  TYPE="local" CITY="chennai"  AREA="tambaram" B_ALIAS="Anna nagar"  ADMIN_NAME="annanagar"  CAT_BRAN="{'mobiles_lists'=>'sony','laptops_lists' => 'sony'}"  M_TYPE="fixed"  S_DATE=0  LOGO="na"  SITE="na"  EMAIL="adfs@asdf.com"  PHONE="3456134323"  FAX="na"  ADDRESS="This and all one address" LAT=13.0853169 LONG=80.2003662  DESC="<b>ABC electronics, Anna Nagar</b> has been in operation, since 2002, sells all mobiles of Nokia, Sony, Blackberry, HTC, Apple, Micromax and Blackberry. They also sell all original mobile phone accessories. They also provide door delivery with in 1KM on the same day at no additional cost"  HRS="10AM-10PM"  MISC=na  TRIAL=y  DEL=0  PRICE=0  AVL="In Stock"  DEL_COST="Free delivery"  DEL_TIME="24 business hours"  OFFERS="Complimentry on every purchase\!"  WARR="Manufacturers"  DELI="y"  REASON="New Vendor"  VALID="Till trial"  CONF_BY="Senthil"  APP_PATH="/home/think/CrawlFish"  PREMIUM=1  AUTHORISED=1  CARDS=1  AFFILIATE=1   TOP=1 
+ 1800  ls
+ 1801  cd config/
+ 1802  ls
+ 1803  vi database.yml 
+ 1804  rake vendor:addonline APP_PATH=/home/think/CrawlFish VENDOR_NAME=Greendust VENDOR_LOGO="/Images/Vendor_Logos/greendust.png" VENDOR_WEBSITE="www.greendust.com" EMAIL=feedback@greendust.in PHONE=080490324324  SUB_CATEGORIES="desktops_lists,headsets_lists,headphones_lists,speakers_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=0 VENDOR_FAX=na ADDRESS="greendust,Nehrunagar,Ahmedabad. Gujarat. India - 380015." LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="An Online Shop" WORKING_TIME=na MISCELLANEOUS="COD" TRIAL_FLAG=n
+ 1805  ls
+ 1806  cd db/migrate/
+ 1807  ls
+ 1808  ls *part1*
+ 1809  vi 20130523212257_load_part1.rb
+ 1810  mv 20130523212257_load_part1.rb 20130523212257_load_part1.rb~
+ 1811  rake db:migrate
+ 1812  rake vendor:addonline APP_PATH=/home/think/CrawlFish VENDOR_NAME=Croma VENDOR_LOGO="/Images/Vendor_Logos/croma.png" VENDOR_WEBSITE="www.croma.com" EMAIL=feedback@gcroma.in PHONE=02131230324324  SUB_CATEGORIES="headsets_lists,external_hdds_lists,memory_cards_lists,keyboards_lists,
+ 1813  headphones_lists,printers_lists,mobiles_lists,tablets_lists,routers_lists,mouses_lists,speakers_lists,
+ 1814  headphones_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=0 VENDOR_FAX=na ADDRESS="greendust,Nehrunagar,Ahmedabad. Gujarat. India - 380015." LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="An Online Shop" WORKING_TIME=na MISCELLANEOUS="COD" TRIAL_FLAG=n
+ 1815  rake vendor:addonline APP_PATH=/home/think/CrawlFish VENDOR_NAME=Edabba VENDOR_LOGO="/Images/Vendor_Logos/infibeam.png" VENDOR_WEBSITE=www.infibeam.com EMAIL=feedback@infibeam.in PHONE=08049091234  SUB_CATEGORIES="headsets_lists,external_hdds_lists,laptops_lists,memory_cards_lists,keyboards_lists,printers_lists,mobiles_lists,tablets_lists,routers_lists,mouses_lists,speakers_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=2012-07-07 VENDOR_FAX=na ADDRESS="9th Floor,A-Wing,Gopal Palace,Nehrunagar,Ahmedabad. Gujarat. India - 380015." LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="An Online Shop" WORKING_TIME=na MISCELLANEOUS="COD" TRIAL_FLAG=n
+ 1816  rake vendor:addonline APP_PATH=/home/think/CrawlFish VENDOR_NAME=Homeshop18 VENDOR_LOGO="/Images/Vendor_Logos/infibeam.png" VENDOR_WEBSITE=www.infibeam.com EMAIL=feedback@infibeam.in PHONE=08049091234  SUB_CATEGORIES="headsets_lists,laptops_lists,memory_cards_lists,pendrives_lists,keyboards_lists,headphones_lists,printers_lists,mobiles_lists,tablets_lists,routers_lists,mouses_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=2012-07-07 VENDOR_FAX=na ADDRESS="9th Floor,A-Wing,Gopal Palace,Nehrunagar,Ahmedabad. Gujarat. India - 380015." LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="An Online Shop" WORKING_TIME=na MISCELLANEOUS="COD" TRIAL_FLAG=n
+ 1817  rake vendor:addonline APP_PATH=/home/think/CrawlFish VENDOR_NAME=Futurebazaar VENDOR_LOGO="/Images/Vendor_Logos/croma.png" VENDOR_WEBSITE="www.croma.com" EMAIL=feedback@gcroma.in PHONE=02131230324324  SUB_CATEGORIES="external_hdds_lists,laptops_lists,memory_cards_lists,pendrives_lists,headphones_lists,mobiles_lists,tablets_lists,routers_lists,mouses_lists,speakers_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=0 VENDOR_FAX=na ADDRESS="greendust,Nehrunagar,Ahmedabad. Gujarat. India - 380015." LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="An Online Shop" WORKING_TIME=na MISCELLANEOUS="COD" TRIAL_FLAG=n
+ 1818  rake vendor:addonline APP_PATH=/home/think/CrawlFish VENDOR_NAME=Snapdeal VENDOR_LOGO="/Images/Vendor_Logos/croma.png" VENDOR_WEBSITE="www.croma.com" EMAIL=feedback@gcroma.in PHONE=02131230324324  SUB_CATEGORIES="printers_lists,tablets_lists,routers_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=0 VENDOR_FAX=na ADDRESS="greendust,Nehrunagar,Ahmedabad. Gujarat. India - 380015." LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="An Online Shop" WORKING_TIME=na MISCELLANEOUS="COD" TRIAL_FLAG=n
+ 1819  rake vendor:addonline APP_PATH=/home/think/CrawlFish VENDOR_NAME=Poorvika VENDOR_LOGO="/Images/Vendor_Logos/croma.png" VENDOR_WEBSITE="www.croma.com" EMAIL=feedback@gcroma.in PHONE=02131230324324  SUB_CATEGORIES="mobiles_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=0 VENDOR_FAX=na ADDRESS="greendust,Nehrunagar,Ahmedabad. Gujarat. India - 380015." LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="An Online Shop" WORKING_TIME=na MISCELLANEOUS="COD" TRIAL_FLAG=n
+ 1820  rake vendor:addonline APP_PATH=/home/think/CrawlFish VENDOR_NAME=Themobilestore VENDOR_LOGO="/Images/Vendor_Logos/croma.png" VENDOR_WEBSITE="www.croma.com" EMAIL=feedback@gcroma.in PHONE=02131230324324  SUB_CATEGORIES="mobiles_lists,tablets_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=0 VENDOR_FAX=na ADDRESS="greendust,Nehrunagar,Ahmedabad. Gujarat. India - 380015." LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="An Online Shop" WORKING_TIME=na MISCELLANEOUS="COD" TRIAL_FLAG=n
+ 1821  rake vendor:addonline APP_PATH=/home/think/CrawlFish VENDOR_NAME=Univercell VENDOR_LOGO="/Images/Vendor_Logos/croma.png" VENDOR_WEBSITE="www.croma.com" EMAIL=feedback@gcroma.in PHONE=02131230324324  SUB_CATEGORIES="mobiles_lists,tablets_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=0 VENDOR_FAX=na ADDRESS="greendust,Nehrunagar,Ahmedabad. Gujarat. India - 380015." LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="An Online Shop" WORKING_TIME=na MISCELLANEOUS="COD" TRIAL_FLAG=n
+ 1822  rake vendor:addonline APP_PATH=/home/think/CrawlFish VENDOR_NAME=Sangeetha VENDOR_LOGO="/Images/Vendor_Logos/croma.png" VENDOR_WEBSITE="www.croma.com" EMAIL=feedback@gcroma.in PHONE=02131230324324  SUB_CATEGORIES="tablets_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=0 VENDOR_FAX=na ADDRESS="greendust,Nehrunagar,Ahmedabad. Gujarat. India - 380015." LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="An Online Shop" WORKING_TIME=na MISCELLANEOUS="COD" TRIAL_FLAG=n
+ 1823  rake vendor:addonline APP_PATH=/home/think/CrawlFish VENDOR_NAME=Maniacstore VENDOR_LOGO="/Images/Vendor_Logos/croma.png" VENDOR_WEBSITE="www.croma.com" EMAIL=feedback@gcroma.in PHONE=02131230324324  SUB_CATEGORIES="tablets_lists" MONETIZATION_TYPE=purchase SUBSCRIBED_DATE=0 VENDOR_FAX=na ADDRESS="greendust,Nehrunagar,Ahmedabad. Gujarat. India - 380015." LATITUDE=na LONGITUDE=na CITY_NAME=na BRANCH_NAME=na DESCRIPTION="An Online Shop" WORKING_TIME=na MISCELLANEOUS="COD" TRIAL_FLAG=n
+ 1824  ld
+ 1825  ls
+ 1826  mv 20130523212257_load_part1.rb~ 20130523212257_load_part1.rb
+ 1827  rake db:migrate
+ 1828  ls
+ 1829  vi 20130523212257_load_part1.rb
+ 1830  rake db:migrate
+ 1831  ls
+ 1832  vi 20130523212257_load_part1.rb
+ 1833  rake popular:update FILE_PATH="/home/think/data/populars/populars"
+ 1834  cd /home/think/data/populars/
+ 1835  ls
+ 1836  sed -i '$s/^|//' populars 
+ 1837  cat populars 
+ 1838  vi populars 
+ 1839  cd /home/think/CrawlFish
+ 1840  rake popular:update FILE_PATH="/home/think/data/populars/populars"
+ 1841  cut -d"|" -f3 /home/think/data/populars/populars 
+ 1842  vi /home/think/data/populars/populars 
+ 1843  cut -d"|" -f3 /home/think/data/populars/populars 
+ 1844  vi /home/think/data/populars/populars 
+ 1845  rake popular:update FILE_PATH="/home/think/data/populars/populars"
+ 1846  cut -d"|" -f3 /home/think/data/populars/populars 
+ 1847  vi /home/think/data/populars/populars 
+ 1848  rake popular:update FILE_PATH="/home/think/data/populars/populars"
+ 1849  vi /home/think/data/populars/populars 
+ 1850  rake popular:update FILE_PATH="/home/think/data/populars/populars"
+ 1851  vi /home/think/data/populars/populars 
+ 1852  rake popular:update FILE_PATH="/home/think/data/populars/populars"
+ 1853  vi /home/think/data/populars/populars 
+ 1854  rake popular:update FILE_PATH="/home/think/data/populars/populars"
+ 1855  vi /home/think/data/populars/populars 
+ 1856  rake popular:update FILE_PATH="/home/think/data/populars/populars"
+ 1857  cd log/
+ 1858  ls
+ 1859  cd ..
+ 1860  ls
+ 1861  cd script/
+ 1862  ;ls
+ 1863  l;s
+ 1864  ls
+ 1865  cd ..
+ 1866  ls
+ 1867  cd db/
+ 1868  ls
+ 1869  cd ..
+ 1870  cd /home/think/data
+ 1871  ls
+ 1872  cd temp/
+ 1873  l;s
+ 1874  ls
+ 1875  vi part2-mobiles-v1.dat 
+ 1876  tr -d '[:space:]' part2-mobiles-v1.dat 
+ 1877  cat part2-mobiles-v1.dat| tr -d '[:space:]' 
+ 1878  awk '$1=$1' part2-mobiles-v1.dat 
+ 1879  awk '$1=$1' part2-mobiles-v1.dat | head -1
+ 1880  awk '$1=$1' part2-mobiles-v1.dat | head -2
+ 1881  awk -F"|" '$1=$1' part2-mobiles-v1.dat | head -2
+ 1882  awk -F\| '{for(i=1;i<=NF;i++) gsub("^[ \t]*|[ \t]*$","",$i)}1' OFS=\| part2-mobiles-v1.dat |head -2
+ 1883  sed -n '/^| */{s///;s/ *| */|/g;p;}' part2-mobiles-v1.dat  | head -2
+ 1884  sed -n '/^| */{s///;s/ *| */|/g;p;}' part2-mobiles-v1.dat  > mobiles_lists
+ 1885  vi mobiles_lists 
+ 1886  cd /home/think/CrawlFish/
+ 1887  ;s
+ 1888  ls
+ 1889  cd public/
+ 1890  cd Images/
+ 1891  ls
+ 1892  cd ../../script/
+ 1893  ls
+ 1894  cd img_man/
+ 1895  lsd
+ 1896  ks
+ 1897  ls
+ 1898  vi copy.sh 
+ 1899  ./replacer.sh /home/think/CrawlFish/public/Images/Desktop-Images ' ' '-'
+ 1900  ./copy.sh /home/think/CrawlFish/public/Images/Desktop-Images
+ 1901  ./converter.sh /home/think/CrawlFish/public/Images/Desktop-Images 50x50 120x120 200x200
+ 1902  ./replacer.sh /home/think/CrawlFish/public/Images/External-HDD-Images ' ' '-'
+ 1903  ./copy.sh /home/think/CrawlFish/public/Images/External-HDD-Images
+ 1904  ./converter.sh /home/think/CrawlFish/public/Images/External-HDD-Images 50x50 120x120 200x200
+ 1905  ./replacer.sh /home/think/CrawlFish/public/Images/Headphone-Images ' ' '-'
+ 1906  ./copy.sh /home/think/CrawlFish/public/Images/Headphone-Images
+ 1907  ./converter.sh /home/think/CrawlFish/public/Images/Headphone-Images 50x50 120x120 200x200
+ 1908  ./replacer.sh /home/think/CrawlFish/public/Images/Headset-Images ' ' '-'
+ 1909  ./copy.sh /home/think/CrawlFish/public/Images/Headset-Images
+ 1910  ./converter.sh /home/think/CrawlFish/public/Images/Headset-Images 50x50 120x120 200x200
+ 1911  ./replacer.sh /home/think/CrawlFish/public/Images/Keyboard-Images ' ' '-'
+ 1912  ./copy.sh /home/think/CrawlFish/public/Images/Keyboard-Images
+ 1913  ./converter.sh /home/think/CrawlFish/public/Images/Keyboard-Images 50x50 120x120 200x200
+ 1914  ./replacer.sh /home/think/CrawlFish/public/Images/Memory-Card-Images ' ' '-'
+ 1915  ./copy.sh /home/think/CrawlFish/public/Images/Memory-Card-Images
+ 1916  ./converter.sh /home/think/CrawlFish/public/Images/Memory-Card-Images 50x50 120x120 200x200
+ 1917  ./replacer.sh /home/think/CrawlFish/public/Images/Mouse-Images ' ' '-'
+ 1918  ./copy.sh /home/think/CrawlFish/public/Images/Mouse-Images
+ 1919  ./converter.sh /home/think/CrawlFish/public/Images/Mouse-Images 50x50 120x120 200x200
+ 1920  ./replacer.sh /home/think/CrawlFish/public/Images/Pendrive-Images ' ' '-'
+ 1921  ./copy.sh /home/think/CrawlFish/public/Images/Pendrive-Images
+ 1922  ./converter.sh /home/think/CrawlFish/public/Images/Pendrive-Images 50x50 120x120 200x200
+ 1923  ./replacer.sh /home/think/CrawlFish/public/Images/Printer-Images ' ' '-'
+ 1924  ./copy.sh /home/think/CrawlFish/public/Images/Printer-Images
+ 1925  ./converter.sh /home/think/CrawlFish/public/Images/Printer-Images 50x50 120x120 200x200
+ 1926  ./replacer.sh /home/think/CrawlFish/public/Images/Router-Images ' ' '-'
+ 1927  ./copy.sh /home/think/CrawlFish/public/Images/Router-Images
+ 1928  ./converter.sh /home/think/CrawlFish/public/Images/Router-Images 50x50 120x120 200x200
+ 1929  ./replacer.sh /home/think/CrawlFish/public/Images/Speaker-Images ' ' '-'
+ 1930  ./copy.sh /home/think/CrawlFish/public/Images/Speaker-Images
+ 1931  ./converter.sh /home/think/CrawlFish/public/Images/Speaker-Images 50x50 120x120 200x200
+ 1932  ./replacer.sh /home/think/CrawlFish/public/Images/Tablet-Images ' ' '-'
+ 1933  ./copy.sh /home/think/CrawlFish/public/Images/Tablet-Images
+ 1934  ./converter.sh /home/think/CrawlFish/public/Images/Tablet-Images 50x50 120x120 200x200
+ 1935  rails c
+ 1936  rake ts:start
+ 1937  rails s
+ 1938  rake ts:stop
+ 1939  rake ts:start
+ 1940  rails s
+ 1941  cd CrawlFish
+ 1942  rake ts:start
+ 1943  rails s
+ 1944  cd CrawlFish
+ 1945  rails c
+ 1946  mysql -u root -pSector@123 prod
+ 1947  cd CrawlFish
+ 1948  rake ts:start
+ 1949  mysql -u root -pSector@123 prod
+ 1950  ls
+ 1951  mv 20130521195837_load_part2.rb
+ 1952  mv 20130521195837_load_part2.rb 20130525195837_load_part2.rb
+ 1953  rake db:migrate
+ 1954  cd CrawlFish
+ 1955  ;ls
+ 1956  ls
+ 1957  cd db/
+ 1958  ls
+ 1959  cd sphinx/
+ 1960  ls
+ 1961  cd ..
+ 1962  cd ../config/
+ 1963  ls
+ 1964  vi sphinx.yml 
+ 1965  cd ../../data
+ 1966  cd Part_
+ 1967  cd Part_2
+ 1968  ls
+ 1969  cd mo
+ 1970  cd Mobiles/
+ 1971  ls
+ 1972  vi mobiles_lists
+ 1973  mysql -u root -pSector@123 prod
+ 1974  cd /root
+ 1975  ls -al
+ 1976  sudo cd /root
+ 1977  su root
+ 1978  sudo cd 
+ 1979  sudo cd /root
+ 1980  vi .mysql_history
+ 1981  cd /root
+ 1982  sudo su
+ 1983  rake ts:stop
+ 1984  rake ts:index
+ 1985  rake ts:Start
+ 1986  rake ts:startr
+ 1987  rake ts:start
+ 1988  rails s
+ 1989  rails c
+ 1990  rake ts:start
+ 1991  rails
+ 1992  cd Cr
+ 1993  cd CrawlFish
+ 1994  rake ts:start
+ 1995  rails s
+ 1996  mysql -u root -pSector@123 prod
+ 1997  cd CrawlFish
+ 1998  rails c
+ 1999  cd CrawlFish/public/Images/
+ 2000  ls
+ 2001  cd Keyboard-Images/
+ 2002  ls
+ 2003  cd Hp
+ 2004  l;s
+ 2005  ks
+ 2006  ls
+ 2007  convert o_HP-Keyboard-H2C53AA.jpg 
+ 2008  convert o_HP-Keyboard-H2C53AA.jpg NULL:
+ 2009  A = convert o_HP-Keyboard-H2C53AA.jpg NULL:
+ 2010  exprot a = convert o_HP-Keyboard-H2C53AA.jpg NULL:
+ 2011  exprot a = `convert o_HP-Keyboard-H2C53AA.jpg NULL:`
+ 2012  export a = `convert o_HP-Keyboard-H2C53AA.jpg NULL:`
+ 2013  export a=`convert o_HP-Keyboard-H2C53AA.jpg NULL:`
+ 2014  echo $a
+ 2015  ls
+ 2016  identify o_HP-Keyboard-H2C53AA.jpg 
+ 2017  identify o_HP-Keyboard-KZ249AA.jpg 
+ 2018  ls -l
+ 2019  cd ..
+ 2020  find . -name \*.png -exec identify -ping {} \; -or -exec echo {} \;
+ 2021  find . -name \*.jpg -exec identify -ping {} \; -or -exec echo {} \;
+ 2022  ls
+ 2023  for f in *.JPG ; do identify $f > /dev/null || echo $f >> /tmp/fail ; done ; cat /tmp/fail
+ 2024  for f in *.jpg ; do identify $f > /dev/null || echo $f >> /tmp/fail ; done ; cat /tmp/fail
+ 2025  #!/bin/bash
+ 2026  while read FILE;  do identify "$FILE" ; if [ $? -eq 139 ]; then echo "$FILE" >> ~/Desktop/deadfiles.txt; fi;  done
+ 2027  ls
+ 2028  cat "Asdf " > l
+ 2029  echo "Asdf " > l
+ 2030  #!bin/bash
+ 2031  while read line; do echo $line; done
+ 2032  find . -depth -name '*.jpg' 
+ 2033  find . -depth -name '*.jpg' while read f;
+ 2034  do
+ 2035  mv -v $f `echo $f | tr '[A-Z]' '[a-z]'`;
+ 2036  done
+ 2037  find . -depth -name '*.jpg' | while read f; do identify "$f" ; if [ $? -eq 139 ]; then echo "$f" >> /home/think/log/deadfiles.txt; fi; done
+ 2038  }
+ 2039  find . -depth -name '*.jpg' | while read f; do identify "$f" ; if [ $? -eq 139 ]; then echo "$f" ; fi; done
+ 2040  cd ../
+ 2041  clear
+ 2042  history
+ 2043  history > a

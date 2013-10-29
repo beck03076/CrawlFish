@@ -1,0 +1,472 @@
+====Starting online_snapdeal_products | product_id====
+====Starting online_mirchimart_products | product_id====
+====Starting online_tradus_products | product_id====
+====Starting online_themobilestore_products | product_id====
+====Starting online_croma_products | product_id====
+====Starting online_infibeam_products | product_id====
+1496|laptops_lists|Acer AOD 270 Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:47 +0530
+1497|laptops_lists|Acer Aspire E1 571 Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:47 +0530
+1498|laptops_lists|Acer Aspire E1-571 Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:47 +0530
+1499|laptops_lists|Acer Aspire One 756 Netbook|0|0|0|0|0|0.0|2013-06-17 21:28:47 +0530
+1500|laptops_lists|Acer Aspire V5 571 Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:48 +0530
+1501|laptops_lists|Asus Eee PC 1015CX-BLK024W Netbook|0|0|0|0|0|0.0|2013-06-17 21:28:48 +0530
+1502|laptops_lists|Asus F202E-CT148H VivoBook|0|0|0|0|0|0.0|2013-06-17 21:28:48 +0530
+1503|laptops_lists|Asus K55VD-SX314D Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:49 +0530
+1504|laptops_lists|Asus K55VM-SX086D Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:49 +0530
+1505|laptops_lists|Asus S400CA-CA028H Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:28:49 +0530
+1506|laptops_lists|Asus X53U-SX181D Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:50 +0530
+1507|laptops_lists|Asus X53U-SX358D Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:50 +0530
+1508|laptops_lists|Asus X54C-SX454D Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:50 +0530
+1509|laptops_lists|HCL AE2V0003-I Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:50 +0530
+1510|laptops_lists|HP 1000-1204TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:50 +0530
+1511|laptops_lists|HP 2000 2116TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:51 +0530
+1512|laptops_lists|HP 2000-2106TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:51 +0530
+1513|laptops_lists|HP 2000-2125TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:51 +0530
+1514|laptops_lists|HP 431 Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:52 +0530
+1515|laptops_lists|HP 4540s ProBook|0|0|0|0|0|0.0|2013-06-17 21:28:52 +0530
+1516|laptops_lists|HP 4540s ProBook|0|0|0|0|0|0.0|2013-06-17 21:28:52 +0530
+1517|laptops_lists|HP Envy 4-1103TU Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:28:52 +0530
+1518|laptops_lists|HP Envy 4-1104TU Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:28:53 +0530
+1519|laptops_lists|HP Envy 4-1105TX Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:28:53 +0530
+1520|laptops_lists|HP Envy 6-1011TU Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:28:53 +0530
+1521|laptops_lists|HP Pavilion 1000-1B02AU Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:53 +0530
+1522|laptops_lists|HP Pavilion 14-B003TX Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:28:54 +0530
+1523|laptops_lists|HP Pavilion 14-B004TU Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:28:54 +0530
+1524|laptops_lists|HP Pavilion 14-B012AU Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:28:54 +0530
+1525|laptops_lists|HP Pavilion 15-B001TU Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:28:54 +0530
+1526|laptops_lists|HP Pavilion 15-B002TU Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:28:55 +0530
+1527|laptops_lists|HP Pavilion 15-B002TX Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:28:55 +0530
+1528|laptops_lists|HP Pavilion 15-B003TU Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:28:55 +0530
+1529|laptops_lists|HP Pavilion 15-B004TU Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:28:56 +0530
+1530|laptops_lists|HP Pavilion G4-2049TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:56 +0530
+1531|laptops_lists|HP Pavilion G6-2005AX Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:56 +0530
+1532|laptops_lists|HP Pavilion G6-2201AX Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:56 +0530
+1533|laptops_lists|HP Pavilion G6-2221TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:57 +0530
+1534|laptops_lists|HP Pavilion G6-2226TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:57 +0530
+1535|laptops_lists|HP Pavilion G6-2227TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:57 +0530
+1536|laptops_lists|HP Pavilion G6-2228TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:57 +0530
+1537|laptops_lists|HP Pavilion G6-2230TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:58 +0530
+1538|laptops_lists|HP Pavilion G6-2231TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:58 +0530
+1539|laptops_lists|HP Pavilion G6-2232TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:58 +0530
+1540|laptops_lists|HP Pavilion G6-2237TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:58 +0530
+1541|laptops_lists|HP Pavilion G6-2301AX Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:59 +0530
+1542|laptops_lists|HP Pavilion G6-2302AX Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:59 +0530
+1543|laptops_lists|HP Pavilion G6-2320TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:28:59 +0530
+1544|laptops_lists|HP Pavilion M6-1102TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:00 +0530
+1545|laptops_lists|HP Pavilion M6-1103TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:00 +0530
+1546|laptops_lists|Lenovo Essential B480-59-343079 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:00 +0530
+1547|laptops_lists|Lenovo Essential B480-59-343080 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:00 +0530
+1548|laptops_lists|Lenovo Essential B480-59-343081 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:01 +0530
+1549|laptops_lists|Lenovo Essential B480-59-343762-1924 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:01 +0530
+1550|laptops_lists|Lenovo Essential G580-59-324008 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:01 +0530
+1551|laptops_lists|Lenovo Essential G580-59-324014 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:01 +0530
+1552|laptops_lists|Lenovo Essential G580-59-324015 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:02 +0530
+1553|laptops_lists|Lenovo Essential G580-59-324058 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:02 +0530
+1554|laptops_lists|Lenovo Essential G580-59-324064 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:02 +0530
+1555|laptops_lists|Lenovo Essential G580-59-349281 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:03 +0530
+1556|laptops_lists|Lenovo Essential G580-59-351474 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:03 +0530
+1557|laptops_lists|Lenovo Essential G580-59-352560 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:06 +0530
+1558|laptops_lists|Lenovo Essential G580-59-352561 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:06 +0530
+1559|laptops_lists|Lenovo Essential G580-59-356383 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:06 +0530
+1560|laptops_lists|Lenovo Essential G580-59-356384 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:06 +0530
+1561|laptops_lists|Lenovo Essential G585-59-353876 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:07 +0530
+1562|laptops_lists|Lenovo Ideapad S206-59-338049 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:07 +0530
+1563|laptops_lists|Lenovo Ideapad S300-59-340450 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:07 +0530
+1564|laptops_lists|Lenovo Ideapad S400-59-340452 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:08 +0530
+1565|laptops_lists|Lenovo Ideapad S400-59-356394 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:08 +0530
+1566|laptops_lists|Lenovo Ideapad U310-59-341068 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:08 +0530
+1567|laptops_lists|Lenovo Ideapad U310-59-341069 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:08 +0530
+1568|laptops_lists|Lenovo Ideapad U310-59-341070 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:09 +0530
+1569|laptops_lists|Lenovo Ideapad U310-59-342832 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:09 +0530
+1570|laptops_lists|Lenovo Ideapad U410-59-341061 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:09 +0530
+1571|laptops_lists|Lenovo Ideapad U410-59-342777 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:09 +0530
+1572|laptops_lists|Lenovo Ideapad U410-59-342778 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:10 +0530
+1573|laptops_lists|Lenovo Ideapad U410-59-342779 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:10 +0530
+1574|laptops_lists|Lenovo Ideapad U410-59-342788 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:10 +0530
+1575|laptops_lists|Lenovo Ideapad Y500-59-346619 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:10 +0530
+1576|laptops_lists|Lenovo Ideapad Yoga 11-59-345700 Netbook|0|0|0|0|0|0.0|2013-06-17 21:29:11 +0530
+1577|laptops_lists|Lenovo Ideapad Yoga 13-59-341111 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:11 +0530
+1578|laptops_lists|Lenovo Ideapad Yoga 13-59-341124 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:11 +0530
+1579|laptops_lists|Lenovo Ideapad Z370-59-342158 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:11 +0530
+1580|laptops_lists|Lenovo Ideapad Z580-59-338097 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:12 +0530
+1581|laptops_lists|Lenovo Ideapad Z580-59-339351 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:12 +0530
+1582|laptops_lists|Lenovo Ideapad Z580-59-339354 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:12 +0530
+1583|laptops_lists|Lenovo Ideapad Z580-59-339356 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:12 +0530
+1584|laptops_lists|Lenovo ThinkPad E430-3254-N2Q Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:13 +0530
+1585|laptops_lists|Lenovo ThinkPad E430-3254-T1Q Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:13 +0530
+1586|laptops_lists|Lenovo ThinkPad E430-3254-T2Q Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:13 +0530
+1587|laptops_lists|Lenovo ThinkPad E430-3254-T3Q Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:13 +0530
+1588|laptops_lists|Lenovo ThinkPad Edge E430-3254-D9Q Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:14 +0530
+1589|laptops_lists|Lenovo ThinkPad T430-2349-JCQ Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:14 +0530
+1590|laptops_lists|Lenovo ThinkPad X230-2325-3VQ Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:14 +0530
+1591|laptops_lists|Samsung NP300E5X-S02IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:15 +0530
+1592|laptops_lists|Samsung NP300V5A-S0CIN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:15 +0530
+1593|laptops_lists|Samsung NP350V5C-S01IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:15 +0530
+1594|laptops_lists|Sony VAIO D11213 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:15 +0530
+1595|laptops_lists|Sony VAIO E14127CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:16 +0530
+1596|laptops_lists|Sony VAIO E14127CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:16 +0530
+1597|laptops_lists|Sony VAIO E14A27CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:16 +0530
+1598|laptops_lists|Sony VAIO E15125CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:16 +0530
+1599|laptops_lists|Sony VAIO E15126CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:17 +0530
+1600|laptops_lists|Sony VAIO S13125CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:17 +0530
+1601|laptops_lists|Sony VAIO S15125CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:17 +0530
+1602|laptops_lists|Sony VAIO T13125CN Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:18 +0530
+1603|laptops_lists|Sony VAIO T13126CN Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:18 +0530
+1604|laptops_lists|Sony VAIO T14113CN Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:18 +0530
+1605|laptops_lists|Toshiba C850D M5010 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:18 +0530
+1606|laptops_lists|Toshiba Portege R930-X3310 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:19 +0530
+1607|laptops_lists|Toshiba Satellite C640-I4019 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:19 +0530
+1608|laptops_lists|Toshiba Satellite C840-I4011 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:19 +0530
+1609|laptops_lists|Toshiba Satellite C840-I4210 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:20 +0530
+1610|laptops_lists|Toshiba Satellite C850-I2010 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:20 +0530
+1611|laptops_lists|Toshiba Satellite C850-I5212 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:20 +0530
+1612|laptops_lists|Toshiba Satellite C850-I5213 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:20 +0530
+1613|laptops_lists|Toshiba Satellite C850-I5214 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:21 +0530
+1614|laptops_lists|Toshiba Satellite C850-P5010 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:21 +0530
+1615|laptops_lists|Toshiba Satellite C850-X0010 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:21 +0530
+1616|laptops_lists|Toshiba Satellite C850-X0110 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:21 +0530
+1617|laptops_lists|Toshiba Satellite C870-I0010 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:22 +0530
+1618|laptops_lists|Toshiba Satellite L850 Satellite L850-Y5310 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:22 +0530
+1619|laptops_lists|Toshiba Satellite M840-X4211 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:22 +0530
+1620|laptops_lists|Toshiba Satellite U840-X4310 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:22 +0530
+1621|laptops_lists|Toshiba Satellite U940-X0110 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:23 +0530
+1698|laptops_lists|Dell Vostro 2420 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:23 +0530
+1701|laptops_lists|Dell XPS 12 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:23 +0530
+1703|laptops_lists|Dell Inspiron 15 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:23 +0530
+1708|laptops_lists|Dell Inspiron 15 3521|0|0|0|0|0|0.0|2013-06-17 21:29:23 +0530
+1719|laptops_lists|Dell Inspiron 14z Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:23 +0530
+1722|laptops_lists|Samsung NP300V5A-S0GIN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:23 +0530
+1724|laptops_lists|Sony VAIO E15138 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:23 +0530
+1726|laptops_lists|Asus Eee PC 1015CX-BLK024W Netbook|0|0|0|0|0|0.0|2013-06-17 21:29:23 +0530
+1727|laptops_lists|Asus X54C-SX454D Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:23 +0530
+1728|laptops_lists|HP 2000-2106TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:23 +0530
+1729|laptops_lists|HP 450 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:24 +0530
+1730|laptops_lists|Lenovo Essential G580-59-352560 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:24 +0530
+1731|laptops_lists|Acer Aspire E1 531 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:24 +0530
+1732|laptops_lists|HP Pavilion 1000-1B02AU Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:25 +0530
+1733|laptops_lists|HP Pavilion 15-B002TU Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:29:25 +0530
+1734|laptops_lists|HP Pavilion 15-B004TU Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:29:25 +0530
+1735|laptops_lists|HP Pavilion G6-2309TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:25 +0530
+1736|laptops_lists|HP Pavilion G6-2320TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:26 +0530
+1737|laptops_lists|HP Envy 4-1102TX Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:26 +0530
+1738|laptops_lists|HP Envy 4-1103TX Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:26 +0530
+1739|laptops_lists|HP Pavilion 15-B001TU Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:29:26 +0530
+1740|laptops_lists|HP Pavilion 15-B002TX Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:29:27 +0530
+1741|laptops_lists|HP Pavilion G6-2230TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:27 +0530
+1742|laptops_lists|HP Pavilion G6-2232TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:27 +0530
+1743|laptops_lists|HP Pavilion G6-2301AX Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:28 +0530
+1744|laptops_lists|Lenovo Essential G580-59-351474 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:28 +0530
+1745|laptops_lists|Toshiba Satellite C850-P0011 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:28 +0530
+1746|laptops_lists|HP Pavilion 14-B157TU Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:29:28 +0530
+1747|laptops_lists|Asus K55VM-SX086D Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:29 +0530
+1748|laptops_lists|Dell Vostro 2520 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:29 +0530
+1749|laptops_lists|Dell Vostro 2420 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:29 +0530
+1750|laptops_lists|HP 2000-2125TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:30 +0530
+1751|laptops_lists|HP 431 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:30 +0530
+1752|laptops_lists|HP 4431s ProBook|0|0|0|0|0|0.0|2013-06-17 21:29:30 +0530
+1753|laptops_lists|HP 4540s ProBook|0|0|0|0|0|0.0|2013-06-17 21:29:30 +0530
+1754|laptops_lists|HP 650 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:31 +0530
+1755|laptops_lists|HP Pavilion G6-2226TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:31 +0530
+1756|laptops_lists|Samsung NP300E5X-A01IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:31 +0530
+1757|laptops_lists|Samsung NP550P5C-S05IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:32 +0530
+1758|laptops_lists|HP 1000-1204TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:32 +0530
+1759|laptops_lists|Sony VAIO E15135 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:32 +0530
+1760|laptops_lists|Sony VAIO E15135 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:33 +0530
+1761|laptops_lists|Acer Aspire One 756 Netbook|0|0|0|0|0|0.0|2013-06-17 21:29:33 +0530
+1762|laptops_lists|Dell Inspiron 14R SE Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:33 +0530
+1763|laptops_lists|Dell Vostro 2420 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:33 +0530
+1764|laptops_lists|HP 450 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:34 +0530
+1765|laptops_lists|HP 450 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:34 +0530
+1766|laptops_lists|HP 4540s ProBook|0|0|0|0|0|0.0|2013-06-17 21:29:34 +0530
+1767|laptops_lists|HP Pavilion G6-2227TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:34 +0530
+1768|laptops_lists|HP Pavilion G6-2229TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:35 +0530
+1769|laptops_lists|HP Pavilion G6-2231TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:35 +0530
+1770|laptops_lists|Lenovo Essential G580-59-324015 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:35 +0530
+1771|laptops_lists|Samsung NP300E4V-A01IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:35 +0530
+1772|laptops_lists|Samsung NP300E5C-A08IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:36 +0530
+1773|laptops_lists|Samsung NP300E5C-A09IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:36 +0530
+1774|laptops_lists|Samsung NP300E5V-S02IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:36 +0530
+1775|laptops_lists|Sony VAIO E15138 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:37 +0530
+1776|laptops_lists|Asus F202E-CT148H VivoBook|0|0|0|0|0|0.0|2013-06-17 21:29:37 +0530
+1777|laptops_lists|Sony VAIO E14133 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:37 +0530
+1778|laptops_lists|Acer Aspire E1 571 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:38 +0530
+1779|laptops_lists|Acer Aspire E1-571-BT Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:38 +0530
+1780|laptops_lists|Acer Aspire E1-531-BT Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:38 +0530
+1781|laptops_lists|Acer Aspire V5 431 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:39 +0530
+1782|laptops_lists|Asus K55VD-SX314R Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:39 +0530
+1783|laptops_lists|HP 2000-2314TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:39 +0530
+1784|laptops_lists|HP 4440s ProBook|0|0|0|0|0|0.0|2013-06-17 21:29:39 +0530
+1785|laptops_lists|HP 4440s ProBook|0|0|0|0|0|0.0|2013-06-17 21:29:40 +0530
+1786|laptops_lists|HP 4540s ProBook|0|0|0|0|0|0.0|2013-06-17 21:29:40 +0530
+1787|laptops_lists|HP 4540s ProBook|0|0|0|0|0|0.0|2013-06-17 21:29:40 +0530
+1788|laptops_lists|HP 4540s ProBook|0|0|0|0|0|0.0|2013-06-17 21:29:40 +0530
+1789|laptops_lists|HP 650 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:41 +0530
+1790|laptops_lists|HP Pavilion G6-2236TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:41 +0530
+1791|laptops_lists|Lenovo Essential G580-59-324014 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:41 +0530
+1792|laptops_lists|Lenovo Essential G580-59-356383 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:41 +0530
+1793|laptops_lists|Lenovo Ideapad S400-59-340452 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:42 +0530
+1794|laptops_lists|Samsung NP300E5C-S01IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:42 +0530
+1795|laptops_lists|Samsung NP300E5E-A03IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:42 +0530
+1796|laptops_lists|Samsung NP300E5E-A04IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:43 +0530
+1797|laptops_lists|Samsung NP350V5C-S01IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:43 +0530
+1798|laptops_lists|Samsung NP355V5C-S05IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:43 +0530
+1799|laptops_lists|Samsung NP355V5C-S06IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:44 +0530
+1800|laptops_lists|Samsung NP530U4C-S04IN Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:44 +0530
+1801|laptops_lists|Sony VAIO D11213 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:44 +0530
+1802|laptops_lists|Sony VAIO E15131 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:45 +0530
+1803|laptops_lists|Sony VAIO E15136 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:46 +0530
+1804|laptops_lists|Sony VAIO E15136 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:46 +0530
+1805|laptops_lists|Acer Aspire E1-571G-BT Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:47 +0530
+1806|laptops_lists|Lenovo Ideapad Z580-59-347570 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:47 +0530
+1807|laptops_lists|Acer Aspire V5-471P Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:47 +0530
+1808|laptops_lists|Lenovo Essential G580-59-361898 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:48 +0530
+1809|laptops_lists|Lenovo Ideapad S400-59-340453 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:48 +0530
+1810|laptops_lists|Lenovo Ideapad Yoga 13-59-369606 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:48 +0530
+1811|laptops_lists|Samsung NP350V5X-S01IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:48 +0530
+1812|laptops_lists|Samsung NP350E5C-S02IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:49 +0530
+1813|laptops_lists|Samsung NP300E5V-A03IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:49 +0530
+1814|laptops_lists|Sony VAIO E15137 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:50 +0530
+1815|laptops_lists|Acer Aspire V5 571 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:50 +0530
+1816|laptops_lists|Lenovo Ideapad U310-59-342832 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:29:50 +0530
+1817|laptops_lists|Lenovo Ideapad Z585-59-347937 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:50 +0530
+1818|laptops_lists|Lenovo Essential G580-59-351470 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:51 +0530
+1819|laptops_lists|Lenovo Ideapad Z580-59-347591 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:51 +0530
+1820|laptops_lists|Lenovo Essential G580-59-357694 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:51 +0530
+1821|laptops_lists|Lenovo Ideapad Z580-59-347587 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:52 +0530
+1822|laptops_lists|Lenovo Essential G580-59-358263 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:52 +0530
+1823|laptops_lists|Lenovo Essential G585-59-348629 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:52 +0530
+1824|laptops_lists|HP 4540s ProBook|0|0|0|0|0|0.0|2013-06-17 21:29:52 +0530
+1825|laptops_lists|Acer Aspire V5 531 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:53 +0530
+1826|laptops_lists|Acer V5-431P Touch Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:53 +0530
+1827|laptops_lists|Acer Aspire V5 431 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:53 +0530
+1828|laptops_lists|Acer Aspire V5-471 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:54 +0530
+1829|laptops_lists|Acer Aspire V5 571 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:54 +0530
+1830|laptops_lists|Acer Aspire V5 571 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:54 +0530
+1831|laptops_lists|Acer Aspire E1-571-BT Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:54 +0530
+1832|laptops_lists|Acer Aspire E1-571-BT Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:55 +0530
+1833|laptops_lists|Acer Aspire E1-571-BT Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:55 +0530
+1834|laptops_lists|Acer Aspire E1-571G-BT Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:55 +0530
+1835|laptops_lists|Acer Aspire V5 571 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:55 +0530
+1836|laptops_lists|Acer Aspire V5 571 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:56 +0530
+1837|laptops_lists|Acer Aspire E1-531-BT Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:56 +0530
+1838|laptops_lists|Lenovo Ideapad S405-59-348194 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:56 +0530
+1839|laptops_lists|Acer Aspire V5 431 Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:57 +0530
+1840|laptops_lists|Samsung NP350V5C-S07IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:57 +0530
+1841|laptops_lists|Samsung NP350E5C-S03IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:29:57 +0530
+====Starting online_poorvika_products | product_id====
+====Starting online_landmark_products | product_id====
+====Starting online_greendust_products | product_id====
+====Starting online_univercell_products | product_id====
+====Starting online_homeshop18_products | product_id====
+====Starting online_futurebazaar_products | product_id====
+374|laptops_lists|Lenovo Essential G580-59-323565 Laptop|0|0|0|0|0|0.0|2013-06-17 21:33:18 +0530
+375|laptops_lists|Lenovo Essential G580-59-324008 Laptop|0|0|0|0|0|0.0|2013-06-17 21:33:19 +0530
+376|laptops_lists|Lenovo Essential G580-59-324015 Laptop|0|0|0|0|0|0.0|2013-06-17 21:33:21 +0530
+378|laptops_lists|Lenovo Essential G580-59-324061 Laptop|0|0|0|0|0|0.0|2013-06-17 21:33:24 +0530
+380|laptops_lists|Lenovo Essential G580-59-337031 Laptop|0|0|0|0|0|0.0|2013-06-17 21:33:26 +0530
+386|laptops_lists|Lenovo Essential G580-59-352561 Laptop|0|0|0|0|0|0.0|2013-06-17 21:33:34 +0530
+391|laptops_lists|Lenovo Ideapad S400-59-340452 Laptop|0|0|0|0|0|0.0|2013-06-17 21:33:41 +0530
+393|laptops_lists|Lenovo Ideapad S400-59-355933 Laptop|0|0|0|0|0|0.0|2013-06-17 21:33:44 +0530
+397|laptops_lists|Lenovo Ideapad U310-59-342830 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:33:50 +0530
+399|laptops_lists|Lenovo Ideapad U410-59-342778 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:33:52 +0530
+401|laptops_lists|Lenovo Ideapad Z370-59-342158 Laptop|0|0|0|0|0|0.0|2013-06-17 21:33:55 +0530
+406|laptops_lists|Lenovo Ideapad Z580-59-338097 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:02 +0530
+409|laptops_lists|Lenovo Ideapad Z580-59-347570 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:05 +0530
+412|laptops_lists|Lenovo Ideapad Z580-59-333630 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:10 +0530
+====Starting online_saholic_products | product_id====
+5713|laptops_lists|Toshiba Satellite C850-P0011 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5714|laptops_lists|Lenovo Essential G585-59-348629 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5715|laptops_lists|HP Pavilion G6-2320TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5716|laptops_lists|HP Pavilion 15-B004TU Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5717|laptops_lists|HP Pavilion G6-2226TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5718|laptops_lists|Acer Aspire E1 531 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5719|laptops_lists|HP Pavilion G6-2302AX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5720|laptops_lists|HP 2000-2106TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5721|laptops_lists|Acer Aspire V5-121 Netbook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5722|laptops_lists|Lenovo Ideapad Z585-59-347937 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5723|laptops_lists|HP Pavilion G6-2227TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5724|laptops_lists|Lenovo Essential G580-59-358263 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5725|laptops_lists|Lenovo Essential G580-59-358346 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5726|laptops_lists|HP Pavilion G6-2231TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5727|laptops_lists|Lenovo Essential G580-59-356381 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5728|laptops_lists|Lenovo Essential G580-59-362301 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5729|laptops_lists|HP Pavilion G6-2236TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5730|laptops_lists|Lenovo Essential G580-59-351467 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5731|laptops_lists|Lenovo Essential G580-59-358263 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5732|laptops_lists|Lenovo Essential G580-59-352560 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5733|laptops_lists|HP Pavilion G6-2301AX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5734|laptops_lists|Lenovo Ideapad Z580-59-370239 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5735|laptops_lists|Lenovo Essential G580-59-358313 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5736|laptops_lists|Lenovo Ideapad Z580-59-347567 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5737|laptops_lists|HP Pavilion G6-2230TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5738|laptops_lists|HP Pavilion G6-2309TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5739|laptops_lists|Acer Aspire E1 571G Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5740|laptops_lists|Lenovo Essential G580-59-358310 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5741|laptops_lists|Acer Aspire V5-571P Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5742|laptops_lists|Lenovo Ideapad S400-59-340453 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5743|laptops_lists|HP Pavilion G6-2312AX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5744|laptops_lists|Lenovo Essential G580-59-363678 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5745|laptops_lists|Acer Aspire E1 531 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5746|laptops_lists|Lenovo Ideapad Z580-59-347591 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5747|laptops_lists|HP Pavilion G6-2232TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5748|laptops_lists|HP Envy X2 11-G004TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5749|laptops_lists|Lenovo Ideapad Yoga 13-59-369597 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5750|laptops_lists|Lenovo Essential G580-59-347375 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5751|laptops_lists|Acer Aspire V5 431 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5752|laptops_lists|Lenovo Essential G580-59-351470 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5753|laptops_lists|Lenovo Essential G580-59-351474 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5754|laptops_lists|Lenovo Essential G580-59-351473 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5755|laptops_lists|Lenovo Ideapad Z580-59-347587 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5756|laptops_lists|Sony VAIO Duo 11 SVD11213CNB Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5757|laptops_lists|Lenovo Ideapad U410-59-347981 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5758|laptops_lists|Lenovo Ideapad Z580-59-347570 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5759|laptops_lists|Acer Aspire V5-471P Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5760|laptops_lists|Lenovo Essential G580-59-357694 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5761|laptops_lists|HP Pavilion Touchsmart 14-B171TU Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5762|laptops_lists|Acer Aspire V5 431 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5763|laptops_lists|Acer Aspire V5 431 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5764|laptops_lists|HP Pavilion M6-1104TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5765|laptops_lists|Lenovo Ideapad Yoga 11-59-345700 Netbook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5766|laptops_lists|Lenovo Essential G580-59-355396 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5767|laptops_lists|Acer Aspire V5 431 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5768|laptops_lists|Acer Aspire V3 571G Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5769|laptops_lists|Lenovo Essential G580-59-361898 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5770|laptops_lists|Lenovo Ideapad Yoga 11-59-345701 Netbook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5771|laptops_lists|Acer Aspire V5-471P Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5772|laptops_lists|Acer Aspire V5 431 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5773|laptops_lists|Lenovo Essential G580-59-362296 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5774|laptops_lists|Dell Inspiron 15R Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5775|laptops_lists|Lenovo Ideapad Y500-59-346619 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5776|laptops_lists|Dell Inspiron 15R N5520 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5777|laptops_lists|HP Pavilion G6-2237TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5778|laptops_lists|Acer Aspire V5-121 Netbook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5779|laptops_lists|HP Pavilion G4-2049TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5780|laptops_lists|Lenovo Ideapad Z580-59-347589 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5781|laptops_lists|HP Pavilion 1000-1B02AU Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5782|laptops_lists|Acer Aspire V5-121 Netbook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5783|laptops_lists|HP 2000-2202TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5784|laptops_lists|Lenovo Ideapad S405-59-348194 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5785|laptops_lists|Lenovo Ideapad Z580-59-347586 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5786|laptops_lists|HP Pavilion G6-2229TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5787|laptops_lists|Lenovo Ideapad Yoga 13-59-341124 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5788|laptops_lists|Acer Aspire V5-131 Netbook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5789|laptops_lists|Lenovo Ideapad Z580-59-339351 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5790|laptops_lists|Lenovo Essential G580-59-348965 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5791|laptops_lists|HP Pavilion 15-B003TU Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5792|laptops_lists|Lenovo Ideapad Z500-59-370611 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5793|laptops_lists|Lenovo Essential G580-59-324061 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5794|laptops_lists|HP Pavilion 15-B002TU Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5795|laptops_lists|Lenovo Essential G580-59-324064 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5796|laptops_lists|Lenovo Essential G580-59-356382 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5797|laptops_lists|HP Pavilion 14-B048TU Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5798|laptops_lists|Lenovo Ideapad Z580-59-339356 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5799|laptops_lists|Lenovo Essential G580-59-335617 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5800|laptops_lists|Lenovo Ideapad U310-59-342832 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5801|laptops_lists|HP 2000-2201TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5802|laptops_lists|Lenovo Ideapad S206-59-338049 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5803|laptops_lists|HP Envy 4-1105TX Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5804|laptops_lists|HP 1000-1204TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5805|laptops_lists|Acer Aspire E1 571G Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5806|laptops_lists|HP Pavilion G6-2228TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5807|laptops_lists|HP Envy Touchsmart 4-1113TU Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5808|laptops_lists|Acer Aspire E1 571G Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5809|laptops_lists|Acer Aspire V3 571G Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5810|laptops_lists|Acer Aspire V5-131 Netbook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5811|laptops_lists|HP Envy Spectre XT 13-2001TU Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5812|laptops_lists|Lenovo Z580-59-333345 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5813|laptops_lists|Lenovo Essential G580-59-335626 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5814|laptops_lists|Lenovo Ideapad Z580-59-338097 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5815|laptops_lists|Lenovo Ideapad Z580-59-347604 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5816|laptops_lists|Lenovo Essential G580-59-352561 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5817|laptops_lists|Acer Aspire V5 531 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5818|laptops_lists|Acer Aspire E1 571 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5819|laptops_lists|Lenovo Ideapad U310-59-341068 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5820|laptops_lists|Lenovo Ideapad U410-59-342779 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5821|laptops_lists|Lenovo Essential G580-59-349281 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5822|laptops_lists|HP Pavilion 15-B001TU Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5823|laptops_lists|Lenovo Ideapad S400-59-358392 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5824|laptops_lists|Lenovo Ideapad S300-59-348107 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5825|laptops_lists|Lenovo Essential G580-59-356383 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5826|laptops_lists|HP Pavilion G6-2203TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5827|laptops_lists|Acer Aspire V5 571G Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5828|laptops_lists|Lenovo Ideapad Z580-59-333630 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5829|laptops_lists|Acer Aspire V5 431 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5830|laptops_lists|Lenovo Ideapad U410-59-342777 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5831|laptops_lists|Lenovo Ideapad U310-59-341070 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5832|laptops_lists|Lenovo Ideapad Z580-59-333346 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5833|laptops_lists|HP Envy 4-1102TX Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5834|laptops_lists|Lenovo Essential G570-59-337986 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5835|laptops_lists|Lenovo Essential G570-59-340549 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5836|laptops_lists|Lenovo Essential G580-59-356384 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5837|laptops_lists|Lenovo Ideapad U410-59-341061 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5838|laptops_lists|Lenovo Essential G580-59-344833 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5839|laptops_lists|Lenovo Essential G580-59-323565 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5840|laptops_lists|HP Pavilion DV6-7207TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5841|laptops_lists|Lenovo Ideapad Z580-59-333651 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5842|laptops_lists|Lenovo Ideapad S300-59-340450 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5843|laptops_lists|Lenovo Essential G580-59-324011 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5844|laptops_lists|Acer Aspire V5 431 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5845|laptops_lists|Lenovo Ideapad U310-59-341069 Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5846|laptops_lists|HP Envy 4-1103TX Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5847|laptops_lists|Lenovo Ideapad Z580-59-338105 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5848|laptops_lists|Lenovo Ideapad Yoga 13-59-341111 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5849|laptops_lists|Lenovo Essential G580-59-342987 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5850|laptops_lists|Lenovo Essential G580-59-355385 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5851|laptops_lists|Lenovo Essential G580-59-341688 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+5852|laptops_lists|Acer Aspire V5 571 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+====Starting online_sangeetha_products | product_id====
+====Starting online_edabba_products | product_id====
+1137|laptops_lists|HP 430 - QG623PA Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1138|laptops_lists|Asus X53U-SX358D Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1139|laptops_lists|HP 2000-2201TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1140|laptops_lists|Lenovo Essential G580-59-352560 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1141|laptops_lists|Asus X54C-SX454D Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1142|laptops_lists|Dell Inspiron 15 3520 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1143|laptops_lists|Dell Inspiron 15R SE Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1144|laptops_lists|Dell Inspiron 15R Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1145|laptops_lists|Dell Inspiron 15 3520 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1146|laptops_lists|Dell Inspiron 15 3520 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1147|laptops_lists|Dell Inspiron 15R Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1148|laptops_lists|Acer E1-571 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1149|laptops_lists|HP Envy 4-1104TU Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1150|laptops_lists|Sony VAIO E15123CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1151|laptops_lists|Dell Inspiron 14 4050 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1152|laptops_lists|HP 2000-2125TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1153|laptops_lists|Sony VAIO E15123CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1154|laptops_lists|Sony VAIO E14123CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1155|laptops_lists|HP Pavilion 14-B003TX Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1156|laptops_lists|HP Envy 4-1103TU Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1157|laptops_lists|HP Pavilion DV6-7206TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1158|laptops_lists|HP 2000 2116TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1159|laptops_lists|Sony VAIO E15125CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1160|laptops_lists|Dell Inspiron 15 3520 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1161|laptops_lists|Sony VAIO E14123CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1162|laptops_lists|Sony VAIO E15129CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1163|laptops_lists|Sony VAIO E15126CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1164|laptops_lists|Sony VAIO E15128CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1165|laptops_lists|Sony VAIO E15128CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1166|laptops_lists|Sony VAIO E15126CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1167|laptops_lists|HP Envy 4-1105TX Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1168|laptops_lists|HP Envy 4-1023TU Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1169|laptops_lists|HP 1000-1204TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1170|laptops_lists|HP Envy 4-1104TX Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1171|laptops_lists|HP Pavilion DV6-7207TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1172|laptops_lists|Asus X53U-SX181D Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1173|laptops_lists|HP Pavilion M6-1102TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1174|laptops_lists|HP Envy 4-1002TX Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1175|laptops_lists|HP Pavilion DV6-7040TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1176|laptops_lists|HP Pavilion G6-2105TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1177|laptops_lists|Sony VAIO E15129CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1178|laptops_lists|Toshiba Satellite C850-E0010 Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1179|laptops_lists|HP 2000 2116TU Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1180|laptops_lists|HP Pavilion G4-2049TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1181|laptops_lists|HP Pavilion G6-2005AX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1182|laptops_lists|HP Envy 4-1003TX Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1183|laptops_lists|Samsung NP305E5Z-S01IN Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1184|laptops_lists|Sony VAIO E14123CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1185|laptops_lists|HP Envy 6-1011TU Sleekbook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1186|laptops_lists|Dell Inspiron 15R Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1187|laptops_lists|HP Pavilion DV4-5008TX Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1188|laptops_lists|Sony VAIO E15126CN Laptop|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+1189|laptops_lists|Sony VAIO T14113CN Ultrabook|0|0|0|0|0|0.0|2013-06-17 21:34:44 +0530
+====Starting online_zoomin_products | product_id====

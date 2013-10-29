@@ -1,0 +1,110 @@
+<h3> Price Comparison in Online Shops</h3>
+
+<table>
+<tr>
+<% @sub_categories.each do |i| %>
+        <td><h4> <%= i.category_name %></h4>
+          <% @online_brands[i.category_name].each do |brand| %>
+
+                 <li> <%= form_brand_links("online-price-comparison-list",i.category_name,brand,@country) %></li>
+
+          <% end %>
+
+        </td>
+<% end %>
+</tr>
+</table>
+
+<h3> Price Comparison in Offline Shops </h3>
+
+        <% @cities.each do |city| %>
+        <table>
+        <tr>
+
+          <ul><h4> Products in <%= city %></h4> </ul>
+              <% @sub_categories.each do |i| %>
+                <td><h4> <%= i.category_name %></h4>
+                        <% @local_brands[i.category_name].each do |brand| %>
+
+                                <li> <%= form_brand_links("price-comparison-list",i.category_name,brand,@country,city) %></li>
+
+                        <% end %>
+
+                </td>
+              <% end %>              
+        </tr>
+        </table>
+
+        <% end %>
+        
+<% @cities.each do |city| %>
+
+<h3>List of products sold in <%= city %></h3>
+
+    <% @sub_categories.each do |i| %>
+
+      <li><%= form_links(i.category_name,"shops",i.category_name,"india",city) %></li>
+    
+    <% end %>
+
+<% end %>
+
+<h3>Products listed based on price range</h3>
+
+<table>
+<% ["price-range-list,chennai","online-price-range-list"].each do |temp| %>
+<td>
+
+    <% @sub_categories.each do |i| %>
+    
+       <% cname = i.category_name %>
+         
+    <% if !(@price_steps[cname].nil?) %>
+    
+       <% x = temp.split(",") %>
+       <% arr = @price_steps[cname] %>
+       <% bel = arr.first.to_s %>
+       <% abo =  arr.last.to_s %>
+       <% route = x[0] %>
+       <% country = "india" %>
+       <% city = x[1] %>       
+       
+<h4> <%= cname.titleize %> - <%= city.nil? ? "Online" : city.titleize %></h4>
+
+      <li>
+      <%= form_links("Below " + bel,
+                         route,
+                         cname,
+                         "below",
+                         bel,
+                         country,
+                         city) %>
+      </li>
+      <% arr.each_cons(2) do |i| %>
+      
+      <li><%= form_links("Between " + i[0].to_s + " and " + i[1].to_s,
+                         route,
+                         cname,
+                         "between",
+                         i.join("-"),
+                         country,
+                         city) %>
+       </li>
+      <% end %>
+      <li>
+      <%= form_links("Above " + abo,
+                         route,
+                         cname,
+                         "above",
+                         abo,
+                         country,
+                         city) %>
+      </li>
+    <% end %>  
+    <% end %>
+    
+</td>
+<% end %>
+</table>
+
+

@@ -1,0 +1,146 @@
+<!-- ITME DETAILS - STARTS -->
+<div class="item-detail-box">
+
+<% price_range_final,price_type = form_price_range_final_text(@price_range_final,
+                                                                              @sub_category_id,
+                                                                              @product_id) %>  
+                                                                              
+   <% flag = !price_range_final.nil? || !price_type.nil? %>
+
+<table border="0" cellpadding="5" cellspacing="0" width="630" class="padT10">
+<tr>
+<td align="center" valign="top" width="160">
+
+    <%= image_tag(@product_image_url.split(",")[2],
+                        :alt => @product_name,
+                        :title => @product_name) %>
+    <br/>
+    <br/>
+    <div class="darkgray-text text-b13">
+    <%= @product_name.titlecase %>  
+    </div>                  
+
+</td>
+
+<td align="center" valign="top" class="padL20" >
+
+    <div class="header-text">
+        <%= @product_name.titlecase %>
+    </div>
+    <div class="text-n13 padL5 padT5 padB5"> 
+       Available in:<b> <%= show_message %></b><br/>
+    </div>
+
+    <div class="grayb-box">
+     <span class="text-n12 red-text">
+         <span class="text-b11 lightblack-text">
+            Also available in: <br/>
+            <span class="gray-text text-n10">
+            (following <%= @type =="local" ? "online" : "retail"%> shops ...)
+            </span>
+         </span>
+         <% @a_avl.shuffle.take(3).each do |i| %>
+            <br/>
+            
+            <span class="red-link-b">
+            <% if @type == "local" %>
+            
+                <% disp =  truncate(i.vendor_name.titleize,:length => 20) %>
+                
+                <%= link_to disp,"/specific/redirect/"+i.unique_id.to_s,{:target => "_blank",
+                                                                          :rel => "nofollow"} %>
+                
+                  <span class="lightblack-text text-b11">
+                   at <%= i.price.to_i %>
+                  </span> 
+                   
+            <% elsif @type == "online"%>
+            
+                <% disp =  truncate(i.vendor_alias_name.titleize,:length => 20) %>
+                
+                <%= form_specific_to_local_link(disp,
+                                               i.unique_id,
+                                               @country,
+                                               @category_name,
+                                               @product_name,
+                                               @product_identifier,
+                                               @city,
+                                               i.branch_name,
+                                               i.vendor_alias_name) %>
+               
+              <span class="lightblack-text text-b11">
+               in <%= i.branch_name.titleize %>
+              </span>
+            <% end %>
+            </span> 
+            <br/>           
+            <% t = i.u_at.nil? ? i.c_at : i.u_at %> 
+            <span class="darkgray-text text-n10">updated <%= time_ago_in_words(t) %> ago</span>
+            <span class="padT10"></span>
+         <% end %>
+     </span>
+     <div class="red-button padT10 padB10">
+            <%= form_opposite_type %>
+     </div>
+     <span class="text-n12"> 
+                        <% if flag %>                      
+                          <%= decide_price_range_starts_at(price_range_final,price_type).html_safe %>
+                        <% end %>
+     </span>
+
+</td>
+
+
+<td align="right" valign="top">
+
+    
+    
+                    <% if flag %>
+                    <div class="padT10">
+                      <%= form_similar_price(price_range_final) %>
+                       <div class="text-n10 padT10 padL5">
+                             Unless you don't want to view<br/> 
+                             <span class="g-text">
+                                <%= @category_name.titleize.downcase %><br/>
+                             </span> 
+                             that are very 
+                             <span class="g-text">
+                                similar
+                             </span>
+                             to<br/>
+                             <span class="g-text">
+                                <%= @product_name.titleize %>
+                             </span> 
+                        </div>
+                    </div> 
+                    <% end %>
+                    <br/>
+                    
+                    <% if @type == "local" %>
+                          <div class="gray-button">
+                          <%= form_map_link("Map Comparison",
+                                                          @country,
+                                                          @category_name,
+                                                          @product_name,
+                                                          @product_identifier,
+                                                          @current_city.city_name,
+                                                          @area_names) %>
+                         </div><br/>
+                    <% else %>
+                    <div class="red-link-b" align="right">
+                       <%= link_to "Where is Flipkart?",
+                           "http://www.flipkart.com/s/affiliate/terms",
+                           :target => "_blank",:rel => "nofollow" %> 
+                        <div class="comments-text">
+                            They dont want to be listed<br/> on a price comparison website!
+                        </div>
+                    </div>
+                    <% end %>
+</td>
+</tr>
+
+</table>
+</div>
+  <!-- ITME DETAILS - ENDS -->
+
+

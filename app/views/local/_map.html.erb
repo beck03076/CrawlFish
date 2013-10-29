@@ -1,0 +1,10 @@
+<a name="map"></a>
+
+<%= stylesheet_link_tag    "gmaps4rails" %>
+
+<%= gmaps(:map_options => { :container_class => "map_container_renamed" },:markers => {:data => @json, :options => {  :auto_adjust => true, :center_on_user => true}}) %>
+
+<%= yield :scripts %>
+<div style="background:none repeat scroll 0 0 #F2F2F2;font-size:11px;color:#333;padding:5px;line-height:15px;">
+    <b>Note:</b> We strive to provide accurate location of the shop. Should you find any variation in the location of this shop, please <%= link_to "speak to us", speak_to_us_path%>
+</div>

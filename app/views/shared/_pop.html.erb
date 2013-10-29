@@ -1,0 +1,32 @@
+              <div style="clear:both">&nbsp;</div>
+                <div class="prod-img-list" align="center">
+                <div align="center">
+
+                <% @pop.shuffle.take(15).each do |i| %>
+                
+                    <div class="prod-img-box">
+                    <div class="prod-img" >
+                        
+                         <%= link_to image_tag(i.send(@url).split(",")[1]),
+                                      ["/price",
+                                        @category_name,
+                                        i.name_slug].join("/"),
+                                        {:rel => "nofollow"} %>
+                    </div>
+                    <div class="prod-name">
+                    <% name = truncate(i.send(@name),:length => 30) %>
+
+                         <%= links(["/price",
+                                        @category_name,
+                                        i.name_slug],name) %>
+                  
+                    </div>
+                    </div>
+                    
+                <% end %>
+                </div> 
+                </div>
+                
+                <div style="clear:both">&nbsp;</div>
+
+

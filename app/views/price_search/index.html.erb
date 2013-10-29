@@ -1,0 +1,140 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Description" content="CrawlFish - Price Finder, A unique price finder tool which compares prices from online portals and retailers from all cities in India. It is also a 'first of its kind' location based price search engine in India." />
+<meta name="alexaVerifyID" content="agt3D-roIDhC4m8ZSkYS7nPfiqw" />
+<meta name="keywords" content="price comparison,online price comparison,price comparison website in india,price of mobiles in india,price of mobiles in chennai,price of books in india,price of books in chennai,crawlfish,location based price search engine,price search engine,Online Shopping,Books,Mobile Phones" />
+<link rel="canonical" href="http://www.crawlfish.in/price_search" />
+<title>CrawlFish - Price Finder | A unique price finder tool which compares prices from online portals and retailers in cities in India</title>
+<link rel="shortcut icon" type="image/x-icon" href="/Images/favicon.ico">
+<link href="/Stylesheets/homepage.css" rel="stylesheet" type="text/css">
+<%= stylesheet_link_tag    "application" %>
+<%= csrf_meta_tags %>
+<%= javascript_include_tag "application" %>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32882383-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript">
+
+function validate(elementId)
+{
+    var searchkey = document.getElementById(elementId).value.replace(/\s/g, "");
+    if (searchkey == "")
+    {
+        document.getElementById(elementId).value = "";
+        setFocus_textbox(elementId);
+        return false;
+    }
+}
+
+function setFocus_textbox(elementId)
+{
+    if (!document.getElementById)
+    {
+        return;
+    }
+
+    var searchkey = document.getElementById(elementId).value.replace(/\s/g, "");
+    if (searchkey == "")
+    {
+        document.getElementById(elementId).value = "";
+    }
+
+    var txtBox = document.getElementById(elementId);
+    var txtLength = document.getElementById(elementId).value.length;
+
+    if (txtBox != null)
+    {
+        txtBox.focus();
+        txtBox.setSelectionRange(txtLength,txtLength);
+        txtBox.value = "";
+    txtBox.style.border='1px solid #06C';
+
+    }
+}
+
+function setNoFocus_textbox(elementId)
+{
+    if (!document.getElementById)
+    {
+        return;
+    }
+
+    var txtBox = document.getElementById(elementId);
+    
+    if (txtBox != null)
+    {
+    txtBox.style.border='1px solid #CCC';
+
+    }
+}
+
+</script>
+
+</head>
+
+<body onLoad="setFocus_textbox('cf-price-search-form-searchText')">
+<div class="cf-home-wrapper">
+    <div class="cf-home-header">
+
+      <%= form_header_links('cf-a-general','cf-a-your-worth','cf-a-general','cf-a-media').html_safe %>
+
+    <div style="clear:both"></div>
+     <!-- end .cf-home-header --></div>
+
+     <div class="cf-home-search" id="price-search-body">
+<%= render ('shared/tag') %>
+        
+        <div class="cf-home-search-form">
+            <%= render ('price_search/form') %>
+        </div>
+
+
+             <div class="cf-home-interactive-text">
+                <div id="flash_notice" class="messages_notice">
+                      <%= flash[:notice] %>
+            </div>
+            </div>
+
+    <!-- end .cf-home-search --> </div>
+    <div class="clear"></div>
+    <div class="cf-home-footer">
+        <div class="cf-home-footer-content">
+            <%= render 'shared/footer' %>
+        </div>
+    <!-- end .cf-home-footer --></div>
+
+ <!-- end .cf-home-wrapper --></div>
+            <div style="clear:both"></div>
+        </div>
+    </div>
+</div>
+
+<% if !@gifts_active_flag.nil? %>
+<% if @gifts_active_flag.active_flag == 'y' %>
+<div id="home-gift-image">
+
+<div id="home-gift-image-mascot"><%= link_to image_tag("/Images/Mascots/cf_gifts.png",:alt=> 'CrawlFish_Gifts',:title=>'CrawlFish - Claim your gift!'),{:controller => 'main',:action => 'show_gifts'}, :remote => true %><span class="home-gift-image-mascot-span">Claim your gift!</span></div>
+
+<div id="gift-form" title="Gift" style="display:none"></div>
+
+<div id="success-gift" title="success-gift" style="display:none"></div>
+</div>
+<%end%>
+<%end%>
+
+</body>
+</html>
+

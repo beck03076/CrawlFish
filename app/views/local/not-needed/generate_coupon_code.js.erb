@@ -1,0 +1,26 @@
+$("#coupon-code").dialog({
+        autoOpen: true,
+        width: 700,
+        modal: true,
+        draggable:false,
+        resizable:false,
+        title: 'CrawlFish - Coupon Code!',
+        buttons: [
+              {
+                  text: "CLOSE",
+                  className: 'close-button-class',
+                  click: function() {
+                      $(this).dialog("close")
+
+                  }
+              }
+          ],
+        open: function() {
+          $("#gift-form").dialog("close");
+          $("#coupon-code").html("<%= escape_javascript(render('local/coupon_code')) %>");
+	  var x = $(this).position().center + $(this).outerWidth();
+          var y = $(this).position().center - $(document).scrollTop();
+          $("#coupon-code").dialog('option', 'position', [x,y]);
+          }
+      });
+

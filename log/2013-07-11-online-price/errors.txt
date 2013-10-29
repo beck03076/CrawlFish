@@ -1,0 +1,12 @@
+====Starting online_infibeam_products | product_id====
+1698|laptops_lists|Dell Vostro 2420 Laptop|0|0|0|0|0|0.0|2013-07-11 07:38:31 +0530
+1701|laptops_lists|Dell XPS 12 Ultrabook|0|0|0|0|0|0.0|2013-07-11 07:38:31 +0530
+1703|laptops_lists|Dell Inspiron 15 Laptop|0|0|0|0|0|0.0|2013-07-11 07:38:31 +0530
+1708|laptops_lists|Dell Inspiron 15 3521|0|0|0|0|0|0.0|2013-07-11 07:38:31 +0530
+1719|laptops_lists|Dell Inspiron 14z Laptop|0|0|0|0|0|0.0|2013-07-11 07:38:31 +0530
+1722|laptops_lists|Samsung NP300V5A-S0GIN Laptop|0|0|0|0|0|0.0|2013-07-11 07:38:31 +0530
+1724|laptops_lists|Sony VAIO E15138 Laptop|0|0|0|0|0|0.0|2013-07-11 07:38:31 +0530
+2027|printers_lists|HP Deskjet 1050 All-in-One Printer|0|0|0|0|0|0.0|2013-07-11 07:41:07 +0530
+2488|mobiles_lists|Sony Xperia tipo|0|0|0|0|0|0.0|2013-07-11 07:43:17 +0530
+2568|mobiles_lists|BlackBerry Curve 9360|0|0|0|0|0|0.0|2013-07-11 07:43:57 +0530
+2598|mobiles_lists|Karbonn A9|0|0|0|0|0|0.0|2013-07-11 07:44:17 +0530

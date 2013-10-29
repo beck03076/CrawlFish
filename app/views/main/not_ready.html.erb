@@ -1,0 +1,29 @@
+<style>
+/* MAIN PANEL */
+#main-panel{position:relative;height:auto}
+#left-panel{width:640px;padding-right:5px;float:left}
+#right-panel{width:300px;padding-left:5px;padding-right:5px;float:left}
+/* LAYOUT */
+#main-body{width:960px;margin:0 auto;background-color:#FFFFFF;box-shadow:6px 0px 10px -7px #888, -6px 0px 10px -7px #888;padding:0;} 
+#page-layout{border:1px solid #ccc;height:auto;margin:0;padding:0}
+</style>
+
+
+<div id="main-body" align="center">
+
+<br/>
+2.0 is on its way!
+<br/>
+
+<%= image_tag("/Images/not-ready.jpg") %>
+<div style="color:#c42525;font-size:50px;" align="center">
+<%= @msg1.html_safe %>
+</div>
+<br/>
+<br/>
+<br/>
+<div style="color:#008080;font-size:25px;" align="center">
+<%= @msg2.html_safe %>
+</div>
+<br/><br/><br/><br/><br/>
+</div>

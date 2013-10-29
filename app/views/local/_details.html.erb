@@ -1,0 +1,40 @@
+<div class="cf-lsmc-vendor-details">
+
+<% if !@vendor.nil? %>
+<% i = @vendor %>
+
+<div class="vendor-details-headings">Address</div> 
+<div class="vendor-details-rows"><%= i.vendor_address.gsub(/,/,', ') %></div>
+<div style="clear:both;padding-bottom:5px"></div>
+
+<div class="vendor-details-headings">Phone</div>
+<div class="vendor-details-rows"><%= i.vendor_phone.gsub(/,/,', ') %></div>
+<div style="clear:both;padding-bottom:5px"></div>
+
+<div class="vendor-details-headings">Email</div>
+<div class="vendor-details-rows"><%= i.vendor_email %></div>
+<div style="clear:both;padding-bottom:5px"></div>
+
+<div class="vendor-details-headings">Timings</div>
+<div class="vendor-details-rows"><%= i.working_time %></div>
+<div style="clear:both;padding-bottom:5px"></div>
+
+<div class="vendor-details-headings">Since</div>
+<div class="vendor-details-rows"><%= i.established_year %></div>
+<div style="clear:both;padding-bottom:5px"></div>
+
+<div class="vendor-details-headings">Products</div>
+<div class="vendor-details-rows"><%= i.vendor_sub_categories.gsub(/_lists/,"").gsub(',',', ').titleize %></div>
+<div style="clear:both;padding-bottom:5px"></div>
+
+<div class="vendor-details-headings">Offers</div> 
+<div class="vendor-details-rows"><%=i.miscellaneous.gsub('|',' , ')%> </div>
+<div style="clear:both;padding-bottom:5px"></div>
+
+<div class="vendor-details-headings">Description</div>
+<div class="vendor-details-rows-desc"><%= i.vendor_description.html_safe %></div>
+<div style="clear:both;padding-bottom:5px"></div>
+
+<%end%>
+
+</div>

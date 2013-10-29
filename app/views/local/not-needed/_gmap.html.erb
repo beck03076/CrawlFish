@@ -1,0 +1,10 @@
+<span class="gmap-notice-message">Showing map for <span style="font-weight:bold"><%= @vendor_name.titlecase %></span> in <b><%= @branch_name.titlecase %></b></span>
+
+<div class="cf-lsmc-details-gmap-img">
+<%= image_tag "http://maps.googleapis.com/maps/api/staticmap?center=#{@latitude_longitude}&zoom=16&size=590x500&scale=1&markers=size:mid|color:red|#{@latitude_longitude}&maptype=roadmap&sensor=true"%>
+</div>
+<div style="padding-top:10px"></div>
+<div class="cf-local-gmap-notetext">
+	<b>Note:</b> If you find any variation in location of this shop, please <%= link_to "Speak to us", speak_to_us_path%>
+</div>
+<div style="padding-top:5px"></div>

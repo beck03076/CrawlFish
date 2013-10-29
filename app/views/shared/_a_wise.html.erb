@@ -1,0 +1,36 @@
+<!-- AREA WISE PORDUCTS LISTING - STARTS -->
+            
+            <div class="padT10 border-gray-t">
+            <div class="padB10 border-gray-b">
+            
+                <span class="header-text">
+                 Area wise product listing
+                </span>
+                <div class="comments-text padL5  padB5 border-gray-b">
+                 Select a category below to see the list of areas and shops selling products in that category!
+                </div>
+
+                <div class="area-cov-box">
+                    <% @cities.each do |city| %>
+                        <ul>
+                        <% @sub_categories.each do |i| %>
+                        
+                        <li>
+                        <%= links(["/shops",i.category_name,"india",city],
+                                                i.category_name.titleize) %>
+
+                        </li>
+                        
+                        <% end %>
+                        </ul>
+                    <% end %>
+              
+                </div>
+            <div class="clear"></div>
+            
+           </div>
+           </div>
+
+        
+
+<!-- AREA WISE PORDUCTS LISTING - ENDS -->

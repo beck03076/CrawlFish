@@ -1,0 +1,4 @@
+====Starting online_croma_products | product_id====
+1306|laptops_lists|HP Pavilion 14-B012AU Sleekbook|http://www.cromaretail.com/HP-E1-W8-14-B012AU-14%22-Notebook-(Black)-pc-15799-191.aspx|23999|in stock|7 Working Days|Free Shipping for all products|N.A|56.556640625|2013-07-17 13:13:08 +0530
+1307|laptops_lists|Acer Aspire V5-121 Netbook|http://www.cromaretail.com/Acer-Aspire-V5-121-NXM83SI005-116%22-Netbook-(Black)-pc-18332-855.aspx|22999|in stock|7 Working Days|Free Shipping for all products|N.A|59.859375|2013-07-17 13:13:09 +0530
+1308|laptops_lists|Lenovo Essential G585-59-348629 Laptop|http://www.cromaretail.com/Lenovo-Essential-G585-59-348629-156%22-Notebook-(Black)-pc-18052-855.aspx|24990|in stock|7 Working Days|Free Shipping for all products|N.A|61.041015625|2013-07-17 13:13:12 +0530

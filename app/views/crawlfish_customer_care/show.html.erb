@@ -1,0 +1,182 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Description" content="CrawlFish - CrawlFish Phone Service" />
+<meta name="robots" content="noindex" />
+<meta name="alexaVerifyID" content="agt3D-roIDhC4m8ZSkYS7nPfiqw" />
+<title>CrawlFish - CrawlFish Phone Service</title>
+<link rel="shortcut icon" type="image/x-icon" href="/Images/favicon.ico">
+<%= stylesheet_link_tag    "application" %>
+<%= csrf_meta_tags %>
+<%= javascript_include_tag "application" %>
+<link href="/Stylesheets/andgoindexpage.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div class="cf-andgo-content">
+
+	<div class="cf-andgo-header">
+		<div class="cf-andgo-header-logo">
+			<%= link_to image_tag("/Images/fcd-bold.png") ,{:controller => 'main',:action => 'index'},:class => 'imgLogo'%>
+	 	<!-- end cf-andgo-header-logo --></div>
+		<div class="cf-header-links">
+		<ul class="cf-general-header-links-ul">
+	  			<li><%= link_to "Price Finder",{:controller => 'price_search',:action => 'index'},:id=>'cf-a-general-buy'%></li>
+				<li><%= link_to "Home",{:controller => 'main',:action => 'index'},:id=>'cf-a-general-home'%></li>
+        	</ul>
+	 	<!--end cf-header-links --></div>
+		<div style="clear:both"></div>	
+	<!-- end cf-andgo-header --></div>
+
+	<div class="cf-andgo-dashboard-content-wrapper">
+		
+		<div class="cf-andgo-content-header">
+			<%= render 'and_go/header' %>
+		</div>
+
+		<div style="clear:both"></div>
+
+		<div class="cf-andgo-content-header-button">
+			<%= render 'and_go/buttons' %>
+		</div>
+		
+		<div style="clear:both"></div>
+
+		<div class="cf-andgo-middle-content">
+
+			<div class="cf-andgo-list-customers-wrapper">
+				<div class="cf-andgo-ps-list-customers-wrapper">
+					<%= link_to '<< Back', {:controller => 'crawlfish_customer_care',:action => 'index'},:class=>'new-customers-button' %>
+				</div>
+				<div class="cf-andgo-ps-new-customer-wrapper">
+					<%= link_to 'New Customer', {:controller => 'crawlfish_customer_care',:action => 'new'},:class=>'new-customers-button' %>
+				</div>
+				<div style="clear:both"></div>
+				
+			</div>		
+
+			<div class="cf-andgo-lcw-left-content-details">
+
+			<div style="text-align:center;margin-left:20px;margin-right:20px">
+
+			<%= form_tag url_for(:controller => 'crawlfish_customer_care', :action => 'date_fetch'),:id => "customer_care_date_fetch_form"  do  %>
+
+			<table cellpadding=5 cellspacing = 0 border = 0>
+			<tr>
+			<td style="font-size:13px;color:#000;font-weight:bold"><%= label_tag :Date %></td>
+			<td><%= text_field_tag :date_fetch,nil,:class=>'date-txt'%></td>
+			<td style="font-size:13px;color:#000;font-weight:bold"><%= label_tag :follow_up%></td>
+			<td><%= select_tag(:follow_up,options_for_select([["All",0],["Yes",1],["No",2]])) %></td>
+			<td>
+				<div class="search-submit-div"><%= submit_tag "SEARCH",:class=>"search-submit"%></div>
+				<div style="clear:both"></div>
+			</td>
+			</tr>
+			</table>
+
+			<% end %>
+				
+			<div style="padding-top:10px"></div>
+
+			<%= form_tag url_for(:controller => 'crawlfish_customer_care', :action => 'range'),:id => "customer_care_range_form"  do  %>
+
+			<table cellpadding=5 cellspacing = 0 border = 0>
+			<tr>
+			<td style="font-size:13px;color:#000;font-weight:bold"><%= label_tag :from %></td>
+			<td><%= text_field_tag :from_date,nil,:class=>'date-txt'%></td>
+			<td style="font-size:13px;color:#000;font-weight:bold"><%= label_tag :to%></td>
+			<td><%= text_field_tag :to_date,nil,:class=>'date-txt'%></td>	
+			<td style="font-size:13px;color:#000;font-weight:bold"><%= label_tag :follow_up%></td>
+			<td><%= select_tag(:follow_up,options_for_select([["All",0],["Yes",1],["No",2]])) %></td>
+			<td>
+				<div class="search-submit-div"><%= submit_tag "SEARCH",:class=>"search-submit"%></div>
+				<div style="clear:both"></div>
+			</td>
+			</tr>
+			</table>
+
+			<% end %>
+
+			<div style="padding-top:10px"></div>
+
+			<%= form_tag url_for(:controller => 'crawlfish_customer_care', :action => 'month'),:id => "customer_care_month_form"  do  %>
+
+			<table cellpadding=5 cellspacing = 0 border = 0>
+			<tr>
+			<td style="font-size:13px;color:#000;font-weight:bold"><%= label_tag :month %></td>
+			<td><%= select_month(@chosen_month.to_i||1) %></td>
+			<td style="font-size:13px;color:#000;font-weight:bold"><%= label_tag :year%></td>
+			<td><%= select_year(Date.today, :start_year => Date.today.year-1, :end_year => 8.years.from_now.year) %></td>
+			<td style="font-size:13px;color:#000;font-weight:bold"><%= label_tag :follow_up%></td>
+			<td><%= select_tag(:follow_up,options_for_select([["All",0],["Yes",1],["No",2]])) %></td>
+			<td>
+				<div class="search-submit-div"><%= submit_tag "SEARCH",:class=>"search-submit"%></div>
+				<div style="clear:both"></div>
+			</td>
+			</tr>
+			</table>
+
+			<% end %>
+			
+			<div style="padding-top:10px"></div>
+
+			<%= form_tag url_for(:controller => 'crawlfish_customer_care', :action => 'phone_fetch'),:id => "customer_care_phone_fetch_form"  do  %>
+
+			<table cellpadding=5 cellspacing = 0 border = 0>
+			<tr>
+			<td style="font-size:13px;color:#000;font-weight:bold"><%= label_tag :Mobile_Number %></td>
+			<td><%= text_field_tag :phone_fetch,nil,:class=>'date-txt'%></td>
+			<td>
+				<div class="search-submit-div"><%= submit_tag "SEARCH",:class=>"search-submit"%></div>
+				<div style="clear:both"></div>
+			</td>
+			</tr>
+			</table>
+
+			<% end %>
+
+			</div>
+
+			</div>
+
+			<div class="cf-andgo-lcw-right-content-details">
+				<div style="padding-top:5px"></div>
+				<b>Total number of customers :</b> <span style="color:#06C;font-size:14px"><%=@customers_size%></span>
+				<div style="padding-top:10px"></div>
+				<b>Number of Follow-up Customers :</b> <span style="color:#06C;font-size:14px"><%=@followup_customers_size%></span>
+				<div style="padding-top:10px"></div>
+				<b>Number of Non-followup Customers :</b> <span style="color:#06C;font-size:14px"><%=@non_followup_customers_size%></span>
+				<div style="padding-top:10px"></div>
+  			 	<% if !(@chosen_from_date == nil && @chosen_to_date == nil)%>
+     					<b>Dates from</b> <span style="color:#06C;font-size:14px"><%= @chosen_from_date %></span> <b>to</b> <span style="color:#06C;font-size:14px"><%= @chosen_to_date %></span>
+				<% elsif !(@chosen_month == nil && @chosen_year == nil)%>
+					<b>You have chosen:</b> <span style="color:#06C;font-size:14px"><%= Date::MONTHNAMES[@chosen_month.to_i] %> <%= @chosen_year %></span>
+				<% elsif  (@chosen_from_date == nil && @chosen_to_date == nil)%>
+					<b>No filter date chosen</b>
+				<% elsif  (@chosen_month == nil && @chosen_year == nil)%>
+				      <b>No filter date chosen</b>
+				<% end %>
+				<div style="padding-top:5px"></div>
+
+			</div>
+
+			<div style="clear:both"></div>
+
+			<div class="cf-andgo-lcw-content-table-wrapper">
+				<%= render ('crawlfish_customer_care/customers') %>
+			</div>
+	
+		</div>
+
+	<!-- end cf-andgo-content-wrapper --></div>
+	<div style="padding-top:50px;clear:both"></div>
+	<div class="cf-andgo-footer">
+    		<div class="cf-andgo-footer-content">
+			<%= render 'shared/footer' %>
+        	</div>
+     	<!-- end cf-andgo-footer --></div>
+
+<!-- end cf-andgo-content --></div>
+</body>
+</html>

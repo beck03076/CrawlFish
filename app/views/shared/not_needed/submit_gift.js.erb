@@ -1,0 +1,28 @@
+$("#success-gift").dialog({
+        autoOpen: true,
+        width: 700,
+        modal: true,
+        draggable:false,
+        resizable:false,
+        title: 'CrawlFish - Gift - Success!',
+        buttons: [
+              {
+                  text: "CLOSE",
+                  className: 'close-button-class',
+                  click: function() {
+                      $(this).dialog("close")
+         		$("#home-notification-display").css('display','');
+			$("#home-gift-image-mascot").css('display','');
+                  }
+              }
+          ],
+        open: function() {
+          $("#gift-form").dialog("close");
+	  $("#home-gift-image-mascot").css('display','none');
+          $("#success-gift").html("<%= escape_javascript(render('shared/success_gift')) %>");
+	  var x = $(this).position().center + $(this).outerWidth();
+          var y = $(this).position().center - $(document).scrollTop();
+          $("#success-gift").dialog('option', 'position', [x,y]);
+          }
+      });
+
